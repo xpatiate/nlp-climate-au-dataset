@@ -1,0 +1,6 @@
+add to CSV
+    code for each LGA
+    declaration date
+make python script to go through CSV
+ignore lines with any value in `excluded` col
+rename file using LGA code
