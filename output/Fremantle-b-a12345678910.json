@@ -1,1 +1,327 @@
-{"settings": {"source_files": ["Fremantle-WA-217.pdf", "Fremantle-WA-218.pdf", "Fremantle-WA-219.pdf", "Fremantle-WA-220.pdf", "Fremantle-WA-221.pdf", "Fremantle-WA-222.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T08:56:20.489745", "lga": "Fremantle"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review is primarily focused on climate action. The City of Fremantle has outlined a comprehensive Climate Change Adaptation Plan, which is the core purpose of the policy. The policy is designed to address various aspects of climate change, including sea level rise, increased temperatures, decreased rainfall, and increased storm intensity. The policy outlines specific actions that the City will take to adapt to these changes, including corporate actions, community actions, and advocacy and communication actions. The policy also includes a commitment to a 40% corporate greenhouse gas reduction by 2020. The City of Fremantle has a history of climate change mitigation, having become the first carbon neutral local government in Western Australia in 2009. Therefore, it is clear that climate action is the core purpose of this policy.", "quote": {"content": "Climate Change Adaption Plan - Including 2019 updates", "page": 32, "source": "Fremantle-WA-222.pdf", "search_score": 0.96}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the City's commitment to addressing climate change through various strategies and plans, such as the Low Carbon City Plan and the Climate Change Adaptation Plan. The documents highlight the City's goal of reducing corporate greenhouse gas emissions by 40% by 2020 and supporting the community in reducing emissions. The Climate Change Adaptation Plan further details the scientific basis for key climate change impacts and outlines a prioritized list of actions the City will take to adapt to each impact. These actions are categorized into corporate actions, community actions, and advocacy and communication actions. The documents also mention the City's role in influencing and supporting residents' behavior towards climate change adaptation and mitigation. Therefore, the documents explicitly explain the need for action on climate change.", "quote": {"content": "This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. In 2011 the City adopted the Low Carbon City Plan.", "page": 3, "source": "Fremantle-WA-222.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents do call for urgent action on climate change, but the urgency is not explicitly stated as 'rapid'. The documents outline a Climate Change Adaptation Plan, which includes a range of actions to address climate change impacts. These actions are prioritized as short, medium, or long term, indicating a sense of urgency, especially for the short-term actions. The documents also mention the need to address promptly those risks which are known and which present immediate or pressing concern. Furthermore, the City of Fremantle has declared a climate and biodiversity emergency, acknowledging that all levels of government must take urgent and decisive action to address the problem. However, the documents do not explicitly use the term 'rapid' to describe the required action on climate change.", "quote": {"content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.", "page": 3, "source": "Fremantle-WA-222.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for their intended actions on climate change. The actions are categorized into short, medium, and long term, indicating a clear timeline for implementation. For instance, the document mentions that short term actions are intended to be completed in the 2013/14 budget cycle. Specific actions such as 'Review and where necessary update emergency response plans and infrastructure to deal with severe storm events' and 'Investigate whether the costs associated with disaster recovery can and should be insured against' are listed as short term priorities. Other actions like 'Implement the above plan to divert storm water from the oceans to freshwater aquifer recharge' are categorized as medium to long term. This suggests a structured approach to addressing climate change, with actions planned for immediate and future implementation.", "quote": {"content": "Short term is intended to be completed in the 2013/14 budget cycle. The actions through this document have been prioritised as short, medium or long term.", "page": 4, "source": "Fremantle-WA-222.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline various actions related to climate change adaptation, such as ensuring the city's insurance policies adequately cover climate change risks, reviewing the storm water system for adequacy, and planting trees based on future climate. These actions are assigned different levels of priority (e.g., high, medium, short term), but there is no explicit statement indicating that these climate-related actions should take precedence over other policies. The documents also mention that actions will be assessed against other strategic priorities of the city through the corporate planning and budgeting process, suggesting that climate actions are considered alongside other policy areas rather than being given automatic higher priority."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the City of Fremantle has a Climate Change Adaptation Plan and a Low Carbon City Plan, which outline steps towards reducing greenhouse gas emissions and adapting to climate change impacts. The documents also mention that the City has a prioritised list of actions to adapt to each impact, which are broken up into corporate actions, community actions, and advocacy and communication actions. However, these actions are not explicitly stated to be mandatory for all council activities. The documents also mention that the City's Climate Change Adaptation Plan is a 'live' document, suggesting that it is subject to change and may not necessarily dictate all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While there are mentions of various climate change adaptation plans and actions, such as planting trees based on future climate, developing an action plan to divert storm water, and increasing the availability of relevant City services to assist people to deal with increased temperatures, there is no clear evidence of specific funding allocation for these actions. The documents do mention costs associated with certain actions, but these are not explicitly tied to a budget or specific funding source for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The documents outline various actions related to climate change adaptation and mitigation, and for each action, a specific department or role within the local government is assigned responsibility. For instance, the 'Technical Services' department is tasked with actions such as developing an action plan to divert storm water from the ocean to freshwater aquifer recharge, and implementing the plan. The 'Strategic Planning' department is responsible for increasing tree canopy to help reduce effects of urban heat island. The 'Community Development' department is tasked with increasing the availability of relevant City services to assist people to deal with increased temperatures. These allocations of responsibilities indicate that staff resources are being mobilized for climate action.", "quote": {"content": "Technical Services\nShort term\nIdentify planning measures (possibly amendment to local planning \nscheme, or local planning policy) to limit heat absorption and \nenergy consumption associated with new development including \noutdoor areas. Action\nDirectorate\nPriority\nProvide more outdoor drinking facilities. Technical Services\nMedium term\nAddress the urban heat island effect by trialling the use of lighter \nand more heat reflective bitumen on roads and use permeable / \nvegetated surfaces where possible. Measure and report on the \nimpact of this trial.", "page": 12, "source": "Fremantle-WA-222.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community to support and participate in climate action. The government's policy includes ongoing actions such as maintaining the 'Life Long Learning' program, which offers educational and social opportunities to the community, and providing programs centered around community volunteers. These initiatives aim to build capacity for social inclusion, connectivity, and capital, which are crucial for effective social mobilization. The government also plans to deliver a 'Climate emergency engagement program' and provide information and tools to encourage transition to low carbon living. These actions indicate an effort to raise awareness about climate change and promote sustainable practices among community members. Furthermore, the government is advocating for action at all levels to address the climate and biodiversity emergency, which could inspire and mobilize the community to take action. However, the documents do not provide specific details on how these initiatives are being implemented and their effectiveness in mobilizing the community for climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate change adaptation plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its strategy. For instance, the 'Low Carbon City Plan' adopted by the city in 2011 sets out steps towards a 40% corporate greenhouse gas reduction target by 2020. This includes actions the city will take with its own resources and assets, as well as how it will support the community to reduce emissions. The plan also outlines actions to adapt to climate change impacts, with a prioritised list of actions that the city will take to adapt to each impact. Furthermore, the plan includes a goal to reach 100% renewable energy by 2025, demonstrating a commitment to technological solutions. Behaviour change is also addressed, with the city planning to influence and support residents' behaviour, and provide information and tools to encourage transition to low carbon living.", "quote": {"content": "This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. In 2011 the City adopted the Low Carbon City Plan.", "page": 3, "source": "Fremantle-WA-222.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of actions that the city will take to adapt to climate change impacts. These actions are categorized into corporate actions, which involve the city's own resources and assets, and community actions, which involve influencing the community to take action. The plan also includes a prioritized list of actions that the city will take to adapt to each impact. Some of these actions include developing planning policies to deal with sea level rise, reviewing the risk to existing coastal infrastructure, and informing local residents about climate change adaptation issues. The plan also includes actions to address decreased rainfall, such as planting drought-tolerant indigenous species and developing an action plan to divert storm water from the ocean to freshwater aquifer recharge. These actions demonstrate a comprehensive approach to climate adaptation and resilience.", "quote": {"content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. In 2011 the City adopted the Low Carbon City Plan. This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.", "page": 3, "source": "Fremantle-WA-222.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a detailed plan for climate action, including specific targets and actions, and a clear rationale for these decisions. The City's Low Carbon City Plan and Climate Change Adaptation Plan outline steps towards a 40% corporate greenhouse gas reduction target by 2020, and actions to adapt to climate change impacts. The plans are broken into key themes and prioritised actions, including corporate actions using the City's resources and assets, and community actions to influence broader change. The documents also detail specific actions such as tree planting based on future climate scenarios, storm water system review, and the development of a planning policy dealing with sea level rise. The plans are described as 'live documents' that will evolve as new information becomes available, indicating an evidence-based approach. The documents also mention the use of scientific scenarios in choosing actions, although the specific sources of these scenarios are not provided in the given context.", "quote": {"content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. In 2011 the City adopted the Low Carbon City Plan. This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.", "page": 3, "source": "Fremantle-WA-222.pdf", "search_score": 1.0}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan is designed to be a 'live' document, updated annually to ensure its relevance, effectiveness, and achievability. The plan's progress towards the One Planet principles and associated targets will be reported annually to Bioregional. This reporting process includes the completion of annual reports, which serve as a benchmark for the plan's actions. Each Management Action within the plan has a consistent layout to aid review and decision-making, including a summary of recommendations, background, expected impact, interaction with other actions, risk review, program for implementation, and benchmarks. These benchmarks are performance figures against which the implementation of the plan is measured. The plan also includes a visualisation of the overall City energy footprint, updated in the reports to track progress visually.", "quote": {"content": "The City\u2019s progress towards One Planet principles and associated targets and delivery of the Plan will be reported annually to Bioregional to ensure it continues to progress and incorporate best practice.", "page": 3, "source": "Fremantle-WA-220.pdf", "search_score": 0.92}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline the City of Fremantle's Climate Change Adaptation Plan, which includes actions such as planting trees based on future climate, diverting storm water from the ocean to freshwater aquifer recharge, and informing local residents about climate change adaptation issues. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted within the local community. The documents also mention the need for further investigation and research, but this is not explicitly linked to community-based research. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has adopted a Climate Change Adaptation Plan, which outlines a series of actions to address climate change impacts. These actions are categorized into corporate and community actions, indicating a comprehensive approach that involves both the government and the community. The plan includes innovative measures such as the use of lighter and more heat reflective bitumen on roads to address the urban heat island effect, and the diversion of storm water from the ocean to freshwater aquifer recharge. The plan also includes policy experimentation, such as the development of a planning policy dealing with sea level rise for existing development, and the review of building codes to accommodate high-risk storms and flooding zones. These actions demonstrate a willingness to explore new solutions and adapt existing policies to better address climate change.", "quote": {"content": "Measure and report on the impact of this trial.", "page": 27, "source": "Fremantle-WA-222.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in several instances where the local government has outlined its advocacy role in its climate change policies. For instance, the local government has committed to advocating to state, federal, and other local governments for action to address the climate emergency as opportunities arise. This is part of their ongoing action to transition to low carbon living and sustainable development. Furthermore, the local government has also committed to working with relevant state agencies to model impacts on marine environments and subsequent impacts on marine and tourist industries. This is part of their advocacy on climate change, which is ongoing and long-term. Therefore, the local government has not only shown an explicit intent to advocate for climate action but has also taken steps to implement this advocacy role.", "quote": {"content": "Advocacy on climate change in train and ongoing.", "page": 26, "source": "Fremantle-WA-222.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence of the local government's commitment to building local capacity for climate action across the council, their local communities, and neighbouring local councils. The Climate Change Adaptation Plan outlines a range of actions that the City will take to adapt to climate change impacts, including corporate actions using its own resources and assets, community actions to influence and support residents' behaviour, and advocacy and communication actions that are outside the City's jurisdiction to directly implement. The City also acknowledges the need to work closely with the state government and other key stakeholders to deliver the actions necessary to achieve adaptation principles. Furthermore, the City has committed to advocate for action at all levels of government to address the climate and biodiversity emergency. This suggests a commitment to partnerships and advocacy for climate action.", "quote": {"content": "4.1.1 Advocate for action at all levels of government to address the climate and biodiversity emergency", "page": 12, "source": "Fremantle-WA-220.pdf", "search_score": 0.95}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's actions and plans regarding climate change, such as advocating for action at all levels of government to address the climate and biodiversity emergency, maintaining and increasing usage of My Say Freo, and implementing an Urban Forest Plan, they do not specify any partnerships or collaborations with external entities or organizations. Therefore, it cannot be affirmed that the local government is part of any specific regional associations, alliances, or other partnerships related to climate change based on the provided documents."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's climate change adaptation plan, including actions related to insurance policies, storm water systems, and advocacy for climate action. They also mention the potential impacts of climate change such as higher temperatures, decreased rainfall, and increased storm intensity. However, there is no specific mention or discussion of how these changes might disproportionately affect vulnerable communities or any measures to address such impacts in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While there are mentions of community engagement, support for local businesses, and the implementation of various strategies and actions, these do not specifically address the equitable distribution of climate benefits and opportunities. The documents focus more on the actions and strategies the local government is taking or planning to take to address climate change, such as advocating for action at all levels of government, maintaining insurance policies that cover climate change risks, and providing opportunities for civic engagement. However, these actions do not directly address the question of equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 69.2}}
+{
+  "settings": {
+    "source_files": [
+      "Fremantle-WA-217.pdf",
+      "Fremantle-WA-218.pdf",
+      "Fremantle-WA-219.pdf",
+      "Fremantle-WA-220.pdf",
+      "Fremantle-WA-221.pdf",
+      "Fremantle-WA-222.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T08:56:20.489745",
+    "lga": "Fremantle"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review is primarily focused on climate action. The City of Fremantle has outlined a comprehensive Climate Change Adaptation Plan, which is the core purpose of the policy. The policy is designed to address various aspects of climate change, including sea level rise, increased temperatures, decreased rainfall, and increased storm intensity. The policy outlines specific actions that the City will take to adapt to these changes, including corporate actions, community actions, and advocacy and communication actions. The policy also includes a commitment to a 40% corporate greenhouse gas reduction by 2020. The City of Fremantle has a history of climate change mitigation, having become the first carbon neutral local government in Western Australia in 2009. Therefore, it is clear that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "Climate Change Adaption Plan - Including 2019 updates",
+            "page": 32,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the City's commitment to addressing climate change through various strategies and plans, such as the Low Carbon City Plan and the Climate Change Adaptation Plan. The documents highlight the City's goal of reducing corporate greenhouse gas emissions by 40% by 2020 and supporting the community in reducing emissions. The Climate Change Adaptation Plan further details the scientific basis for key climate change impacts and outlines a prioritized list of actions the City will take to adapt to each impact. These actions are categorized into corporate actions, community actions, and advocacy and communication actions. The documents also mention the City's role in influencing and supporting residents' behavior towards climate change adaptation and mitigation. Therefore, the documents explicitly explain the need for action on climate change.",
+          "quote": {
+            "content": "This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. In 2011 the City adopted the Low Carbon City Plan.",
+            "page": 3,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do call for urgent action on climate change, but the urgency is not explicitly stated as 'rapid'. The documents outline a Climate Change Adaptation Plan, which includes a range of actions to address climate change impacts. These actions are prioritized as short, medium, or long term, indicating a sense of urgency, especially for the short-term actions. The documents also mention the need to address promptly those risks which are known and which present immediate or pressing concern. Furthermore, the City of Fremantle has declared a climate and biodiversity emergency, acknowledging that all levels of government must take urgent and decisive action to address the problem. However, the documents do not explicitly use the term 'rapid' to describe the required action on climate change.",
+          "quote": {
+            "content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.",
+            "page": 3,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for their intended actions on climate change. The actions are categorized into short, medium, and long term, indicating a clear timeline for implementation. For instance, the document mentions that short term actions are intended to be completed in the 2013/14 budget cycle. Specific actions such as 'Review and where necessary update emergency response plans and infrastructure to deal with severe storm events' and 'Investigate whether the costs associated with disaster recovery can and should be insured against' are listed as short term priorities. Other actions like 'Implement the above plan to divert storm water from the oceans to freshwater aquifer recharge' are categorized as medium to long term. This suggests a structured approach to addressing climate change, with actions planned for immediate and future implementation.",
+          "quote": {
+            "content": "Short term is intended to be completed in the 2013/14 budget cycle. The actions through this document have been prioritised as short, medium or long term.",
+            "page": 4,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline various actions related to climate change adaptation, such as ensuring the city's insurance policies adequately cover climate change risks, reviewing the storm water system for adequacy, and planting trees based on future climate. These actions are assigned different levels of priority (e.g., high, medium, short term), but there is no explicit statement indicating that these climate-related actions should take precedence over other policies. The documents also mention that actions will be assessed against other strategic priorities of the city through the corporate planning and budgeting process, suggesting that climate actions are considered alongside other policy areas rather than being given automatic higher priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the City of Fremantle has a Climate Change Adaptation Plan and a Low Carbon City Plan, which outline steps towards reducing greenhouse gas emissions and adapting to climate change impacts. The documents also mention that the City has a prioritised list of actions to adapt to each impact, which are broken up into corporate actions, community actions, and advocacy and communication actions. However, these actions are not explicitly stated to be mandatory for all council activities. The documents also mention that the City's Climate Change Adaptation Plan is a 'live' document, suggesting that it is subject to change and may not necessarily dictate all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While there are mentions of various climate change adaptation plans and actions, such as planting trees based on future climate, developing an action plan to divert storm water, and increasing the availability of relevant City services to assist people to deal with increased temperatures, there is no clear evidence of specific funding allocation for these actions. The documents do mention costs associated with certain actions, but these are not explicitly tied to a budget or specific funding source for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The documents outline various actions related to climate change adaptation and mitigation, and for each action, a specific department or role within the local government is assigned responsibility. For instance, the 'Technical Services' department is tasked with actions such as developing an action plan to divert storm water from the ocean to freshwater aquifer recharge, and implementing the plan. The 'Strategic Planning' department is responsible for increasing tree canopy to help reduce effects of urban heat island. The 'Community Development' department is tasked with increasing the availability of relevant City services to assist people to deal with increased temperatures. These allocations of responsibilities indicate that staff resources are being mobilized for climate action.",
+          "quote": {
+            "content": "Technical Services\nShort term\nIdentify planning measures (possibly amendment to local planning \nscheme, or local planning policy) to limit heat absorption and \nenergy consumption associated with new development including \noutdoor areas. Action\nDirectorate\nPriority\nProvide more outdoor drinking facilities. Technical Services\nMedium term\nAddress the urban heat island effect by trialling the use of lighter \nand more heat reflective bitumen on roads and use permeable / \nvegetated surfaces where possible. Measure and report on the \nimpact of this trial.",
+            "page": 12,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community to support and participate in climate action. The government's policy includes ongoing actions such as maintaining the 'Life Long Learning' program, which offers educational and social opportunities to the community, and providing programs centered around community volunteers. These initiatives aim to build capacity for social inclusion, connectivity, and capital, which are crucial for effective social mobilization. The government also plans to deliver a 'Climate emergency engagement program' and provide information and tools to encourage transition to low carbon living. These actions indicate an effort to raise awareness about climate change and promote sustainable practices among community members. Furthermore, the government is advocating for action at all levels to address the climate and biodiversity emergency, which could inspire and mobilize the community to take action. However, the documents do not provide specific details on how these initiatives are being implemented and their effectiveness in mobilizing the community for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its strategy. For instance, the 'Low Carbon City Plan' adopted by the city in 2011 sets out steps towards a 40% corporate greenhouse gas reduction target by 2020. This includes actions the city will take with its own resources and assets, as well as how it will support the community to reduce emissions. The plan also outlines actions to adapt to climate change impacts, with a prioritised list of actions that the city will take to adapt to each impact. Furthermore, the plan includes a goal to reach 100% renewable energy by 2025, demonstrating a commitment to technological solutions. Behaviour change is also addressed, with the city planning to influence and support residents' behaviour, and provide information and tools to encourage transition to low carbon living.",
+          "quote": {
+            "content": "This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. In 2011 the City adopted the Low Carbon City Plan.",
+            "page": 3,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of actions that the city will take to adapt to climate change impacts. These actions are categorized into corporate actions, which involve the city's own resources and assets, and community actions, which involve influencing the community to take action. The plan also includes a prioritized list of actions that the city will take to adapt to each impact. Some of these actions include developing planning policies to deal with sea level rise, reviewing the risk to existing coastal infrastructure, and informing local residents about climate change adaptation issues. The plan also includes actions to address decreased rainfall, such as planting drought-tolerant indigenous species and developing an action plan to divert storm water from the ocean to freshwater aquifer recharge. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. In 2011 the City adopted the Low Carbon City Plan. This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.",
+            "page": 3,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for climate action, including specific targets and actions, and a clear rationale for these decisions. The City's Low Carbon City Plan and Climate Change Adaptation Plan outline steps towards a 40% corporate greenhouse gas reduction target by 2020, and actions to adapt to climate change impacts. The plans are broken into key themes and prioritised actions, including corporate actions using the City's resources and assets, and community actions to influence broader change. The documents also detail specific actions such as tree planting based on future climate scenarios, storm water system review, and the development of a planning policy dealing with sea level rise. The plans are described as 'live documents' that will evolve as new information becomes available, indicating an evidence-based approach. The documents also mention the use of scientific scenarios in choosing actions, although the specific sources of these scenarios are not provided in the given context.",
+          "quote": {
+            "content": "This document sets out the scientific basis behind the key climate change impacts, the scenarios that have been considered when choosing our actions and a prioritised list of actions that the City will take to adapt to each impact. In 2011 the City adopted the Low Carbon City Plan. This plan sets out the steps that the City will take to progress towards its 40% corporate greenhouse gas reduction targets by 2020, as well as how the City will support the community to take action to reduce emissions. The next stage of the climate change journey is to begin adapting to both the existing and inevitable climate changes.",
+            "page": 3,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan is designed to be a 'live' document, updated annually to ensure its relevance, effectiveness, and achievability. The plan's progress towards the One Planet principles and associated targets will be reported annually to Bioregional. This reporting process includes the completion of annual reports, which serve as a benchmark for the plan's actions. Each Management Action within the plan has a consistent layout to aid review and decision-making, including a summary of recommendations, background, expected impact, interaction with other actions, risk review, program for implementation, and benchmarks. These benchmarks are performance figures against which the implementation of the plan is measured. The plan also includes a visualisation of the overall City energy footprint, updated in the reports to track progress visually.",
+          "quote": {
+            "content": "The City\u2019s progress towards One Planet principles and associated targets and delivery of the Plan will be reported annually to Bioregional to ensure it continues to progress and incorporate best practice.",
+            "page": 3,
+            "source": "Fremantle-WA-220.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline the City of Fremantle's Climate Change Adaptation Plan, which includes actions such as planting trees based on future climate, diverting storm water from the ocean to freshwater aquifer recharge, and informing local residents about climate change adaptation issues. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted within the local community. The documents also mention the need for further investigation and research, but this is not explicitly linked to community-based research. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The City's Climate Change Adaptation Plan outlines several initiatives that can be considered as experiments. These include the trial of lighter and more heat reflective bitumen on roads to address the urban heat island effect, and the measurement and reporting of the impact of this trial. This initiative is a clear example of a policy experiment as it involves testing a new approach on a small scale under real-world conditions. The plan also mentions the development of an action plan to divert storm water from the ocean to freshwater aquifer recharge, which could be seen as another experiment in policy and governance. Furthermore, the City plans to reuse water from outdoor/public showers at beaches for grass reticulation, starting with a pilot at Leighton Beach. These initiatives demonstrate a commitment to testing and learning from innovative approaches to climate action.",
+          "quote": {
+            "content": "Measure and report on the impact of this trial.",
+            "page": 27,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in several instances where the local government has outlined its advocacy role in its climate change policies. For instance, the local government has committed to advocating to state, federal, and other local governments for action to address the climate emergency as opportunities arise. This is part of their ongoing action to transition to low carbon living and sustainable development. Furthermore, the local government has also committed to working with relevant state agencies to model impacts on marine environments and subsequent impacts on marine and tourist industries. This is part of their advocacy on climate change, which is ongoing and long-term. Therefore, the local government has not only shown an explicit intent to advocate for climate action but has also taken steps to implement this advocacy role.",
+          "quote": {
+            "content": "Advocacy on climate change in train and ongoing.",
+            "page": 26,
+            "source": "Fremantle-WA-222.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's commitment to building local capacity for climate action across the council, their local communities, and neighbouring local councils. The Climate Change Adaptation Plan outlines a range of actions that the City will take to adapt to climate change impacts, including corporate actions using its own resources and assets, community actions to influence and support residents' behaviour, and advocacy and communication actions that are outside the City's jurisdiction to directly implement. The City also acknowledges the need to work closely with the state government and other key stakeholders to deliver the actions necessary to achieve adaptation principles. Furthermore, the City has committed to advocate for action at all levels of government to address the climate and biodiversity emergency. This suggests a commitment to partnerships and advocacy for climate action.",
+          "quote": {
+            "content": "4.1.1 Advocate for action at all levels of government to address the climate and biodiversity emergency",
+            "page": 12,
+            "source": "Fremantle-WA-220.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's actions and plans regarding climate change, such as advocating for action at all levels of government to address the climate and biodiversity emergency, maintaining and increasing usage of My Say Freo, and implementing an Urban Forest Plan, they do not specify any partnerships or collaborations with external entities or organizations. Therefore, it cannot be affirmed that the local government is part of any specific regional associations, alliances, or other partnerships related to climate change based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's climate change adaptation plan, including actions related to insurance policies, storm water systems, and advocacy for climate action. They also mention the potential impacts of climate change such as higher temperatures, decreased rainfall, and increased storm intensity. However, there is no specific mention or discussion of how these changes might disproportionately affect vulnerable communities or any measures to address such impacts in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While there are mentions of community engagement, support for local businesses, and the implementation of various strategies and actions, these do not specifically address the equitable distribution of climate benefits and opportunities. The documents focus more on the actions and strategies the local government is taking or planning to take to address climate change, such as advocating for action at all levels of government, maintaining insurance policies that cover climate change risks, and providing opportunities for civic engagement. However, these actions do not directly address the question of equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 69.2
+  }
+}

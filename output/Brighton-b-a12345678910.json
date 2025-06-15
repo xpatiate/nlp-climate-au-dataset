@@ -1,1 +1,312 @@
-{"settings": {"source_files": ["Brighton-TAS-97.pdf", "Brighton-TAS-98.pdf", "Brighton-TAS-99.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T13:24:49.189264", "lga": "Brighton"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose. The policy outlines strategic objectives and key actions that are directly related to addressing climate change. These include improving climate change capacity within the council, monitoring the latest science and best practices related to climate change, and pursuing external funding opportunities for projects that address sustainability and community resilience issues. The policy also recognizes the scientific consensus on climate change and its human-induced causes. It further acknowledges the need for proactive measures to mitigate and adapt to climate change, and identifies opportunities to innovate in research, markets, technologies, and institutions to build sustainable and resilient communities. The policy's commitment to addressing climate change is also reflected in its interaction with other council plans, programs, and responsibilities, demonstrating an integrated approach to climate action.", "quote": {"content": "The accelerated changes in the earth\u2019s climate in recent times are as a result of human-induced actions caused by the additional, non-natural, release of greenhouse gas emissions (for example, from land clearing and the use of fossil fuels).", "page": 5, "source": "Brighton-TAS-99.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the scientific consensus on climate change and its human-induced causes, such as the release of greenhouse gas emissions from land clearing and the use of fossil fuels. The documents also emphasize the potential impacts of climate change, including more extreme weather-related events such as flooding, drought, and extreme temperatures. These effects can impact the resilience of the environment, including food production and essential services. The documents argue that to ensure a sustainable, prosperous, and resilient community, proactive measures in both mitigating and adapting to climate change are necessary. The documents also note that insurance companies have become so concerned about the potential impacts of climate change to councils that they have funded climate change risk assessments for several councils around the country, further emphasizing the need for action.", "quote": {"content": "This is a clear example of why councils must proactively prepare for and minimise potential future risks.", "page": 7, "source": "Brighton-TAS-99.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions that the local government plans to take in response to climate change, such as improving hazard and emergency management, improving ecological resilience, and integrating climate change considerations into council operations. However, these actions are described as ongoing or future tasks, without a specific emphasis on the speed or urgency of their implementation. The documents also mention the potential impacts of climate change and the need for proactive preparation, but again, there is no explicit call for rapid action. Therefore, based on the provided context, the answer to the question is negative."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to improve the energy efficiency of council's buildings by 20% on 2018 levels by 2021. It also sets a target to improve the energy efficiency of Council's streetlights by 20% on 2018 levels by 2022. Furthermore, the policy includes ongoing actions such as proactively addressing stormwater management works, ensuring Council's bushfire management system considers the impacts of climate change, and monitoring the latest science and best practice relating to climate change. These ongoing actions do not have a specific end date, indicating a long-term commitment. However, it's worth noting that while these timeframes provide a sense of urgency, the policy could benefit from more immediate short-term goals and more specific deadlines for ongoing actions.", "quote": {"content": "Development Services 2021 Energy Contracts", "page": 11, "source": "Brighton-TAS-98.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government policy does outline a number of actions related to climate change, such as improving hazard and emergency management to minimise climate change risk, ensuring Council's bushfire management system considers the impacts of climate change, and improving ecological resilience to climate change. However, these actions are presented as part of a broader policy framework, and there is no explicit statement prioritising these actions over other policies. The documents also discuss the integration of climate change considerations into various aspects of Council operations, but again, this is not framed as a matter of prioritising climate change responses over other policy areas."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and sustainability objectives, and mention the integration of climate change considerations into various council activities, they do not explicitly mandate that all council activities must align with climate policy. The documents outline various strategies and actions related to climate change, such as improving climate change capacity within the council, setting targets for greenhouse gas emissions, and integrating climate change risks into the council's risk management framework. However, these actions are not presented as requirements for all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The policy does allocate resources for climate action, although it does not specify the exact amount of funding. The policy acknowledges that addressing climate change will require both internal and external resources. It also mentions that while much of the work required does not necessitate major adjustments or reallocations of the Council\u2019s core responsibilities or resources, it does require better integration of climate change considerations when planning or delivering projects, programs, or legislative functions. The policy also notes that Council has strong financial drivers for being efficient and for minimising costs, and that it has a good culture of being innovative and considering opportunities that may benefit the community or provide a saving or additional revenue. Therefore, while the policy does not provide specific figures, it does make clear that resources will be allocated to climate action.", "quote": {"content": "This Strategy will require internal resourcing and a small amount of external resources, however Council\u2019s climate change actions to date have generated both long-term financial savings, benefits to the local economy, community benefit and improvements", "page": 16, "source": "Brighton-TAS-99.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of key actions, each with a designated responsibility assigned to specific departments within the council. For instance, the Development Services, Asset Services, and Corporate Services departments are tasked with various climate-related actions. These actions range from monitoring carbon trading opportunities, supporting local markets, investigating sustainable developments, to integrating climate change considerations into council operations and risk management frameworks. The policy also mentions the need for better integration of climate change considerations when planning or delivering projects, programs, or legislative functions. This suggests that existing staff will be required to incorporate climate action into their existing roles and responsibilities. Therefore, it can be concluded that the policy does allocate non-monetary institutional resources, in the form of staff time and expertise, to climate action.", "quote": {"content": "However, it does require better integration of climate change considerations when planning or delivering projects, programs or legislative functions.", "page": 16, "source": "Brighton-TAS-99.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a strategic objective to 'Work with the community and local business to tackle climate change issues and increase resilience.' This includes key actions such as initiating consultation with relevant stakeholders on key climate-related risks, supporting climate change education and engaging with programs in partnership with government and non-government organisations. The policy also mentions the importance of integrating climate change issues into relevant community engagement activities. Furthermore, the policy outlines plans to facilitate the establishment of sustainable businesses and sectors within the Council area, and to assist local businesses to take advantage of state and federal programs that support action on climate change. These actions suggest a commitment to social mobilisation in the context of climate action.", "quote": {"content": "Work with the community and local business to tackle climate change issues and increase resilience.", "page": 17, "source": "Brighton-TAS-99.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government policy does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a strategic objective to reduce greenhouse gas emissions throughout Council operations. This includes plans to deliver savings by reducing Council's energy costs, developing guidelines to integrate energy and sustainability features into future Council developments, and investigating carbon offset opportunities. The policy also promotes the uptake of sustainable technologies and supports efforts to preserve or increase carbon stores. Furthermore, the policy encourages local businesses to take advantage of state and federal programs that support action on climate change. These actions indicate a comprehensive approach to mitigating greenhouse gas emissions, incorporating both technological solutions and behaviour change.", "quote": {"content": "Development \nServices \nOngoing", "page": 30, "source": "Brighton-TAS-99.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a number of key actions, responsibilities, and supporting documents or programs to address climate change. For instance, it mentions the need to proactively address stormwater management works, ensure that the council's bushfire management system considers the impacts of climate change, and improve ecological resilience to climate change. The policy also emphasizes the importance of ongoing local and regional research to improve the council's understanding of climate change risks and opportunities. Furthermore, the policy advocates for the integration of climate change considerations into the principal activities of the council, including land use planning, community services, asset planning and management, waste management, and emergency management. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides a detailed plan of action to achieve these goals.", "quote": {"content": "Asset Services \nOngoing Improve hazard and emergency management to minimise climate change risk. # \nKey Action \nResponsibility \nWhen \nSupporting \ndocuments, \nprograms \n1 \nProactively work to address the highest priority \nstormwater management works, including working \nwith the state government. Asset Services \nOngoing", "page": 27, "source": "Brighton-TAS-99.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions and targets related to climate change, such as improving the energy efficiency of council's buildings by 20% on 2018 levels by 2021, and monitoring the latest science and best practice relating to climate change, it does not provide specific sources or evidence to justify these targets. The policy also mentions the need to pursue grant opportunities for better understanding local climate change issues and to monitor carbon trading opportunities, but again, no specific evidence or sources are provided to justify these actions. The policy does mention the need to integrate climate change considerations when planning or delivering projects, programs or legislative functions, but it does not provide specific evidence or sources to support this. Therefore, while the policy outlines various actions and targets related to climate change, it does not provide well-sourced evidence to justify these actions and targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government policy documents provided do not explicitly state any specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various strategies and actions related to climate change, such as the 'Greening Brighton Strategy', 'Energy and resource efficiency plans', and 'Asset management plans', it does not provide clear, quantifiable metrics or benchmarks for assessing the effectiveness of these actions. The documents mention the need for tracking and reporting progress on mitigation projects and the intention to set meaningful targets for improvement by July 2020, but they do not specify what these targets are or how they will be measured. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategic objective to continue local and regional research to improve their understanding of climate change risks and opportunities. This includes supporting and facilitating local, regional, state, and national climate change research partnerships, and forming partnerships with local government agencies to coordinate climate change projects within the area. The government also plans to ensure that their standards and guidelines are based on current climate change science, Australian Standards, and legislative requirements. These actions demonstrate a commitment to informed planning and decision-making based on research and evidence.", "quote": {"content": "Continue local & regional research to improve Council\u2019s understanding of climate change risks and opportunities.", "page": 25, "source": "Brighton-TAS-99.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Brighton Council has outlined a comprehensive approach to climate change, integrating it into various aspects of their operations. They have developed a Climate Change & Resilience Strategy, which includes actions such as monitoring carbon trading opportunities, supporting local producer markets, and considering direct investment in sustainable developments. They also aim to integrate climate change considerations into all relevant council reports and into their risk management framework. Furthermore, they have committed to addressing climate change and broader sustainability objectives, recognizing the importance of allocating appropriate resources to implement effective actions. They also plan to better understand their operational emissions, energy use, and other impacts, and set meaningful targets for improvement. These actions demonstrate a willingness to innovate and experiment with different approaches to climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the strategic objectives and key actions outlined in the policy. For instance, the policy includes a key action to 'advocate that state and federal governments adequately consider climate change impacts when reviewing or creating new planning instruments, guidelines and legislation.' This action demonstrates a clear intent to influence higher levels of government in their approach to climate change. Furthermore, the policy also outlines a commitment to 'support and facilitate local, regional, state and national climate change research partnerships.' This indicates a willingness to collaborate and coordinate with various levels of government and other stakeholders to address climate change. Therefore, the policy not only acknowledges the need for climate action but also actively seeks to advocate for it at higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several key actions aimed at improving climate change capacity within the council, such as pursuing grant opportunities for better understanding local climate change issues, monitoring the latest science and best practice relating to climate change, and updating council's responses as necessary. The policy also emphasizes the importance of working with the community and local businesses to tackle climate change issues and increase resilience. This includes initiating consultation with relevant stakeholders on key climate-related risks, supporting climate change education, and assisting development applications to integrate climate change and sustainability considerations into design and function. Furthermore, the policy encourages the formation of partnerships with local government agencies to coordinate climate change projects within the area, demonstrating a commitment to collaboration and capacity building at a regional level.", "quote": {"content": "Development Services Ongoing", "page": 30, "source": "Brighton-TAS-99.pdf", "search_score": 0.97}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The local government has outlined plans to form partnerships with local government agencies to coordinate climate change projects within the area. They also plan to support and facilitate local, regional, state, and national climate change research partnerships. The documents mention specific entities such as STCA (Southern Tasmanian Councils Authority), RCCI (Regional Climate Change Initiative), LGAT (Local Government Association of Tasmania), and SCS (Southern Councils Strategy). These entities are involved in various aspects of climate change research, policy, and action at different levels of government. The local government's engagement with these entities demonstrates a commitment to collaborative action on climate change, leveraging the resources and expertise of various stakeholders."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, they do not specifically address how these measures will affect vulnerable communities. The documents focus on general strategies such as improving climate change capacity within the council, integrating climate change considerations into council operations, and improving the resilience of council infrastructure. However, they do not delve into the specific impacts of these actions on different social groups, particularly those that are vulnerable. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on the impact of climate change on vulnerable communities in the context of 'equity and social justice'."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's strategic objectives, key actions, and responsibilities in addressing climate change. These include improving climate change capacity within the council, working with the community and local businesses to tackle climate change issues, setting targets to encourage action, and implementing plans to reduce greenhouse gas emissions. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 70.0}}
+{
+  "settings": {
+    "source_files": [
+      "Brighton-TAS-97.pdf",
+      "Brighton-TAS-98.pdf",
+      "Brighton-TAS-99.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T13:24:49.189264",
+    "lga": "Brighton"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. The policy outlines strategic objectives and key actions that are directly related to addressing climate change. These include improving climate change capacity within the council, monitoring the latest science and best practices related to climate change, and pursuing external funding opportunities for projects that address sustainability and community resilience issues. The policy also recognizes the scientific consensus on climate change and its human-induced causes. It further acknowledges the need for proactive measures to mitigate and adapt to climate change, and identifies opportunities to innovate in research, markets, technologies, and institutions to build sustainable and resilient communities. The policy's commitment to addressing climate change is also reflected in its interaction with other council plans, programs, and responsibilities, demonstrating an integrated approach to climate action.",
+          "quote": {
+            "content": "The accelerated changes in the earth\u2019s climate in recent times are as a result of human-induced actions caused by the additional, non-natural, release of greenhouse gas emissions (for example, from land clearing and the use of fossil fuels).",
+            "page": 5,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the scientific consensus on climate change and its human-induced causes, such as the release of greenhouse gas emissions from land clearing and the use of fossil fuels. The documents also emphasize the potential impacts of climate change, including more extreme weather-related events such as flooding, drought, and extreme temperatures. These effects can impact the resilience of the environment, including food production and essential services. The documents argue that to ensure a sustainable, prosperous, and resilient community, proactive measures in both mitigating and adapting to climate change are necessary. The documents also note that insurance companies have become so concerned about the potential impacts of climate change to councils that they have funded climate change risk assessments for several councils around the country, further emphasizing the need for action.",
+          "quote": {
+            "content": "This is a clear example of why councils must proactively prepare for and minimise potential future risks.",
+            "page": 7,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions that the local government plans to take in response to climate change, such as improving hazard and emergency management, improving ecological resilience, and integrating climate change considerations into council operations. However, these actions are described as ongoing or future tasks, without a specific emphasis on the speed or urgency of their implementation. The documents also mention the potential impacts of climate change and the need for proactive preparation, but again, there is no explicit call for rapid action. Therefore, based on the provided context, the answer to the question is negative."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. For instance, the policy outlines a plan to improve the energy efficiency of council's buildings by 20% on 2018 levels by 2021. It also sets a target to improve the energy efficiency of Council's streetlights by 20% on 2018 levels by 2022. Furthermore, the policy includes ongoing actions such as proactively addressing stormwater management works, ensuring Council's bushfire management system considers the impacts of climate change, and monitoring the latest science and best practice relating to climate change. These ongoing actions do not have a specific end date, indicating a long-term commitment. However, it's worth noting that while these timeframes provide a sense of urgency, the policy could benefit from more immediate short-term goals and more specific deadlines for ongoing actions.",
+          "quote": {
+            "content": "Development Services 2021 Energy Contracts",
+            "page": 11,
+            "source": "Brighton-TAS-98.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government policy does outline a number of actions related to climate change, such as improving hazard and emergency management to minimise climate change risk, ensuring Council's bushfire management system considers the impacts of climate change, and improving ecological resilience to climate change. However, these actions are presented as part of a broader policy framework, and there is no explicit statement prioritising these actions over other policies. The documents also discuss the integration of climate change considerations into various aspects of Council operations, but again, this is not framed as a matter of prioritising climate change responses over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to addressing climate change and sustainability objectives, and mention the integration of climate change considerations into various council activities, they do not explicitly mandate that all council activities must align with climate policy. The documents outline various strategies and actions related to climate change, such as improving climate change capacity within the council, setting targets for greenhouse gas emissions, and integrating climate change risks into the council's risk management framework. However, these actions are not presented as requirements for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The policy does allocate resources for climate action, although it does not specify the exact amount of funding. The policy acknowledges that addressing climate change will require both internal and external resources. It also mentions that while much of the work required does not necessitate major adjustments or reallocations of the Council\u2019s core responsibilities or resources, it does require better integration of climate change considerations when planning or delivering projects, programs, or legislative functions. The policy also notes that Council has strong financial drivers for being efficient and for minimising costs, and that it has a good culture of being innovative and considering opportunities that may benefit the community or provide a saving or additional revenue. Therefore, while the policy does not provide specific figures, it does make clear that resources will be allocated to climate action.",
+          "quote": {
+            "content": "This Strategy will require internal resourcing and a small amount of external resources, however Council\u2019s climate change actions to date have generated both long-term financial savings, benefits to the local economy, community benefit and improvements",
+            "page": 16,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of key actions, each with a designated responsibility assigned to specific departments within the council. For instance, the Development Services, Asset Services, and Corporate Services departments are tasked with various climate-related actions. These actions range from monitoring carbon trading opportunities, supporting local markets, investigating sustainable developments, to integrating climate change considerations into council operations and risk management frameworks. The policy also mentions the need for better integration of climate change considerations when planning or delivering projects, programs, or legislative functions. This suggests that existing staff will be required to incorporate climate action into their existing roles and responsibilities. Therefore, it can be concluded that the policy does allocate non-monetary institutional resources, in the form of staff time and expertise, to climate action.",
+          "quote": {
+            "content": "However, it does require better integration of climate change considerations when planning or delivering projects, programs or legislative functions.",
+            "page": 16,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a strategic objective to 'Work with the community and local business to tackle climate change issues and increase resilience.' This includes key actions such as initiating consultation with relevant stakeholders on key climate-related risks, supporting climate change education and engaging with programs in partnership with government and non-government organisations. The policy also mentions the importance of integrating climate change issues into relevant community engagement activities. Furthermore, the policy outlines plans to facilitate the establishment of sustainable businesses and sectors within the Council area, and to assist local businesses to take advantage of state and federal programs that support action on climate change. These actions suggest a commitment to social mobilisation in the context of climate action.",
+          "quote": {
+            "content": "Work with the community and local business to tackle climate change issues and increase resilience.",
+            "page": 17,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a strategic objective to reduce greenhouse gas emissions throughout Council operations. This includes plans to deliver savings by reducing Council's energy costs, developing guidelines to integrate energy and sustainability features into future Council developments, and investigating carbon offset opportunities. The policy also promotes the uptake of sustainable technologies and supports efforts to preserve or increase carbon stores. Furthermore, the policy encourages local businesses to take advantage of state and federal programs that support action on climate change. These actions indicate a comprehensive approach to mitigating greenhouse gas emissions, incorporating both technological solutions and behaviour change.",
+          "quote": {
+            "content": "Development \nServices \nOngoing",
+            "page": 30,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a number of key actions, responsibilities, and supporting documents or programs to address climate change. For instance, it mentions the need to proactively address stormwater management works, ensure that the council's bushfire management system considers the impacts of climate change, and improve ecological resilience to climate change. The policy also emphasizes the importance of ongoing local and regional research to improve the council's understanding of climate change risks and opportunities. Furthermore, the policy advocates for the integration of climate change considerations into the principal activities of the council, including land use planning, community services, asset planning and management, waste management, and emergency management. Therefore, the policy not only acknowledges the need for climate adaptation and resilience but also provides a detailed plan of action to achieve these goals.",
+          "quote": {
+            "content": "Asset Services \nOngoing Improve hazard and emergency management to minimise climate change risk. # \nKey Action \nResponsibility \nWhen \nSupporting \ndocuments, \nprograms \n1 \nProactively work to address the highest priority \nstormwater management works, including working \nwith the state government. Asset Services \nOngoing",
+            "page": 27,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions and targets related to climate change, such as improving the energy efficiency of council's buildings by 20% on 2018 levels by 2021, and monitoring the latest science and best practice relating to climate change, it does not provide specific sources or evidence to justify these targets. The policy also mentions the need to pursue grant opportunities for better understanding local climate change issues and to monitor carbon trading opportunities, but again, no specific evidence or sources are provided to justify these actions. The policy does mention the need to integrate climate change considerations when planning or delivering projects, programs or legislative functions, but it does not provide specific evidence or sources to support this. Therefore, while the policy outlines various actions and targets related to climate change, it does not provide well-sourced evidence to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government policy documents provided do not explicitly state any specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various strategies and actions related to climate change, such as the 'Greening Brighton Strategy', 'Energy and resource efficiency plans', and 'Asset management plans', it does not provide clear, quantifiable metrics or benchmarks for assessing the effectiveness of these actions. The documents mention the need for tracking and reporting progress on mitigation projects and the intention to set meaningful targets for improvement by July 2020, but they do not specify what these targets are or how they will be measured. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategic objective to continue local and regional research to improve their understanding of climate change risks and opportunities. This includes supporting and facilitating local, regional, state, and national climate change research partnerships, and forming partnerships with local government agencies to coordinate climate change projects within the area. The government also plans to ensure that their standards and guidelines are based on current climate change science, Australian Standards, and legislative requirements. These actions demonstrate a commitment to informed planning and decision-making based on research and evidence.",
+          "quote": {
+            "content": "Continue local & regional research to improve Council\u2019s understanding of climate change risks and opportunities.",
+            "page": 25,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the local government's policy documents do outline various strategies and actions related to climate change, such as reducing greenhouse gas emissions, adapting to climate change impacts, and identifying opportunities for innovation, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents mention the need for research, monitoring of latest science and best practices, and integration of climate change considerations into council operations, but these do not constitute policy experimentation as defined in the question. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the strategic objectives and key actions outlined in the policy. For instance, the policy includes a key action to 'advocate that state and federal governments adequately consider climate change impacts when reviewing or creating new planning instruments, guidelines and legislation.' This action demonstrates a clear intent to influence higher levels of government in their approach to climate change. Furthermore, the policy also outlines a commitment to 'support and facilitate local, regional, state and national climate change research partnerships.' This indicates a willingness to collaborate and coordinate with various levels of government and other stakeholders to address climate change. Therefore, the policy not only acknowledges the need for climate action but also actively seeks to advocate for it at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines several key actions aimed at improving climate change capacity within the council, such as pursuing grant opportunities for better understanding local climate change issues, monitoring the latest science and best practice relating to climate change, and updating council's responses as necessary. The policy also emphasizes the importance of working with the community and local businesses to tackle climate change issues and increase resilience. This includes initiating consultation with relevant stakeholders on key climate-related risks, supporting climate change education, and assisting development applications to integrate climate change and sustainability considerations into design and function. Furthermore, the policy encourages the formation of partnerships with local government agencies to coordinate climate change projects within the area, demonstrating a commitment to collaboration and capacity building at a regional level.",
+          "quote": {
+            "content": "Development Services Ongoing",
+            "page": 30,
+            "source": "Brighton-TAS-99.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The local government has outlined plans to form partnerships with local government agencies to coordinate climate change projects within the area. They also plan to support and facilitate local, regional, state, and national climate change research partnerships. The documents mention specific entities such as STCA (Southern Tasmanian Councils Authority), RCCI (Regional Climate Change Initiative), LGAT (Local Government Association of Tasmania), and SCS (Southern Councils Strategy). These entities are involved in various aspects of climate change research, policy, and action at different levels of government. The local government's engagement with these entities demonstrates a commitment to collaborative action on climate change, leveraging the resources and expertise of various stakeholders."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, they do not specifically address how these measures will affect vulnerable communities. The documents focus on general strategies such as improving climate change capacity within the council, integrating climate change considerations into council operations, and improving the resilience of council infrastructure. However, they do not delve into the specific impacts of these actions on different social groups, particularly those that are vulnerable. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on the impact of climate change on vulnerable communities in the context of 'equity and social justice'."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's strategic objectives, key actions, and responsibilities in addressing climate change. These include improving climate change capacity within the council, working with the community and local businesses to tackle climate change issues, setting targets to encourage action, and implementing plans to reduce greenhouse gas emissions. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70.0
+  }
+}

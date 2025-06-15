@@ -1,1 +1,300 @@
-{"settings": {"source_files": ["Moira-VIC-186.pdf", "Moira-VIC-187.pdf", "Moira-VIC-188.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T11:24:33.479028", "lga": "Moira"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address climate change adaptation and mitigation, it does not position these actions as the central objective. Instead, it emphasizes the integration or 'mainstreaming' of climate change considerations into the organization's operations and decision-making processes. This means that climate change is considered where relevant, but it is not necessarily the primary influence on policy choices or actions. The policy also outlines a range of other objectives, such as improving internal communications, developing a detailed plan for internal and external communications on climate change, and partnering with other regional local governments and relevant state government agencies. Therefore, while climate action is a significant component of the policy, it is not presented as the core purpose or goal."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's planned actions to address climate change, including improving understanding of climate risks, enhancing planning and governance arrangements, and implementing education initiatives to improve community understanding of climate change. The documents also highlight the importance of adaptation for local government and the need for strategic approaches to climate change. The documents further emphasize the need for monitoring and review of the climate change adaptation action plan, indicating a commitment to ongoing evaluation and improvement of climate change responses. The documents also suggest that the local government should develop detailed plans for internal and external communications on climate change, indicating an understanding of the importance of communication and engagement in effective climate change action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does indeed call for urgent action on climate change. It emphasizes the need for immediate and coordinated global action to mitigate the impacts of climate change. The document also highlights the importance of 'mainstreaming' climate change into the operations of the Moira Shire, suggesting that climate change should always be part of analysis and decision-making processes where relevant. This indicates a sense of urgency in integrating climate change considerations into all aspects of local government operations. The document also proposes the development of a cross-agency climate change 'steering committee', which would be tasked with keeping abreast of the latest relevant information on climate change and developing integrated regional responses. This suggests a need for immediate action and collaboration across different sectors and organizations.", "quote": {"content": "(Garnaut, 2008), it is not too late to act to at least \nreduce the impacts of unmitigated climate change.", "page": 10, "source": "Moira-VIC-187.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents discuss the importance of urgent action to mitigate the impacts of climate change, they do not provide concrete deadlines or schedules for implementing these actions. The documents mention the development of an Adaptation Action Plan, the need for monitoring and review, and the importance of integrating climate change responses into the Council Plan and other strategic and resourcing plans. However, these are general strategies and do not include specific timeframes. Therefore, it is not possible to affirm that the policy provides specific timeframes for its intended actions on climate change based on the provided documents."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change adaptation and mitigation, they do not explicitly prioritize these actions over other policies. The documents discuss the integration of climate change responses into the Council Plan and other strategic and operational plans, the establishment of clear responsibilities for coordination of climate change responses within the Council, and the development of a detailed plan for internal and external communications on climate change. However, these actions are presented as part of a comprehensive approach to managing climate change risks, rather than as a higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a commitment to addressing climate change and has developed a Climate Change Adaptation Action Plan. This plan includes strategies for engaging with the community and key stakeholders, incorporating climate change responses into the Council Plan and other strategic and resourcing plans, and coordinating climate change responses across council departments. The documents also mention the establishment of an Environment Working Group to coordinate and integrate climate change responses. However, these measures do not necessarily imply that all council activities must align with climate policy, but rather that climate change considerations are integrated into the council's planning and decision-making processes."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does indeed allocate funding for climate action. The policy outlines a budget allocation for the implementation of the Adaptation Action Plan, which is a key part of the local government's response to climate change. This allocation of funds is a clear indication of the local government's commitment to taking action on climate change. The policy also mentions the pursuit of funding opportunities to support projects related to climate change adaptation. However, the policy does not provide specific details on the amount of funding allocated or the specific projects that will be funded. Therefore, while the policy does allocate funding for climate action, the lack of detail makes it difficult to assess the adequacy of this funding."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the establishment of internal management arrangements for the coordination of climate change responses across the council. This involves the dispersion of responsibility for delivering on climate change responses across the organization, with the Environment Working Group leading the coordination and integration role. The plan also mentions the development of a regional governance structure for climate change, which would involve a cross-agency 'steering committee' with representation from local governments and state government agencies. Furthermore, the plan includes a detailed monitoring and evaluation plan, which would require staff resources for its implementation and ongoing management. Therefore, it is clear that the plan does allocate staff and other non-monetary institutional resources to climate action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government policy does indeed aim to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a clear strategy for internal and external communications to improve understanding of climate change issues, build ownership of the local government's climate change responses, and develop partnerships within the community and region for effective action. The policy also emphasizes the importance of building capacity to adjust to climate change among the community and making adjustments needed to adapt to projected climate change in ways that maintain the integrity of communities and the things they value about the Shire. Furthermore, the policy proposes the establishment of a regional governance structure for climate change, which would involve a cross-agency 'steering committee' with representation from local governments and State government agencies with responsibilities for climate change adaptation.", "quote": {"content": "It should support the adaptation and mitigation strategies that frame Moira Shire\u2019s climate change response. Communication is critical in helping Council and the community adjust to climate change.", "page": 40, "source": "Moira-VIC-187.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a strategic framework that addresses both the drivers of climate change (greenhouse gas emissions) and any unavoidable impacts. This response is framed around strategies emphasising mitigation of greenhouse gas emissions and adaptation to the priority risks from climate change. The plan also includes actions to build Council\u2019s capacity to adjust to impacts from climate change and influence the community\u2019s overall greenhouse gas emissions and their capacity to adapt to climate change. The plan also mentions the development and implementation of an Emissions Reduction Plan for Council. This plan is focused on corporate emissions as this is Council\u2019s primary responsibility. The plan also acknowledges Council\u2019s role in assisting the community to reduce emissions. The plan also includes actions like using the internal Green Team to raise awareness and encourage change, facilitating staff education sessions to encourage low carbon behaviours, and promoting Council\u2019s commitment to reducing greenhouse gas emissions at facilities to encourage users to make sustainable choices for transport, purchases, and avoiding waste.", "quote": {"content": "\ufffd \nBuilding Council\u2019s capacity to adjust to impacts from climate change;  \n\ufffd \nInfluence the community\u2019s overall greenhouse gas emissions and their capacity to adapt to \nclimate change. This response would be framed around strategies emphasising:  \n\ufffd \nMitigation of greenhouse gas emissions. \ufffd \nAdaptation to the priority risks from climate change.", "page": 47, "source": "Moira-VIC-187.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic approach to climate change, with a focus on adaptation actions to address priority risks for its assets, infrastructure, and services. The plan also emphasizes the importance of proactive planning, suggesting that it may be more effective and less costly than reacting to climate change impacts as they happen. The plan includes a detailed monitoring and evaluation plan, designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan. The plan also suggests that the local government should develop a risk assessment and adaptation project to address climate change in a broader context. The plan's approach to climate change adaptation is comprehensive, covering various aspects from risk assessment to strategic planning, implementation, and review.", "quote": {"content": "That Plan would be designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan.", "page": 50, "source": "Moira-VIC-187.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a plan for incorporating climate change into the Council Plan and other strategic and resourcing documents, and for monitoring and reviewing the plan's implementation, they do not provide specific, well-sourced evidence to justify the climate targets and actions proposed. The documents mention the development of a detailed monitoring and evaluation plan, and the establishment of internal management arrangements for coordinating climate change responses across the Council. However, they do not provide specific details about the sources of the data or the methodologies used to develop these plans and arrangements. Furthermore, the documents do not provide clear, well-sourced evidence to justify the specific climate targets and actions proposed. Therefore, the documents do not meet the high standard of evidence required to answer the question in the affirmative."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a detailed monitoring and review framework, which is designed to assess whether the plan is achieving its objectives and addressing relevant climate change strategies. This framework operates at two levels: strategic and operational. At the strategic level, monitoring activities are concerned with gathering information to demonstrate that the plan is achieving its purposes. At the operational level, monitoring is concerned with questions of whether the plan is being delivered effectively. Both levels feed into annual reporting and proposed four yearly reviews of the plan. The plan also recommends the development of a detailed monitoring and evaluation plan, based on the action plan and the monitoring and review framework. This would be designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan.", "quote": {"content": "Collection of data on these indicators would enable assessments to be made as to the sustainability of Moira Shire in economic, social and environmental terms and the contribution of climate change. Figure 6 lists the types of indicators for which data would be collected.", "page": 45, "source": "Moira-VIC-187.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do mention the importance of monitoring and review, and the need for a detailed monitoring and evaluation plan, they do not specifically mention conducting research in the local community. The documents also mention the need for communication and consultation with stakeholders, but this is not the same as conducting research. The documents do suggest that relevant questions may be introduced into existing state-wide or local community/customer surveys, but this is not the same as conducting new, targeted research in the local community. Therefore, the answer to the question is no."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The documents primarily discuss the Moira Shire's Climate Change Adaptation Action Plan, which includes measures such as incorporating climate change into the Council Plan, allocating budget for the Adaptation Action Plan, and monitoring and reviewing the plan annually. While these actions are important for addressing climate change, they are standard practices in climate action planning and do not represent innovation or policy experimentation. The documents also mention the development of a detailed monitoring and evaluation plan and the establishment of internal management arrangements for coordinating climate change responses across the Council. However, these actions are also standard in climate action planning and do not represent innovation or policy experimentation."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the formation of a cross-agency climate change 'steering committee' with representation from local government and state government agencies. This committee is tasked with various activities including sharing information on climate change responses, developing integrated regional responses, and undertaking joint projects to understand climate change risks, their implications, and potential responses. The policy also recommends that Moira Shire should partner with other regional local governments and relevant state government agencies to build an effective regional governance structure for climate change. This indicates a clear intent to engage with and advocate to higher levels of government for coordinated action on climate change.", "quote": {"content": "Moira Shire should partner with other regional local governments and relevant State government agencies, via the Regional Management Forum to build an effective regional governance structure for climate change.", "page": 49, "source": "Moira-VIC-187.pdf", "search_score": 0.95}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a plan for internal and external communications to improve understanding of climate change issues, build ownership of the council's climate change responses, and develop partnerships within the community and region for effective action. It also proposes the formation of a cross-agency climate change 'steering committee' with representation from local government and state government agencies. This committee would be responsible for sharing information on climate change responses, developing integrated regional responses, and supporting other aspects to develop regional capacity to adjust to climate change. Furthermore, the policy recommends that the council should partner with other regional local governments and relevant state government agencies to build an effective regional governance structure for climate change.", "quote": {"content": "Activities might include: information scanning to keep abreast of the latest relevant information on climate change; sharing of information on climate change responses and developing integrated regional responses; joint projects to understand climate change risks, their implications and potential responses; supporting other aspects to develop regional capacity to adjust to climate change. It is proposed that a cross-agency climate change 'steering committee' be developed, with representation from local government and State government agencies across catchment management, environmental, economic and social well-being domains. Such a group should be convened by the Regional Management Forum and focus either on adaptation alone or address both adaptation and mitigation (with the latter preferred).", "page": 43, "source": "Moira-VIC-187.pdf", "search_score": 0.96}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The local government plans to partner with other regional local governments and relevant state government agencies via the Regional Management Forum to build an effective regional governance structure for climate change. This partnership is aimed at coordinating and integrating climate change responses across the council. The documents also mention the formation of a cross-agency 'steering committee' with representation from local governments and state government agencies responsible for climate change adaptation. This committee is proposed to be convened by the Regional Management Forum and is expected to focus on adaptation and mitigation of climate change. These partnerships and collaborations are aimed at enhancing the regional capacity to adjust to climate change and to develop integrated regional responses.", "quote": {"content": "It is proposed that a cross-agency climate change \u201csteering committee\u201d be developed, with representation from local government and State government agencies across catchment management, environmental, economic and social well-being domains.", "page": 43, "source": "Moira-VIC-187.pdf", "search_score": 1.0}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the potential impacts of climate change on the local community, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus more on the general risks and potential adaptations to climate change at the local government level, such as changes to infrastructure, services, and asset management. They also discuss the importance of proactive planning and risk management in response to climate change. However, they do not delve into the social justice implications of these impacts or the potential for climate change to exacerbate existing inequities among vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of adaptation to climate change, the engagement with the community, and the potential impacts of climate change on the community, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the risks and potential impacts of climate change, the strategies for adaptation, and the importance of community engagement and awareness. However, they do not delve into the specifics of how these strategies will ensure equity and social justice in the distribution of climate benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 62.5}}
+{
+  "settings": {
+    "source_files": [
+      "Moira-VIC-186.pdf",
+      "Moira-VIC-187.pdf",
+      "Moira-VIC-188.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T11:24:33.479028",
+    "lga": "Moira"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. While the policy does address climate change adaptation and mitigation, it does not position these actions as the central objective. Instead, it emphasizes the integration or 'mainstreaming' of climate change considerations into the organization's operations and decision-making processes. This means that climate change is considered where relevant, but it is not necessarily the primary influence on policy choices or actions. The policy also outlines a range of other objectives, such as improving internal communications, developing a detailed plan for internal and external communications on climate change, and partnering with other regional local governments and relevant state government agencies. Therefore, while climate action is a significant component of the policy, it is not presented as the core purpose or goal."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's planned actions to address climate change, including improving understanding of climate risks, enhancing planning and governance arrangements, and implementing education initiatives to improve community understanding of climate change. The documents also highlight the importance of adaptation for local government and the need for strategic approaches to climate change. The documents further emphasize the need for monitoring and review of the climate change adaptation action plan, indicating a commitment to ongoing evaluation and improvement of climate change responses. The documents also suggest that the local government should develop detailed plans for internal and external communications on climate change, indicating an understanding of the importance of communication and engagement in effective climate change action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It emphasizes the need for immediate and coordinated global action to mitigate the impacts of climate change. The document also highlights the importance of 'mainstreaming' climate change into the operations of the Moira Shire, suggesting that climate change should always be part of analysis and decision-making processes where relevant. This indicates a sense of urgency in integrating climate change considerations into all aspects of local government operations. The document also proposes the development of a cross-agency climate change 'steering committee', which would be tasked with keeping abreast of the latest relevant information on climate change and developing integrated regional responses. This suggests a need for immediate action and collaboration across different sectors and organizations.",
+          "quote": {
+            "content": "(Garnaut, 2008), it is not too late to act to at least \nreduce the impacts of unmitigated climate change.",
+            "page": 10,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents discuss the importance of urgent action to mitigate the impacts of climate change, they do not provide concrete deadlines or schedules for implementing these actions. The documents mention the development of an Adaptation Action Plan, the need for monitoring and review, and the importance of integrating climate change responses into the Council Plan and other strategic and resourcing plans. However, these are general strategies and do not include specific timeframes. Therefore, it is not possible to affirm that the policy provides specific timeframes for its intended actions on climate change based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change adaptation and mitigation, they do not explicitly prioritize these actions over other policies. The documents discuss the integration of climate change responses into the Council Plan and other strategic and operational plans, the establishment of clear responsibilities for coordination of climate change responses within the Council, and the development of a detailed plan for internal and external communications on climate change. However, these actions are presented as part of a comprehensive approach to managing climate change risks, rather than as a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council has a commitment to addressing climate change and has developed a Climate Change Adaptation Action Plan. This plan includes strategies for engaging with the community and key stakeholders, incorporating climate change responses into the Council Plan and other strategic and resourcing plans, and coordinating climate change responses across council departments. The documents also mention the establishment of an Environment Working Group to coordinate and integrate climate change responses. However, these measures do not necessarily imply that all council activities must align with climate policy, but rather that climate change considerations are integrated into the council's planning and decision-making processes."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed allocate funding for climate action. The policy outlines a budget allocation for the implementation of the Adaptation Action Plan, which is a key part of the local government's response to climate change. This allocation of funds is a clear indication of the local government's commitment to taking action on climate change. The policy also mentions the pursuit of funding opportunities to support projects related to climate change adaptation. However, the policy does not provide specific details on the amount of funding allocated or the specific projects that will be funded. Therefore, while the policy does allocate funding for climate action, the lack of detail makes it difficult to assess the adequacy of this funding."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines the establishment of internal management arrangements for the coordination of climate change responses across the council. This involves the dispersion of responsibility for delivering on climate change responses across the organization, with the Environment Working Group leading the coordination and integration role. The plan also mentions the development of a regional governance structure for climate change, which would involve a cross-agency 'steering committee' with representation from local governments and state government agencies. Furthermore, the plan includes a detailed monitoring and evaluation plan, which would require staff resources for its implementation and ongoing management. Therefore, it is clear that the plan does allocate staff and other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government policy does indeed aim to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a clear strategy for internal and external communications to improve understanding of climate change issues, build ownership of the local government's climate change responses, and develop partnerships within the community and region for effective action. The policy also emphasizes the importance of building capacity to adjust to climate change among the community and making adjustments needed to adapt to projected climate change in ways that maintain the integrity of communities and the things they value about the Shire. Furthermore, the policy proposes the establishment of a regional governance structure for climate change, which would involve a cross-agency 'steering committee' with representation from local governments and State government agencies with responsibilities for climate change adaptation.",
+          "quote": {
+            "content": "It should support the adaptation and mitigation strategies that frame Moira Shire\u2019s climate change response. Communication is critical in helping Council and the community adjust to climate change.",
+            "page": 40,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a strategic framework that addresses both the drivers of climate change (greenhouse gas emissions) and any unavoidable impacts. This response is framed around strategies emphasising mitigation of greenhouse gas emissions and adaptation to the priority risks from climate change. The plan also includes actions to build Council\u2019s capacity to adjust to impacts from climate change and influence the community\u2019s overall greenhouse gas emissions and their capacity to adapt to climate change. The plan also mentions the development and implementation of an Emissions Reduction Plan for Council. This plan is focused on corporate emissions as this is Council\u2019s primary responsibility. The plan also acknowledges Council\u2019s role in assisting the community to reduce emissions. The plan also includes actions like using the internal Green Team to raise awareness and encourage change, facilitating staff education sessions to encourage low carbon behaviours, and promoting Council\u2019s commitment to reducing greenhouse gas emissions at facilities to encourage users to make sustainable choices for transport, purchases, and avoiding waste.",
+          "quote": {
+            "content": "\ufffd \nBuilding Council\u2019s capacity to adjust to impacts from climate change;  \n\ufffd \nInfluence the community\u2019s overall greenhouse gas emissions and their capacity to adapt to \nclimate change. This response would be framed around strategies emphasising:  \n\ufffd \nMitigation of greenhouse gas emissions. \ufffd \nAdaptation to the priority risks from climate change.",
+            "page": 47,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic approach to climate change, with a focus on adaptation actions to address priority risks for its assets, infrastructure, and services. The plan also emphasizes the importance of proactive planning, suggesting that it may be more effective and less costly than reacting to climate change impacts as they happen. The plan includes a detailed monitoring and evaluation plan, designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan. The plan also suggests that the local government should develop a risk assessment and adaptation project to address climate change in a broader context. The plan's approach to climate change adaptation is comprehensive, covering various aspects from risk assessment to strategic planning, implementation, and review.",
+          "quote": {
+            "content": "That Plan would be designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan.",
+            "page": 50,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a plan for incorporating climate change into the Council Plan and other strategic and resourcing documents, and for monitoring and reviewing the plan's implementation, they do not provide specific, well-sourced evidence to justify the climate targets and actions proposed. The documents mention the development of a detailed monitoring and evaluation plan, and the establishment of internal management arrangements for coordinating climate change responses across the Council. However, they do not provide specific details about the sources of the data or the methodologies used to develop these plans and arrangements. Furthermore, the documents do not provide clear, well-sourced evidence to justify the specific climate targets and actions proposed. Therefore, the documents do not meet the high standard of evidence required to answer the question in the affirmative."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a detailed monitoring and review framework, which is designed to assess whether the plan is achieving its objectives and addressing relevant climate change strategies. This framework operates at two levels: strategic and operational. At the strategic level, monitoring activities are concerned with gathering information to demonstrate that the plan is achieving its purposes. At the operational level, monitoring is concerned with questions of whether the plan is being delivered effectively. Both levels feed into annual reporting and proposed four yearly reviews of the plan. The plan also recommends the development of a detailed monitoring and evaluation plan, based on the action plan and the monitoring and review framework. This would be designed to support four yearly reviews of the climate change risk assessment and of the Adaptation Action Plan.",
+          "quote": {
+            "content": "Collection of data on these indicators would enable assessments to be made as to the sustainability of Moira Shire in economic, social and environmental terms and the contribution of climate change. Figure 6 lists the types of indicators for which data would be collected.",
+            "page": 45,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do mention the importance of monitoring and review, and the need for a detailed monitoring and evaluation plan, they do not specifically mention conducting research in the local community. The documents also mention the need for communication and consultation with stakeholders, but this is not the same as conducting research. The documents do suggest that relevant questions may be introduced into existing state-wide or local community/customer surveys, but this is not the same as conducting new, targeted research in the local community. Therefore, the answer to the question is no."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents discuss the Moira Shire Climate Change Adaptation Action Plan, which includes strategies for understanding climate risks, improving planning and governance arrangements, and educating communities about climate change. The plan also outlines steps for monitoring and reviewing the plan's effectiveness, and it emphasizes the importance of proactive planning to manage or avoid climate risks. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions, such as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the policy includes elements of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the formation of a cross-agency climate change 'steering committee' with representation from local government and state government agencies. This committee is tasked with various activities including sharing information on climate change responses, developing integrated regional responses, and undertaking joint projects to understand climate change risks, their implications, and potential responses. The policy also recommends that Moira Shire should partner with other regional local governments and relevant state government agencies to build an effective regional governance structure for climate change. This indicates a clear intent to engage with and advocate to higher levels of government for coordinated action on climate change.",
+          "quote": {
+            "content": "Moira Shire should partner with other regional local governments and relevant State government agencies, via the Regional Management Forum to build an effective regional governance structure for climate change.",
+            "page": 49,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a plan for internal and external communications to improve understanding of climate change issues, build ownership of the council's climate change responses, and develop partnerships within the community and region for effective action. It also proposes the formation of a cross-agency climate change 'steering committee' with representation from local government and state government agencies. This committee would be responsible for sharing information on climate change responses, developing integrated regional responses, and supporting other aspects to develop regional capacity to adjust to climate change. Furthermore, the policy recommends that the council should partner with other regional local governments and relevant state government agencies to build an effective regional governance structure for climate change.",
+          "quote": {
+            "content": "Activities might include: information scanning to keep abreast of the latest relevant information on climate change; sharing of information on climate change responses and developing integrated regional responses; joint projects to understand climate change risks, their implications and potential responses; supporting other aspects to develop regional capacity to adjust to climate change. It is proposed that a cross-agency climate change 'steering committee' be developed, with representation from local government and State government agencies across catchment management, environmental, economic and social well-being domains. Such a group should be convened by the Regional Management Forum and focus either on adaptation alone or address both adaptation and mitigation (with the latter preferred).",
+            "page": 43,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The local government plans to partner with other regional local governments and relevant state government agencies via the Regional Management Forum to build an effective regional governance structure for climate change. This partnership is aimed at coordinating and integrating climate change responses across the council. The documents also mention the formation of a cross-agency 'steering committee' with representation from local governments and state government agencies responsible for climate change adaptation. This committee is proposed to be convened by the Regional Management Forum and is expected to focus on adaptation and mitigation of climate change. These partnerships and collaborations are aimed at enhancing the regional capacity to adjust to climate change and to develop integrated regional responses.",
+          "quote": {
+            "content": "It is proposed that a cross-agency climate change \u201csteering committee\u201d be developed, with representation from local government and State government agencies across catchment management, environmental, economic and social well-being domains.",
+            "page": 43,
+            "source": "Moira-VIC-187.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the potential impacts of climate change on the local community, economy, and environment, they do not specifically address how these impacts might disproportionately affect vulnerable populations. The documents focus more on the general risks and potential adaptations to climate change at the local government level, such as changes to infrastructure, services, and asset management. They also discuss the importance of proactive planning and risk management in response to climate change. However, they do not delve into the social justice implications of these impacts or the potential for climate change to exacerbate existing inequities among vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of adaptation to climate change, the engagement with the community, and the potential impacts of climate change on the community, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the risks and potential impacts of climate change, the strategies for adaptation, and the importance of community engagement and awareness. However, they do not delve into the specifics of how these strategies will ensure equity and social justice in the distribution of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 62.5
+  }
+}

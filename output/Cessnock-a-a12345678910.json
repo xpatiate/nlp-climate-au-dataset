@@ -1,1 +1,293 @@
-{"settings": {"source_files": ["Cessnock-NSW-10.pdf", "Cessnock-NSW-9.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T16:25:01.526802", "lga": "Cessnock"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy's core purpose is indeed climate action. The policy objectives explicitly state that the policy is designed to enable the Council to align its operational and strategic planning with NSW State policy, which includes climate change mitigation and adaptation. The policy also aims to provide a whole of Council commitment to managing climate change risks within the Cessnock Local Government Area (LGA), support community initiatives to deal with climate change, and empower the Council as a leader for action on climate change. The policy also commits the Council to the Policy Commitments outlined in clause 5, which include adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy by June 2021, and recognising the importance of shared responsibility across all levels of government, Council, community and businesses in addressing climate change and transitioning towards a net zero emissions region."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The policy objectives outlined in the documents include aligning the council's operational and strategic planning with NSW State policy, managing climate change risks within the Cessnock Local Government Area, supporting community initiatives to deal with climate change, and empowering the council as a leader for action on climate change. The policy also commits the council to the Policy Commitments outlined in clause 5, which include adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy, recognising shared responsibility across all levels of government, and identifying and developing systems to consider Council\u2019s corporate climate change risks. The policy also outlines the roles and responsibilities of various council officials in implementing the policy and ensuring compliance."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a policy framework for addressing climate change, including the development of a Climate Change Strategy, a Renewable Energy Strategy, and a Carbon Management & Energy Reduction Strategy. The policy also includes commitments to reduce greenhouse gas emissions, improve energy efficiency, and build climate resilience. However, these actions are planned to be implemented over a longer timeframe, with some actions scheduled for completion by 2050. The language used in the documents does not convey a sense of urgency or immediacy. Instead, the focus is on systematic, strategic planning and gradual implementation of measures to mitigate and adapt to climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, it mentions the development of a Climate Change Strategy by June 2021, which is a clear and specific timeframe. This strategy is intended to address climate change mitigation and adaptation, and to identify actions for building climate resilience. The document also outlines responsibilities for various council officials, directors, and managers, indicating a structured approach to implementing the policy. Furthermore, the document refers to the NSW Government's target of achieving zero net emissions by 2050, which the council has adopted. This long-term goal provides a clear endpoint for the council's climate change mitigation efforts. Therefore, the document does provide specific timeframes for its climate change actions, both in the short term (June 2021) and in the long term (2050)."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive approach to addressing climate change, including setting emissions reduction targets, developing a climate change strategy, and integrating climate change considerations into decision-making processes, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of addressing climate change and outline various strategies and actions to do so, but they do not make a clear statement about the prioritization of these actions relative to other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The policy objectives outlined in the Climate Change Policy document clearly state that the policy is intended to enable the Council to align its operational and strategic planning with NSW State policy. This includes managing climate change risks within the Cessnock Local Government Area, supporting community initiatives to deal with climate change, and empowering the Council as a leader for action on climate change. The policy also outlines specific actions and strategies for achieving these objectives, such as developing a Climate Change Strategy, recognising shared responsibility across all levels of government, and integrating climate change planning within the Council\u2019s Integrated Management System. Furthermore, the policy applies to all Council functions and operations, and all Council officials are responsible for familiarising themselves with the policy, considering climate change in decision making and operations, and integrating the policy's principles and commitments into their work."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding amounts are not detailed in the provided documents. The policy outlines a number of actions and initiatives aimed at mitigating and adapting to climate change, many of which would require funding to implement. For instance, the policy mentions the development of a Renewable Energy Strategy, the improvement of energy efficiency, and the reduction of Greenhouse Gas Emissions. It also mentions the pursuit of funding opportunities for projects that build resilience to climate change. Furthermore, the policy includes a commitment to 'continually improving energy efficiency, reducing Greenhouse Gas Emissions and improving climate change resilience at all Council sites/assets.' This commitment implies that resources, including funding, will be allocated to these efforts. However, the policy does not provide specific details about the amount of funding that will be allocated, the sources of this funding, or how it will be distributed among the various initiatives.", "quote": {"content": "5.1.3.4 Actively pursue funding opportunities for projects within the Cessnock LGA that build resilience to climate change.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. It outlines the responsibilities of various roles within the council, including Council Officials, the General Manager, and Directors and Managers. These roles are tasked with familiarising themselves with the policy, considering climate change in decision making and operations, and integrating the policy's principles and commitments into their work. The General Manager is responsible for implementing the policy and ensuring regular reports are provided to the elected Council. Directors and Managers are responsible for supporting Council Officials in applying the strategies in the policy and ensuring compliance. This allocation of staff roles and responsibilities indicates a clear commitment to mobilising institutional resources for climate action.", "quote": {"content": "6.3 Directors and Managers \n6.3.1 All Directors and Managers are responsible for supporting Council Officials to \napply the strategies in this policy and for ensuring compliance with this policy 6.1 All Council Officials are responsible for:  \na) \nfamiliarising themselves with this policy; \nb) \nconsidering climate change in the IP&R framework, decision making, and \nday to day operations; and  \nc) \nIntegrating the five principles and policy commitments into day to day \noperations and decision making processes. 6.2 The General Manager \n6.2.1  The General Manager is responsible for the implementation of this policy and \nensuring regular reports are provided to the elected Council.", "page": 3, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The policy documents provide evidence of the local government's commitment to social mobilisation in relation to climate action. The policy outlines a strategy to engage with the community and other stakeholders in the development of the Climate Change Strategy. This engagement is aimed at enhancing the community\u2019s understanding and resilience to climate change risks. The policy also outlines plans to establish partnerships between the Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth. Furthermore, the policy commits to providing support and advice to those in the community who want to build resilience to climate change. These actions indicate a clear intention to empower and educate the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy. 5.1.2.2 Establish partnerships between Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a comprehensive approach that includes both technological solutions and behaviour change. For instance, the policy commits to developing a Greenhouse Gas Emissions inventory using regional data and establishing baselines for an incremental pathway to meet the net zero emissions target by 2050. This involves technological solutions such as monitoring and understanding climate change risks and their impact on ecological, social, economic, and physical built forms. The policy also includes behaviour change elements, such as engaging with the community and other stakeholders in the development of the Climate Change Strategy, and supporting initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. Therefore, the policy does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.", "quote": {"content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.4.1 Develop a Cessnock Greenhouse Gas Emissions inventory using regional data and establish baselines for an incremental pathway to meet the net zero emissions target by 2050. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to building climate resilience, which includes both mitigation and adaptation strategies. The policy commits to developing a Climate Change Strategy by June 2021, which will address climate change mitigation and adaptation and identify actions for building climate resilience. The policy also includes provisions for managing risks and building resilience by considering climate risks in Council\u2019s strategic planning process. This includes land use planning, the development of planning controls, and the development of guidelines to facilitate local investments. The policy also commits to actively pursuing funding opportunities for projects within the Cessnock LGA that build resilience to climate change. Furthermore, the policy aims to identify and pursue climate resilience opportunities through advancing technology, innovation, and continuous improvement in the planning and management of existing built and natural assets, infrastructure projects, and renewable resources.", "quote": {"content": "5.1.3.5 Identify and pursue climate resilience opportunities through advancing technology, innovation and continuous improvement in the planning and management of existing built and natural assets, infrastructure projects and renewable resources. 5.1.3 Managing Risks & Building ResilienceConsider climate risks in Council\u2019s strategic planning process - including land use planning, the development of planning controls and the development of guidelines to facilitate local investments. 5.1.3.4 Actively pursue funding opportunities for projects within the Cessnock LGA that build resilience to climate change.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a detailed plan for addressing climate change, with specific actions and targets. It adopts the NSW Government's target of achieving zero net emissions by 2050, and outlines a strategy to meet this target, including developing a Cessnock Greenhouse Gas Emissions inventory, preparing a Renewable Energy Strategy, and improving energy efficiency. The policy also includes measures to monitor and understand climate change risks, pursue funding opportunities for climate resilience projects, and engage with the community and other stakeholders in planning and implementing climate change actions. The policy is aligned with the principles of Ecologically Sustainable Development (ESD) and is supported by relevant legislation such as the Environmental Planning and Assessment Act 1979 (NSW) and the Local Government Act 1993 (NSW). However, while the policy is comprehensive and specific, it does not provide explicit sources or evidence to justify its targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various principles and actions related to climate change, such as adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy by June 2021, and engaging with the community and other stakeholders in the development of the Climate Change Strategy, it does not specify how the success of these actions will be measured. The policy does mention the need for regular monitoring to determine if strategies to reduce emissions are succeeding, but it does not provide specific criteria or indicators that will be used to evaluate this. Therefore, it is unclear how the local government will assess whether its climate change actions are effective or not."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The local government policy does indeed outline plans to conduct research within the local community to inform climate actions. The policy emphasizes a holistic and systematic approach to understanding climate change risks and their impact on various aspects of the community, including ecological, social, economic, and physical built forms. This approach suggests a comprehensive research effort to gather data and insights. Furthermore, the policy outlines plans to engage with the community and other stakeholders in the development of the Climate Change Strategy. This engagement process would likely involve research activities to understand community perspectives and needs. The policy also supports initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks, which again implies a research-informed approach.", "quote": {"content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.3.3 Establish a holistic and systematic approach to monitor and understand climate change risks and their impact on ecological, social, economic and physical built forms. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's climate change policy outlines a comprehensive approach to addressing climate change, including the development of a Climate Change Strategy, a Renewable Energy Strategy, and a Carbon Management & Energy Reduction Strategy. The policy also includes plans to actively pursue funding opportunities for projects that build resilience to climate change, and to identify and pursue climate resilience opportunities through advancing technology, innovation, and continuous improvement in the planning and management of existing built and natural assets, infrastructure projects, and renewable resources. The policy also commits to continually improving energy efficiency, reducing Greenhouse Gas Emissions, and improving climate change resilience at all Council sites/assets. This suggests a proactive and innovative approach to climate action, with a focus on both mitigation and adaptation strategies.", "quote": {"content": "5.1.4.4 Commit to continually improving energy efficiency, reducing Greenhouse Gas Emissions and improving climate change resilience at all Council sites/assets.", "page": 3, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the policy does outline a commitment to aligning its operational and strategic planning with NSW State policy, and it acknowledges the commitments made by the NSW and Australian Governments regarding Greenhouse Gas Emission reduction targets, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy does, however, express a commitment to engaging with the community and other stakeholders in the development of the Climate Change Strategy, and to establishing partnerships between Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The policy documents indeed encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a collaborative decision-making approach, which involves partnering with the community, businesses, and other stakeholders in planning and implementing climate change actions. This approach is likely to extend to neighbouring local councils, given the interconnected nature of climate change impacts and the need for coordinated action. The policy also emphasizes the importance of shared responsibility across all levels of government, council, community, and businesses in addressing climate change. This shared responsibility would naturally involve capacity building across these different entities. Furthermore, the policy commits to supporting community initiatives to deal with climate change, which would involve building local capacity. The policy also commits to providing support and advice to those in the community who want to build resilience to climate change.", "quote": {"content": "5.1.2.4 Council will provide support and advice to those in the community who want to build resilience to climate change. 5.1.1.3 Recognise the importance of shared responsibility across all levels of government, Council, community and businesses in addressing climate change and transitioning towards a net zero emissions region.", "page": 2, "source": "Cessnock-NSW-9.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the policy does emphasize the importance of collaboration and partnerships, it does not specify any particular entities or organizations. The policy mentions engaging with the community and other stakeholders in the development of the Climate Change Strategy, establishing partnerships between Council and the community, and supporting initiatives and education programs. However, these are general statements and do not refer to any specific regional associations or alliances. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the policy does mention community engagement, education programs, and shared responsibility across all levels of government, community, and businesses, it does not specifically address the differential impacts of climate change on vulnerable populations. The policy focuses more on mitigation strategies, reducing greenhouse gas emissions, and building resilience to climate change. It also emphasizes the importance of sustainable growth and investment opportunities. However, the policy does not delve into the social justice aspects of climate change, such as how climate change disproportionately affects certain communities, or strategies to ensure that climate change mitigation and adaptation efforts are equitable."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention principles of inter-generational equity and the importance of shared responsibility across all levels of government, community, and businesses in addressing climate change, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy focuses more on the mitigation of environmental damage, conservation of biodiversity, and reduction of greenhouse gas emissions. It also outlines strategies for community engagement, risk management, and energy efficiency. However, it does not delve into the specifics of how these actions will ensure equity and social justice in the distribution of climate benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 70.8}}
+{
+  "settings": {
+    "source_files": [
+      "Cessnock-NSW-10.pdf",
+      "Cessnock-NSW-9.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T16:25:01.526802",
+    "lga": "Cessnock"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed climate action. The policy objectives explicitly state that the policy is designed to enable the Council to align its operational and strategic planning with NSW State policy, which includes climate change mitigation and adaptation. The policy also aims to provide a whole of Council commitment to managing climate change risks within the Cessnock Local Government Area (LGA), support community initiatives to deal with climate change, and empower the Council as a leader for action on climate change. The policy also commits the Council to the Policy Commitments outlined in clause 5, which include adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy by June 2021, and recognising the importance of shared responsibility across all levels of government, Council, community and businesses in addressing climate change and transitioning towards a net zero emissions region."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The policy objectives outlined in the documents include aligning the council's operational and strategic planning with NSW State policy, managing climate change risks within the Cessnock Local Government Area, supporting community initiatives to deal with climate change, and empowering the council as a leader for action on climate change. The policy also commits the council to the Policy Commitments outlined in clause 5, which include adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy, recognising shared responsibility across all levels of government, and identifying and developing systems to consider Council\u2019s corporate climate change risks. The policy also outlines the roles and responsibilities of various council officials in implementing the policy and ensuring compliance."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a policy framework for addressing climate change, including the development of a Climate Change Strategy, a Renewable Energy Strategy, and a Carbon Management & Energy Reduction Strategy. The policy also includes commitments to reduce greenhouse gas emissions, improve energy efficiency, and build climate resilience. However, these actions are planned to be implemented over a longer timeframe, with some actions scheduled for completion by 2050. The language used in the documents does not convey a sense of urgency or immediacy. Instead, the focus is on systematic, strategic planning and gradual implementation of measures to mitigate and adapt to climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, it mentions the development of a Climate Change Strategy by June 2021, which is a clear and specific timeframe. This strategy is intended to address climate change mitigation and adaptation, and to identify actions for building climate resilience. The document also outlines responsibilities for various council officials, directors, and managers, indicating a structured approach to implementing the policy. Furthermore, the document refers to the NSW Government's target of achieving zero net emissions by 2050, which the council has adopted. This long-term goal provides a clear endpoint for the council's climate change mitigation efforts. Therefore, the document does provide specific timeframes for its climate change actions, both in the short term (June 2021) and in the long term (2050)."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents outline a comprehensive approach to addressing climate change, including setting emissions reduction targets, developing a climate change strategy, and integrating climate change considerations into decision-making processes, they do not explicitly prioritize these actions over other policy areas. The documents emphasize the importance of addressing climate change and outline various strategies and actions to do so, but they do not make a clear statement about the prioritization of these actions relative to other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The policy objectives outlined in the Climate Change Policy document clearly state that the policy is intended to enable the Council to align its operational and strategic planning with NSW State policy. This includes managing climate change risks within the Cessnock Local Government Area, supporting community initiatives to deal with climate change, and empowering the Council as a leader for action on climate change. The policy also outlines specific actions and strategies for achieving these objectives, such as developing a Climate Change Strategy, recognising shared responsibility across all levels of government, and integrating climate change planning within the Council\u2019s Integrated Management System. Furthermore, the policy applies to all Council functions and operations, and all Council officials are responsible for familiarising themselves with the policy, considering climate change in decision making and operations, and integrating the policy's principles and commitments into their work."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding amounts are not detailed in the provided documents. The policy outlines a number of actions and initiatives aimed at mitigating and adapting to climate change, many of which would require funding to implement. For instance, the policy mentions the development of a Renewable Energy Strategy, the improvement of energy efficiency, and the reduction of Greenhouse Gas Emissions. It also mentions the pursuit of funding opportunities for projects that build resilience to climate change. Furthermore, the policy includes a commitment to 'continually improving energy efficiency, reducing Greenhouse Gas Emissions and improving climate change resilience at all Council sites/assets.' This commitment implies that resources, including funding, will be allocated to these efforts. However, the policy does not provide specific details about the amount of funding that will be allocated, the sources of this funding, or how it will be distributed among the various initiatives.",
+          "quote": {
+            "content": "5.1.3.4 Actively pursue funding opportunities for projects within the Cessnock LGA that build resilience to climate change.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. It outlines the responsibilities of various roles within the council, including Council Officials, the General Manager, and Directors and Managers. These roles are tasked with familiarising themselves with the policy, considering climate change in decision making and operations, and integrating the policy's principles and commitments into their work. The General Manager is responsible for implementing the policy and ensuring regular reports are provided to the elected Council. Directors and Managers are responsible for supporting Council Officials in applying the strategies in the policy and ensuring compliance. This allocation of staff roles and responsibilities indicates a clear commitment to mobilising institutional resources for climate action.",
+          "quote": {
+            "content": "6.3 Directors and Managers \n6.3.1 All Directors and Managers are responsible for supporting Council Officials to \napply the strategies in this policy and for ensuring compliance with this policy 6.1 All Council Officials are responsible for:  \na) \nfamiliarising themselves with this policy; \nb) \nconsidering climate change in the IP&R framework, decision making, and \nday to day operations; and  \nc) \nIntegrating the five principles and policy commitments into day to day \noperations and decision making processes. 6.2 The General Manager \n6.2.1  The General Manager is responsible for the implementation of this policy and \nensuring regular reports are provided to the elected Council.",
+            "page": 3,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy documents provide evidence of the local government's commitment to social mobilisation in relation to climate action. The policy outlines a strategy to engage with the community and other stakeholders in the development of the Climate Change Strategy. This engagement is aimed at enhancing the community\u2019s understanding and resilience to climate change risks. The policy also outlines plans to establish partnerships between the Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth. Furthermore, the policy commits to providing support and advice to those in the community who want to build resilience to climate change. These actions indicate a clear intention to empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy. 5.1.2.2 Establish partnerships between Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a comprehensive approach that includes both technological solutions and behaviour change. For instance, the policy commits to developing a Greenhouse Gas Emissions inventory using regional data and establishing baselines for an incremental pathway to meet the net zero emissions target by 2050. This involves technological solutions such as monitoring and understanding climate change risks and their impact on ecological, social, economic, and physical built forms. The policy also includes behaviour change elements, such as engaging with the community and other stakeholders in the development of the Climate Change Strategy, and supporting initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. Therefore, the policy does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.",
+          "quote": {
+            "content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.4.1 Develop a Cessnock Greenhouse Gas Emissions inventory using regional data and establish baselines for an incremental pathway to meet the net zero emissions target by 2050. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to building climate resilience, which includes both mitigation and adaptation strategies. The policy commits to developing a Climate Change Strategy by June 2021, which will address climate change mitigation and adaptation and identify actions for building climate resilience. The policy also includes provisions for managing risks and building resilience by considering climate risks in Council\u2019s strategic planning process. This includes land use planning, the development of planning controls, and the development of guidelines to facilitate local investments. The policy also commits to actively pursuing funding opportunities for projects within the Cessnock LGA that build resilience to climate change. Furthermore, the policy aims to identify and pursue climate resilience opportunities through advancing technology, innovation, and continuous improvement in the planning and management of existing built and natural assets, infrastructure projects, and renewable resources.",
+          "quote": {
+            "content": "5.1.3.5 Identify and pursue climate resilience opportunities through advancing technology, innovation and continuous improvement in the planning and management of existing built and natural assets, infrastructure projects and renewable resources. 5.1.3 Managing Risks & Building ResilienceConsider climate risks in Council\u2019s strategic planning process - including land use planning, the development of planning controls and the development of guidelines to facilitate local investments. 5.1.3.4 Actively pursue funding opportunities for projects within the Cessnock LGA that build resilience to climate change.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for addressing climate change, with specific actions and targets. It adopts the NSW Government's target of achieving zero net emissions by 2050, and outlines a strategy to meet this target, including developing a Cessnock Greenhouse Gas Emissions inventory, preparing a Renewable Energy Strategy, and improving energy efficiency. The policy also includes measures to monitor and understand climate change risks, pursue funding opportunities for climate resilience projects, and engage with the community and other stakeholders in planning and implementing climate change actions. The policy is aligned with the principles of Ecologically Sustainable Development (ESD) and is supported by relevant legislation such as the Environmental Planning and Assessment Act 1979 (NSW) and the Local Government Act 1993 (NSW). However, while the policy is comprehensive and specific, it does not provide explicit sources or evidence to justify its targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various principles and actions related to climate change, such as adopting a Greenhouse Gas Emissions reduction target of net zero emissions by 2050, developing a Climate Change Strategy by June 2021, and engaging with the community and other stakeholders in the development of the Climate Change Strategy, it does not specify how the success of these actions will be measured. The policy does mention the need for regular monitoring to determine if strategies to reduce emissions are succeeding, but it does not provide specific criteria or indicators that will be used to evaluate this. Therefore, it is unclear how the local government will assess whether its climate change actions are effective or not."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The local government policy does indeed outline plans to conduct research within the local community to inform climate actions. The policy emphasizes a holistic and systematic approach to understanding climate change risks and their impact on various aspects of the community, including ecological, social, economic, and physical built forms. This approach suggests a comprehensive research effort to gather data and insights. Furthermore, the policy outlines plans to engage with the community and other stakeholders in the development of the Climate Change Strategy. This engagement process would likely involve research activities to understand community perspectives and needs. The policy also supports initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks, which again implies a research-informed approach.",
+          "quote": {
+            "content": "5.1.2.3 Support initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks. 5.1.3.3 Establish a holistic and systematic approach to monitor and understand climate change risks and their impact on ecological, social, economic and physical built forms. 5.1.2.1 Engage with the community and other stakeholders in the development of the Climate Change Strategy.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. While the policy does outline a number of strategies and actions to address climate change, including reducing greenhouse gas emissions, improving energy efficiency, and developing a climate change strategy, these are broad policy commitments and strategies rather than specific, small-scale experiments or pilot projects. The policy does not mention testing technologies, policies, or governance approaches on a small scale under real-world conditions, nor does it refer to pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the information provided, it cannot be concluded that the policy includes experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the policy does outline a commitment to aligning its operational and strategic planning with NSW State policy, and it acknowledges the commitments made by the NSW and Australian Governments regarding Greenhouse Gas Emission reduction targets, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy does, however, express a commitment to engaging with the community and other stakeholders in the development of the Climate Change Strategy, and to establishing partnerships between Council and the community with the goal of identifying investment opportunities for economic stability and sustainable growth."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The policy documents indeed encourage building local capacity across the council, local communities, and potentially neighbouring local councils for climate action. The policy outlines a collaborative decision-making approach, which involves partnering with the community, businesses, and other stakeholders in planning and implementing climate change actions. This approach is likely to extend to neighbouring local councils, given the interconnected nature of climate change impacts and the need for coordinated action. The policy also emphasizes the importance of shared responsibility across all levels of government, council, community, and businesses in addressing climate change. This shared responsibility would naturally involve capacity building across these different entities. Furthermore, the policy commits to supporting community initiatives to deal with climate change, which would involve building local capacity. The policy also commits to providing support and advice to those in the community who want to build resilience to climate change.",
+          "quote": {
+            "content": "5.1.2.4 Council will provide support and advice to those in the community who want to build resilience to climate change. 5.1.1.3 Recognise the importance of shared responsibility across all levels of government, Council, community and businesses in addressing climate change and transitioning towards a net zero emissions region.",
+            "page": 2,
+            "source": "Cessnock-NSW-9.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the policy does emphasize the importance of collaboration and partnerships, it does not specify any particular entities or organizations. The policy mentions engaging with the community and other stakeholders in the development of the Climate Change Strategy, establishing partnerships between Council and the community, and supporting initiatives and education programs. However, these are general statements and do not refer to any specific regional associations or alliances. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the policy does mention community engagement, education programs, and shared responsibility across all levels of government, community, and businesses, it does not specifically address the differential impacts of climate change on vulnerable populations. The policy focuses more on mitigation strategies, reducing greenhouse gas emissions, and building resilience to climate change. It also emphasizes the importance of sustainable growth and investment opportunities. However, the policy does not delve into the social justice aspects of climate change, such as how climate change disproportionately affects certain communities, or strategies to ensure that climate change mitigation and adaptation efforts are equitable."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention principles of inter-generational equity and the importance of shared responsibility across all levels of government, community, and businesses in addressing climate change, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy focuses more on the mitigation of environmental damage, conservation of biodiversity, and reduction of greenhouse gas emissions. It also outlines strategies for community engagement, risk management, and energy efficiency. However, it does not delve into the specifics of how these actions will ensure equity and social justice in the distribution of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70.8
+  }
+}

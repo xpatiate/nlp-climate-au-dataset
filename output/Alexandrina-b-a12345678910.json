@@ -1,1 +1,310 @@
-{"settings": {"source_files": ["Alexandrina-SA-70.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T11:20:18.076946", "lga": "Alexandrina"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Alexandrina Council's Environmental Action Plan 2014-2018, clearly identifies climate action as a core purpose. The policy outlines a comprehensive approach to addressing climate change, including strategies for reducing emissions, assessing impacts and risks, building resilience, planning for sustainable growth, and providing community leadership. The policy also emphasizes the importance of integrating climate change considerations into strategic planning, decision-making processes, and the management of Council infrastructure, assets, and services. Furthermore, the policy commits to monitoring scientific research about climate change projections, identifying and assessing climate change risks and opportunities relevant to Council assets, operations, and services, and identifying the coastal areas within the region which are most vulnerable to climate change. Therefore, it is evident that climate action is a central goal of the policy.", "quote": {"content": "Council\u2019s response to climate change will focus on matters we have clear roles and responsibilities for and which Council can directly control and/or influence.", "page": 51, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the existence of climate change and its impacts, such as higher temperatures, lower rainfall, sea level rise, and more extreme weather events. The document also recognizes the economic, social, and environmental reasons for responding to climate change sooner rather than later. It emphasizes the importance of understanding the likely impacts of climate change at a local level and identifying climate-related risks and opportunities for Council assets, operations, and services. The document also highlights the role of the Council in providing community leadership and building the capacity of the community to respond to climate change. It aims to reduce barriers and promote community behavior change in response to climate change.", "quote": {"content": "Council\u2019s response to climate change will focus on matters we have clear roles and responsibilities for and which Council can directly control and/or influence.", "page": 51, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does call for urgent action on climate change, although it does not use the exact phrase 'rapid and urgent'. The document acknowledges that climate change is already happening and that further changes are inevitable regardless of the rate of decline in global greenhouse gas emissions. It emphasizes the need to prepare for climate change impacts such as higher temperatures, lower rainfall, sea level rise, and more extreme weather events. The Council's response to climate change is focused on matters within its control and influence, integrating climate change considerations into strategic planning, decision-making processes, and management of infrastructure, assets, and natural areas. The document also outlines specific actions and timeframes for addressing climate change risks and opportunities, indicating a sense of urgency in implementing these measures.", "quote": {"content": "This means that as well as reducing emissions, we also need to prepare for climate change impacts such as higher temperatures, lower rainfall, sea level rise and more extreme weather events.", "page": 53, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a series of actions, each with a designated responsibility and timeframe. For instance, the document mentions the active participation in Regional Adaptation Planning processes as a short-term action, and the undertaking of a Coastal Hazard Study as a medium-term action. The document also mentions that actions are prioritised according to timeframe, with short term being 2014/15, medium term being 2015/16/17, and long term being 2017 and beyond. This indicates a clear sense of urgency and a structured approach to addressing climate change.", "quote": {"content": "Medium term = 2015/16/17. Actions are prioritised according to timeframe (Short term = 2014/15. Medium term = 2015/16/17.", "page": 11, "source": "Alexandrina-SA-70.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly prioritize it over other policies. The documents outline the local government's commitment to integrating climate change considerations into their strategic planning, decision-making processes, management of infrastructure, assets, and natural areas, and delivery of council functions and services. They also discuss the need to understand the likely impacts of climate change at a local level and to identify climate-related risks and opportunities for council assets, operations, and services. However, these actions are presented as part of a broader strategy, not as a prioritized emergency response."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to addressing climate change, including reducing greenhouse gas emissions, assessing impacts and risks, building resilience, planning for sustainable growth, and providing community leadership, they do not specifically mandate that all council activities must align with these climate change initiatives. The documents do indicate that the council will integrate climate change considerations into its strategic planning and decision-making processes, management of infrastructure, assets, and natural areas, and delivery of council functions and services. However, this does not necessarily mean that all activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the documents do outline various strategies and actions related to climate change, such as working with various organizations to develop and implement natural resource initiatives, and reviewing and updating the Interim Fleurieu Bushfire Area Management Plan, there is no specific mention of financial resources being allocated to these or other climate-related actions. The documents do mention that an internal Implementation Plan will be developed each financial year as part of the budgeting process, detailing which projects Council will prioritize in that particular year. However, this does not provide clear evidence of funding being specifically allocated for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a variety of roles and responsibilities across different levels of government in response to climate change. It also mentions that a variety of staff across all divisions of the Council will need to be responsible for, and involved in, implementing the strategies contained in the policy. This includes working with various committees and external agencies to develop and implement natural resource initiatives, review and update management plans, and increase the capacity of local ecosystems to adapt to climate change. The policy also mentions the need for staff training and the maintenance of relationships with external agencies as ongoing actions. Therefore, it is clear that the policy not only allocates staff to climate action but also provides for their training and development in this area.", "quote": {"content": "To effect real change a variety of staff across all divisions of Council will need to be responsible for, and involved in, implementing the strategies contained in this Chapter.", "page": 46, "source": "Alexandrina-SA-70.pdf", "search_score": 0.94}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively working to empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of strategies aimed at raising awareness and understanding of climate change impacts at a local level, providing information to businesses and households about how they can respond to climate change, and promoting the uptake of renewable energy. The policy also emphasizes the importance of community leadership and capacity building in responding to climate change, and outlines plans to reduce barriers to community action. Furthermore, the policy outlines plans to work with community-run centres and conservation groups to meet the community's information needs and promote environmental education. These strategies suggest a strong focus on social mobilization in the local government's approach to climate action.", "quote": {"content": "We will do this by helping to reduce barriers to community action.", "page": 56, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both technological solutions and behaviour change. Technological solutions are evident in the installation of a 16kw solar power system at the Goolwa Works Depot, which is expected to reduce greenhouse gas emissions by 25.5 tonnes per annum. The plan also mentions the incorporation of green building practices in the new Strathalbyn Library, Council and Community Centre. In terms of behaviour change, the plan emphasizes the need for the Council to lead by example in transitioning to a clean-energy future. This includes measuring and publicly reporting the Council's greenhouse gas emissions, setting an emissions reduction target, and reducing emissions through energy efficiency and renewable energy initiatives.", "quote": {"content": "Our aim: To lead by example by becoming a lower emissions Council.", "page": 52, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on building resilience, assessing impacts and risks, and identifying opportunities for innovation and economic development. The council has already taken significant action to build resilience to water scarcity, a key impact of climate change, by investing heavily in storm water and wastewater reuse infrastructure. The plan also includes specific actions such as participating in Regional Adaptation Planning processes, undertaking a Coastal Hazard Study, and developing a Regional Public Health Plan to manage the public health and social impacts of climate change. Furthermore, the council plans to integrate climate change considerations into its long-term financial and asset management plans, indicating a commitment to sustainable and resilient growth.", "quote": {"content": "The next challenge for Council is to comprehensively incorporate climate change considerations into our long-term financial and asset management plans. Council has already taken significant action to build our institutional resilience to one of the key impacts of climate change, namely water scarcity, by investing heavily in storm water and wastewater reuse infrastructure.", "page": 54, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies and actions related to climate change, such as reducing greenhouse gas emissions, assessing impacts and risks, building resilience, and planning for sustainable growth, it does not provide specific sources or evidence to justify these targets and actions. The policy mentions monitoring scientific research about climate change projections and documenting expected climate change impacts in the region, but it does not cite specific studies or data that have informed these actions. Furthermore, while the policy mentions key performance indicators (KPIs) to measure progress, it does not provide detailed information about these KPIs or how they were determined. Therefore, while the policy outlines a comprehensive approach to addressing climate change, it lacks the well-sourced evidence necessary to justify its targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a system of Key Performance Indicators (KPIs) against which progress will be measured. These KPIs are initially expressed as measures, with a view to progressing to performance targets over time. The plan also includes an annual reporting system to the Council, with the details of these reports made publicly available on the Council's website. This approach ensures transparency and accountability in the implementation of the plan. Furthermore, the plan includes a complete review process, set to be undertaken in 2018, which will likely assess the effectiveness of the implemented actions and inform the development of a further 5-year plan for the period 2019\u20132023.", "quote": {"content": "The details contained in the annual report will be made publicly available on Council\u2019s website. Each chapter of this Plan contains a number of key performance indicators (KPIs) against which we will measure our progress. The KPIs have initially been expressed as measures, which a view to progressing to performance targets over time. Progress against the KPIs, targets and actions contained in this Plan (and any new targets set) will be reported annually to Council.", "page": 12, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed outline plans to conduct research in the local community to inform climate actions. The policy emphasizes the importance of understanding the local impacts of climate change and identifying climate-related risks and opportunities for Council assets, operations, and services. The Council plans to monitor scientific research about climate change projections to build their understanding of the likely impacts of climate change at a local level. They also aim to ensure that climate change risks and opportunities relevant to Council assets, operations, and services are identified and assessed. Furthermore, the Council plans to help the community understand the likely impacts of climate change at a local level through awareness-raising and education activities. This indicates a commitment to research and information gathering at the local level to inform climate actions.", "quote": {"content": "Our aim: To understand the likely impacts of climate change at a local level and to identify climate-related risks and opportunities for Council assets, operations and services.", "page": 53, "source": "Alexandrina-SA-70.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the Alexandrina Council's Environmental Action Plan 2014-2018 does outline a comprehensive approach to addressing climate change, including reducing greenhouse gas emissions, assessing impacts and risks, building resilience, planning for sustainable growth, and providing community leadership, it does not explicitly mention or provide examples of innovative or experimental policies or actions. The plan does mention the need to identify opportunities for innovation and economic development in the face of climate change, but it does not provide specific details or examples of what these opportunities might be or how they might be pursued. Therefore, based on the provided documents, it cannot be conclusively stated that there is evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The Alexandrina Council's Environmental Action Plan 2014-2018 outlines the council's commitment to providing community leadership and building the capacity of the community to respond to climate change. This includes seeking to influence state and federal government climate change policy through effective advocacy and partnership projects. The council's approach is underpinned by principles that guide its decision-making, including focusing on matters it has clear roles and responsibilities for and which it can directly control and/or influence. This includes integrating climate change considerations into its strategic planning and decision-making processes, and its management of council infrastructure, assets, and natural areas."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines the council's commitment to providing community leadership and building the capacity of the community to respond to climate change. This is to be achieved by reducing barriers to community action, raising awareness of local climate change impacts and risks, and connecting the community with the information and skills they need to respond and adapt to climate change. The council also plans to support and participate in sector-wide climate change planning and research projects, and influence state and federal government climate change policy through effective advocacy and partnership projects. While the policy does not explicitly mention neighbouring local councils, the commitment to sector-wide projects and advocacy suggests a broader engagement beyond the local community."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do indeed refer to specific regional associations and partnerships related to climate change. The Alexandrina Council's Environmental Action Plan 2014-2018 outlines the council's commitment to collaborate with relevant state and federal government agencies, as well as other regional partners, to manage public health risks arising from climate change. The council also plans to work with regional partners to improve emergency management planning. Furthermore, the council is set to actively participate in the Regional Adaptation Planning processes led by SAMDBNRM and RDA Hills and Coasts. These actions demonstrate the council's commitment to fostering partnerships and alliances to address climate change at a regional level."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The policy documents do discuss the impact of climate change on vulnerable communities, albeit not in explicit terms of 'equity and social justice'. The documents highlight the local government's commitment to understanding the likely impacts of climate change at a local level and identifying climate-related risks and opportunities for Council assets, operations, and services. The policy also emphasizes the need to identify the coastal areas within the region that are most vulnerable to climate change. Furthermore, the policy outlines the Council's aim to help the community understand the likely impacts of climate change at a local level through awareness-raising and education activities. It also aims to help the community respond to climate change by providing information to businesses and households. However, the policy does not explicitly discuss the impact of climate change in terms of social justice or equity."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy documents do outline the local government's plans to address climate change, including identifying and assessing climate-related risks and opportunities, building resilience, and providing community leadership, they do not specifically address the equitable distribution of benefits and opportunities. The documents focus more on the practical aspects of climate change adaptation and mitigation, such as monitoring scientific research, identifying vulnerable areas, and integrating climate change considerations into council operations and services. There is no explicit mention of equity or social justice in the context of sharing the benefits and opportunities of a safe climate."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 75.0}}
+{
+  "settings": {
+    "source_files": [
+      "Alexandrina-SA-70.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T11:20:18.076946",
+    "lga": "Alexandrina"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Alexandrina Council's Environmental Action Plan 2014-2018, clearly identifies climate action as a core purpose. The policy outlines a comprehensive approach to addressing climate change, including strategies for reducing emissions, assessing impacts and risks, building resilience, planning for sustainable growth, and providing community leadership. The policy also emphasizes the importance of integrating climate change considerations into strategic planning, decision-making processes, and the management of Council infrastructure, assets, and services. Furthermore, the policy commits to monitoring scientific research about climate change projections, identifying and assessing climate change risks and opportunities relevant to Council assets, operations, and services, and identifying the coastal areas within the region which are most vulnerable to climate change. Therefore, it is evident that climate action is a central goal of the policy.",
+          "quote": {
+            "content": "Council\u2019s response to climate change will focus on matters we have clear roles and responsibilities for and which Council can directly control and/or influence.",
+            "page": 51,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the existence of climate change and its impacts, such as higher temperatures, lower rainfall, sea level rise, and more extreme weather events. The document also recognizes the economic, social, and environmental reasons for responding to climate change sooner rather than later. It emphasizes the importance of understanding the likely impacts of climate change at a local level and identifying climate-related risks and opportunities for Council assets, operations, and services. The document also highlights the role of the Council in providing community leadership and building the capacity of the community to respond to climate change. It aims to reduce barriers and promote community behavior change in response to climate change.",
+          "quote": {
+            "content": "Council\u2019s response to climate change will focus on matters we have clear roles and responsibilities for and which Council can directly control and/or influence.",
+            "page": 51,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does call for urgent action on climate change, although it does not use the exact phrase 'rapid and urgent'. The document acknowledges that climate change is already happening and that further changes are inevitable regardless of the rate of decline in global greenhouse gas emissions. It emphasizes the need to prepare for climate change impacts such as higher temperatures, lower rainfall, sea level rise, and more extreme weather events. The Council's response to climate change is focused on matters within its control and influence, integrating climate change considerations into strategic planning, decision-making processes, and management of infrastructure, assets, and natural areas. The document also outlines specific actions and timeframes for addressing climate change risks and opportunities, indicating a sense of urgency in implementing these measures.",
+          "quote": {
+            "content": "This means that as well as reducing emissions, we also need to prepare for climate change impacts such as higher temperatures, lower rainfall, sea level rise and more extreme weather events.",
+            "page": 53,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a series of actions, each with a designated responsibility and timeframe. For instance, the document mentions the active participation in Regional Adaptation Planning processes as a short-term action, and the undertaking of a Coastal Hazard Study as a medium-term action. The document also mentions that actions are prioritised according to timeframe, with short term being 2014/15, medium term being 2015/16/17, and long term being 2017 and beyond. This indicates a clear sense of urgency and a structured approach to addressing climate change.",
+          "quote": {
+            "content": "Medium term = 2015/16/17. Actions are prioritised according to timeframe (Short term = 2014/15. Medium term = 2015/16/17.",
+            "page": 11,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly prioritize it over other policies. The documents outline the local government's commitment to integrating climate change considerations into their strategic planning, decision-making processes, management of infrastructure, assets, and natural areas, and delivery of council functions and services. They also discuss the need to understand the likely impacts of climate change at a local level and to identify climate-related risks and opportunities for council assets, operations, and services. However, these actions are presented as part of a broader strategy, not as a prioritized emergency response."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to addressing climate change, including reducing greenhouse gas emissions, assessing impacts and risks, building resilience, planning for sustainable growth, and providing community leadership, they do not specifically mandate that all council activities must align with these climate change initiatives. The documents do indicate that the council will integrate climate change considerations into its strategic planning and decision-making processes, management of infrastructure, assets, and natural areas, and delivery of council functions and services. However, this does not necessarily mean that all activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the documents do outline various strategies and actions related to climate change, such as working with various organizations to develop and implement natural resource initiatives, and reviewing and updating the Interim Fleurieu Bushfire Area Management Plan, there is no specific mention of financial resources being allocated to these or other climate-related actions. The documents do mention that an internal Implementation Plan will be developed each financial year as part of the budgeting process, detailing which projects Council will prioritize in that particular year. However, this does not provide clear evidence of funding being specifically allocated for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a variety of roles and responsibilities across different levels of government in response to climate change. It also mentions that a variety of staff across all divisions of the Council will need to be responsible for, and involved in, implementing the strategies contained in the policy. This includes working with various committees and external agencies to develop and implement natural resource initiatives, review and update management plans, and increase the capacity of local ecosystems to adapt to climate change. The policy also mentions the need for staff training and the maintenance of relationships with external agencies as ongoing actions. Therefore, it is clear that the policy not only allocates staff to climate action but also provides for their training and development in this area.",
+          "quote": {
+            "content": "To effect real change a variety of staff across all divisions of Council will need to be responsible for, and involved in, implementing the strategies contained in this Chapter.",
+            "page": 46,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively working to empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of strategies aimed at raising awareness and understanding of climate change impacts at a local level, providing information to businesses and households about how they can respond to climate change, and promoting the uptake of renewable energy. The policy also emphasizes the importance of community leadership and capacity building in responding to climate change, and outlines plans to reduce barriers to community action. Furthermore, the policy outlines plans to work with community-run centres and conservation groups to meet the community's information needs and promote environmental education. These strategies suggest a strong focus on social mobilization in the local government's approach to climate action.",
+          "quote": {
+            "content": "We will do this by helping to reduce barriers to community action.",
+            "page": 56,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both technological solutions and behaviour change. Technological solutions are evident in the installation of a 16kw solar power system at the Goolwa Works Depot, which is expected to reduce greenhouse gas emissions by 25.5 tonnes per annum. The plan also mentions the incorporation of green building practices in the new Strathalbyn Library, Council and Community Centre. In terms of behaviour change, the plan emphasizes the need for the Council to lead by example in transitioning to a clean-energy future. This includes measuring and publicly reporting the Council's greenhouse gas emissions, setting an emissions reduction target, and reducing emissions through energy efficiency and renewable energy initiatives.",
+          "quote": {
+            "content": "Our aim: To lead by example by becoming a lower emissions Council.",
+            "page": 52,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on building resilience, assessing impacts and risks, and identifying opportunities for innovation and economic development. The council has already taken significant action to build resilience to water scarcity, a key impact of climate change, by investing heavily in storm water and wastewater reuse infrastructure. The plan also includes specific actions such as participating in Regional Adaptation Planning processes, undertaking a Coastal Hazard Study, and developing a Regional Public Health Plan to manage the public health and social impacts of climate change. Furthermore, the council plans to integrate climate change considerations into its long-term financial and asset management plans, indicating a commitment to sustainable and resilient growth.",
+          "quote": {
+            "content": "The next challenge for Council is to comprehensively incorporate climate change considerations into our long-term financial and asset management plans. Council has already taken significant action to build our institutional resilience to one of the key impacts of climate change, namely water scarcity, by investing heavily in storm water and wastewater reuse infrastructure.",
+            "page": 54,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies and actions related to climate change, such as reducing greenhouse gas emissions, assessing impacts and risks, building resilience, and planning for sustainable growth, it does not provide specific sources or evidence to justify these targets and actions. The policy mentions monitoring scientific research about climate change projections and documenting expected climate change impacts in the region, but it does not cite specific studies or data that have informed these actions. Furthermore, while the policy mentions key performance indicators (KPIs) to measure progress, it does not provide detailed information about these KPIs or how they were determined. Therefore, while the policy outlines a comprehensive approach to addressing climate change, it lacks the well-sourced evidence necessary to justify its targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a system of Key Performance Indicators (KPIs) against which progress will be measured. These KPIs are initially expressed as measures, with a view to progressing to performance targets over time. The plan also includes an annual reporting system to the Council, with the details of these reports made publicly available on the Council's website. This approach ensures transparency and accountability in the implementation of the plan. Furthermore, the plan includes a complete review process, set to be undertaken in 2018, which will likely assess the effectiveness of the implemented actions and inform the development of a further 5-year plan for the period 2019\u20132023.",
+          "quote": {
+            "content": "The details contained in the annual report will be made publicly available on Council\u2019s website. Each chapter of this Plan contains a number of key performance indicators (KPIs) against which we will measure our progress. The KPIs have initially been expressed as measures, which a view to progressing to performance targets over time. Progress against the KPIs, targets and actions contained in this Plan (and any new targets set) will be reported annually to Council.",
+            "page": 12,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does indeed outline plans to conduct research in the local community to inform climate actions. The policy emphasizes the importance of understanding the local impacts of climate change and identifying climate-related risks and opportunities for Council assets, operations, and services. The Council plans to monitor scientific research about climate change projections to build their understanding of the likely impacts of climate change at a local level. They also aim to ensure that climate change risks and opportunities relevant to Council assets, operations, and services are identified and assessed. Furthermore, the Council plans to help the community understand the likely impacts of climate change at a local level through awareness-raising and education activities. This indicates a commitment to research and information gathering at the local level to inform climate actions.",
+          "quote": {
+            "content": "Our aim: To understand the likely impacts of climate change at a local level and to identify climate-related risks and opportunities for Council assets, operations and services.",
+            "page": 53,
+            "source": "Alexandrina-SA-70.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents from the Alexandrina Council - Environmental Action Plan 2014-2018 do not provide clear evidence of policy experimentation in climate action. The documents outline the council's strategies and actions to address climate change, including identifying and assessing impacts, risks, and opportunities, building resilience, and integrating climate change considerations into strategic planning and decision-making processes. However, these actions do not explicitly involve testing technologies, policies, and governance approaches on a small scale and under real-world conditions, which would be indicative of policy experimentation. The documents also mention the council's commitment to monitoring scientific research about climate change projections and ensuring that climate change risks and opportunities are identified and assessed. However, these actions are more indicative of an evidence-based approach to policy-making rather than policy experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The Alexandrina Council's Environmental Action Plan 2014-2018 outlines the council's commitment to providing community leadership and building the capacity of the community to respond to climate change. This includes seeking to influence state and federal government climate change policy through effective advocacy and partnership projects. The council's approach is underpinned by principles that guide its decision-making, including focusing on matters it has clear roles and responsibilities for and which it can directly control and/or influence. This includes integrating climate change considerations into its strategic planning and decision-making processes, and its management of council infrastructure, assets, and natural areas."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Alexandrina Council's Environmental Action Plan 2014-2018 does explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines the council's commitment to providing community leadership and building the capacity of the community to respond to climate change. This is to be achieved by reducing barriers to community action, raising awareness of local climate change impacts and risks, and connecting the community with the information and skills they need to respond and adapt to climate change. The council also plans to support and participate in sector-wide climate change planning and research projects, and influence state and federal government climate change policy through effective advocacy and partnership projects. While the policy does not explicitly mention neighbouring local councils, the commitment to sector-wide projects and advocacy suggests a broader engagement beyond the local community."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do indeed refer to specific regional associations and partnerships related to climate change. The Alexandrina Council's Environmental Action Plan 2014-2018 outlines the council's commitment to collaborate with relevant state and federal government agencies, as well as other regional partners, to manage public health risks arising from climate change. The council also plans to work with regional partners to improve emergency management planning. Furthermore, the council is set to actively participate in the Regional Adaptation Planning processes led by SAMDBNRM and RDA Hills and Coasts. These actions demonstrate the council's commitment to fostering partnerships and alliances to address climate change at a regional level."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The policy documents do discuss the impact of climate change on vulnerable communities, albeit not in explicit terms of 'equity and social justice'. The documents highlight the local government's commitment to understanding the likely impacts of climate change at a local level and identifying climate-related risks and opportunities for Council assets, operations, and services. The policy also emphasizes the need to identify the coastal areas within the region that are most vulnerable to climate change. Furthermore, the policy outlines the Council's aim to help the community understand the likely impacts of climate change at a local level through awareness-raising and education activities. It also aims to help the community respond to climate change by providing information to businesses and households. However, the policy does not explicitly discuss the impact of climate change in terms of social justice or equity."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy documents do outline the local government's plans to address climate change, including identifying and assessing climate-related risks and opportunities, building resilience, and providing community leadership, they do not specifically address the equitable distribution of benefits and opportunities. The documents focus more on the practical aspects of climate change adaptation and mitigation, such as monitoring scientific research, identifying vulnerable areas, and integrating climate change considerations into council operations and services. There is no explicit mention of equity or social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 75.0
+  }
+}

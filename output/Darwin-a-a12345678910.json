@@ -1,1 +1,311 @@
-{"settings": {"source_files": ["Darwin-NT-55.pdf", "Darwin-NT-60.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T17:04:35.667444", "lga": "Darwin"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Climate Change Action Plan 2011-2020, clearly identifies climate action as its core purpose. The policy is designed to address climate change at the local government level, with a focus on both mitigation and adaptation strategies. The policy outlines specific actions to be taken by the council to reduce its carbon footprint, such as developing strategies for carbon emission reductions. It also includes measures to adapt to climate change, such as developing a best practice planting strategy for erosion control and habitat conservation. The policy also aims to provide the council and the public with objective information about climate change, indicating a commitment to education and awareness-raising. The policy's objectives include providing strong leadership in response to climate change and building a sustainable region, managing climate change risks, and reviewing climate change risks and impacts. Therefore, it is clear that climate action is the core purpose of this policy."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Action Plan 2011-2020, as outlined in the documents, is a strategic response to the challenges posed by climate change. The policy objectives explicitly state the need to provide effective leadership, develop and implement strategies to manage climate change risks, and provide objective information to assist in understanding the problem and potential solutions. The documents also highlight the need for ongoing review of climate change risks and impacts as further research information becomes available. The plan is described as a 'living document', indicating an understanding of the evolving nature of climate change and the need for adaptive strategies. The documents also mention specific actions such as reducing carbon footprint, improving air quality, and conserving biodiversity, further emphasizing the need for action.", "quote": {"content": "To develop and implement strategies designed to manage climate change risks to natural and human systems and the built environment within the municipality using a combination of sustainable adaptation and mitigation measures. To provide effective and strong leadership to the region to respond to climate change and build a sustainable region.", "page": 8, "source": "Darwin-NT-60.pdf", "search_score": 0.95}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the documents do outline a Climate Change Action Plan for 2011-2020, and mention the need for strong leadership and commitment to addressing climate change, they do not use language that conveys a sense of urgency or immediacy. The documents focus more on the establishment of long-term strategies, plans, and actions to address climate change, such as reducing carbon footprint, improving air quality, and increasing native vegetation. The documents also mention that the plan will be reviewed every three years and amendments will be made as necessary, suggesting a measured and ongoing approach rather than an urgent one."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 does provide specific timeframes for its intended actions on climate. The document outlines a series of actions, each with a designated performance indicator, responsibility, and timeframe. For instance, the document mentions the development of strategies for the Council to reduce its carbon footprint as an ongoing action under the responsibility of the Office of the Chief Executive. Similarly, the development of a Green Computer Policy is slated for the 2013/14 timeframe under Corporate Services. The document also mentions that the plan will be reviewed every three years and appropriated amendments made. This suggests a commitment to regular reassessment and adjustment of the plan in response to changing circumstances or new information, which indicates a sense of urgency in their climate action approach.", "quote": {"content": "Ongoing\nOffice of the \nChief Executive\nCouncil adopted strategies \nand targets for carbon \nemission reductions. C1.1  Number of strategies \nadopted and targets \nmet.", "page": 30, "source": "Darwin-NT-60.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the Climate Change Action Plan 2011-2020 clearly outlines the local government's commitment to addressing climate change, it does not explicitly prioritize this over other policies. The documents highlight various actions and strategies to mitigate and adapt to climate change, such as reducing carbon emissions, developing a water efficiency plan, and improving waste management practices. However, these are presented as part of a comprehensive plan rather than as a prioritized emergency response. The documents also mention the plan's flexibility to adapt to changing political and legislative environments, suggesting that its implementation may be influenced by other policy considerations."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents provide clear evidence that the council is committed to aligning all its activities with its climate policy. The Climate Change Action Plan 2011-2020 is described as a guiding document for council activities over the next decade, both for corporate and community actions. The plan is incorporated into strategic planning, decision-making processes, and operations of the council. It is also included in the council's central business plan and reporting system, and all actions within the plan have been incorporated into individual departmental business plans for completion. This suggests a comprehensive integration of the climate policy into all council activities. The Chief Executive Officer is tasked with leading a whole-of-council approach to climate change, which further indicates that all council activities are expected to align with the climate policy.", "quote": {"content": "All actions within the Action Plan have been incorporated into individual departmental business plans for completion. The Action Plan has been included in Council\u2019s central business plan and reporting system (Interplan\u00ae).", "page": 28, "source": "Darwin-NT-60.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 does allocate funding for climate action, albeit indirectly. The plan does not explicitly state the amount of funding allocated, but it does mention that the budget requirements and priorities contained in the plan will be assessed on an annual basis. Furthermore, the plan indicates that the Council will investigate the use of realized savings from energy efficiency initiatives to fund additional programs and actions. This suggests that there is a mechanism in place for mobilizing resources for climate action. However, the lack of specific details about the amount of funding and the exact mechanisms for its allocation may raise questions about the adequacy and effectiveness of the funding arrangements.", "quote": {"content": "Council will investigate the use of realised savings, resulting from the energy efficiency initiatives, to be reinvested to fund additional programs and actions.", "page": 28, "source": "Darwin-NT-60.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 does explicitly allocate staff resources to climate action. The plan outlines a variety of actions related to climate change mitigation and adaptation, and for each action, it assigns responsibility to a specific office or department within the local government. For instance, the Office of the Chief Executive is tasked with developing strategic partnerships for climate change initiatives, providing input into development proposals in relation to energy efficiency and climate change impacts, and monitoring and reporting on the council's energy usage and emissions. The Infrastructure department is responsible for encouraging energy efficient features in new public lighting design and providing input into development proposals in relation to energy efficiency and climate change impacts. These allocations of responsibility suggest that staff resources are being directed towards the implementation of the plan's climate actions.", "quote": {"content": "General knowledge of \nclimate change initiatives \nacross internal and external \nstakeholders is increased. C5.1  Strategic \npartnerships \ndeveloped \nOngoing\nOffice of the \nChief Executive\nInformation is shared and \ndisseminated between \npartners.", "page": 30, "source": "Darwin-NT-60.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 by the City of Darwin does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of community actions aimed at reducing energy consumption and promoting sustainable practices. These include providing information and tools to assist in reducing energy consumption, promoting the benefits of carpooling, biking, walking, and public transport use, and advocating for sustainable public transport systems. The policy also includes a commitment to develop public education displays for libraries and public events around climate change issues. Furthermore, the policy emphasizes the importance of strategic partnerships for climate change initiatives, indicating a commitment to fostering community collaboration and engagement in climate action. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "Develop strategic partnerships for climate change initiatives.", "page": 32, "source": "Darwin-NT-55.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 by the local government does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its strategy. For instance, the plan includes corporate actions such as developing strategies for the Council to reduce its carbon footprint, which is a clear indication of a commitment to technological solutions. Additionally, the plan also includes community actions such as promoting the benefits of car-pooling, biking, walking, and public transport use in the community, which are indicative of promoting behaviour change. However, while the plan does outline these actions, it does not provide specific details on how these strategies will be implemented or the expected impact of these actions on greenhouse gas emissions.", "quote": {"content": "Increased uptake of green travel methods. CME6 Promote the benefits of car-pooling, biking, walking and public transport use in the community.", "page": 42, "source": "Darwin-NT-60.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 does include specific actions for climate adaptation and resilience. The plan outlines a variety of actions under the categories of 'Mitigation' and 'Adaptation'. For instance, the plan includes actions such as developing public education displays around climate change issues, providing information and tools to assist in reducing energy consumption within the community, and developing strategies for the Council to reduce its carbon footprint. These actions are aimed at both mitigating the effects of climate change and adapting to its impacts. The plan also assigns responsibility for these actions to specific offices, such as the Office of the Chief Executive, and sets performance indicators to measure the success of these actions. This suggests a clear commitment to implementing these actions and achieving the goals of climate adaptation and resilience.", "quote": {"content": "CMC2.1  Number of programs and products CMC1.1  Number of public displays and events participated in Ongoing Office of the Chief Executive Community awareness of climate change issues and associated challenges is increased. CMC1.1  Number of public displays and events participated in Ongoing Office of the Chief Executive Community awareness of climate change issues and associated challenges is increased. Adaptation CMC2 Provide information and tools to assist reduction of energy consumption within the community.", "page": 38, "source": "Darwin-NT-55.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions outlined in the Climate Change Action Plan 2011-2020. While the documents mention the existence of a plan and its general objectives, they do not provide specific, evidence-based justifications for the targets and actions. The documents mention the plan's intention to reduce carbon emissions, improve water efficiency, and enhance waste management practices, among other things. However, they do not provide any data, research, or other forms of evidence to support these actions or to explain why these particular actions were chosen. Furthermore, the documents do not provide any information on how the effectiveness of these actions will be measured or evaluated. Therefore, based on the provided documents, it cannot be confirmed that the plan is based on well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Climate Change Action Plan 2011-2020 does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each with a corresponding performance indicator, time frame, responsibility, and expected outcome. For instance, the plan proposes to 'lobby for external scientific approaches to improve and monitor air quality' with the performance indicator being the 'number of lobbying activities undertaken'. The responsibility for this action lies with the Office of the Chief Executive and the expected outcome is an 'increased understanding of air quality issues'. This approach is consistent across the plan, providing a clear framework for evaluating the success of each action based on measurable outcomes. Furthermore, the plan is described as a 'living document', suggesting that it will be updated and modified as necessary, reflecting an ongoing commitment to monitoring and evaluation.", "quote": {"content": "Air quality is monitored. Action \nPerformance Indicator \nTime \nFrame \nResponsibility \nOutcome \nAdaptation \n \n \n \n \nA1 \nLobby for external scientific \napproaches to improve and \nmonitor air quality. A1.1  Number of lobbying activities \nundertaken. Ongoing \nOffice of the \nChief Executive \nCouncil has an increased understanding of air quality issues.", "page": 32, "source": "Darwin-NT-60.pdf", "search_score": 0.97}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Climate Change Action Plan 2011-2020 outlines various actions and strategies to address climate change, including public education, reduction of energy consumption, and development of strategies to reduce the council's carbon footprint. However, these actions appear to be based on existing knowledge and do not explicitly mention conducting new research within the local community. The documents do mention that the Action Plan is a 'living document' and will be reviewed and amended every three years, considering new information released by governments and research organisations. However, this does not necessarily imply that new research will be conducted within the local community."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Climate Change Action Plan 2011-2020 is described as a 'living document' that will be reviewed every three years and amended as necessary. It outlines various actions, performance indicators, time frames, responsibilities, and expected outcomes related to climate change, air quality, biodiversity, and other environmental factors. However, these actions appear to be standard responses to climate change, such as developing strategies to reduce carbon footprint, improving air quality, and increasing native vegetation. There is no explicit mention of innovative or experimental approaches to climate action. The documents also mention the development of a new Climate Change and Environment Community Grant Program, but no details are provided about the nature of this program or whether it involves innovative or experimental strategies. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents provided do indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Change Action Plan 2011-2020 outlines several actions that involve lobbying or advocating to higher levels of government. For instance, the document mentions the action of lobbying for external scientific approaches to improve and monitor air quality. Another action involves advocating for sustainable public transport systems. These actions indicate a clear intent to engage with and influence state and national governments in the pursuit of climate action. The plan also emphasizes the importance of partnerships between government, business, and the community in addressing climate change, further indicating a commitment to advocacy and coordination at multiple levels of governance."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to providing leadership and education to assist citizens and businesses in understanding and accepting their responsibilities to address climate change. The policy also emphasizes the importance of strategic partnerships for climate change initiatives, and the council's commitment to working in partnership with the Australian and Northern Territory Governments, environmental organisations, scientific and tertiary institutions, indigenous and community interests. The policy also acknowledges the importance of addressing climate change within its sphere of influence, which includes the land and water managed by adjoining local governments. Therefore, the policy not only encourages building local capacity within the council and their local communities, but also extends this to neighbouring local councils.", "quote": {"content": "Council acknowledges and respects the importance of addressing climate change and environmental priorities in a way that is not only beneficial for the organisation and community but also for the land and water managed by adjoining Local Governments, the Australian and Northern Territory Governments, and the Larrakia people.", "page": 6, "source": "Darwin-NT-60.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention the development of strategic partnerships for climate change initiatives and the building of partnerships with external agencies for community education campaigns, they do not provide any specific details about who these partnerships are with. The documents also mention lobbying activities and advocacy, but again, no specific entities are named. Therefore, based on the provided documents, it cannot be confirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for local government to prepare for climate change impacts, and the importance of sustainable adaptation and mitigation measures, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus more on the general impacts of climate change, such as sea level rise, temperature increases, and severe cyclones, and the need for infrastructure to be designed to accommodate these changes. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various initiatives and strategies related to climate change, such as increasing community awareness, developing strategic partnerships, and implementing energy-efficient measures, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus more on the practical aspects of addressing climate change, such as reducing greenhouse gas emissions, increasing energy efficiency, and developing climate change related projects and programs. However, they do not delve into the social justice implications of these actions or how the benefits of a safe climate can be shared equitably among different groups within the community."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 69.2}}
+{
+  "settings": {
+    "source_files": [
+      "Darwin-NT-55.pdf",
+      "Darwin-NT-60.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T17:04:35.667444",
+    "lga": "Darwin"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Change Action Plan 2011-2020, clearly identifies climate action as its core purpose. The policy is designed to address climate change at the local government level, with a focus on both mitigation and adaptation strategies. The policy outlines specific actions to be taken by the council to reduce its carbon footprint, such as developing strategies for carbon emission reductions. It also includes measures to adapt to climate change, such as developing a best practice planting strategy for erosion control and habitat conservation. The policy also aims to provide the council and the public with objective information about climate change, indicating a commitment to education and awareness-raising. The policy's objectives include providing strong leadership in response to climate change and building a sustainable region, managing climate change risks, and reviewing climate change risks and impacts. Therefore, it is clear that climate action is the core purpose of this policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Action Plan 2011-2020, as outlined in the documents, is a strategic response to the challenges posed by climate change. The policy objectives explicitly state the need to provide effective leadership, develop and implement strategies to manage climate change risks, and provide objective information to assist in understanding the problem and potential solutions. The documents also highlight the need for ongoing review of climate change risks and impacts as further research information becomes available. The plan is described as a 'living document', indicating an understanding of the evolving nature of climate change and the need for adaptive strategies. The documents also mention specific actions such as reducing carbon footprint, improving air quality, and conserving biodiversity, further emphasizing the need for action.",
+          "quote": {
+            "content": "To develop and implement strategies designed to manage climate change risks to natural and human systems and the built environment within the municipality using a combination of sustainable adaptation and mitigation measures. To provide effective and strong leadership to the region to respond to climate change and build a sustainable region.",
+            "page": 8,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the documents do outline a Climate Change Action Plan for 2011-2020, and mention the need for strong leadership and commitment to addressing climate change, they do not use language that conveys a sense of urgency or immediacy. The documents focus more on the establishment of long-term strategies, plans, and actions to address climate change, such as reducing carbon footprint, improving air quality, and increasing native vegetation. The documents also mention that the plan will be reviewed every three years and amendments will be made as necessary, suggesting a measured and ongoing approach rather than an urgent one."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 does provide specific timeframes for its intended actions on climate. The document outlines a series of actions, each with a designated performance indicator, responsibility, and timeframe. For instance, the document mentions the development of strategies for the Council to reduce its carbon footprint as an ongoing action under the responsibility of the Office of the Chief Executive. Similarly, the development of a Green Computer Policy is slated for the 2013/14 timeframe under Corporate Services. The document also mentions that the plan will be reviewed every three years and appropriated amendments made. This suggests a commitment to regular reassessment and adjustment of the plan in response to changing circumstances or new information, which indicates a sense of urgency in their climate action approach.",
+          "quote": {
+            "content": "Ongoing\nOffice of the \nChief Executive\nCouncil adopted strategies \nand targets for carbon \nemission reductions. C1.1  Number of strategies \nadopted and targets \nmet.",
+            "page": 30,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the Climate Change Action Plan 2011-2020 clearly outlines the local government's commitment to addressing climate change, it does not explicitly prioritize this over other policies. The documents highlight various actions and strategies to mitigate and adapt to climate change, such as reducing carbon emissions, developing a water efficiency plan, and improving waste management practices. However, these are presented as part of a comprehensive plan rather than as a prioritized emergency response. The documents also mention the plan's flexibility to adapt to changing political and legislative environments, suggesting that its implementation may be influenced by other policy considerations."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the council is committed to aligning all its activities with its climate policy. The Climate Change Action Plan 2011-2020 is described as a guiding document for council activities over the next decade, both for corporate and community actions. The plan is incorporated into strategic planning, decision-making processes, and operations of the council. It is also included in the council's central business plan and reporting system, and all actions within the plan have been incorporated into individual departmental business plans for completion. This suggests a comprehensive integration of the climate policy into all council activities. The Chief Executive Officer is tasked with leading a whole-of-council approach to climate change, which further indicates that all council activities are expected to align with the climate policy.",
+          "quote": {
+            "content": "All actions within the Action Plan have been incorporated into individual departmental business plans for completion. The Action Plan has been included in Council\u2019s central business plan and reporting system (Interplan\u00ae).",
+            "page": 28,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 does allocate funding for climate action, albeit indirectly. The plan does not explicitly state the amount of funding allocated, but it does mention that the budget requirements and priorities contained in the plan will be assessed on an annual basis. Furthermore, the plan indicates that the Council will investigate the use of realized savings from energy efficiency initiatives to fund additional programs and actions. This suggests that there is a mechanism in place for mobilizing resources for climate action. However, the lack of specific details about the amount of funding and the exact mechanisms for its allocation may raise questions about the adequacy and effectiveness of the funding arrangements.",
+          "quote": {
+            "content": "Council will investigate the use of realised savings, resulting from the energy efficiency initiatives, to be reinvested to fund additional programs and actions.",
+            "page": 28,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 does explicitly allocate staff resources to climate action. The plan outlines a variety of actions related to climate change mitigation and adaptation, and for each action, it assigns responsibility to a specific office or department within the local government. For instance, the Office of the Chief Executive is tasked with developing strategic partnerships for climate change initiatives, providing input into development proposals in relation to energy efficiency and climate change impacts, and monitoring and reporting on the council's energy usage and emissions. The Infrastructure department is responsible for encouraging energy efficient features in new public lighting design and providing input into development proposals in relation to energy efficiency and climate change impacts. These allocations of responsibility suggest that staff resources are being directed towards the implementation of the plan's climate actions.",
+          "quote": {
+            "content": "General knowledge of \nclimate change initiatives \nacross internal and external \nstakeholders is increased. C5.1  Strategic \npartnerships \ndeveloped \nOngoing\nOffice of the \nChief Executive\nInformation is shared and \ndisseminated between \npartners.",
+            "page": 30,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 by the City of Darwin does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of community actions aimed at reducing energy consumption and promoting sustainable practices. These include providing information and tools to assist in reducing energy consumption, promoting the benefits of carpooling, biking, walking, and public transport use, and advocating for sustainable public transport systems. The policy also includes a commitment to develop public education displays for libraries and public events around climate change issues. Furthermore, the policy emphasizes the importance of strategic partnerships for climate change initiatives, indicating a commitment to fostering community collaboration and engagement in climate action. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Develop strategic partnerships for climate change initiatives.",
+            "page": 32,
+            "source": "Darwin-NT-55.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 by the local government does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines both technological solutions and behaviour change as part of its strategy. For instance, the plan includes corporate actions such as developing strategies for the Council to reduce its carbon footprint, which is a clear indication of a commitment to technological solutions. Additionally, the plan also includes community actions such as promoting the benefits of car-pooling, biking, walking, and public transport use in the community, which are indicative of promoting behaviour change. However, while the plan does outline these actions, it does not provide specific details on how these strategies will be implemented or the expected impact of these actions on greenhouse gas emissions.",
+          "quote": {
+            "content": "Increased uptake of green travel methods. CME6 Promote the benefits of car-pooling, biking, walking and public transport use in the community.",
+            "page": 42,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 does include specific actions for climate adaptation and resilience. The plan outlines a variety of actions under the categories of 'Mitigation' and 'Adaptation'. For instance, the plan includes actions such as developing public education displays around climate change issues, providing information and tools to assist in reducing energy consumption within the community, and developing strategies for the Council to reduce its carbon footprint. These actions are aimed at both mitigating the effects of climate change and adapting to its impacts. The plan also assigns responsibility for these actions to specific offices, such as the Office of the Chief Executive, and sets performance indicators to measure the success of these actions. This suggests a clear commitment to implementing these actions and achieving the goals of climate adaptation and resilience.",
+          "quote": {
+            "content": "CMC2.1  Number of programs and products CMC1.1  Number of public displays and events participated in Ongoing Office of the Chief Executive Community awareness of climate change issues and associated challenges is increased. CMC1.1  Number of public displays and events participated in Ongoing Office of the Chief Executive Community awareness of climate change issues and associated challenges is increased. Adaptation CMC2 Provide information and tools to assist reduction of energy consumption within the community.",
+            "page": 38,
+            "source": "Darwin-NT-55.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions outlined in the Climate Change Action Plan 2011-2020. While the documents mention the existence of a plan and its general objectives, they do not provide specific, evidence-based justifications for the targets and actions. The documents mention the plan's intention to reduce carbon emissions, improve water efficiency, and enhance waste management practices, among other things. However, they do not provide any data, research, or other forms of evidence to support these actions or to explain why these particular actions were chosen. Furthermore, the documents do not provide any information on how the effectiveness of these actions will be measured or evaluated. Therefore, based on the provided documents, it cannot be confirmed that the plan is based on well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Change Action Plan 2011-2020 does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each with a corresponding performance indicator, time frame, responsibility, and expected outcome. For instance, the plan proposes to 'lobby for external scientific approaches to improve and monitor air quality' with the performance indicator being the 'number of lobbying activities undertaken'. The responsibility for this action lies with the Office of the Chief Executive and the expected outcome is an 'increased understanding of air quality issues'. This approach is consistent across the plan, providing a clear framework for evaluating the success of each action based on measurable outcomes. Furthermore, the plan is described as a 'living document', suggesting that it will be updated and modified as necessary, reflecting an ongoing commitment to monitoring and evaluation.",
+          "quote": {
+            "content": "Air quality is monitored. Action \nPerformance Indicator \nTime \nFrame \nResponsibility \nOutcome \nAdaptation \n \n \n \n \nA1 \nLobby for external scientific \napproaches to improve and \nmonitor air quality. A1.1  Number of lobbying activities \nundertaken. Ongoing \nOffice of the \nChief Executive \nCouncil has an increased understanding of air quality issues.",
+            "page": 32,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Climate Change Action Plan 2011-2020 outlines various actions and strategies to address climate change, including public education, reduction of energy consumption, and development of strategies to reduce the council's carbon footprint. However, these actions appear to be based on existing knowledge and do not explicitly mention conducting new research within the local community. The documents do mention that the Action Plan is a 'living document' and will be reviewed and amended every three years, considering new information released by governments and research organisations. However, this does not necessarily imply that new research will be conducted within the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the Climate Change Action Plan 2011-2020 does outline various strategies and actions to address climate change, these are not explicitly described as experiments, pilots, initiatives, test beds, demonstration projects, or urban laboratories. The plan does mention the development of strategies to reduce the council's carbon footprint, the implementation of a water efficiency plan, and the development of a Green Computer Policy, among other actions. However, these are presented as planned actions rather than experimental initiatives to be tested on a small scale under real-world conditions. Therefore, based on the provided documents, it cannot be conclusively stated that the policy includes experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents provided do indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Change Action Plan 2011-2020 outlines several actions that involve lobbying or advocating to higher levels of government. For instance, the document mentions the action of lobbying for external scientific approaches to improve and monitor air quality. Another action involves advocating for sustainable public transport systems. These actions indicate a clear intent to engage with and influence state and national governments in the pursuit of climate action. The plan also emphasizes the importance of partnerships between government, business, and the community in addressing climate change, further indicating a commitment to advocacy and coordination at multiple levels of governance."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to providing leadership and education to assist citizens and businesses in understanding and accepting their responsibilities to address climate change. The policy also emphasizes the importance of strategic partnerships for climate change initiatives, and the council's commitment to working in partnership with the Australian and Northern Territory Governments, environmental organisations, scientific and tertiary institutions, indigenous and community interests. The policy also acknowledges the importance of addressing climate change within its sphere of influence, which includes the land and water managed by adjoining local governments. Therefore, the policy not only encourages building local capacity within the council and their local communities, but also extends this to neighbouring local councils.",
+          "quote": {
+            "content": "Council acknowledges and respects the importance of addressing climate change and environmental priorities in a way that is not only beneficial for the organisation and community but also for the land and water managed by adjoining Local Governments, the Australian and Northern Territory Governments, and the Larrakia people.",
+            "page": 6,
+            "source": "Darwin-NT-60.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention the development of strategic partnerships for climate change initiatives and the building of partnerships with external agencies for community education campaigns, they do not provide any specific details about who these partnerships are with. The documents also mention lobbying activities and advocacy, but again, no specific entities are named. Therefore, based on the provided documents, it cannot be confirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for local government to prepare for climate change impacts, and the importance of sustainable adaptation and mitigation measures, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus more on the general impacts of climate change, such as sea level rise, temperature increases, and severe cyclones, and the need for infrastructure to be designed to accommodate these changes. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various initiatives and strategies related to climate change, such as increasing community awareness, developing strategic partnerships, and implementing energy-efficient measures, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus more on the practical aspects of addressing climate change, such as reducing greenhouse gas emissions, increasing energy efficiency, and developing climate change related projects and programs. However, they do not delve into the social justice implications of these actions or how the benefits of a safe climate can be shared equitably among different groups within the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 69.2
+  }
+}

@@ -1,1 +1,286 @@
-{"settings": {"source_files": ["LowerEyre-SA-89.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T10:46:17.636901", "lga": "LowerEyre"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the 'Regional Climate Change Adaptation Plan for the Eyre Peninsula', clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the region's people, economy, and environment. It outlines a strategic approach to adaptation planning, focusing on long-term decisions and the concept of decision lifetimes. The policy also emphasizes the need for cross-sectoral collaboration and the use of scientific research in decision-making. It identifies specific areas for action, such as fisheries, agriculture, and infrastructure, and proposes the development of adaptation pathways to respond to changing circumstances over time. Therefore, the policy's primary goal is to guide the region's adaptation to climate change, making climate action its core purpose.", "quote": {"content": "This plan provides those sectors with a benchmark planning process to guide their own adaptation assessments. Many actions under this plan will need to be implemented or further prioritised by individual sectors.", "page": 15, "source": "LowerEyre-SA-89.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. It acknowledges the consensus among scientists and nations about the reality of climate change, attributing it to the release of greenhouse gases like carbon dioxide, methane, and nitrous oxide. The document also outlines the potential impacts of climate change on the region, including changes to the region's people, economy, and environment. It emphasizes the need for adaptation planning to build resilience to a different future climate and to identify the opportunities presented by it. The document also highlights the need for a coordinated regional and cross-sectoral approach to the development and implementation of climate change adaptation actions. It further notes that in the medium and longer term, adaptation will require protect and retreat strategies and transformation of some sectors.", "quote": {"content": "However, there are a number of actions that will continue to require a coordinated regional and cross sectoral approach to development and implementation. This plan provides those sectors with a benchmark planning process to guide their own adaptation assessments.", "page": 15, "source": "LowerEyre-SA-89.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They do acknowledge the existence of climate change, its causes, and its potential impacts. They also outline some strategies for adaptation and resilience, such as improved monitoring and forecasting, and the development of an Integrated Management Strategy for Spencer Gulf. However, these strategies are presented as long-term plans and do not convey a sense of urgency. The documents also mention the need for preliminary work on long timeframe actions, but this is not framed as an urgent requirement. Instead, the documents emphasize the ongoing and long-term nature of climate change and the need for progressive, staged decision-making."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. It discusses the concept of 'decision lifetimes', which is the time taken to make a decision plus the duration of that decision\u2019s implications. It differentiates between short-term decisions (5-10 years) and long-term decisions (>70-80 years). For instance, it mentions that annual crops like wheat and canola are planned, planted, and harvested within a year, and therefore the future climate in 2030 or 2070 will have little bearing on the outcome of that decision this year. In contrast, a new suburb is likely to still be in place in 100 years or more and should therefore consider the corresponding future climate projections for its region. The document also mentions that some adaptation options within sectors will need preliminary work to commence soon if the adaptation options are to be in place by the time they are required to adapt to future climate change impacts.", "quote": {"content": "> 70-80 years) equivalent to the timing of some of the major projected impacts of climate change. In contrast, there are decisions made today that have long lifetimes (e.g.", "page": 38, "source": "LowerEyre-SA-89.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change adaptation planning and outline various strategies and actions to address climate change impacts. These include cross-sectoral actions, long timeframe actions, improved awareness of climate change issues, and engagement with Aboriginal people. However, these actions are presented as part of a comprehensive plan, not as a higher priority over other policies. The documents also mention the need for adaptation actions to align with community values and regional policies, suggesting a balanced approach rather than a prioritisation of climate change responses over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change adaptation. These include identifying areas impacted by sea level rise and coastal inundation, incorporating the impacts of sea level rise into asset and infrastructure management plans, and developing regional adaptation plans. The documents also mention the need for cross-sectoral actions and the development of an Integrated Management Strategy for Spencer Gulf and a Regional Transport Infrastructure Plan. However, these actions and strategies are not explicitly stated as requirements for all council activities. Therefore, while the documents suggest that climate change adaptation is a priority for the council, they do not explicitly state that all council activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the plan does outline various actions and strategies for climate change adaptation, such as investing in adaptation and mitigation actions, promoting sectoral planning activities, and implementing major infrastructure initiatives, there is no specific mention of how these actions will be funded. The documents discuss the need for individual sectors to prioritize and implement actions under the plan, and for a coordinated regional and cross-sectoral approach to development and implementation. However, the specifics of resource mobilization, particularly in terms of financial resources, are not detailed. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. The documents discuss the need for adaptation planning, the importance of cross-sectoral interactions, and the need for a regional governance approach. They also mention the importance of training the next generation of industry and community leaders and improving awareness of climate change issues. However, these references do not specifically address the allocation of institutional resources such as staff time or expertise. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents provided do not offer clear evidence of active empowerment and education of the community to rally, support, and work productively together to deliver climate action. While the documents discuss the importance of planning and adaptation in response to climate change, they do not explicitly mention social mobilisation or community empowerment. The documents do mention the involvement of key regional stakeholders and community members in the development of the plan, but this does not necessarily equate to active empowerment and education of the community as a whole. Therefore, based on the provided documents, it cannot be affirmed that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents primarily focus on the impacts of climate change and the adaptation strategies to these impacts at a regional level. They discuss the need for an adaptation pathways approach, the potential impacts of climate change on the Eyre Peninsula, and the need for strategic planning within and across sectors. However, they do not explicitly mention any specific actions or strategies for the mitigation of greenhouse gas emissions. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The plan does indeed include specific actions for climate adaptation and resilience. It outlines a benchmark planning process to guide individual sectors in their adaptation assessments. The plan also emphasizes the need for a coordinated regional and cross-sectoral approach to development and implementation. It identifies key issues and areas of decision-making, such as agriculture, fisheries, and coastal development, and proposes strategies for each. For instance, in the short term, a strategic transport plan is required to manage the demands on regional transport infrastructure, and in the long term, design allowances need to be made for increasing frequency of extreme events. The plan also highlights the need for continued adoption of current best practices within sectors, integrated strategic planning initiatives, and revising development plan policy.", "quote": {"content": "In the short term, regional scale \nadaptation will likely focus on \ncontinued adoption of current best \npractice within sectors, integrated \nstrategic planning initiatives and \nrevising development plan policy.", "page": 64, "source": "LowerEyre-SA-89.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the need for climate change adaptation and planning, they do not provide specific, well-sourced evidence to justify the targets and actions proposed. The documents mention the need for individual sectors to implement actions and prioritize them, but they do not provide specific details about what these actions are, how they were chosen, or why they are necessary. The documents also mention the need for a coordinated regional and cross-sectoral approach, but again, they do not provide specific details or evidence to support this approach. Furthermore, the documents do not provide any references or sources to support their claims about climate change and its impacts on the region. Therefore, based on the provided documents, it cannot be affirmed that the local government's planned actions are based on well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's climate change adaptation plan does not provide specific measurable criteria to evaluate the success of its proposed actions. The plan outlines various actions such as investing in adaptation planning processes, promoting sectoral planning activities, developing appropriate planning policies, and implementing education programs in emergency flood management. However, it does not provide clear, quantifiable metrics or benchmarks to assess the effectiveness of these actions. The plan emphasizes the need for cross-sectoral collaboration and coordination, and identifies areas that will be impacted by sea level rise and coastal inundation. It also mentions the need for strategic planning within and across sectors. However, the absence of specific measurable criteria makes it difficult to track progress and evaluate the success of the plan's proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy emphasizes the importance of active engagement with key regional stakeholders in the development of the climate change adaptation plan. This engagement is delivered through interviews, structured conversations, and workshops with key regional leaders and influencers. The information collected through these methods is used to identify adaptation options and pathways specific to the Eyre Peninsula. The policy also mentions the need for improved monitoring and forecasting of ecosystems and habitats, which could be interpreted as a form of research. Furthermore, the policy outlines the need for sectoral planning activities that take into account cross-sectoral interactions, which would likely require research into these sectors and their interactions.", "quote": {"content": "This was delivered through interviews, continual structured conversations and workshops with key regional leaders and influencers. Information to identify adaptation options and pathways specific to the Eyre Peninsula was collected through an active process of engagement.", "page": 16, "source": "LowerEyre-SA-89.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The policy documents discuss the need for adaptation to climate change and outline some general strategies, such as building resilience, implementing actions across different sectors, and using a benchmark planning process. However, these strategies are not explicitly innovative or experimental. They are standard approaches to climate change adaptation. The documents also mention the need for strategic planning within and across sectors, including an Integrated Management Strategy for Spencer Gulf and a Regional Transport Infrastructure Plan. However, these are planning initiatives rather than innovative or experimental policies. The documents do not provide specific details about what these plans would entail or how they would be innovative or experimental in nature."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents focus on regional actions, including improving awareness of climate change issues, engaging with Aboriginal people, developing a vision for a low carbon future, and training the next generation of leaders. They also mention the need for a coordinated regional and cross-sectoral approach to development and implementation, and the importance of considering cross-sectoral interactions in planning activities. However, they do not explicitly state an intention to advocate to higher levels of government for support in these efforts."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy emphasizes the importance of cross-sectoral adaptation, which requires a regional governance approach that promotes a collaborative approach to adaptation planning across the region. It also highlights the need for training the next generation of industry and community leaders who can participate in adaptation planning processes. Furthermore, the policy underscores the necessity of a coordinated regional and cross-sectoral approach to the development and implementation of climate change adaptation actions. This suggests that the policy encourages capacity building not only within the local council but also within the broader community and across different sectors, which could include neighbouring local councils.", "quote": {"content": "This needs to be considered as part of broader efforts across the State to involve Aboriginal people in adaptation planning; development of a vision for a vibrant and diverse regional economy that considers the impact of climate change on key sectors and plans for a \u201clow carbon\u201d future; and training the next generation of industry and community leaders who can participate in adaptation planning processes.", "page": 71, "source": "LowerEyre-SA-89.pdf", "search_score": 0.9}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of cross-sectoral and regional coordination, collaboration, and planning in addressing climate change, they do not provide specific details about which organizations or entities are involved in these efforts. The documents also mention the need for improved awareness of climate change issues within sectors and the development of a regional governance approach, but again, no specific partnerships or alliances are named. Therefore, based on the provided documents, it cannot be confirmed that there are specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents focus on the potential impacts of climate change on various sectors such as agriculture, fisheries, and local government, including coastal development and peri-urban expansion. They also discuss the need for adaptation strategies in response to these impacts. However, there is no specific mention or discussion of how climate change might affect vulnerable communities, or any considerations of equity and social justice in relation to the impacts of climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the impacts of climate change on various sectors such as agriculture, fisheries, and local government, and propose adaptation strategies. They also mention the need for a coordinated regional and cross-sectoral approach to climate change adaptation. However, they do not provide specific details on how the benefits and opportunities arising from a safe climate will be equitably shared among different groups or sectors. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 30.8}}
+{
+  "settings": {
+    "source_files": [
+      "LowerEyre-SA-89.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T10:46:17.636901",
+    "lga": "LowerEyre"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Regional Climate Change Adaptation Plan for the Eyre Peninsula', clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the region's people, economy, and environment. It outlines a strategic approach to adaptation planning, focusing on long-term decisions and the concept of decision lifetimes. The policy also emphasizes the need for cross-sectoral collaboration and the use of scientific research in decision-making. It identifies specific areas for action, such as fisheries, agriculture, and infrastructure, and proposes the development of adaptation pathways to respond to changing circumstances over time. Therefore, the policy's primary goal is to guide the region's adaptation to climate change, making climate action its core purpose.",
+          "quote": {
+            "content": "This plan provides those sectors with a benchmark planning process to guide their own adaptation assessments. Many actions under this plan will need to be implemented or further prioritised by individual sectors.",
+            "page": 15,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges the consensus among scientists and nations about the reality of climate change, attributing it to the release of greenhouse gases like carbon dioxide, methane, and nitrous oxide. The document also outlines the potential impacts of climate change on the region, including changes to the region's people, economy, and environment. It emphasizes the need for adaptation planning to build resilience to a different future climate and to identify the opportunities presented by it. The document also highlights the need for a coordinated regional and cross-sectoral approach to the development and implementation of climate change adaptation actions. It further notes that in the medium and longer term, adaptation will require protect and retreat strategies and transformation of some sectors.",
+          "quote": {
+            "content": "However, there are a number of actions that will continue to require a coordinated regional and cross sectoral approach to development and implementation. This plan provides those sectors with a benchmark planning process to guide their own adaptation assessments.",
+            "page": 15,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They do acknowledge the existence of climate change, its causes, and its potential impacts. They also outline some strategies for adaptation and resilience, such as improved monitoring and forecasting, and the development of an Integrated Management Strategy for Spencer Gulf. However, these strategies are presented as long-term plans and do not convey a sense of urgency. The documents also mention the need for preliminary work on long timeframe actions, but this is not framed as an urgent requirement. Instead, the documents emphasize the ongoing and long-term nature of climate change and the need for progressive, staged decision-making."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It discusses the concept of 'decision lifetimes', which is the time taken to make a decision plus the duration of that decision\u2019s implications. It differentiates between short-term decisions (5-10 years) and long-term decisions (>70-80 years). For instance, it mentions that annual crops like wheat and canola are planned, planted, and harvested within a year, and therefore the future climate in 2030 or 2070 will have little bearing on the outcome of that decision this year. In contrast, a new suburb is likely to still be in place in 100 years or more and should therefore consider the corresponding future climate projections for its region. The document also mentions that some adaptation options within sectors will need preliminary work to commence soon if the adaptation options are to be in place by the time they are required to adapt to future climate change impacts.",
+          "quote": {
+            "content": "> 70-80 years) equivalent to the timing of some of the major projected impacts of climate change. In contrast, there are decisions made today that have long lifetimes (e.g.",
+            "page": 38,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change adaptation planning and outline various strategies and actions to address climate change impacts. These include cross-sectoral actions, long timeframe actions, improved awareness of climate change issues, and engagement with Aboriginal people. However, these actions are presented as part of a comprehensive plan, not as a higher priority over other policies. The documents also mention the need for adaptation actions to align with community values and regional policies, suggesting a balanced approach rather than a prioritisation of climate change responses over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change adaptation. These include identifying areas impacted by sea level rise and coastal inundation, incorporating the impacts of sea level rise into asset and infrastructure management plans, and developing regional adaptation plans. The documents also mention the need for cross-sectoral actions and the development of an Integrated Management Strategy for Spencer Gulf and a Regional Transport Infrastructure Plan. However, these actions and strategies are not explicitly stated as requirements for all council activities. Therefore, while the documents suggest that climate change adaptation is a priority for the council, they do not explicitly state that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the plan does outline various actions and strategies for climate change adaptation, such as investing in adaptation and mitigation actions, promoting sectoral planning activities, and implementing major infrastructure initiatives, there is no specific mention of how these actions will be funded. The documents discuss the need for individual sectors to prioritize and implement actions under the plan, and for a coordinated regional and cross-sectoral approach to development and implementation. However, the specifics of resource mobilization, particularly in terms of financial resources, are not detailed. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. The documents discuss the need for adaptation planning, the importance of cross-sectoral interactions, and the need for a regional governance approach. They also mention the importance of training the next generation of industry and community leaders and improving awareness of climate change issues. However, these references do not specifically address the allocation of institutional resources such as staff time or expertise. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not offer clear evidence of active empowerment and education of the community to rally, support, and work productively together to deliver climate action. While the documents discuss the importance of planning and adaptation in response to climate change, they do not explicitly mention social mobilisation or community empowerment. The documents do mention the involvement of key regional stakeholders and community members in the development of the plan, but this does not necessarily equate to active empowerment and education of the community as a whole. Therefore, based on the provided documents, it cannot be affirmed that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents primarily focus on the impacts of climate change and the adaptation strategies to these impacts at a regional level. They discuss the need for an adaptation pathways approach, the potential impacts of climate change on the Eyre Peninsula, and the need for strategic planning within and across sectors. However, they do not explicitly mention any specific actions or strategies for the mitigation of greenhouse gas emissions. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The plan does indeed include specific actions for climate adaptation and resilience. It outlines a benchmark planning process to guide individual sectors in their adaptation assessments. The plan also emphasizes the need for a coordinated regional and cross-sectoral approach to development and implementation. It identifies key issues and areas of decision-making, such as agriculture, fisheries, and coastal development, and proposes strategies for each. For instance, in the short term, a strategic transport plan is required to manage the demands on regional transport infrastructure, and in the long term, design allowances need to be made for increasing frequency of extreme events. The plan also highlights the need for continued adoption of current best practices within sectors, integrated strategic planning initiatives, and revising development plan policy.",
+          "quote": {
+            "content": "In the short term, regional scale \nadaptation will likely focus on \ncontinued adoption of current best \npractice within sectors, integrated \nstrategic planning initiatives and \nrevising development plan policy.",
+            "page": 64,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the need for climate change adaptation and planning, they do not provide specific, well-sourced evidence to justify the targets and actions proposed. The documents mention the need for individual sectors to implement actions and prioritize them, but they do not provide specific details about what these actions are, how they were chosen, or why they are necessary. The documents also mention the need for a coordinated regional and cross-sectoral approach, but again, they do not provide specific details or evidence to support this approach. Furthermore, the documents do not provide any references or sources to support their claims about climate change and its impacts on the region. Therefore, based on the provided documents, it cannot be affirmed that the local government's planned actions are based on well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's climate change adaptation plan does not provide specific measurable criteria to evaluate the success of its proposed actions. The plan outlines various actions such as investing in adaptation planning processes, promoting sectoral planning activities, developing appropriate planning policies, and implementing education programs in emergency flood management. However, it does not provide clear, quantifiable metrics or benchmarks to assess the effectiveness of these actions. The plan emphasizes the need for cross-sectoral collaboration and coordination, and identifies areas that will be impacted by sea level rise and coastal inundation. It also mentions the need for strategic planning within and across sectors. However, the absence of specific measurable criteria makes it difficult to track progress and evaluate the success of the plan's proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy emphasizes the importance of active engagement with key regional stakeholders in the development of the climate change adaptation plan. This engagement is delivered through interviews, structured conversations, and workshops with key regional leaders and influencers. The information collected through these methods is used to identify adaptation options and pathways specific to the Eyre Peninsula. The policy also mentions the need for improved monitoring and forecasting of ecosystems and habitats, which could be interpreted as a form of research. Furthermore, the policy outlines the need for sectoral planning activities that take into account cross-sectoral interactions, which would likely require research into these sectors and their interactions.",
+          "quote": {
+            "content": "This was delivered through interviews, continual structured conversations and workshops with key regional leaders and influencers. Information to identify adaptation options and pathways specific to the Eyre Peninsula was collected through an active process of engagement.",
+            "page": 16,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents discuss the need for adaptation planning, cross-sectoral collaboration, and the consideration of various adaptation options, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents focus more on the planning and strategy development aspects of climate change adaptation, rather than on the implementation or testing of specific experimental initiatives or projects."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents focus on regional actions, including improving awareness of climate change issues, engaging with Aboriginal people, developing a vision for a low carbon future, and training the next generation of leaders. They also mention the need for a coordinated regional and cross-sectoral approach to development and implementation, and the importance of considering cross-sectoral interactions in planning activities. However, they do not explicitly state an intention to advocate to higher levels of government for support in these efforts."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy emphasizes the importance of cross-sectoral adaptation, which requires a regional governance approach that promotes a collaborative approach to adaptation planning across the region. It also highlights the need for training the next generation of industry and community leaders who can participate in adaptation planning processes. Furthermore, the policy underscores the necessity of a coordinated regional and cross-sectoral approach to the development and implementation of climate change adaptation actions. This suggests that the policy encourages capacity building not only within the local council but also within the broader community and across different sectors, which could include neighbouring local councils.",
+          "quote": {
+            "content": "This needs to be considered as part of broader efforts across the State to involve Aboriginal people in adaptation planning; development of a vision for a vibrant and diverse regional economy that considers the impact of climate change on key sectors and plans for a \u201clow carbon\u201d future; and training the next generation of industry and community leaders who can participate in adaptation planning processes.",
+            "page": 71,
+            "source": "LowerEyre-SA-89.pdf",
+            "search_score": 0.9
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of cross-sectoral and regional coordination, collaboration, and planning in addressing climate change, they do not provide specific details about which organizations or entities are involved in these efforts. The documents also mention the need for improved awareness of climate change issues within sectors and the development of a regional governance approach, but again, no specific partnerships or alliances are named. Therefore, based on the provided documents, it cannot be confirmed that there are specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents focus on the potential impacts of climate change on various sectors such as agriculture, fisheries, and local government, including coastal development and peri-urban expansion. They also discuss the need for adaptation strategies in response to these impacts. However, there is no specific mention or discussion of how climate change might affect vulnerable communities, or any considerations of equity and social justice in relation to the impacts of climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the impacts of climate change on various sectors such as agriculture, fisheries, and local government, and propose adaptation strategies. They also mention the need for a coordinated regional and cross-sectoral approach to climate change adaptation. However, they do not provide specific details on how the benefits and opportunities arising from a safe climate will be equitably shared among different groups or sectors. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 30.8
+  }
+}

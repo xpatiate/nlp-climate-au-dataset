@@ -1,1 +1,318 @@
-{"settings": {"source_files": ["Kingston-VIC-134.pdf", "Kingston-VIC-135.pdf", "Kingston-VIC-136.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T20:49:58.829873", "lga": "Kingston"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as its core purpose. The policy is designed to address the challenges of climate change and to align with the commitments of the Paris Agreement. It outlines a series of goals and targets aimed at reducing emissions and promoting sustainability. The policy also acknowledges the urgency of climate action, with high priority actions commencing within 12 months. The policy is committed to three main goals: reducing sources of emissions in line with science-derived targets, supporting the community to reduce emissions, and reducing Council's corporate emissions. The policy also outlines a series of priority actions, including the development of a Climate Adaptation Plan, the expansion of waste services to reduce waste to landfill, and the improvement of sustainable building design."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, stating that the benefits of acting are significant but the window of opportunity is rapidly closing. The documents also emphasize the real, climate-related impacts for Kingston, including the need for resilience and competitive advantage in a net zero world. The documents further underscore the importance of reducing emissions in line with science-derived targets, and the necessity of preparing for the impacts of climate change. The documents also note that the new Local Government Act makes 'mitigation and planning for climate change risks' a legal requirement for Council. Therefore, the documents not only acknowledge the need for action on climate change, but also provide a legal and strategic framework for such action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a series of priority actions, with high priority actions commencing within the next 12 months, medium priority actions by 2023, and low priority actions by 2025. This timeline indicates a sense of urgency in implementing these actions. The document also acknowledges the climate emergency and states that Kingston's response will reflect the scope, scale, and urgency of that emergency. Furthermore, the document emphasizes that there is not a minute to lose and that working to reduce emissions as soon as possible is a clear intent of the plan. This language and the outlined actions suggest a strong call for rapid and urgent action on climate change.", "quote": {"content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.", "page": 11, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a plan of actions that will commence from 2021 and have a duration of 3-4 years depending on the project type. The document further breaks down the commencement of actions based on their priority. High priority actions, those with the highest emission abatement potential, will commence within the next 12 months from the document's creation date. Medium priority actions will start by 2023, and low priority actions will begin by 2025. This detailed timeline indicates a sense of urgency in implementing the actions, reflecting the local government's commitment to addressing climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents detail a comprehensive Climate and Ecological Emergency Response Plan, including various priority actions, responsible areas, and estimated costs, they do not explicitly rank this plan in relation to other policies. The documents emphasize the importance of addressing climate change and outline various strategies for doing so, such as reducing emissions, transitioning to sustainable transport, and adapting to climate change impacts. However, they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is prioritized above other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do indicate that the council is aligning all its activities with its climate policy. The council is committed to re-orientating its operations to respond holistically to the climate emergency, with organisational accountability coordinated via the council's Governance team. This includes holding senior leaders accountable for their departments' adherence to the policy. The council also plans to conduct a gaps and opportunities assessment of its existing policies, strategies, and action plans to accelerate existing work and remove barriers to responding to the Climate Emergency. This includes areas such as contract management, statutory planning policy and practice, sustainable procurement, zero carbon council buildings, transitioning Council's fleet to zero carbon, minimising waste, and low carbon infrastructure. Therefore, it can be concluded that the council is aligning all its activities with its climate policy.", "quote": {"content": "Organisational accountability will be co-ordinated via Council's Governance team and structured to ensure senior leaders hold their departments and each other to account.", "page": 21, "source": "Kingston-VIC-135.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines 'institutional resource mobilisation' as a key aspect of its climate action plan, which includes 'adequate funding for action'. This indicates that the local government has committed to allocating financial resources to support its climate initiatives. However, the policy does not provide specific details on the amount of funding to be allocated, the sources of this funding, or how it will be distributed among the various initiatives. Therefore, while the policy does commit to funding climate action, the lack of detail makes it difficult to assess the adequacy and effectiveness of this funding commitment."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines a commitment to 'institutional resource mobilisation', which includes whole of organisation action, inclusion in the Council\u2019s risk management framework, and senior management accountability. This suggests that the policy is designed to mobilise the entire organisation, including its staff and other resources, towards climate action. The policy also mentions the development and implementation of training for staff focused on the Council\u2019s response to the Climate and Ecological Emergency and their role. This indicates a clear allocation of institutional resources, in the form of staff training and development, towards climate action. Furthermore, the policy also mentions the embedding of competencies relevant to climate emergency action into staff roles and responsibilities, which further underscores the allocation of staff resources towards climate action.", "quote": {"content": "Embed competencies relevant to climate emergency action into staff roles The initial focus will be on staff with purchasing power and contractor and event management responsibilities.", "page": 22, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a commitment to community action planning, with a focus on supporting community emission reductions. The policy also emphasizes the importance of education and engagement, with a commitment to raising community awareness about the urgency of the Climate and Ecological Emergency and creating a vision for a different future. The policy also outlines a commitment to advocacy, with a focus on lobbying state and national governments, encouraging other councils, and educating council staff about the climate emergency. Furthermore, the policy outlines a commitment to supporting low carbon living, future-proofing business and industry, transitioning to sustainable transport, and transforming council operations. The policy also outlines a commitment to monitoring, evaluation, review, and learning, which will help to ensure that the policy is effective and efficient.", "quote": {"content": "We can do better than business-as-usual. Council\u2019s response plan will be underpinned by engagement which helps communicate to the community: Council is taking significant, additional, urgent action and we need the community to join us. Everyone in Kingston can do their fair share, to maintain a safe climate. We\u2019re part of the net-zero carbon movement taking off around Victoria and the world.", "page": 27, "source": "Kingston-VIC-135.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Climate and Ecological Emergency Response Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include energy efficiency retrofits for homes, transitioning businesses and industries towards more energy-efficient technology, and expanding the electric vehicle charging network. The plan also includes actions aimed at behaviour change, such as educational workshops with service providers and engagement with local businesses to train professionals on the benefits of energy-efficient appliances. The plan also emphasizes the need for a shared responsibility among all levels of government, businesses, and households in adapting to climate change. However, it is important to note that while the plan outlines these actions, the effectiveness of these measures will depend on their implementation and the cooperation of all stakeholders involved."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate adaptation, which includes assessing the vulnerability of Kingston\u2019s built, natural, and coastal environment to climate change impacts, identifying pathways to address these vulnerabilities over time, and strengthening the resilience of the community to the impacts of climate change. The plan also includes measures to enhance food security and develop the Council\u2019s climate adaptation capabilities. Furthermore, the plan emphasizes the importance of collaboration with Federal and State Government agencies, neighbouring local governments, industry, and the community to implement regional climate adaptation programs. However, it should be noted that the full scope of the Council\u2019s Climate Adaptation Plan is yet to be developed and is subject to change.", "quote": {"content": "-  Work in partnership with Federal -  Identify pathways to address vulnerabilities in our natural and built environment over time, \nincluding planning for sea level rise impacts in our low-lying coastal areas. -  Strengthen the resilience of our community to the impacts of climate change including food \nsecurity. -  Develop Council\u2019s climate adaptation capabilities. -  Develop Council\u2019s climate adaptation capabilities.", "page": 25, "source": "Kingston-VIC-135.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a detailed plan for climate action, with specific goals and targets, and a clear commitment to reducing emissions. It outlines a range of actions, including reducing sources of emissions in line with a science-derived target, supporting the community to reduce emissions by 40% by 2025 and achieve net zero by 2030, and reducing Council\u2019s corporate emissions to achieve net zero by 2025. The plan also includes measures to expand waste services to further reduce waste to landfill and increase organic waste collection, improve sustainable building design, and support low emission infrastructure. The document also acknowledges the need for a radical, urgent mobilisation of economic and social resources to address the scale of the reduction required. The actions detailed in the plan have the potential to abate over 2.8 million tonnes of CO2e before 2030. However, the document also acknowledges that significant contributions from business and industry, residents, and the state and federal government are essential to achieve these targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a Monitoring, Evaluation, and Learning (MEL) plan, which will guide the assessment of the strategy. This MEL plan will specify key evaluation questions, indicators, data sources, measurement frequency, and responsibility for measuring and reporting. The plan also mentions the development of an implementation plan with targets, responsibilities, and budgets, which will be regularly updated. Furthermore, the plan includes a process of detailed design to determine if actions address specific barriers or need to be updated. This will be co-designed alongside a program of monitoring, review, evaluation, and reporting to establish performance indicators and identify trigger points. Therefore, the plan does provide specific measurable criteria to evaluate the success of its proposed actions.", "quote": {"content": "The MEL plan will specify: Key evaluation questions to guide the assessment of the Strategy; Indicators, source of data and frequency of measurement; Responsibility for measuring and reporting against the Urban Cooling Strategy; and Review timeline for the Strategy. A Monitoring, Evaluation and Learning (MEL) plan will be developed which will outline the review framework for this strategy.", "page": 18, "source": "Kingston-VIC-136.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Kingston City Council has initiated a Community Action Planning process in collaboration with Ironbark Sustainability. This process has led to a comprehensive understanding of how the council can support community emission reductions. The council acknowledges the importance of understanding the emissions reductions already happening in the community and finding ways to accelerate them. The council also plans to apply a program of targeted monitoring, evaluation, review, and learning. This approach indicates a commitment to informed action based on research and ongoing evaluation within the local community. The council also plans to engage with specific stakeholders to ensure the actions are scalable, robust, and cost-effective. This further emphasizes the council's commitment to informed, research-based action.", "quote": {"content": "We now have a thorough understanding of how we can support community emission reductions. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.", "page": 10, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Kingston City Council has developed a comprehensive Climate and Ecological Emergency Response Plan, which includes a range of innovative strategies and actions. The plan is based on a thorough understanding of emissions reductions in the community and aims to accelerate these reductions. The council has also worked with Ironbark Sustainability on a Community Action Planning process, demonstrating a willingness to collaborate with external experts. The plan includes a program of targeted monitoring, evaluation, review, and learning, which suggests an openness to experimentation and adaptation. The council has also committed to three main goals and a range of targets, including supporting the community to reduce emissions by 40% by 2025 and achieving net zero by 2030. These ambitious targets suggest a willingness to push boundaries and innovate.", "quote": {"content": "We now have a thorough understanding of how. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.", "page": 10, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. This is part of their broader strategy to address climate change, which includes a range of actions at different levels of government and society. The documents outline a multi-faceted approach that includes lobbying state and national governments to adopt and fund a climate emergency response. This is part of their 'upwards' advocacy approach, which is aimed at influencing higher levels of government to take action on climate change. The documents also mention working in partnership with Federal and State Government agencies, neighbouring local governments, industry and the community to implement regional climate adaptation programs. This shows a clear intent to collaborate with other levels of government and sectors of society to address climate change."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to facilitating community emission reductions at a regional level, which implies collaboration with neighbouring councils. The policy also emphasizes the importance of education and training, professional development, and financial mechanisms, which are key elements of capacity building. Furthermore, the policy acknowledges the need for substantial contributions from various stakeholders, including businesses, industry, residents, representative organisations, and state and federal government. This suggests a coordinated approach to climate action. The policy also outlines a commitment to re-orientating its operations to respond holistically to the climate emergency, with organisational accountability coordinated via Council's Governance team. This indicates a commitment to building capacity within the council itself.", "quote": {"content": "Facilitating community actions at a regional level increases the scale of opportunity and cost effectiveness. We now have a thorough understanding of how we can support community emission reductions. We have committed to a series of actions that can facilitate community emission reductions.", "page": 10, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Kingston City Council, as part of its Climate and Ecological Emergency Response Plan, has mentioned its membership with the South East Councils Climate Change Alliance (SECCCA). This alliance is a collaborative effort among local councils to address climate change. The council has also acknowledged the Northern Alliance for Greenhouse Action (NAGA) for their resources. These alliances and partnerships are crucial for the council to share resources, knowledge, and strategies to effectively respond to the climate emergency. The council's involvement in these alliances also demonstrates its commitment to collaborative and regional efforts in addressing climate change.", "quote": {"content": "This was based on the interpretation of regional and global impacts of an increase of \u201cwell below 2\u00b0C\u201d being an unacceptable risk to SECCCA councils and communities and an acknowledgement of the role Victoria. Kingston as a member of the South East Councils Climate Change Alliance (SECCCA), recently advocated to the Victorian State Government to adopt a \u201c1.5\u00b0C\u201d target.", "page": 7, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy recognizes that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change. It acknowledges that these individuals have typically made the least contribution to the problem. The policy emphasizes the need for a just transition, ensuring that the most vulnerable community members are not disadvantaged. This focus on equity and social justice is a priority of the plan. The policy also acknowledges that the frequency and severity of heatwaves are anticipated to increase, posing a serious threat to vulnerable members of the community, including the elderly and those on low incomes. The policy recognizes that rising electricity and gas prices could significantly impact the ability of some community members to heat and cool their properties.", "quote": {"content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.", "page": 5, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It acknowledges the importance of a just transition, particularly for the most vulnerable community members who often have less capacity to respond and cope with the impacts of climate change. The document emphasizes that any major transition needs to occur in a fair and socially equitable way, and that ensuring the most vulnerable community members are not disadvantaged is a priority of the plan. This indicates a commitment to equity and social justice in the context of climate change. The document also mentions the need for capacity building, professional development, and accountability, which can be seen as mechanisms to ensure the equitable sharing of benefits and opportunities. Furthermore, the document discusses the potential benefits of decisive climate action, including new jobs, cheaper power, reduced air pollution, preparedness and resilience to the impacts of climate change, healthy habitats, and more connected communities.", "quote": {"content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.", "page": 5, "source": "Kingston-VIC-135.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}], "results": {"num_positives": 19, "num_questions": 20, "attribute_score": 95.0}}
+{
+  "settings": {
+    "source_files": [
+      "Kingston-VIC-134.pdf",
+      "Kingston-VIC-135.pdf",
+      "Kingston-VIC-136.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T20:49:58.829873",
+    "lga": "Kingston"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. The policy is designed to address the challenges of climate change and to align with the commitments of the Paris Agreement. It outlines a series of goals and targets aimed at reducing emissions and promoting sustainability. The policy also acknowledges the urgency of climate action, with high priority actions commencing within 12 months. The policy is committed to three main goals: reducing sources of emissions in line with science-derived targets, supporting the community to reduce emissions, and reducing Council's corporate emissions. The policy also outlines a series of priority actions, including the development of a Climate Adaptation Plan, the expansion of waste services to reduce waste to landfill, and the improvement of sustainable building design."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, stating that the benefits of acting are significant but the window of opportunity is rapidly closing. The documents also emphasize the real, climate-related impacts for Kingston, including the need for resilience and competitive advantage in a net zero world. The documents further underscore the importance of reducing emissions in line with science-derived targets, and the necessity of preparing for the impacts of climate change. The documents also note that the new Local Government Act makes 'mitigation and planning for climate change risks' a legal requirement for Council. Therefore, the documents not only acknowledge the need for action on climate change, but also provide a legal and strategic framework for such action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It outlines a series of priority actions, with high priority actions commencing within the next 12 months, medium priority actions by 2023, and low priority actions by 2025. This timeline indicates a sense of urgency in implementing these actions. The document also acknowledges the climate emergency and states that Kingston's response will reflect the scope, scale, and urgency of that emergency. Furthermore, the document emphasizes that there is not a minute to lose and that working to reduce emissions as soon as possible is a clear intent of the plan. This language and the outlined actions suggest a strong call for rapid and urgent action on climate change.",
+          "quote": {
+            "content": "Given our declaration of a Climate and Ecological Emergency, high priority actions (those with the highest emission abatement potential) will commence in the next 12 months; medium priority actions by 2023 and low priority actions by 2025.",
+            "page": 11,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a plan of actions that will commence from 2021 and have a duration of 3-4 years depending on the project type. The document further breaks down the commencement of actions based on their priority. High priority actions, those with the highest emission abatement potential, will commence within the next 12 months from the document's creation date. Medium priority actions will start by 2023, and low priority actions will begin by 2025. This detailed timeline indicates a sense of urgency in implementing the actions, reflecting the local government's commitment to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents detail a comprehensive Climate and Ecological Emergency Response Plan, including various priority actions, responsible areas, and estimated costs, they do not explicitly rank this plan in relation to other policies. The documents emphasize the importance of addressing climate change and outline various strategies for doing so, such as reducing emissions, transitioning to sustainable transport, and adapting to climate change impacts. However, they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is prioritized above other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that the council is aligning all its activities with its climate policy. The council is committed to re-orientating its operations to respond holistically to the climate emergency, with organisational accountability coordinated via the council's Governance team. This includes holding senior leaders accountable for their departments' adherence to the policy. The council also plans to conduct a gaps and opportunities assessment of its existing policies, strategies, and action plans to accelerate existing work and remove barriers to responding to the Climate Emergency. This includes areas such as contract management, statutory planning policy and practice, sustainable procurement, zero carbon council buildings, transitioning Council's fleet to zero carbon, minimising waste, and low carbon infrastructure. Therefore, it can be concluded that the council is aligning all its activities with its climate policy.",
+          "quote": {
+            "content": "Organisational accountability will be co-ordinated via Council's Governance team and structured to ensure senior leaders hold their departments and each other to account.",
+            "page": 21,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines 'institutional resource mobilisation' as a key aspect of its climate action plan, which includes 'adequate funding for action'. This indicates that the local government has committed to allocating financial resources to support its climate initiatives. However, the policy does not provide specific details on the amount of funding to be allocated, the sources of this funding, or how it will be distributed among the various initiatives. Therefore, while the policy does commit to funding climate action, the lack of detail makes it difficult to assess the adequacy and effectiveness of this funding commitment."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines a commitment to 'institutional resource mobilisation', which includes whole of organisation action, inclusion in the Council\u2019s risk management framework, and senior management accountability. This suggests that the policy is designed to mobilise the entire organisation, including its staff and other resources, towards climate action. The policy also mentions the development and implementation of training for staff focused on the Council\u2019s response to the Climate and Ecological Emergency and their role. This indicates a clear allocation of institutional resources, in the form of staff training and development, towards climate action. Furthermore, the policy also mentions the embedding of competencies relevant to climate emergency action into staff roles and responsibilities, which further underscores the allocation of staff resources towards climate action.",
+          "quote": {
+            "content": "Embed competencies relevant to climate emergency action into staff roles The initial focus will be on staff with purchasing power and contractor and event management responsibilities.",
+            "page": 22,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a commitment to community action planning, with a focus on supporting community emission reductions. The policy also emphasizes the importance of education and engagement, with a commitment to raising community awareness about the urgency of the Climate and Ecological Emergency and creating a vision for a different future. The policy also outlines a commitment to advocacy, with a focus on lobbying state and national governments, encouraging other councils, and educating council staff about the climate emergency. Furthermore, the policy outlines a commitment to supporting low carbon living, future-proofing business and industry, transitioning to sustainable transport, and transforming council operations. The policy also outlines a commitment to monitoring, evaluation, review, and learning, which will help to ensure that the policy is effective and efficient.",
+          "quote": {
+            "content": "We can do better than business-as-usual. Council\u2019s response plan will be underpinned by engagement which helps communicate to the community: Council is taking significant, additional, urgent action and we need the community to join us. Everyone in Kingston can do their fair share, to maintain a safe climate. We\u2019re part of the net-zero carbon movement taking off around Victoria and the world.",
+            "page": 27,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate and Ecological Emergency Response Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include energy efficiency retrofits for homes, transitioning businesses and industries towards more energy-efficient technology, and expanding the electric vehicle charging network. The plan also includes actions aimed at behaviour change, such as educational workshops with service providers and engagement with local businesses to train professionals on the benefits of energy-efficient appliances. The plan also emphasizes the need for a shared responsibility among all levels of government, businesses, and households in adapting to climate change. However, it is important to note that while the plan outlines these actions, the effectiveness of these measures will depend on their implementation and the cooperation of all stakeholders involved."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate adaptation, which includes assessing the vulnerability of Kingston\u2019s built, natural, and coastal environment to climate change impacts, identifying pathways to address these vulnerabilities over time, and strengthening the resilience of the community to the impacts of climate change. The plan also includes measures to enhance food security and develop the Council\u2019s climate adaptation capabilities. Furthermore, the plan emphasizes the importance of collaboration with Federal and State Government agencies, neighbouring local governments, industry, and the community to implement regional climate adaptation programs. However, it should be noted that the full scope of the Council\u2019s Climate Adaptation Plan is yet to be developed and is subject to change.",
+          "quote": {
+            "content": "-  Work in partnership with Federal -  Identify pathways to address vulnerabilities in our natural and built environment over time, \nincluding planning for sea level rise impacts in our low-lying coastal areas. -  Strengthen the resilience of our community to the impacts of climate change including food \nsecurity. -  Develop Council\u2019s climate adaptation capabilities. -  Develop Council\u2019s climate adaptation capabilities.",
+            "page": 25,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate action, with specific goals and targets, and a clear commitment to reducing emissions. It outlines a range of actions, including reducing sources of emissions in line with a science-derived target, supporting the community to reduce emissions by 40% by 2025 and achieve net zero by 2030, and reducing Council\u2019s corporate emissions to achieve net zero by 2025. The plan also includes measures to expand waste services to further reduce waste to landfill and increase organic waste collection, improve sustainable building design, and support low emission infrastructure. The document also acknowledges the need for a radical, urgent mobilisation of economic and social resources to address the scale of the reduction required. The actions detailed in the plan have the potential to abate over 2.8 million tonnes of CO2e before 2030. However, the document also acknowledges that significant contributions from business and industry, residents, and the state and federal government are essential to achieve these targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a Monitoring, Evaluation, and Learning (MEL) plan, which will guide the assessment of the strategy. This MEL plan will specify key evaluation questions, indicators, data sources, measurement frequency, and responsibility for measuring and reporting. The plan also mentions the development of an implementation plan with targets, responsibilities, and budgets, which will be regularly updated. Furthermore, the plan includes a process of detailed design to determine if actions address specific barriers or need to be updated. This will be co-designed alongside a program of monitoring, review, evaluation, and reporting to establish performance indicators and identify trigger points. Therefore, the plan does provide specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "The MEL plan will specify: Key evaluation questions to guide the assessment of the Strategy; Indicators, source of data and frequency of measurement; Responsibility for measuring and reporting against the Urban Cooling Strategy; and Review timeline for the Strategy. A Monitoring, Evaluation and Learning (MEL) plan will be developed which will outline the review framework for this strategy.",
+            "page": 18,
+            "source": "Kingston-VIC-136.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Kingston City Council has initiated a Community Action Planning process in collaboration with Ironbark Sustainability. This process has led to a comprehensive understanding of how the council can support community emission reductions. The council acknowledges the importance of understanding the emissions reductions already happening in the community and finding ways to accelerate them. The council also plans to apply a program of targeted monitoring, evaluation, review, and learning. This approach indicates a commitment to informed action based on research and ongoing evaluation within the local community. The council also plans to engage with specific stakeholders to ensure the actions are scalable, robust, and cost-effective. This further emphasizes the council's commitment to informed, research-based action.",
+          "quote": {
+            "content": "We now have a thorough understanding of how we can support community emission reductions. In early 2020, Kingston City Council began working with Ironbark Sustainability on a Community Action Planning process.",
+            "page": 10,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a number of planned actions and strategies for reducing emissions and addressing climate change, these are largely presented as established policies or initiatives rather than experimental or pilot projects. The documents mention the implementation of energy efficiency and renewable energy projects, the development of an Urban Forest Strategy, and the engagement with stakeholders to ensure actions are scalable, robust, and cost-effective. However, these are not explicitly described as experiments or pilots to test technologies, policies, or governance approaches on a small scale and under real-world conditions. Therefore, based on the provided documents, it cannot be conclusively stated that there is evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government has an explicit intent to advocate upward to state and national governments to support climate action. This is part of their broader strategy to address climate change, which includes a range of actions at different levels of government and society. The documents outline a multi-faceted approach that includes lobbying state and national governments to adopt and fund a climate emergency response. This is part of their 'upwards' advocacy approach, which is aimed at influencing higher levels of government to take action on climate change. The documents also mention working in partnership with Federal and State Government agencies, neighbouring local governments, industry and the community to implement regional climate adaptation programs. This shows a clear intent to collaborate with other levels of government and sectors of society to address climate change."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to facilitating community emission reductions at a regional level, which implies collaboration with neighbouring councils. The policy also emphasizes the importance of education and training, professional development, and financial mechanisms, which are key elements of capacity building. Furthermore, the policy acknowledges the need for substantial contributions from various stakeholders, including businesses, industry, residents, representative organisations, and state and federal government. This suggests a coordinated approach to climate action. The policy also outlines a commitment to re-orientating its operations to respond holistically to the climate emergency, with organisational accountability coordinated via Council's Governance team. This indicates a commitment to building capacity within the council itself.",
+          "quote": {
+            "content": "Facilitating community actions at a regional level increases the scale of opportunity and cost effectiveness. We now have a thorough understanding of how we can support community emission reductions. We have committed to a series of actions that can facilitate community emission reductions.",
+            "page": 10,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate action. The Kingston City Council, as part of its Climate and Ecological Emergency Response Plan, has mentioned its membership with the South East Councils Climate Change Alliance (SECCCA). This alliance is a collaborative effort among local councils to address climate change. The council has also acknowledged the Northern Alliance for Greenhouse Action (NAGA) for their resources. These alliances and partnerships are crucial for the council to share resources, knowledge, and strategies to effectively respond to the climate emergency. The council's involvement in these alliances also demonstrates its commitment to collaborative and regional efforts in addressing climate change.",
+          "quote": {
+            "content": "This was based on the interpretation of regional and global impacts of an increase of \u201cwell below 2\u00b0C\u201d being an unacceptable risk to SECCCA councils and communities and an acknowledgement of the role Victoria. Kingston as a member of the South East Councils Climate Change Alliance (SECCCA), recently advocated to the Victorian State Government to adopt a \u201c1.5\u00b0C\u201d target.",
+            "page": 7,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The policy recognizes that the most vulnerable people often have the least capacity to respond and cope with the impacts of climate change. It acknowledges that these individuals have typically made the least contribution to the problem. The policy emphasizes the need for a just transition, ensuring that the most vulnerable community members are not disadvantaged. This focus on equity and social justice is a priority of the plan. The policy also acknowledges that the frequency and severity of heatwaves are anticipated to increase, posing a serious threat to vulnerable members of the community, including the elderly and those on low incomes. The policy recognizes that rising electricity and gas prices could significantly impact the ability of some community members to heat and cool their properties.",
+          "quote": {
+            "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+            "page": 5,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does explicitly discuss how to equitably share the benefits and opportunities of a safe climate. It acknowledges the importance of a just transition, particularly for the most vulnerable community members who often have less capacity to respond and cope with the impacts of climate change. The document emphasizes that any major transition needs to occur in a fair and socially equitable way, and that ensuring the most vulnerable community members are not disadvantaged is a priority of the plan. This indicates a commitment to equity and social justice in the context of climate change. The document also mentions the need for capacity building, professional development, and accountability, which can be seen as mechanisms to ensure the equitable sharing of benefits and opportunities. Furthermore, the document discusses the potential benefits of decisive climate action, including new jobs, cheaper power, reduced air pollution, preparedness and resilience to the impacts of climate change, healthy habitats, and more connected communities.",
+          "quote": {
+            "content": "A just transition, ensuring our most vulnerable community members are not disadvantaged is a priority of the plan. Council recognises that any major transition needs to occur in a fair and socially equitable way. The most vulnerable people have typically made the least contribution to the problem and often have less capacity to respond and cope with the impacts.",
+            "page": 5,
+            "source": "Kingston-VIC-135.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 19,
+    "num_questions": 20,
+    "attribute_score": 95.0
+  }
+}

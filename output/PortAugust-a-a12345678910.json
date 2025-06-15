@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["PortAugust-SA-278.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T23:34:48.093821", "lga": "PortAugust"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy does acknowledge the importance of considering and assessing the implications of climate change, particularly in relation to the potential liability risks to the local government. It also discusses the need for strategic management planning to adapt to the impacts of climate change. However, these elements are presented as part of the council's broader responsibilities and functions, rather than as a core purpose or goal. The policy also emphasizes the need for a systematic approach to planning to build resilience across all aspects of business, suggesting that climate action is one of many considerations in the council's strategic planning process."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly articulates the need for action on climate change. It acknowledges the scientific consensus that the earth's climate is changing due to human activities and that this change is already resulting in unavoidable impacts. The document emphasizes that adaptation planning is necessary, even in an environment of extensive mitigation. It also highlights the potential liability risks to the local government if it fails to consider and assess the implications of climate change. The document further outlines the council's role in protecting its area from natural and other hazards, including climate change, and in planning for the development and future requirements of its area. The document also provides recommendations for raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context to identify new climate change risks.", "quote": {"content": "There is no alternative but to undertake adaptation planning, even in an environment of extensive mitigation. Adaptation will be necessary to address impacts resulting from the warming which is already unavoidable due to past emissions (IPCC 2007b).", "page": 6, "source": "PortAugust-SA-278.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do acknowledge the reality of climate change and its impacts, and they outline a number of recommendations for addressing climate change risks. These recommendations include raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, including climate change risk management results into the Council's risk management database, and monitoring and reviewing risk management context with regard to changes to climate change variables. However, these recommendations are presented as part of a strategic approach to managing climate change risks, rather than as urgent actions that need to be taken immediately. The documents also do not provide a specific timeline for implementing these recommendations, which further suggests that they are not intended to convey a sense of urgency."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline a number of recommendations and strategies for addressing climate change, such as raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context, they do not provide specific deadlines or timelines for these actions. The documents emphasize the importance of climate change adaptation and risk management, and they suggest that these issues should be incorporated into the council's strategic management plan. However, without specific timeframes, it is difficult to assess the urgency of these actions or to hold the council accountable for their implementation."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change risk management and adaptation, they do not explicitly prioritize these actions over other policies. The documents suggest incorporating climate change adaptation strategies into strategic management planning, raising awareness of climate change risks, and monitoring and reviewing risk management context with regard to changes to climate change variables. However, these recommendations are presented as part of a broader strategic approach, rather than as a prioritized emergency response. The documents also highlight the importance of considering climate change implications to avoid major liability exposures, but again, this is not presented as a prioritized action over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of considering climate change in strategic management planning and risk management. The documents mention the need to incorporate adaptation strategies and measures into strategic management planning, and to include climate change risk management results into the council's risk management database. They also emphasize the importance of raising awareness of climate change risks within the council and the community. However, these points do not equate to a requirement for all council activities to be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy does mention the 'Estimated Cost' as one of the parameters for the implementation of the project, it does not provide specific details about the allocation of funds for climate action. The policy does outline various strategies and measures to address climate change, such as raising awareness, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context. However, these are general strategies and do not provide clear evidence of a specific allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does allocate non-monetary institutional resources to climate action. It establishes a 'Climate Change Risk Management Champion' within the Council to ensure ongoing management of the data related to climate change. This role is typically filled by the Risk Manager or Risk Officer. This allocation of staff resources indicates a commitment to institutional resource mobilisation for climate action. The policy also outlines a plan to incorporate climate change risk management results into the Council's risk management database, which implies the allocation of institutional resources for data management. Furthermore, the policy recommends raising awareness of climate change risks within the Council and the community, which suggests the allocation of resources for communication and consultation.", "quote": {"content": "This will be in most cases be the Risk Manager or Risk Officer. During the implementation of this project the LGA Mutual Liability Scheme will establish a Climate Change Risk Management \u201cChampion\u201d with Council to ensure ongoing management of the data.", "page": 41, "source": "PortAugust-SA-278.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines plans to raise awareness of climate change risks within the community to enhance decision-making and build community resilience. This is part of the communication and consultation process. The policy also mentions the development and integration of adaptation strategies and measures into the Council's Strategic Management Plans, which could be seen as a way of mobilising the community to work together to address climate change. However, the document does not provide specific details on how these plans will be implemented or how the community will be actively involved in these efforts."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. While the policy does mention the need to manage, develop, protect, restore, enhance and conserve the environment in an ecologically sustainable manner, it does not provide specific strategies or actions to achieve this. The policy also mentions the implementation of adaptation measures by the local government to meet the South Australian Government\u2019s Greenhouse Strategy objectives, but these are not explicitly linked to greenhouse gas mitigation. The policy does discuss the need to increase understanding of risks, vulnerabilities and opportunities, build resilient communities, and improve hazard management to minimise risks. However, these are broad objectives and do not provide specific actions or strategies for greenhouse gas mitigation. Therefore, based on the provided context, the policy does not include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a program called the 'Local Government Climate Change Adaptation Program' which aims to enhance resilience through the development and integration of adaptation strategies and measures into the Council\u2019s Strategic Management Plans. The policy also emphasizes the importance of raising awareness of climate change risks within the Council and the community, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context with regard to changes to climate change variables. These actions are designed to build adaptive capacity for the future and enable an environment where Local Government and the community are better able to withstand climate change impacts.", "quote": {"content": "The assessment of risks at the local level and the implementation of adaptation measures to treat risks has flow on effects that builds adaptive capacity for the future and enables an environment where Local Government and the community are better able to withstand climate change impacts.", "page": 3, "source": "PortAugust-SA-278.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the importance of climate change adaptation and risk management, they do not provide specific, measurable targets or actions. The documents mention the need to raise awareness of climate change risks, incorporate adaptation strategies into strategic management planning, and monitor and review risk management context. However, these are broad strategies rather than specific actions or targets. Furthermore, the documents do not cite any sources to justify these strategies, making it difficult to assess their validity or effectiveness. Therefore, the documents do not meet the high standard of evidence and specific detail required to positively answer the question."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan does outline various actions and strategies to address climate change risks, such as developing an Integrated Water Resource Management Plan, engaging with the Environment Protection Authority, and reviewing public open space service level models, it does not provide clear, quantifiable metrics or benchmarks for success. The plan also mentions the use of RiskeMAP\u00ae for constant monitoring and review of risk management data, but it does not specify how this tool will be used to measure the effectiveness of the proposed actions. Therefore, without specific measurable criteria, it is unclear how the local government will evaluate whether its actions are successful in achieving their intended objectives."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government's policy is to enhance resilience through the development and integration of adaptation strategies and measures into the Council\u2019s Strategic Management Plans. This involves assessing risks at the local level and implementing adaptation measures to treat these risks. The policy also includes raising awareness of climate change risks with the Council and the community to enhance decision-making and build community resilience. Furthermore, the policy includes monitoring and reviewing risk management context with regard to changes to climate change variables, operating environment, key business drivers, strategic management, capacity, capabilities and other relevant factors to identify new climate change risks and reanalyse all existing risks. This suggests a commitment to ongoing research and adaptation based on the findings.", "quote": {"content": "The assessment of risks at the local level and the implementation of adaptation measures to treat risks has flow on effects that builds adaptive capacity for the future and enables an environment where Local Government and the community are better able to withstand climate change impacts.", "page": 3, "source": "PortAugust-SA-278.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. They outline the local government's plans to raise awareness of climate change risks, incorporate adaptation strategies into strategic management planning, and monitor and review risk management in relation to climate change. However, these actions are standard responses to climate change and do not indicate any innovative or experimental approaches. The documents also mention the need for long-term financial sustainability and the challenges of managing community expectations and services in the face of climate change. However, they do not provide specific details on how these challenges will be addressed, nor do they suggest any novel or experimental policies or strategies. Therefore, based on the provided documents, the local government's climate action does not appear to involve innovation or policy experimentation."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do outline a comprehensive plan for local government action on climate change, including raising awareness, incorporating adaptation strategies, and monitoring and reviewing risk management, they do not specifically mention advocacy towards state and national governments. The documents focus primarily on the local government's role and responsibilities in managing climate change risks and implementing adaptation measures. They highlight the importance of strategic management planning, community consultation, and risk management in building resilience to climate change. However, they do not explicitly state an intent to advocate for climate action at higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It emphasizes the role of local government in managing climate change risks and implementing adaptation measures. The document mentions that councils have the ability to guide development and have established consultation and communication plans for information dissemination within the community. It also highlights the support councils receive from the Local Government Association and a state network of councils to provide leadership and guide legislative change. Furthermore, the document recommends raising awareness of climate change risks with council and the community to enhance decision-making and build community resilience. However, it does not explicitly mention coordination with neighbouring local councils.", "quote": {"content": "Councils are supported by the Local Government Association and a State network of Councils to provide leadership and to advocate and guide legislative change. Local Government is in a strong position to effect adaptation measures through its Strategic and Business Planning processes and because it has established Standards, Systems and information to manage climate change risks and legislative responsibilities that demand action.", "page": 16, "source": "PortAugust-SA-278.pdf", "search_score": 0.96}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention the local government's efforts to raise awareness of climate change risks, incorporate adaptation strategies, and monitor and review risk management, they do not specify any partnerships or collaborations with external entities in these endeavors. The documents also mention the council's support from the Local Government Association and a state network of councils, but this is in a general context and not specifically tied to climate change initiatives. Therefore, based on the provided documents, it cannot be affirmed that there are specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the need for local government to consider and assess the implications of climate change, and to incorporate adaptation strategies into strategic management planning, they do not specifically address the effects on vulnerable communities. The documents focus more on the potential liability risks to the local government and the need for risk management and adaptation strategies. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do mention the need for climate change adaptation strategies, risk management, and sustainability planning, they do not delve into the specifics of how these benefits and opportunities will be distributed equitably among the population. The documents focus more on the technical and strategic aspects of climate change adaptation and risk management, rather than the social implications and equity considerations. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 35.8}}
+{
+  "settings": {
+    "source_files": [
+      "PortAugust-SA-278.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T23:34:48.093821",
+    "lga": "PortAugust"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy does acknowledge the importance of considering and assessing the implications of climate change, particularly in relation to the potential liability risks to the local government. It also discusses the need for strategic management planning to adapt to the impacts of climate change. However, these elements are presented as part of the council's broader responsibilities and functions, rather than as a core purpose or goal. The policy also emphasizes the need for a systematic approach to planning to build resilience across all aspects of business, suggesting that climate action is one of many considerations in the council's strategic planning process."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It acknowledges the scientific consensus that the earth's climate is changing due to human activities and that this change is already resulting in unavoidable impacts. The document emphasizes that adaptation planning is necessary, even in an environment of extensive mitigation. It also highlights the potential liability risks to the local government if it fails to consider and assess the implications of climate change. The document further outlines the council's role in protecting its area from natural and other hazards, including climate change, and in planning for the development and future requirements of its area. The document also provides recommendations for raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context to identify new climate change risks.",
+          "quote": {
+            "content": "There is no alternative but to undertake adaptation planning, even in an environment of extensive mitigation. Adaptation will be necessary to address impacts resulting from the warming which is already unavoidable due to past emissions (IPCC 2007b).",
+            "page": 6,
+            "source": "PortAugust-SA-278.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do acknowledge the reality of climate change and its impacts, and they outline a number of recommendations for addressing climate change risks. These recommendations include raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, including climate change risk management results into the Council's risk management database, and monitoring and reviewing risk management context with regard to changes to climate change variables. However, these recommendations are presented as part of a strategic approach to managing climate change risks, rather than as urgent actions that need to be taken immediately. The documents also do not provide a specific timeline for implementing these recommendations, which further suggests that they are not intended to convey a sense of urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline a number of recommendations and strategies for addressing climate change, such as raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context, they do not provide specific deadlines or timelines for these actions. The documents emphasize the importance of climate change adaptation and risk management, and they suggest that these issues should be incorporated into the council's strategic management plan. However, without specific timeframes, it is difficult to assess the urgency of these actions or to hold the council accountable for their implementation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of climate change risk management and adaptation, they do not explicitly prioritize these actions over other policies. The documents suggest incorporating climate change adaptation strategies into strategic management planning, raising awareness of climate change risks, and monitoring and reviewing risk management context with regard to changes to climate change variables. However, these recommendations are presented as part of a broader strategic approach, rather than as a prioritized emergency response. The documents also highlight the importance of considering climate change implications to avoid major liability exposures, but again, this is not presented as a prioritized action over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of considering climate change in strategic management planning and risk management. The documents mention the need to incorporate adaptation strategies and measures into strategic management planning, and to include climate change risk management results into the council's risk management database. They also emphasize the importance of raising awareness of climate change risks within the council and the community. However, these points do not equate to a requirement for all council activities to be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy does mention the 'Estimated Cost' as one of the parameters for the implementation of the project, it does not provide specific details about the allocation of funds for climate action. The policy does outline various strategies and measures to address climate change, such as raising awareness, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context. However, these are general strategies and do not provide clear evidence of a specific allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does allocate non-monetary institutional resources to climate action. It establishes a 'Climate Change Risk Management Champion' within the Council to ensure ongoing management of the data related to climate change. This role is typically filled by the Risk Manager or Risk Officer. This allocation of staff resources indicates a commitment to institutional resource mobilisation for climate action. The policy also outlines a plan to incorporate climate change risk management results into the Council's risk management database, which implies the allocation of institutional resources for data management. Furthermore, the policy recommends raising awareness of climate change risks within the Council and the community, which suggests the allocation of resources for communication and consultation.",
+          "quote": {
+            "content": "This will be in most cases be the Risk Manager or Risk Officer. During the implementation of this project the LGA Mutual Liability Scheme will establish a Climate Change Risk Management \u201cChampion\u201d with Council to ensure ongoing management of the data.",
+            "page": 41,
+            "source": "PortAugust-SA-278.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines plans to raise awareness of climate change risks within the community to enhance decision-making and build community resilience. This is part of the communication and consultation process. The policy also mentions the development and integration of adaptation strategies and measures into the Council's Strategic Management Plans, which could be seen as a way of mobilising the community to work together to address climate change. However, the document does not provide specific details on how these plans will be implemented or how the community will be actively involved in these efforts."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. While the policy does mention the need to manage, develop, protect, restore, enhance and conserve the environment in an ecologically sustainable manner, it does not provide specific strategies or actions to achieve this. The policy also mentions the implementation of adaptation measures by the local government to meet the South Australian Government\u2019s Greenhouse Strategy objectives, but these are not explicitly linked to greenhouse gas mitigation. The policy does discuss the need to increase understanding of risks, vulnerabilities and opportunities, build resilient communities, and improve hazard management to minimise risks. However, these are broad objectives and do not provide specific actions or strategies for greenhouse gas mitigation. Therefore, based on the provided context, the policy does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a program called the 'Local Government Climate Change Adaptation Program' which aims to enhance resilience through the development and integration of adaptation strategies and measures into the Council\u2019s Strategic Management Plans. The policy also emphasizes the importance of raising awareness of climate change risks within the Council and the community, incorporating adaptation strategies into strategic management planning, and monitoring and reviewing risk management context with regard to changes to climate change variables. These actions are designed to build adaptive capacity for the future and enable an environment where Local Government and the community are better able to withstand climate change impacts.",
+          "quote": {
+            "content": "The assessment of risks at the local level and the implementation of adaptation measures to treat risks has flow on effects that builds adaptive capacity for the future and enables an environment where Local Government and the community are better able to withstand climate change impacts.",
+            "page": 3,
+            "source": "PortAugust-SA-278.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the importance of climate change adaptation and risk management, they do not provide specific, measurable targets or actions. The documents mention the need to raise awareness of climate change risks, incorporate adaptation strategies into strategic management planning, and monitor and review risk management context. However, these are broad strategies rather than specific actions or targets. Furthermore, the documents do not cite any sources to justify these strategies, making it difficult to assess their validity or effectiveness. Therefore, the documents do not meet the high standard of evidence and specific detail required to positively answer the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan does outline various actions and strategies to address climate change risks, such as developing an Integrated Water Resource Management Plan, engaging with the Environment Protection Authority, and reviewing public open space service level models, it does not provide clear, quantifiable metrics or benchmarks for success. The plan also mentions the use of RiskeMAP\u00ae for constant monitoring and review of risk management data, but it does not specify how this tool will be used to measure the effectiveness of the proposed actions. Therefore, without specific measurable criteria, it is unclear how the local government will evaluate whether its actions are successful in achieving their intended objectives."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government's policy is to enhance resilience through the development and integration of adaptation strategies and measures into the Council\u2019s Strategic Management Plans. This involves assessing risks at the local level and implementing adaptation measures to treat these risks. The policy also includes raising awareness of climate change risks with the Council and the community to enhance decision-making and build community resilience. Furthermore, the policy includes monitoring and reviewing risk management context with regard to changes to climate change variables, operating environment, key business drivers, strategic management, capacity, capabilities and other relevant factors to identify new climate change risks and reanalyse all existing risks. This suggests a commitment to ongoing research and adaptation based on the findings.",
+          "quote": {
+            "content": "The assessment of risks at the local level and the implementation of adaptation measures to treat risks has flow on effects that builds adaptive capacity for the future and enables an environment where Local Government and the community are better able to withstand climate change impacts.",
+            "page": 3,
+            "source": "PortAugust-SA-278.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action. They discuss the importance of adaptation to climate change, the potential risks and impacts of climate change on local government business, and the need for strategic management planning to build resilience. They also outline the roles and responsibilities of local government in managing climate change risks and the potential for modifying systems to increase local government capacity to cope with changes in climate conditions. However, they do not mention any specific initiatives to test technologies, policies, or governance approaches on a small scale and under real-world conditions. Therefore, it cannot be affirmed that the document shows evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do outline a comprehensive plan for local government action on climate change, including raising awareness, incorporating adaptation strategies, and monitoring and reviewing risk management, they do not specifically mention advocacy towards state and national governments. The documents focus primarily on the local government's role and responsibilities in managing climate change risks and implementing adaptation measures. They highlight the importance of strategic management planning, community consultation, and risk management in building resilience to climate change. However, they do not explicitly state an intent to advocate for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. It emphasizes the role of local government in managing climate change risks and implementing adaptation measures. The document mentions that councils have the ability to guide development and have established consultation and communication plans for information dissemination within the community. It also highlights the support councils receive from the Local Government Association and a state network of councils to provide leadership and guide legislative change. Furthermore, the document recommends raising awareness of climate change risks with council and the community to enhance decision-making and build community resilience. However, it does not explicitly mention coordination with neighbouring local councils.",
+          "quote": {
+            "content": "Councils are supported by the Local Government Association and a State network of Councils to provide leadership and to advocate and guide legislative change. Local Government is in a strong position to effect adaptation measures through its Strategic and Business Planning processes and because it has established Standards, Systems and information to manage climate change risks and legislative responsibilities that demand action.",
+            "page": 16,
+            "source": "PortAugust-SA-278.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention the local government's efforts to raise awareness of climate change risks, incorporate adaptation strategies, and monitor and review risk management, they do not specify any partnerships or collaborations with external entities in these endeavors. The documents also mention the council's support from the Local Government Association and a state network of councils, but this is in a general context and not specifically tied to climate change initiatives. Therefore, based on the provided documents, it cannot be affirmed that there are specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the need for local government to consider and assess the implications of climate change, and to incorporate adaptation strategies into strategic management planning, they do not specifically address the effects on vulnerable communities. The documents focus more on the potential liability risks to the local government and the need for risk management and adaptation strategies. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do mention the need for climate change adaptation strategies, risk management, and sustainability planning, they do not delve into the specifics of how these benefits and opportunities will be distributed equitably among the population. The documents focus more on the technical and strategic aspects of climate change adaptation and risk management, rather than the social implications and equity considerations. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 35.8
+  }
+}

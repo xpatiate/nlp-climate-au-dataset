@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["Glenorchy-TAS-105.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:13:41.216422", "lga": "Glenorchy"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan clearly identifies climate action as its core purpose. The policy outlines strategic and corporate adaptation actions to address priority climate change risks. It emphasizes the importance of incorporating climate change risks into the Council\u2019s risk register, strategic, annual, and financial planning. The policy also highlights the need for advocacy actions to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect Glenorchy City Council and local government adaptation planning. Furthermore, the policy underscores the importance of education and awareness-raising actions, both internally within the Council and externally to the public, to drive climate change adaptation. Therefore, it is evident that the policy is centered around climate action, with the goal of minimizing the Council\u2019s risk in the face of extreme events posed by climate change."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Glenorchy City Council Corporate Climate Change Adaptation Plan outlines the legal implications of climate change action, highlighting the potential liability that councils are exposed to through their various statutory roles, powers, and functions. The plan also emphasizes the importance of incorporating climate change risks into the Council\u2019s risk register and strategic planning. It further suggests the appointment of a climate change 'champion' to oversee the implementation of the plan's actions. The documents also detail the need for advocacy actions to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect Glenorchy City Council and local government adaptation planning. These actions are aimed at addressing priority climate change risks and providing an initial response to the challenges posed by climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do discuss the importance of local governments in adapting to climate change impacts, and they outline potential actions and strategies for managing these impacts. However, there is no explicit language indicating a sense of urgency or immediacy in these actions. The documents focus more on the need for strategic planning, risk management, and advocacy in relation to climate change. They also discuss potential legal implications of climate change action for local governments. While these are important aspects of climate change adaptation, they do not necessarily convey a sense of urgency."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. While the documents outline a comprehensive plan for addressing climate change, including the appointment of a 'climate change champion', the integration of climate change risks into the Council's risk register, and the implementation of strategic actions, they do not provide explicit deadlines or schedules for these actions. The documents mention the need for plan review in the context of progress on initial actions and developments in climate science, policy, and legal frameworks, but again, no specific timeframes are given for these reviews. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Glenorchy City Council Corporate Climate Change Adaptation Plan does outline a comprehensive approach to addressing climate change risks, including the identification and prioritization of risks, the development of adaptation actions, and the integration of these actions into the Council's strategic and annual plans. However, it does not specifically state that these actions should take precedence over other policies. The plan emphasizes the importance of integrating climate change considerations into all aspects of the Council's operations and decision-making processes, rather than prioritizing them above all else. It also highlights the need for ongoing review and adaptation of the plan in response to new information and changing circumstances."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, emphasize the importance of integrating climate change risks and adaptation actions into the council's strategic and annual plans, strategies, and policies. The documents also mention the development of a climate change communication and education plan for the council's staff, which will form the basis for broader community communication. The documents also suggest the appointment of a climate change 'champion' to oversee the implementation of the actions included in the plan. However, these points do not necessarily imply that all council activities must be aligned with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines the investigation of alternative revenue sources, such as an environment levy, to fund climate change adaptation projects. It also emphasizes the importance of ensuring appropriate budget provisions are in place to respond to additional impacts on council infrastructure/assets for funding climate change adaptation projects. Furthermore, the plan acknowledges that financial and resource availability are critical factors for enabling the implementation of adaptation actions. It suggests that the council will initially support the implementation of those adaptation actions that are cost-effective and align with current resource capacity and availability. However, it is important to note that the plan does not provide specific details on the amount of funding allocated or the exact sources of this funding.", "quote": {"content": "Investigate alternative revenue sources (e.g.", "page": 42, "source": "Glenorchy-TAS-105.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does allocate non-monetary institutional resources to climate action. It outlines the importance of staff engagement and capacity building, particularly in land use planning assessment, to incorporate climate change scenarios and impacts into policy and decision-making processes. The policy also emphasizes the role of management in implementing adaptation actions and maintaining the risk assessment. Furthermore, the policy highlights the need for collaboration and stakeholder involvement, indicating that staff will be involved in working with other organizations and community groups. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on these tasks.", "quote": {"content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.", "page": 31, "source": "Glenorchy-TAS-105.pdf", "search_score": 0.92}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to stakeholder involvement and collaboration, recognising that climate change impacts will be felt throughout the community and that a collaborative adaptation response is essential. The policy also includes plans to develop and implement a climate change communication and education plan for the Council\u2019s staff, which will form the basis for broader community communication. This is aimed at increasing staff capacity and awareness, particularly in land use planning assessment, to assist in incorporating climate change scenarios and impacts into policy and decision-making processes. Furthermore, the policy outlines education and awareness-raising actions, including public education campaigns to communicate high-risk areas associated with sea level rise and storm surge to the community, and workshops with local industry groups.", "quote": {"content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.", "page": 31, "source": "Glenorchy-TAS-105.pdf", "search_score": 0.92}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents primarily focus on adaptation strategies to manage the impacts of climate change at a local level. These include risk management, adaptation planning, and stakeholder involvement. The documents also mention the importance of keeping up to date with climate change science and information, and developing clear criteria for decision-making based on scientific evidence. However, these are general strategies and do not specifically address the mitigation of greenhouse gas emissions. Therefore, based on the provided documents, the local government's plan does not include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines 47 adaptation actions to address priority climate change risks, which when implemented, provide an initial response to the challenges posed by climate change. The plan also recommends the appointment of a climate change 'champion' to oversee the implementation of these actions. The actions are categorized under various themes such as 'Regulatory and Institutional', 'Engineering and Technological', 'Education and Awareness', and 'Advocacy'. Each adaptation action has associated roles, responsibilities, and timeframes. The plan also emphasizes the importance of stakeholder involvement and collaboration in the adaptation process. It is clear that the plan is not only comprehensive but also specific in its approach to climate adaptation and resilience.", "quote": {"content": "The strongest adaptation treatment theme was \u2018Regulatory and Institutional\u2019 where 16 actions are proposed. Council staff defined a total of 35 adaptation actions in response to Glenorchy\u2019s 24 priority climate change risks.", "page": 3, "source": "Glenorchy-TAS-105.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a detailed plan for addressing climate change, including specific adaptation actions, roles, responsibilities, and timeframes. It also outlines a process for monitoring and evaluating the implementation of these actions, which is crucial for assessing their effectiveness and making necessary adjustments. The plan is based on workshops conducted with council staff, indicating that it is informed by local knowledge and expertise. Furthermore, the document acknowledges the need for further research and information gathering to improve understanding of the relationship between climate change and risk. This suggests a commitment to evidence-based decision making. However, while the document provides a comprehensive plan for action, it does not explicitly cite the sources of evidence used to justify its climate targets and actions.", "quote": {"content": "Each Adaptation action has associated roles, responsibilities and timeframes. The Plan is structured so that prioritised adaptation actions have been allocated to risk treatment themes that apply across the Council.", "page": 13, "source": "Glenorchy-TAS-105.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a Monitoring, Evaluation and Reporting (MER) framework to systematically and objectively review the appropriateness, efficiency, effectiveness, and impact of the set of actions. This includes tracking progress against actions, reviewing whether actions need to be revised, and assessing if actions are being implemented via operational plans. The plan also includes a multi-criteria assessment (MCA) approach for each adaptation action, which considers cost, immediacy, political feasibility, community acceptance, and concurrent effects. The plan also suggests that annual monitoring should be reported in the Council's annual report, providing a regular and formal mechanism for evaluation.", "quote": {"content": "Monitoring, evaluation and reporting (MER) is a systematic and objective review of either (or a combination of) the appropriateness, efficiency, effectiveness and impact of a set of actions.", "page": 48, "source": "Glenorchy-TAS-105.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does indeed outline plans to conduct research to inform climate actions. The document emphasizes the importance of further research and information gathering to improve understanding of the relationship between climate change and risk. This includes improving knowledge of past and present variations in climate and the performance of economic, social, and environmental systems, as well as improving modeling of regionally-based climate change impacts. The plan also highlights the importance of stakeholder engagement in the development of the climate change adaptation action plan, indicating that local knowledge of the area and Council activity is just as important as climate change projections to develop a relevant plan. This suggests that research within the local community will be a key part of informing climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Glenorchy City Council Corporate Climate Change Adaptation Plan outlines a systematic approach to monitoring, evaluating, and reporting on the implementation of actions related to climate change. It also mentions the appointment of a climate change 'champion' to oversee the implementation of the plan. However, these actions seem to be standard practices rather than innovative or experimental policies. The plan also includes the development of a climate change communication and education plan, integration of climate risks into strategic and annual plans, and the development of key performance indicators. While these actions are important for addressing climate change, they do not necessarily represent innovative or experimental approaches. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan clearly demonstrates an intent to advocate upward to state and national governments to support climate action. The document outlines advocacy actions that aim to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect the Glenorchy City Council and local government adaptation planning. Examples of these actions include advocating to the State Government for clearer direction on planning responses for sea level rise and flooding impacts. The document also suggests that the council is seeking to ensure that climate change risks are being factored into the design, engineering, and operation of water and wastewater treatment plants. This indicates a clear intent to engage with higher levels of government to support climate action.", "quote": {"content": "Examples of actions include advocating to State Government for clearer direction on planning responses for sea level rise and flooding impacts and advocating to Southern Water to ensure that climate change risks are being factored into the design, engineering and operation of water and wastewater treatment plants.", "page": 33, "source": "Glenorchy-TAS-105.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The document emphasizes the importance of stakeholder involvement and collaboration in addressing climate change impacts. It highlights the need for a collaborative adaptation response between all stakeholders to maintain high service levels in a changing climate. The document also mentions the importance of identifying linkages with other organizations that contribute to meeting climate change adaptation objectives and avoiding duplication of efforts. Furthermore, the document outlines the council's role in directly supporting and assisting local communities, disseminating information, and providing support to the community. It also mentions the development and implementation of a climate change communication and education plan for the Council\u2019s staff, which will form the basis for a broader community communication.", "quote": {"content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.", "page": 31, "source": "Glenorchy-TAS-105.pdf", "search_score": 0.92}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of stakeholder involvement, collaboration, and the need for a regional approach to manage climate change impacts, they do not provide specific details about any particular regional associations or alliances involved in this process. The documents also mention the need for clear understanding of roles and responsibilities, and the identification of collaborative opportunities, but again, no specific entities are named in this context."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation, such as investigating alternative revenue sources, ensuring appropriate budget provisions, and reviewing insurance policies, they do not specifically address the effects of climate change on vulnerable populations. The documents also mention the importance of stakeholder involvement and collaboration in climate change adaptation efforts, but they do not explicitly link this to issues of equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the local government policy discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the Glenorchy City Council's Climate Change Adaptation Plan, outlining the risks associated with climate change, the council's adaptation strategies, and the importance of stakeholder involvement and collaboration. While the plan does mention the need for collaboration and stakeholder involvement, it does not delve into the specifics of how the benefits and opportunities of a safe climate will be equitably shared among different groups. Therefore, without explicit evidence in the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 54.2}}
+{
+  "settings": {
+    "source_files": [
+      "Glenorchy-TAS-105.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:13:41.216422",
+    "lga": "Glenorchy"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan clearly identifies climate action as its core purpose. The policy outlines strategic and corporate adaptation actions to address priority climate change risks. It emphasizes the importance of incorporating climate change risks into the Council\u2019s risk register, strategic, annual, and financial planning. The policy also highlights the need for advocacy actions to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect Glenorchy City Council and local government adaptation planning. Furthermore, the policy underscores the importance of education and awareness-raising actions, both internally within the Council and externally to the public, to drive climate change adaptation. Therefore, it is evident that the policy is centered around climate action, with the goal of minimizing the Council\u2019s risk in the face of extreme events posed by climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Glenorchy City Council Corporate Climate Change Adaptation Plan outlines the legal implications of climate change action, highlighting the potential liability that councils are exposed to through their various statutory roles, powers, and functions. The plan also emphasizes the importance of incorporating climate change risks into the Council\u2019s risk register and strategic planning. It further suggests the appointment of a climate change 'champion' to oversee the implementation of the plan's actions. The documents also detail the need for advocacy actions to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect Glenorchy City Council and local government adaptation planning. These actions are aimed at addressing priority climate change risks and providing an initial response to the challenges posed by climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do discuss the importance of local governments in adapting to climate change impacts, and they outline potential actions and strategies for managing these impacts. However, there is no explicit language indicating a sense of urgency or immediacy in these actions. The documents focus more on the need for strategic planning, risk management, and advocacy in relation to climate change. They also discuss potential legal implications of climate change action for local governments. While these are important aspects of climate change adaptation, they do not necessarily convey a sense of urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. While the documents outline a comprehensive plan for addressing climate change, including the appointment of a 'climate change champion', the integration of climate change risks into the Council's risk register, and the implementation of strategic actions, they do not provide explicit deadlines or schedules for these actions. The documents mention the need for plan review in the context of progress on initial actions and developments in climate science, policy, and legal frameworks, but again, no specific timeframes are given for these reviews. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The Glenorchy City Council Corporate Climate Change Adaptation Plan does outline a comprehensive approach to addressing climate change risks, including the identification and prioritization of risks, the development of adaptation actions, and the integration of these actions into the Council's strategic and annual plans. However, it does not specifically state that these actions should take precedence over other policies. The plan emphasizes the importance of integrating climate change considerations into all aspects of the Council's operations and decision-making processes, rather than prioritizing them above all else. It also highlights the need for ongoing review and adaptation of the plan in response to new information and changing circumstances."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, emphasize the importance of integrating climate change risks and adaptation actions into the council's strategic and annual plans, strategies, and policies. The documents also mention the development of a climate change communication and education plan for the council's staff, which will form the basis for broader community communication. The documents also suggest the appointment of a climate change 'champion' to oversee the implementation of the actions included in the plan. However, these points do not necessarily imply that all council activities must be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines the investigation of alternative revenue sources, such as an environment levy, to fund climate change adaptation projects. It also emphasizes the importance of ensuring appropriate budget provisions are in place to respond to additional impacts on council infrastructure/assets for funding climate change adaptation projects. Furthermore, the plan acknowledges that financial and resource availability are critical factors for enabling the implementation of adaptation actions. It suggests that the council will initially support the implementation of those adaptation actions that are cost-effective and align with current resource capacity and availability. However, it is important to note that the plan does not provide specific details on the amount of funding allocated or the exact sources of this funding.",
+          "quote": {
+            "content": "Investigate alternative revenue sources (e.g.",
+            "page": 42,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does allocate non-monetary institutional resources to climate action. It outlines the importance of staff engagement and capacity building, particularly in land use planning assessment, to incorporate climate change scenarios and impacts into policy and decision-making processes. The policy also emphasizes the role of management in implementing adaptation actions and maintaining the risk assessment. Furthermore, the policy highlights the need for collaboration and stakeholder involvement, indicating that staff will be involved in working with other organizations and community groups. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on these tasks.",
+          "quote": {
+            "content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.",
+            "page": 31,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to stakeholder involvement and collaboration, recognising that climate change impacts will be felt throughout the community and that a collaborative adaptation response is essential. The policy also includes plans to develop and implement a climate change communication and education plan for the Council\u2019s staff, which will form the basis for broader community communication. This is aimed at increasing staff capacity and awareness, particularly in land use planning assessment, to assist in incorporating climate change scenarios and impacts into policy and decision-making processes. Furthermore, the policy outlines education and awareness-raising actions, including public education campaigns to communicate high-risk areas associated with sea level rise and storm surge to the community, and workshops with local industry groups.",
+          "quote": {
+            "content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.",
+            "page": 31,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The documents primarily focus on adaptation strategies to manage the impacts of climate change at a local level. These include risk management, adaptation planning, and stakeholder involvement. The documents also mention the importance of keeping up to date with climate change science and information, and developing clear criteria for decision-making based on scientific evidence. However, these are general strategies and do not specifically address the mitigation of greenhouse gas emissions. Therefore, based on the provided documents, the local government's plan does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines 47 adaptation actions to address priority climate change risks, which when implemented, provide an initial response to the challenges posed by climate change. The plan also recommends the appointment of a climate change 'champion' to oversee the implementation of these actions. The actions are categorized under various themes such as 'Regulatory and Institutional', 'Engineering and Technological', 'Education and Awareness', and 'Advocacy'. Each adaptation action has associated roles, responsibilities, and timeframes. The plan also emphasizes the importance of stakeholder involvement and collaboration in the adaptation process. It is clear that the plan is not only comprehensive but also specific in its approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "The strongest adaptation treatment theme was \u2018Regulatory and Institutional\u2019 where 16 actions are proposed. Council staff defined a total of 35 adaptation actions in response to Glenorchy\u2019s 24 priority climate change risks.",
+            "page": 3,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for addressing climate change, including specific adaptation actions, roles, responsibilities, and timeframes. It also outlines a process for monitoring and evaluating the implementation of these actions, which is crucial for assessing their effectiveness and making necessary adjustments. The plan is based on workshops conducted with council staff, indicating that it is informed by local knowledge and expertise. Furthermore, the document acknowledges the need for further research and information gathering to improve understanding of the relationship between climate change and risk. This suggests a commitment to evidence-based decision making. However, while the document provides a comprehensive plan for action, it does not explicitly cite the sources of evidence used to justify its climate targets and actions.",
+          "quote": {
+            "content": "Each Adaptation action has associated roles, responsibilities and timeframes. The Plan is structured so that prioritised adaptation actions have been allocated to risk treatment themes that apply across the Council.",
+            "page": 13,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a Monitoring, Evaluation and Reporting (MER) framework to systematically and objectively review the appropriateness, efficiency, effectiveness, and impact of the set of actions. This includes tracking progress against actions, reviewing whether actions need to be revised, and assessing if actions are being implemented via operational plans. The plan also includes a multi-criteria assessment (MCA) approach for each adaptation action, which considers cost, immediacy, political feasibility, community acceptance, and concurrent effects. The plan also suggests that annual monitoring should be reported in the Council's annual report, providing a regular and formal mechanism for evaluation.",
+          "quote": {
+            "content": "Monitoring, evaluation and reporting (MER) is a systematic and objective review of either (or a combination of) the appropriateness, efficiency, effectiveness and impact of a set of actions.",
+            "page": 48,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does indeed outline plans to conduct research to inform climate actions. The document emphasizes the importance of further research and information gathering to improve understanding of the relationship between climate change and risk. This includes improving knowledge of past and present variations in climate and the performance of economic, social, and environmental systems, as well as improving modeling of regionally-based climate change impacts. The plan also highlights the importance of stakeholder engagement in the development of the climate change adaptation action plan, indicating that local knowledge of the area and Council activity is just as important as climate change projections to develop a relevant plan. This suggests that research within the local community will be a key part of informing climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The Glenorchy City Council Corporate Climate Change Adaptation Plan outlines a comprehensive approach to climate change adaptation, including advocacy, education and awareness, and further information identification. It also discusses the legal implications of climate change action and the importance of keeping up to date with climate change science and information. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions, such as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the policy includes elements of experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan clearly demonstrates an intent to advocate upward to state and national governments to support climate action. The document outlines advocacy actions that aim to influence and collaborate with other spheres of government on policy, resourcing, and other issues to manage risks that may affect the Glenorchy City Council and local government adaptation planning. Examples of these actions include advocating to the State Government for clearer direction on planning responses for sea level rise and flooding impacts. The document also suggests that the council is seeking to ensure that climate change risks are being factored into the design, engineering, and operation of water and wastewater treatment plants. This indicates a clear intent to engage with higher levels of government to support climate action.",
+          "quote": {
+            "content": "Examples of actions include advocating to State Government for clearer direction on planning responses for sea level rise and flooding impacts and advocating to Southern Water to ensure that climate change risks are being factored into the design, engineering and operation of water and wastewater treatment plants.",
+            "page": 33,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Glenorchy City Council Corporate Climate Change Adaptation Plan does explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The document emphasizes the importance of stakeholder involvement and collaboration in addressing climate change impacts. It highlights the need for a collaborative adaptation response between all stakeholders to maintain high service levels in a changing climate. The document also mentions the importance of identifying linkages with other organizations that contribute to meeting climate change adaptation objectives and avoiding duplication of efforts. Furthermore, the document outlines the council's role in directly supporting and assisting local communities, disseminating information, and providing support to the community. It also mentions the development and implementation of a climate change communication and education plan for the Council\u2019s staff, which will form the basis for a broader community communication.",
+          "quote": {
+            "content": "Develop and implement a climate change communication and education plan for the Council\u2019s staff that will form the basis for a broader community communication.",
+            "page": 31,
+            "source": "Glenorchy-TAS-105.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of stakeholder involvement, collaboration, and the need for a regional approach to manage climate change impacts, they do not provide specific details about any particular regional associations or alliances involved in this process. The documents also mention the need for clear understanding of roles and responsibilities, and the identification of collaborative opportunities, but again, no specific entities are named in this context."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation, such as investigating alternative revenue sources, ensuring appropriate budget provisions, and reviewing insurance policies, they do not specifically address the effects of climate change on vulnerable populations. The documents also mention the importance of stakeholder involvement and collaboration in climate change adaptation efforts, but they do not explicitly link this to issues of equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the local government policy discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the Glenorchy City Council's Climate Change Adaptation Plan, outlining the risks associated with climate change, the council's adaptation strategies, and the importance of stakeholder involvement and collaboration. While the plan does mention the need for collaboration and stakeholder involvement, it does not delve into the specifics of how the benefits and opportunities of a safe climate will be equitably shared among different groups. Therefore, without explicit evidence in the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 54.2
+  }
+}

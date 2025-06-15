@@ -1,1 +1,304 @@
-{"settings": {"source_files": ["Broken-NSW-6.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T13:37:45.440947", "lga": "Broken"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy's stated purpose is to engage with renewable energy and identify options for projects that benefit the Council and the Broken Hill community. The policy aims to reduce the cost and uncertainty of future energy supply, increase the use and innovation of renewable resources, attract and retain people and businesses, support residents and local businesses suffering from energy affordability, and play its part in mitigation for, and adaptation to, climate change. While climate action is a component of the policy's objectives, it is not presented as the core purpose or goal."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": false, "answer": "The documents do not explicitly explain the need for action on climate change. While the Broken Hill City Council's Renewable Energy Action Plan does express a desire to engage with renewable energy and identify options for projects that benefit the Council and the community, it does not directly state the need for action on climate change. The documents mention the Council's commitment to developing a sustainable and liveable city, and its ambition to achieve Carbon Neutral status. However, these statements are more indicative of the Council's sustainability goals rather than a direct acknowledgement of the need to address climate change. The documents also outline various renewable energy projects and strategies, but these are presented as opportunities for cost control, leadership demonstration, and future preparedness, rather than as responses to climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions related to renewable energy and energy efficiency, such as the development of Renewable Energy Action Plans, the commencement of a solar array project, and the delivery of energy efficiency training. However, these actions are presented as part of a broader strategy and there is no explicit language indicating a sense of urgency or immediate need for these actions to be implemented. The documents also discuss potential challenges and considerations related to these actions, such as conflicts with solar energy and electric powered vehicles, and the need for smart metering upgrades. While these discussions indicate a comprehensive approach to addressing energy use and promoting renewable energy, they do not convey a sense of urgency in relation to climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a goal to be 100% renewable by 2023, which indicates a clear timeframe for a significant action related to climate change. Additionally, the policy states a goal for 2030 to assist Local Government to install and own over $60m in renewable energy infrastructure, facilitate the micro-grid, VPP and behind-the-meter transition across regional Australia, and deliver 20m tonnes in Carbon abatement. These goals are specific and time-bound, indicating a sense of urgency in the policy's approach to addressing climate change.", "quote": {"content": "- \nFacilitate the micro-grid, VPP and behind-the-meter transition across regional Australia \n- \nDeliver 20m tonnes in Carbon abatement.", "page": 47, "source": "Broken-NSW-6.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the Broken Hill City Council's Renewable Energy Action Plan, which includes a focus on renewable energy projects, energy efficiency measures, and community engagement. The plan outlines a framework for evaluating the importance of projects, including their financial impact, community benefit, practicality, and potential for stimulating positive change. However, there is no explicit statement prioritizing this climate response over other policies. The documents also discuss specific initiatives such as the construction of a solar array, the use of bioenergy, and the potential for electric vehicles. While these initiatives indicate a commitment to addressing climate change, they do not provide evidence of a policy prioritizing a climate emergency response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. The documents outline the Renewable Energy Action Plan (REAP) of the Broken Hill City Council (BHCC), which includes steps towards achieving carbon neutrality and engaging with renewable energy. The documents mention the formation of a project steering committee to align Council and Community interests with project outcomes, and the development of a community engagement strategy. However, these actions are specific to the REAP and do not necessarily imply that all council activities must align with climate policy. The documents also mention a framework for evaluating the importance of projects identified through the REAP, but again, this does not explicitly state that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a plan to secure project finance for the next two stages of the project, which are the full project planning and project delivery stages. The fully costed business case will be used to secure finance from the Council\u2019s preferred financial institution. Additionally, the policy mentions that Constructive Energy can assist with any government grant or private funding applications that the Council may seek to assist with the project. This includes government battery subsidies or build own operate transfer (BOOT) proposals. Therefore, the policy not only allocates funding for climate action but also outlines a strategy for securing additional funding.", "quote": {"content": "government battery subsidies, or build own operate transfer (BOOT) proposals. The full project planning and project delivery stages. The fully costed business case will be used to secure finance from Council\u2019s preferred financial institution. Constructive Energy can assist with any government grant or private funding applications that Council may seek to assist with the project, e.g.", "page": 44, "source": "Broken-NSW-6.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does allocate non-monetary institutional resources to climate action. Specifically, it outlines the formation of a project steering committee to work closely with Constructive Energy, ensuring that Council and the Community\u2019s interests align with project outcomes. This committee is a clear allocation of staff resources towards the project. Additionally, the policy mentions the development of a community engagement strategy, which would likely involve the use of staff resources to develop and implement. The policy also discusses the recruitment of community customers, which would require the allocation of staff resources for recruitment and management. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on these tasks.", "quote": {"content": "This phase may also involve recruitment of community customers.", "page": 44, "source": "Broken-NSW-6.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to actively empower and educate the community to rally, support, and work productively together to deliver climate action. This is evident in the outlined plans for a customer engagement campaign to aggregate local demand for future energy output from a proposed solar array. The document also mentions the development of a community engagement strategy to ensure that the local community and stakeholders are involved in the project and their sentiment is heard. This strategy may also involve the recruitment of community customers. Furthermore, the document states that the Council supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community, and preparing for any future carbon price. These actions suggest a commitment to social mobilisation for climate action.", "quote": {"content": "This is a very important step to aggregate local demand for the future energy output from the array once the BHCC array comes online. If the business case for the solar array requires Council and their retail partner to trade the excess energy from the array and batteries, then a customer engagement campaign will need to be conducted with local business and possibly households.", "page": 44, "source": "Broken-NSW-6.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a goal to drive operations from 100% renewable energy by 2023, which would significantly reduce greenhouse gas emissions. Technological solutions are a key part of this strategy, with a focus on solar PV and energy storage. The plan also discusses the need for smart metering upgrades for better energy consumption data. In terms of behaviour change, the plan emphasizes the importance of energy efficiency and recommends monitoring consumption and reporting on energy use. The plan also suggests considering microgrids for developments with multiple meters connected, which could encourage more efficient energy use. However, the plan could benefit from more specific details on how these actions will be implemented and how their impact on greenhouse gas emissions will be measured.", "quote": {"content": "Energy Storage should be considered as part of the evaluation for every project for its ability to provide flexibility and adaptability in energy management in the future. Council have an overarching objective to drive operations from 100% renewable energy by 2023. This goal necessitates examining building energy consumption (both electricity and gas) and vehicles, plant and equipment.", "page": 5, "source": "Broken-NSW-6.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of adapting to a changing climate. The documents primarily focus on the local government's plans for renewable energy projects, including a mid-scale solar project, energy monitoring, and community engagement strategies. While these actions contribute to mitigating climate change by reducing greenhouse gas emissions, they do not directly address climate adaptation and resilience. Climate adaptation actions would typically include measures to adjust to actual or expected future climate and its effects, such as infrastructure improvements to withstand extreme weather events, or strategies to protect local ecosystems and biodiversity. Resilience measures would typically involve strengthening the capacity of the local community and systems to absorb disturbances and reorganize while undergoing change so as to still retain essentially the same function, structure, identity, and feedbacks."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss various aspects of the local government's energy policy, such as the establishment of a project steering committee, metering upgrade and consumption analysis, and site confirmation for solar array installation, they do not provide specific evidence or sources to justify the climate targets and actions. The documents mention the council's commitment to developing a sustainable and liveable city and its desire to engage with renewable energy, but they do not provide specific, well-sourced evidence to support these claims. The documents also mention the council's plan to seek project finance for the next two stages of the project, but they do not provide specific details about the sources of this finance or how it will be used to achieve the council's climate targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a decision-making framework for evaluating the relative importance of projects identified through the Renewable Energy Action Plan. This framework includes criteria such as Benefit/Cost, Community benefit, Logic, and Leadership. The Benefit/Cost criterion asks if the project has a positive financial impact, which can be measured through financial analysis. The Community benefit criterion assesses how the wider community benefits from the project, which can be measured through surveys or other forms of feedback. The Logic criterion evaluates if the project is practical, defensible, sound, ethical, and enduring, which can be measured through various means such as project feasibility studies and ethical assessments. The Leadership criterion assesses if the project will stimulate positive change in others, which can be measured through observation and feedback.", "quote": {"content": "- Leadership \u2013 will the project stimulate positive change in others? - Community benefit \u2013 how does the wider community benefit from this project? - Logic \u2013 is the project practical, defensible, sound, ethical, enduring?", "page": 7, "source": "Broken-NSW-6.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government, in collaboration with Constructive Energy, plans to develop a community engagement strategy to ensure that the local community and stakeholders are involved in the project and their sentiment is heard. This strategy may involve the recruitment of community customers. Additionally, if the business case for the solar array requires Council and their retail partner to trade the excess energy from the array and batteries, a customer engagement campaign will be conducted with local businesses and possibly households. This is a crucial step to aggregate local demand for the future energy output from the array once it comes online. These actions indicate a commitment to understanding and incorporating community sentiment and needs into the planning and implementation of climate actions.", "quote": {"content": "This phase may also involve recruitment of community customers.", "page": 44, "source": "Broken-NSW-6.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The document provides evidence of innovation and policy experimentation in climate action. The local government has developed a Renewable Energy Action Plan, which includes a range of projects and initiatives designed to meet the unique objectives, constraints, and opportunities of the Broken Hill City Council (BHCC). The plan includes energy efficiency measures, renewable energy installations, and energy consumption reporting. The BHCC has an overarching objective to drive operations from 100% renewable energy by 2023, which necessitates examining building energy consumption and vehicles, plant, and equipment. The plan also includes a decision-making framework to evaluate the relative importance of projects identified through the Renewable Energy Action Plan. This framework considers factors such as benefit/cost, community benefit, logic, and leadership. The document also mentions the development of a detailed business case for a $7.6 million, 5 MW solar array, indicating a willingness to invest in large-scale renewable energy projects.", "quote": {"content": "Broken Hill City Council (BHCC) supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community and preparing for any future carbon price.", "page": 7, "source": "Broken-NSW-6.pdf", "search_score": 1.0}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The focus of the documents is primarily on the local government's efforts to engage with renewable energy and develop projects that benefit the local community. These efforts include developing a Renewable Energy Action Plan, commencing project delivery of a solar array, and delivering energy efficiency training. The documents also mention the local government's goal to assist other local governments in installing and owning renewable energy infrastructure. However, there is no explicit mention of advocating to higher levels of government for support in climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not provide explicit evidence of the local government policy encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents discuss the formation of a project steering committee to align Council and Community interests with project outcomes, and the development of a community engagement strategy. However, these actions are more related to specific project implementation rather than building broader local capacity for climate action. Furthermore, there is no mention of engaging neighbouring local councils in these efforts. Therefore, the documents do not meet the high standard of evidence required to affirmatively answer the question."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. It mentions the development of renewable energy projects in collaboration with multi-State and national consortia. Specifically, it refers to a microgrid feasibility project undertaken with the Murray Darling Association, Queensland Farmers Federation, and Cotton Australia. These partnerships indicate a coordinated effort to address climate change and promote renewable energy. The document also mentions the Broken Hill City Council's (BHCC) engagement with Constructive Energy, a company that assists in the development and implementation of renewable energy projects. This further demonstrates the local government's commitment to fostering partnerships for climate action.", "quote": {"content": "Completed several major funding applications for renewable energy projects with multi-State and national consortia including microgrid feasibility with the Murray Darling Association, Queensland Farmers Federation and Cotton Australia (result pending).", "page": 47, "source": "Broken-NSW-6.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's plans and actions towards renewable energy, energy resilience, and the financial and practical aspects of these projects. There is mention of community benefits and engagement in the context of these projects, but these do not specifically address the impact of climate change on vulnerable communities or issues of equity and social justice. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention community benefits and engagement, it does not provide specific details on how these benefits will be equitably distributed or how social justice will be ensured in the context of climate change. The policy primarily focuses on the technical and financial aspects of implementing renewable energy projects, such as solar arrays and energy efficiency measures. It also discusses the potential for financial savings and the importance of positive financial impact, but does not delve into the social implications or equitable distribution of these benefits."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 9, "num_questions": 20, "attribute_score": 45.8}}
+{
+  "settings": {
+    "source_files": [
+      "Broken-NSW-6.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T13:37:45.440947",
+    "lga": "Broken"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy's stated purpose is to engage with renewable energy and identify options for projects that benefit the Council and the Broken Hill community. The policy aims to reduce the cost and uncertainty of future energy supply, increase the use and innovation of renewable resources, attract and retain people and businesses, support residents and local businesses suffering from energy affordability, and play its part in mitigation for, and adaptation to, climate change. While climate action is a component of the policy's objectives, it is not presented as the core purpose or goal."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly explain the need for action on climate change. While the Broken Hill City Council's Renewable Energy Action Plan does express a desire to engage with renewable energy and identify options for projects that benefit the Council and the community, it does not directly state the need for action on climate change. The documents mention the Council's commitment to developing a sustainable and liveable city, and its ambition to achieve Carbon Neutral status. However, these statements are more indicative of the Council's sustainability goals rather than a direct acknowledgement of the need to address climate change. The documents also outline various renewable energy projects and strategies, but these are presented as opportunities for cost control, leadership demonstration, and future preparedness, rather than as responses to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions related to renewable energy and energy efficiency, such as the development of Renewable Energy Action Plans, the commencement of a solar array project, and the delivery of energy efficiency training. However, these actions are presented as part of a broader strategy and there is no explicit language indicating a sense of urgency or immediate need for these actions to be implemented. The documents also discuss potential challenges and considerations related to these actions, such as conflicts with solar energy and electric powered vehicles, and the need for smart metering upgrades. While these discussions indicate a comprehensive approach to addressing energy use and promoting renewable energy, they do not convey a sense of urgency in relation to climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines a goal to be 100% renewable by 2023, which indicates a clear timeframe for a significant action related to climate change. Additionally, the policy states a goal for 2030 to assist Local Government to install and own over $60m in renewable energy infrastructure, facilitate the micro-grid, VPP and behind-the-meter transition across regional Australia, and deliver 20m tonnes in Carbon abatement. These goals are specific and time-bound, indicating a sense of urgency in the policy's approach to addressing climate change.",
+          "quote": {
+            "content": "- \nFacilitate the micro-grid, VPP and behind-the-meter transition across regional Australia \n- \nDeliver 20m tonnes in Carbon abatement.",
+            "page": 47,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the Broken Hill City Council's Renewable Energy Action Plan, which includes a focus on renewable energy projects, energy efficiency measures, and community engagement. The plan outlines a framework for evaluating the importance of projects, including their financial impact, community benefit, practicality, and potential for stimulating positive change. However, there is no explicit statement prioritizing this climate response over other policies. The documents also discuss specific initiatives such as the construction of a solar array, the use of bioenergy, and the potential for electric vehicles. While these initiatives indicate a commitment to addressing climate change, they do not provide evidence of a policy prioritizing a climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. The documents outline the Renewable Energy Action Plan (REAP) of the Broken Hill City Council (BHCC), which includes steps towards achieving carbon neutrality and engaging with renewable energy. The documents mention the formation of a project steering committee to align Council and Community interests with project outcomes, and the development of a community engagement strategy. However, these actions are specific to the REAP and do not necessarily imply that all council activities must align with climate policy. The documents also mention a framework for evaluating the importance of projects identified through the REAP, but again, this does not explicitly state that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a plan to secure project finance for the next two stages of the project, which are the full project planning and project delivery stages. The fully costed business case will be used to secure finance from the Council\u2019s preferred financial institution. Additionally, the policy mentions that Constructive Energy can assist with any government grant or private funding applications that the Council may seek to assist with the project. This includes government battery subsidies or build own operate transfer (BOOT) proposals. Therefore, the policy not only allocates funding for climate action but also outlines a strategy for securing additional funding.",
+          "quote": {
+            "content": "government battery subsidies, or build own operate transfer (BOOT) proposals. The full project planning and project delivery stages. The fully costed business case will be used to secure finance from Council\u2019s preferred financial institution. Constructive Energy can assist with any government grant or private funding applications that Council may seek to assist with the project, e.g.",
+            "page": 44,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does allocate non-monetary institutional resources to climate action. Specifically, it outlines the formation of a project steering committee to work closely with Constructive Energy, ensuring that Council and the Community\u2019s interests align with project outcomes. This committee is a clear allocation of staff resources towards the project. Additionally, the policy mentions the development of a community engagement strategy, which would likely involve the use of staff resources to develop and implement. The policy also discusses the recruitment of community customers, which would require the allocation of staff resources for recruitment and management. However, the policy does not provide specific details on the number of staff allocated, their roles, or the time they will spend on these tasks.",
+          "quote": {
+            "content": "This phase may also involve recruitment of community customers.",
+            "page": 44,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to actively empower and educate the community to rally, support, and work productively together to deliver climate action. This is evident in the outlined plans for a customer engagement campaign to aggregate local demand for future energy output from a proposed solar array. The document also mentions the development of a community engagement strategy to ensure that the local community and stakeholders are involved in the project and their sentiment is heard. This strategy may also involve the recruitment of community customers. Furthermore, the document states that the Council supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community, and preparing for any future carbon price. These actions suggest a commitment to social mobilisation for climate action.",
+          "quote": {
+            "content": "This is a very important step to aggregate local demand for the future energy output from the array once the BHCC array comes online. If the business case for the solar array requires Council and their retail partner to trade the excess energy from the array and batteries, then a customer engagement campaign will need to be conducted with local business and possibly households.",
+            "page": 44,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a goal to drive operations from 100% renewable energy by 2023, which would significantly reduce greenhouse gas emissions. Technological solutions are a key part of this strategy, with a focus on solar PV and energy storage. The plan also discusses the need for smart metering upgrades for better energy consumption data. In terms of behaviour change, the plan emphasizes the importance of energy efficiency and recommends monitoring consumption and reporting on energy use. The plan also suggests considering microgrids for developments with multiple meters connected, which could encourage more efficient energy use. However, the plan could benefit from more specific details on how these actions will be implemented and how their impact on greenhouse gas emissions will be measured.",
+          "quote": {
+            "content": "Energy Storage should be considered as part of the evaluation for every project for its ability to provide flexibility and adaptability in energy management in the future. Council have an overarching objective to drive operations from 100% renewable energy by 2023. This goal necessitates examining building energy consumption (both electricity and gas) and vehicles, plant and equipment.",
+            "page": 5,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of adapting to a changing climate. The documents primarily focus on the local government's plans for renewable energy projects, including a mid-scale solar project, energy monitoring, and community engagement strategies. While these actions contribute to mitigating climate change by reducing greenhouse gas emissions, they do not directly address climate adaptation and resilience. Climate adaptation actions would typically include measures to adjust to actual or expected future climate and its effects, such as infrastructure improvements to withstand extreme weather events, or strategies to protect local ecosystems and biodiversity. Resilience measures would typically involve strengthening the capacity of the local community and systems to absorb disturbances and reorganize while undergoing change so as to still retain essentially the same function, structure, identity, and feedbacks."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss various aspects of the local government's energy policy, such as the establishment of a project steering committee, metering upgrade and consumption analysis, and site confirmation for solar array installation, they do not provide specific evidence or sources to justify the climate targets and actions. The documents mention the council's commitment to developing a sustainable and liveable city and its desire to engage with renewable energy, but they do not provide specific, well-sourced evidence to support these claims. The documents also mention the council's plan to seek project finance for the next two stages of the project, but they do not provide specific details about the sources of this finance or how it will be used to achieve the council's climate targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a decision-making framework for evaluating the relative importance of projects identified through the Renewable Energy Action Plan. This framework includes criteria such as Benefit/Cost, Community benefit, Logic, and Leadership. The Benefit/Cost criterion asks if the project has a positive financial impact, which can be measured through financial analysis. The Community benefit criterion assesses how the wider community benefits from the project, which can be measured through surveys or other forms of feedback. The Logic criterion evaluates if the project is practical, defensible, sound, ethical, and enduring, which can be measured through various means such as project feasibility studies and ethical assessments. The Leadership criterion assesses if the project will stimulate positive change in others, which can be measured through observation and feedback.",
+          "quote": {
+            "content": "- Leadership \u2013 will the project stimulate positive change in others? - Community benefit \u2013 how does the wider community benefit from this project? - Logic \u2013 is the project practical, defensible, sound, ethical, enduring?",
+            "page": 7,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government, in collaboration with Constructive Energy, plans to develop a community engagement strategy to ensure that the local community and stakeholders are involved in the project and their sentiment is heard. This strategy may involve the recruitment of community customers. Additionally, if the business case for the solar array requires Council and their retail partner to trade the excess energy from the array and batteries, a customer engagement campaign will be conducted with local businesses and possibly households. This is a crucial step to aggregate local demand for the future energy output from the array once it comes online. These actions indicate a commitment to understanding and incorporating community sentiment and needs into the planning and implementation of climate actions.",
+          "quote": {
+            "content": "This phase may also involve recruitment of community customers.",
+            "page": 44,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has developed Renewable Energy Action Plans and has initiated several projects to test and implement renewable energy solutions. For instance, they have commenced the project delivery of a $7.6 million, 5 MW solar array. They have also completed major funding applications for renewable energy projects with multi-State and national consortia. Furthermore, they have developed a detailed business case for these projects, indicating a systematic approach to testing these initiatives. The documents also mention the formation of a project steering committee, metering upgrade and consumption analysis, and site confirmation as part of the project planning stages. These steps indicate a methodical approach to testing and implementing the projects, which aligns with the definition of policy experimentation.",
+          "quote": {
+            "content": "Developed the detailed business case and commenced project delivery of a $7.6 million, 5 MW solar array. Developed Renewable Energy Action Plans for 5 local governments.",
+            "page": 47,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The focus of the documents is primarily on the local government's efforts to engage with renewable energy and develop projects that benefit the local community. These efforts include developing a Renewable Energy Action Plan, commencing project delivery of a solar array, and delivering energy efficiency training. The documents also mention the local government's goal to assist other local governments in installing and owning renewable energy infrastructure. However, there is no explicit mention of advocating to higher levels of government for support in climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not provide explicit evidence of the local government policy encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents discuss the formation of a project steering committee to align Council and Community interests with project outcomes, and the development of a community engagement strategy. However, these actions are more related to specific project implementation rather than building broader local capacity for climate action. Furthermore, there is no mention of engaging neighbouring local councils in these efforts. Therefore, the documents do not meet the high standard of evidence required to affirmatively answer the question."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. It mentions the development of renewable energy projects in collaboration with multi-State and national consortia. Specifically, it refers to a microgrid feasibility project undertaken with the Murray Darling Association, Queensland Farmers Federation, and Cotton Australia. These partnerships indicate a coordinated effort to address climate change and promote renewable energy. The document also mentions the Broken Hill City Council's (BHCC) engagement with Constructive Energy, a company that assists in the development and implementation of renewable energy projects. This further demonstrates the local government's commitment to fostering partnerships for climate action.",
+          "quote": {
+            "content": "Completed several major funding applications for renewable energy projects with multi-State and national consortia including microgrid feasibility with the Murray Darling Association, Queensland Farmers Federation and Cotton Australia (result pending).",
+            "page": 47,
+            "source": "Broken-NSW-6.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's plans and actions towards renewable energy, energy resilience, and the financial and practical aspects of these projects. There is mention of community benefits and engagement in the context of these projects, but these do not specifically address the impact of climate change on vulnerable communities or issues of equity and social justice. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention community benefits and engagement, it does not provide specific details on how these benefits will be equitably distributed or how social justice will be ensured in the context of climate change. The policy primarily focuses on the technical and financial aspects of implementing renewable energy projects, such as solar arrays and energy efficiency measures. It also discusses the potential for financial savings and the importance of positive financial impact, but does not delve into the social implications or equitable distribution of these benefits."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 45.8
+  }
+}

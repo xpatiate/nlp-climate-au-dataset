@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Derby-WA-243.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T17:11:36.804657", "lga": "Derby"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy documents provided do not explicitly state that climate action is the core purpose or goal of the policy. The policy appears to be primarily focused on managing and adapting to coastal hazards, which may be related to climate change, but this is not explicitly stated. The policy objectives include identifying assets potentially impacted by coastal hazards, interpreting outcomes from the CVS to better understand these hazards, and incorporating measurable actions within the Shire of Derby / West Kimberley Strategic Community Plan. These actions focus on increasing community awareness, including coastal hazards within asset management planning, and ongoing monitoring of the shoreline and coastal hazards. While these actions may indirectly contribute to climate action by mitigating the impacts of climate change, the policy does not explicitly state that climate action is its core purpose or goal."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents provide explicit reasoning for the need for action on climate change. The local government acknowledges the increasing risk of climate change over the short, medium, and long term, and has presented scenarios to demonstrate this. They have identified coastal hazards as a significant concern, and have outlined the need for adaptation actions, monitoring, and further investigation to mitigate these risks. The documents also highlight the importance of community education and awareness regarding coastal hazards and the impacts of climate change. The local government has recognized the need for a transparent and equitable approach in developing mechanisms to guide land use and development decision making in areas potentially at risk of coastal hazards. They have also emphasized the importance of incorporating climate change considerations into ongoing strategy development and asset management processes.", "quote": {"content": "Therefore, the Shire will develop a community education/ awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/ examination.", "page": 59, "source": "Derby-WA-243.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They present a detailed analysis of the potential impacts of climate change, particularly coastal erosion and inundation, and outline a range of adaptation strategies. These strategies include modifications to the Town Planning Scheme, development of a Local Planning Policy, and identification of funding opportunities for specific adaptation actions. However, the documents do not express a sense of urgency or immediacy in implementing these strategies. Instead, they present a measured and methodical approach to managing the risks associated with climate change over the short, medium, and long term. The documents also highlight the importance of a transparent and equitable approach to decision-making, suggesting a preference for careful deliberation over hasty action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a 'Five Year Implementation Plan' with actions and strategies to be implemented within specific years. For instance, it mentions that modifications to the Town Planning Scheme, which include incorporating areas at risk of coastal inundation and erosion within a 'Special Control Area', are to be completed by 2018. Additionally, the development of a Local Planning Policy to guide the assessment of development applications for properties at risk of coastal inundation is also planned. The document also presents climate change scenarios across short, medium, and long-term periods, further indicating a timeline for potential climate change impacts and the urgency of action.", "quote": {"content": "SD Table 22: Five Year Implementation Plan\nAction/ Strategy\nResponsibility\nTiming\nResponding to Land Use and Development\n1. Modifications to Town Planning Scheme\na. Ensure the new Town Planning Scheme Mapping incorporates the areas at risk of coastal inundation and \ncoastal erosion within a \u2018Special Control Area\u2019. SDWK\n2018\nb. SDWK\n2018\nb. SDWK\n2018\nb. Develop suitable objectives and development controls for the \u2018Special Control Area\u2019 and incorporate within the \nnew Town Planning Scheme Text. SDWK\n2018\n2. Development of Local Planning Policy \na. Liaise with other local government authorities and the West Australian Local Government  Association to \nunderstand the suitability development controls to manage coastal inundation. SDWK\n2017\nb. SDWK\n2017\nb. SDWK\n2017\nb. Development a Local Planning Policy to guide the assessment of development applications for properties at \nrisk of coastal inundation.", "page": 61, "source": "Derby-WA-243.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive approach to addressing climate change, including the consideration of climate change scenarios, the development of management and adaptation options, and the incorporation of local factors into these strategies. They also discuss the need for funding opportunities to implement adaptation actions, the development of controls for land use and development in areas at risk of coastal hazards, and the inclusion of coastal hazards in asset management planning. However, these actions are presented as part of a broader policy framework, and there is no explicit statement prioritizing a climate emergency response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. While the documents do discuss the local government's approach to managing coastal hazards, including the development of an Asset Management Plan and a Local Planning Policy, they do not explicitly require all council activities to align with these or any other climate policies. The documents focus on specific actions related to coastal planning and adaptation, such as identifying funding opportunities, developing a transparent and equitable approach to land use and development decision making, and incorporating coastal hazards into ongoing strategy development and asset management processes. However, these actions are not explicitly extended to all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The policy does explicitly allocate funding for climate action, although it does not specify the exact amount. The policy acknowledges the need for funding to undertake specific adaptation actions, monitoring, and further investigation as required and prior to coastal hazards becoming intolerable. It also mentions the need to identify funding opportunities to ensure these actions can be undertaken. Furthermore, the policy acknowledges the existence of state funding opportunities directly aligned with coastal adaptation and management that can increase the capacity of the Shire to undertake these identified actions. One such opportunity mentioned is the Coastal Management Plan Assistance Program (CMPAP) grants provided by the Western Australian Planning Commission. However, the policy also states that the current level of coastal hazard risk does not require any significant allocation of Shire resources, implying that the majority of actions can be undertaken through the allocation of existing Shire resources.", "quote": {"content": "There are a number of State funding opportunities directly aligned with coastal adaptation and management that can increase the capacity of the Shire to undertake these identified actions. The current level of coastal hazard risk does not require any significant allocation of Shire resources to accommodate the identified risk. Over the next 5 years the majority of identified actions can be undertaken through the allocation of existing Shire resources. However, the Shire will require additional support to ensure that appropriate monitoring/ examination and community awareness is undertaken over time.", "page": 59, "source": "Derby-WA-243.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents do mention the need for the Shire to ensure the level/experience of its resources is incorporated into the determination of proposed actions, and to develop a transparent and equitable approach to guide land use and development decision making, they do not specify the allocation of staff or other non-monetary resources for these tasks. The documents also mention the Shire's ongoing development of a holistic Asset Management Plan, which is to consider identified coastal hazards, but again, no specific allocation of institutional resources is mentioned. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government has plans to educate and raise awareness among the community about coastal hazards and climate change. The Shire of Derby/West Kimberley has outlined a community education/awareness program to convey current technical knowledge and update the community with subsequent monitoring/examination. This program is part of the Strategic Community Plan, which includes measurable actions to increase community awareness of coastal hazards, include coastal hazards within asset management, and ongoing monitoring and examination of coastal hazards. However, the documents also reveal a low level of community engagement and interest, which may pose challenges to social mobilisation. The government's efforts to educate and raise awareness can be seen as a step towards empowering the community, but it is not clear how these efforts will translate into the community rallying, supporting, and working together to deliver climate action.", "quote": {"content": "Therefore, the Shire will develop a community education/ awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/ examination.", "page": 59, "source": "Derby-WA-243.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government policy documents provided do not include specific actions for the mitigation of greenhouse gas emissions, neither through technological solutions nor behaviour change. The policy documents focus primarily on risk assessment and adaptation strategies in response to climate change, particularly in relation to coastal hazards. The documents discuss the identification of assets potentially impacted by coastal hazards, the development of a transparent and equitable approach to guide land use and development decision making, and the identification of funding opportunities for specific adaptation actions. However, they do not provide any specific measures or strategies aimed at reducing or mitigating greenhouse gas emissions. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for the mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a methodology for determining appropriate management and adaptation actions, which includes the consideration of local factors such as environment, social, economic, and governance aspects. The policy also emphasizes the need to identify funding opportunities to ensure specific adaptation actions can be undertaken as required. Furthermore, the policy suggests the development of a mechanism to guide land use and development decision making in areas potentially at risk of coastal hazards. The policy also mentions the incorporation of coastal hazards into ongoing strategy development and asset management processes. However, the policy could be improved by providing more specific details on the proposed actions and how they will be implemented.", "quote": {"content": "Incorporate measurable actions within the Shire of Derby / West Kimberley Strategic Community Plan that focus on; increasing community awareness; including coastal hazards within asset management planning; including coastal hazards within land use and development decision making; and ongoing monitoring/ examination of the shoreline and coastal hazards to inform future decision making.", "page": 56, "source": "Derby-WA-243.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the need for adaptation actions, monitoring, and further investigation in response to coastal hazards, they do not provide specific climate targets or actions. The documents mention the development of a holistic Asset Management Plan and the need to ensure coastal hazards are considered within ongoing strategy development and asset management processes. However, they do not provide specific details about what these processes entail or how they will be implemented. Furthermore, the documents do not provide any sources or evidence to support their claims or strategies. Therefore, it is not possible to affirm that the documents provide well-sourced evidence to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear approach to implementation, focusing on immediate and short-term actions required to reduce and maintain hazard risks at acceptable levels. The plan also considers actions over a 100-year planning frame. The success criteria are articulated with respect to a range of local factors, and are outlined in tables within the documents. These criteria include ensuring the State Planning Policy Framework does not negatively impact future growth, developing a program of ongoing monitoring, and increasing community knowledge and awareness through consultation. The plan also includes a five-year implementation plan with specific actions, responsibilities, and timings. This level of detail suggests a robust framework for evaluating the success of the plan's proposed actions.", "quote": {"content": "In addition, as required under SPP2.6 and the Coastal Guidelines, actions over the entire 100-year planning frame will be considered. The implementation will focus on the immediate/ short terms actions required to reduce and/ or maintain hazard risks at an acceptable/ tolerable levels.", "page": 28, "source": "Derby-WA-243.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to accommodate existing coastal inundation hazards while undertaking ongoing monitoring and examination of the shoreline. This strategy includes developing a specific scope of works, which should be developed by a range of stakeholders to ensure the methodology is appropriate and consistent with the State Planning Policy Framework. The documents also mention the development of a community education/awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/examination. This indicates a commitment to research and community engagement to inform climate actions.", "quote": {"content": "Due to the unique environment and geomorphological characteristics of the Derby shoreline, this CHRMAP recommends that prior to implementing any monitoring/ examination program that a specific scope of works is developed as a priority. In light of the above. the approach over the next five years is to accommodate the existing coastal inundation hazard while undertaking ongoing monitoring and examination of the shoreline and ongoing community awareness.", "page": 60, "source": "Derby-WA-243.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's policy appears to be focused on identifying and managing risks associated with coastal hazards, particularly in relation to climate change. The policy outlines measures such as developing a mechanism to guide land use and development decision making, ensuring coastal hazards are considered within ongoing strategy development and asset management processes, and identifying funding opportunities for specific adaptation actions. However, these measures seem to be standard practices in climate action planning rather than innovative or experimental approaches. The documents also mention the development of a Local Planning Policy and a State Planning Policy, but these are not described in detail and it is unclear whether they involve any innovative or experimental elements."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do discuss the need for local adaptation measures, funding opportunities, and the development of a holistic Asset Management Plan, they do not explicitly mention advocacy towards higher levels of government for climate action. The documents focus more on the local government's own actions and plans, such as increasing community awareness, including coastal hazards within asset management planning, and ongoing monitoring of the shoreline and coastal hazards. The documents also mention the State Planning Policy Framework, but this is more in the context of ensuring that it does not negatively impact local factors and growth, rather than advocating for more action from the state or national government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus primarily on the local government's plans and strategies for managing coastal hazards and implementing adaptation actions. They mention the need for community knowledge and awareness, identifying funding opportunities, and developing a transparent and equitable approach to land use and development decision making. However, they do not specifically mention building local capacity or fostering partnerships and advocacy for climate action among the council, local communities, or neighbouring councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate change. The documents primarily focus on the local government's plans and actions regarding coastal hazards and climate change adaptation. They mention the need for transparent and equitable approaches, the identification of funding opportunities, and the inclusion of coastal hazards in asset management and land use planning. However, they do not specify any partnerships or collaborations with external entities or organizations in these efforts. Therefore, based on the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential for significant social upheaval due to adaptation options, and the need for community education and awareness programs, they do not specifically address the impact on vulnerable communities. The documents focus more on the technical aspects of climate change, such as coastal hazards, risk management, and adaptation planning. They also discuss the need for accommodation options and the potential for significant loss due to increased risk of flooding. However, these discussions do not specifically address the impact on vulnerable communities or the issues of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention equity implications, it does so in the context of determining the cost of implementation and ongoing maintenance of adaptation and management options. It also discusses who bears the costs of these options and whether the costs and benefits are fairly distributed among stakeholders. However, these discussions are more focused on the financial and logistical aspects of implementing the policy, rather than on the equitable sharing of the benefits and opportunities of a safe climate. The policy does not provide specific details on how it plans to ensure that all members of the community have equal access to the benefits of a safe climate, such as improved health, economic stability, and quality of life."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 7, "num_questions": 20, "attribute_score": 40.0}}
+{
+  "settings": {
+    "source_files": [
+      "Derby-WA-243.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T17:11:36.804657",
+    "lga": "Derby"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly state that climate action is the core purpose or goal of the policy. The policy appears to be primarily focused on managing and adapting to coastal hazards, which may be related to climate change, but this is not explicitly stated. The policy objectives include identifying assets potentially impacted by coastal hazards, interpreting outcomes from the CVS to better understand these hazards, and incorporating measurable actions within the Shire of Derby / West Kimberley Strategic Community Plan. These actions focus on increasing community awareness, including coastal hazards within asset management planning, and ongoing monitoring of the shoreline and coastal hazards. While these actions may indirectly contribute to climate action by mitigating the impacts of climate change, the policy does not explicitly state that climate action is its core purpose or goal."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide explicit reasoning for the need for action on climate change. The local government acknowledges the increasing risk of climate change over the short, medium, and long term, and has presented scenarios to demonstrate this. They have identified coastal hazards as a significant concern, and have outlined the need for adaptation actions, monitoring, and further investigation to mitigate these risks. The documents also highlight the importance of community education and awareness regarding coastal hazards and the impacts of climate change. The local government has recognized the need for a transparent and equitable approach in developing mechanisms to guide land use and development decision making in areas potentially at risk of coastal hazards. They have also emphasized the importance of incorporating climate change considerations into ongoing strategy development and asset management processes.",
+          "quote": {
+            "content": "Therefore, the Shire will develop a community education/ awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/ examination.",
+            "page": 59,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They present a detailed analysis of the potential impacts of climate change, particularly coastal erosion and inundation, and outline a range of adaptation strategies. These strategies include modifications to the Town Planning Scheme, development of a Local Planning Policy, and identification of funding opportunities for specific adaptation actions. However, the documents do not express a sense of urgency or immediacy in implementing these strategies. Instead, they present a measured and methodical approach to managing the risks associated with climate change over the short, medium, and long term. The documents also highlight the importance of a transparent and equitable approach to decision-making, suggesting a preference for careful deliberation over hasty action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a 'Five Year Implementation Plan' with actions and strategies to be implemented within specific years. For instance, it mentions that modifications to the Town Planning Scheme, which include incorporating areas at risk of coastal inundation and erosion within a 'Special Control Area', are to be completed by 2018. Additionally, the development of a Local Planning Policy to guide the assessment of development applications for properties at risk of coastal inundation is also planned. The document also presents climate change scenarios across short, medium, and long-term periods, further indicating a timeline for potential climate change impacts and the urgency of action.",
+          "quote": {
+            "content": "SD Table 22: Five Year Implementation Plan\nAction/ Strategy\nResponsibility\nTiming\nResponding to Land Use and Development\n1. Modifications to Town Planning Scheme\na. Ensure the new Town Planning Scheme Mapping incorporates the areas at risk of coastal inundation and \ncoastal erosion within a \u2018Special Control Area\u2019. SDWK\n2018\nb. SDWK\n2018\nb. SDWK\n2018\nb. Develop suitable objectives and development controls for the \u2018Special Control Area\u2019 and incorporate within the \nnew Town Planning Scheme Text. SDWK\n2018\n2. Development of Local Planning Policy \na. Liaise with other local government authorities and the West Australian Local Government  Association to \nunderstand the suitability development controls to manage coastal inundation. SDWK\n2017\nb. SDWK\n2017\nb. SDWK\n2017\nb. Development a Local Planning Policy to guide the assessment of development applications for properties at \nrisk of coastal inundation.",
+            "page": 61,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a comprehensive approach to addressing climate change, including the consideration of climate change scenarios, the development of management and adaptation options, and the incorporation of local factors into these strategies. They also discuss the need for funding opportunities to implement adaptation actions, the development of controls for land use and development in areas at risk of coastal hazards, and the inclusion of coastal hazards in asset management planning. However, these actions are presented as part of a broader policy framework, and there is no explicit statement prioritizing a climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. While the documents do discuss the local government's approach to managing coastal hazards, including the development of an Asset Management Plan and a Local Planning Policy, they do not explicitly require all council activities to align with these or any other climate policies. The documents focus on specific actions related to coastal planning and adaptation, such as identifying funding opportunities, developing a transparent and equitable approach to land use and development decision making, and incorporating coastal hazards into ongoing strategy development and asset management processes. However, these actions are not explicitly extended to all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The policy does explicitly allocate funding for climate action, although it does not specify the exact amount. The policy acknowledges the need for funding to undertake specific adaptation actions, monitoring, and further investigation as required and prior to coastal hazards becoming intolerable. It also mentions the need to identify funding opportunities to ensure these actions can be undertaken. Furthermore, the policy acknowledges the existence of state funding opportunities directly aligned with coastal adaptation and management that can increase the capacity of the Shire to undertake these identified actions. One such opportunity mentioned is the Coastal Management Plan Assistance Program (CMPAP) grants provided by the Western Australian Planning Commission. However, the policy also states that the current level of coastal hazard risk does not require any significant allocation of Shire resources, implying that the majority of actions can be undertaken through the allocation of existing Shire resources.",
+          "quote": {
+            "content": "There are a number of State funding opportunities directly aligned with coastal adaptation and management that can increase the capacity of the Shire to undertake these identified actions. The current level of coastal hazard risk does not require any significant allocation of Shire resources to accommodate the identified risk. Over the next 5 years the majority of identified actions can be undertaken through the allocation of existing Shire resources. However, the Shire will require additional support to ensure that appropriate monitoring/ examination and community awareness is undertaken over time.",
+            "page": 59,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents do mention the need for the Shire to ensure the level/experience of its resources is incorporated into the determination of proposed actions, and to develop a transparent and equitable approach to guide land use and development decision making, they do not specify the allocation of staff or other non-monetary resources for these tasks. The documents also mention the Shire's ongoing development of a holistic Asset Management Plan, which is to consider identified coastal hazards, but again, no specific allocation of institutional resources is mentioned. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government has plans to educate and raise awareness among the community about coastal hazards and climate change. The Shire of Derby/West Kimberley has outlined a community education/awareness program to convey current technical knowledge and update the community with subsequent monitoring/examination. This program is part of the Strategic Community Plan, which includes measurable actions to increase community awareness of coastal hazards, include coastal hazards within asset management, and ongoing monitoring and examination of coastal hazards. However, the documents also reveal a low level of community engagement and interest, which may pose challenges to social mobilisation. The government's efforts to educate and raise awareness can be seen as a step towards empowering the community, but it is not clear how these efforts will translate into the community rallying, supporting, and working together to deliver climate action.",
+          "quote": {
+            "content": "Therefore, the Shire will develop a community education/ awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/ examination.",
+            "page": 59,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy documents provided do not include specific actions for the mitigation of greenhouse gas emissions, neither through technological solutions nor behaviour change. The policy documents focus primarily on risk assessment and adaptation strategies in response to climate change, particularly in relation to coastal hazards. The documents discuss the identification of assets potentially impacted by coastal hazards, the development of a transparent and equitable approach to guide land use and development decision making, and the identification of funding opportunities for specific adaptation actions. However, they do not provide any specific measures or strategies aimed at reducing or mitigating greenhouse gas emissions. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for the mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a methodology for determining appropriate management and adaptation actions, which includes the consideration of local factors such as environment, social, economic, and governance aspects. The policy also emphasizes the need to identify funding opportunities to ensure specific adaptation actions can be undertaken as required. Furthermore, the policy suggests the development of a mechanism to guide land use and development decision making in areas potentially at risk of coastal hazards. The policy also mentions the incorporation of coastal hazards into ongoing strategy development and asset management processes. However, the policy could be improved by providing more specific details on the proposed actions and how they will be implemented.",
+          "quote": {
+            "content": "Incorporate measurable actions within the Shire of Derby / West Kimberley Strategic Community Plan that focus on; increasing community awareness; including coastal hazards within asset management planning; including coastal hazards within land use and development decision making; and ongoing monitoring/ examination of the shoreline and coastal hazards to inform future decision making.",
+            "page": 56,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents discuss the need for adaptation actions, monitoring, and further investigation in response to coastal hazards, they do not provide specific climate targets or actions. The documents mention the development of a holistic Asset Management Plan and the need to ensure coastal hazards are considered within ongoing strategy development and asset management processes. However, they do not provide specific details about what these processes entail or how they will be implemented. Furthermore, the documents do not provide any sources or evidence to support their claims or strategies. Therefore, it is not possible to affirm that the documents provide well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear approach to implementation, focusing on immediate and short-term actions required to reduce and maintain hazard risks at acceptable levels. The plan also considers actions over a 100-year planning frame. The success criteria are articulated with respect to a range of local factors, and are outlined in tables within the documents. These criteria include ensuring the State Planning Policy Framework does not negatively impact future growth, developing a program of ongoing monitoring, and increasing community knowledge and awareness through consultation. The plan also includes a five-year implementation plan with specific actions, responsibilities, and timings. This level of detail suggests a robust framework for evaluating the success of the plan's proposed actions.",
+          "quote": {
+            "content": "In addition, as required under SPP2.6 and the Coastal Guidelines, actions over the entire 100-year planning frame will be considered. The implementation will focus on the immediate/ short terms actions required to reduce and/ or maintain hazard risks at an acceptable/ tolerable levels.",
+            "page": 28,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to accommodate existing coastal inundation hazards while undertaking ongoing monitoring and examination of the shoreline. This strategy includes developing a specific scope of works, which should be developed by a range of stakeholders to ensure the methodology is appropriate and consistent with the State Planning Policy Framework. The documents also mention the development of a community education/awareness program to convey the current technical knowledge and to update the community with the subsequent monitoring/examination. This indicates a commitment to research and community engagement to inform climate actions.",
+          "quote": {
+            "content": "Due to the unique environment and geomorphological characteristics of the Derby shoreline, this CHRMAP recommends that prior to implementing any monitoring/ examination program that a specific scope of works is developed as a priority. In light of the above. the approach over the next five years is to accommodate the existing coastal inundation hazard while undertaking ongoing monitoring and examination of the shoreline and ongoing community awareness.",
+            "page": 60,
+            "source": "Derby-WA-243.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action. The documents discuss the need for adaptation actions, the identification of funding opportunities, and the development of mechanisms to guide land use and development decision making. They also mention the need for ongoing monitoring and investigation to ensure that technical knowledge remains contemporary. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. Therefore, it cannot be concluded that the policy includes elements of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do discuss the need for local adaptation measures, funding opportunities, and the development of a holistic Asset Management Plan, they do not explicitly mention advocacy towards higher levels of government for climate action. The documents focus more on the local government's own actions and plans, such as increasing community awareness, including coastal hazards within asset management planning, and ongoing monitoring of the shoreline and coastal hazards. The documents also mention the State Planning Policy Framework, but this is more in the context of ensuring that it does not negatively impact local factors and growth, rather than advocating for more action from the state or national government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus primarily on the local government's plans and strategies for managing coastal hazards and implementing adaptation actions. They mention the need for community knowledge and awareness, identifying funding opportunities, and developing a transparent and equitable approach to land use and development decision making. However, they do not specifically mention building local capacity or fostering partnerships and advocacy for climate action among the council, local communities, or neighbouring councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate change. The documents primarily focus on the local government's plans and actions regarding coastal hazards and climate change adaptation. They mention the need for transparent and equitable approaches, the identification of funding opportunities, and the inclusion of coastal hazards in asset management and land use planning. However, they do not specify any partnerships or collaborations with external entities or organizations in these efforts. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential for significant social upheaval due to adaptation options, and the need for community education and awareness programs, they do not specifically address the impact on vulnerable communities. The documents focus more on the technical aspects of climate change, such as coastal hazards, risk management, and adaptation planning. They also discuss the need for accommodation options and the potential for significant loss due to increased risk of flooding. However, these discussions do not specifically address the impact on vulnerable communities or the issues of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention equity implications, it does so in the context of determining the cost of implementation and ongoing maintenance of adaptation and management options. It also discusses who bears the costs of these options and whether the costs and benefits are fairly distributed among stakeholders. However, these discussions are more focused on the financial and logistical aspects of implementing the policy, rather than on the equitable sharing of the benefits and opportunities of a safe climate. The policy does not provide specific details on how it plans to ensure that all members of the community have equal access to the benefits of a safe climate, such as improved health, economic stability, and quality of life."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 7,
+    "num_questions": 20,
+    "attribute_score": 40.0
+  }
+}

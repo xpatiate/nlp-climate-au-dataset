@@ -1,1 +1,323 @@
-{"settings": {"source_files": ["Sydney-NSW-16.pdf", "Sydney-NSW-17.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T00:25:21.819795", "lga": "Sydney"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose. It outlines the local government's commitment to addressing climate change through a variety of strategies and actions. The policy emphasizes the need for efficient use of resources, integration of climate considerations into key decision-making processes, and the development of staff competencies in environmental matters. It also highlights the importance of high-quality environmental reporting and communication. The policy further outlines a timeframe for climate adaptation planning, indicating a long-term commitment to climate action. It also acknowledges the need for flexibility and adaptability in response to evolving climate science and impacts. The policy also emphasizes the importance of collaboration with various stakeholders, including staff, residents, businesses, and other levels of government, in implementing climate actions.", "quote": {"content": "The City wants to be a leader globally in tackling climate change with ambitious, focused and collaborative approaches.", "page": 56, "source": "Sydney-NSW-17.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the increasing global temperatures and the accelerating speed of heating, particularly in Australia. The documents also underscore the potential impacts of climate change, including the increased scale and frequency of extreme weather events, and the effects on the health of people and the environment. The documents further emphasize the potential disruptions to vital services and infrastructure, such as energy, transport, and communications, and the long-term impacts on workforce productivity. The documents also note the role of cities in contributing to climate change, consuming 78% of the world's energy, and the high cost of inaction. Therefore, the documents clearly express the need for action on climate change.", "quote": {"content": "Infrastructure for energy, water, transport, telecommunications and food production will come under increasing pressure. The Paris Agreement aims to halt warming to 1.5\u00b0C or well within 2\u00b0C above pre-industrial levels. But the world is already close to 1.2\u00b0C above pre-industrial levels, and the speed of heating is accelerating.1 Climate change will increase the scale and frequency of extreme weather events, and it will affect the health of people \u2013 and of the natural and built environment \u2013 as well as the liveability of the city.", "page": 5, "source": "Sydney-NSW-17.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the City of Sydney's strategies and actions for addressing climate change, including the integration of climate considerations into decision-making processes, the development of staff competencies in environmental outcomes, and the delivery of high-quality environmental reporting. The documents also discuss the risks associated with climate change, such as extreme weather events and their impact on infrastructure and health. However, while the documents clearly acknowledge the importance of addressing climate change and have outlined a comprehensive strategy for doing so, they do not explicitly convey a sense of urgency or call for rapid action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines three distinct periods for action: short-term (2015\u20132030), mid-term (2030\u20132050), and long-term (2050\u20132070). The short-term actions are described as 'business as usual', applying current best practice and policy. The mid-term actions involve altering day-to-day work and taking physical protection measures. The long-term actions are regarded as significantly different from current practice. The policy also acknowledges the challenge of prioritising actions to both mitigate and adapt to climate changes over such a long timeframe. It is clear that the policy has a long-term view and recognises that some actions need to start immediately, while others must be planned for now but will not require action for many years."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and integrating climate considerations into decision-making processes, they do not explicitly rank this above other policy areas. The documents outline a number of actions related to climate change, such as building staff capability to deliver environmental outcomes, delivering high-quality environmental reporting, and developing procedures to ensure climate resilience is incorporated into key decision-making processes. However, these actions are presented as part of a broader strategy, rather than as a priority above all other policies. The documents also highlight the need for financial efficiency and the use of resources, suggesting that the prioritization of actions may be influenced by these considerations."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do indicate that the local government's activities should be aligned with climate policy. The policy emphasizes the integration of climate emergency considerations into key decision-making processes, including strategy development, major projects, tenders, service delivery, asset management, investment, and the establishment of new programs and services. This suggests a comprehensive approach to aligning all council activities with climate policy. Furthermore, the policy outlines specific actions to ensure that climate resilience is incorporated into all future key Council decision-making. This includes projects, plans, strategies, procurement, contracts, risk framework, and insurance. The policy also highlights the need for ongoing monitoring of climate change science and global emissions, suggesting a commitment to aligning council activities with evolving climate policy.", "quote": {"content": "This includes strategy \ndevelopment, major projects and \ntenders, delivery of services, asset \nmanagement, investment and the \nestablishment of new programs and \nservices. Consideration of the climate \nemergency needs to be integrated into key decision-making processes \nin the City.", "page": 56, "source": "Sydney-NSW-17.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents do mention the need for efficient use of financial resources, the establishment of new programs and services, and the potential financial impact of climate change on the City, they do not provide specific details about the allocation of funds for climate action. The documents also mention the financial constraints due to COVID-19 and the need for prioritising actions. However, these references do not directly address the allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a commitment to 'retain a cohort of environment experts' and to 'strengthen the environmental competencies of a broader range of staff' (Sydney-NSW-17.pdf, page 56). This indicates a clear allocation of human resources towards environmental and climate-related actions. Furthermore, the policy emphasizes the integration of climate considerations into key decision-making processes, including strategy development, major projects, tenders, delivery of services, asset management, and the establishment of new programs and services. This suggests that institutional resources will be mobilized to ensure that climate action is embedded across various aspects of the local government's operations."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The 'Environmental Strategy 2021 - 2025 (Draft)' outlines a series of actions that involve community engagement and education. For instance, the document mentions the establishment of a climate adaptation reference panel with key government agencies, business, and the community to review the latest climate science, the risks, and the coordinated response. The document also mentions the City's commitment to providing up-to-date information to the public, establishing and facilitating business and community programs, and mechanisms such as environmental grants and sponsorship programs to influence environmental resilience in decision making. Furthermore, the City plans to engage with vulnerable groups in the community to gain a clearer understanding of how climate-related issues are affecting them and collaborate with other organizations to advocate for more equitable access to clean energy and resilient housing.", "quote": {"content": "We will explore ways to celebrate Aboriginal and Torres Strait Islander peoples\u2019 living culture in our designs and management of places in the city. We can use our partnership networks to raise awareness of reconciliation objectives.", "page": 53, "source": "Sydney-NSW-17.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a target of a 70% reduction in greenhouse gas emissions across the local government area and in their own operations by 2030. To achieve this, they have developed a series of innovative master plans for energy efficiency, renewable energy, and tri-generation. The plan also mentions the development of the Energy Efficiency Master Plan, which aims to significantly reduce energy consumption in buildings within the local government area. By using energy more efficiently, these buildings will help mitigate their impact on the climate by generating fewer emissions. Furthermore, the plan also includes actions to reduce the need for private car use in the city by providing safe alternatives, thereby reducing particulate pollution that contributes to ozone generation. This indicates a focus on both technological solutions and behaviour change.", "quote": {"content": "To achieve our targets, we have developed a series of innovative master plans for energy efficiency, renewable energy, and tri-generation. As part of our Sustainable Sydney 2030 plan, we set a target of a 70% reduction in greenhouse gas emissions across our local government area and in our own operations by 2030.", "page": 2, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a long-term strategy for climate change adaptation, which is described as an iterative process that will require ongoing review and adjustment. The plan acknowledges the need for specific actions without locking into specific timeframes, given the long-term nature of climate change. The plan includes actions such as developing procedures to ensure climate resilience is incorporated into all future key Council decision-making, establishing a climate adaptation reference panel with key stakeholders, and developing a communication strategy to reach a broad audience. The plan also outlines actions to address specific climate risks such as heatwaves, flooding, and rising sea levels. These actions are allocated to specific business units and integrated into the City's operational plan, demonstrating a commitment to practical implementation.", "quote": {"content": "It is a collaborative strategy which establishes a framework to work with leading scientists, other levels of government, businesses, utilities, the not-for-profit sector and our residents. The Climate Adaptation Strategy includes a series of actions to address these risks such as a Heatwave Response Plan, flood management plans, and a Sea Level Rise Adaptation Action Plan.", "page": 2, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The City of Sydney's approach to climate change adaptation is based on the best available science, referencing global and national level data and focusing on Sydney-specific modelling. The climate science used to reach planning decisions references the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports. The City also engages with the scientific community to monitor the science and stay informed as the body of knowledge increases. The strategy covers 2015 to 2070 and is founded on principles such as resilience, flexibility, and being based on the most up-to-date data. The City undertook a rigorous risk assessment process to identify and rank the climate risks that face them, consulting with stakeholders from state and local governments, utilities, emergency services, business, and the community. This comprehensive approach to planning and action, grounded in scientific evidence and broad consultation, supports the justification of the City's climate targets and actions.", "quote": {"content": "As shown earlier in this document, the climate science used to reach our planning decisions references the global and national level and becomes more detailed as we focus on Sydney-specific modelling. The City of Sydney\u2019s approach to climate change adaptation is based on the best available science.", "page": 65, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's policy documents do not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various actions related to climate change adaptation, such as developing procedures to incorporate climate resilience into key decision-making processes, monitoring developments in climate change science, and reviewing land use planning, it does not provide clear, quantifiable metrics or benchmarks for assessing the effectiveness of these actions. The policy does mention the use of a performance planning system to track individual progress against set actions and the provision of an annual environmental report to Council and the community. However, it does not detail what specific measures or indicators will be used in these evaluations. Therefore, it is unclear how the success of the policy's actions will be measured and evaluated."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City of Sydney's approach to climate change adaptation is iterative and involves extensive engagement with the local community. This is evident in the establishment of a Citizens\u2019 Panel, which provided recommendations for the City\u2019s adaptation strategy. The panel was a platform for in-depth conversations with residents to hear their concerns about climate change risks and their priorities for action. The City also plans to continue engaging and consulting with stakeholders to successfully deliver the strategy. Furthermore, the City has conducted a series of workshops, meetings, and review sessions with staff from various divisions and business units to ensure that their perspective of risks is accurately understood and that the suggested actions are viable. This approach ensures that the City's climate change adaptation strategy is informed by the local community's insights and priorities.", "quote": {"content": "The panel provided a set of overarching principles (included in the introduction to this strategy) and identified and prioritised risks and adaptation actions (adopted throughout the risk and actions in this strategy).", "page": 63, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. They outline the City of Sydney's approach to climate change adaptation, which includes a focus on long-term planning, flexibility, and ongoing monitoring of climate science. The documents mention various strategies and actions, such as the development of a Heat Wave Response Plan, maintaining existing policies and programs, and the integration of climate resilience into key Council decision-making. However, these actions seem to be more about implementing best practices and maintaining ongoing efforts rather than experimenting with innovative policies. The documents also mention the use of a 'pathway' approach, which allows for flexibility and adaptation to changing circumstances, but this is a common approach in climate change adaptation and does not necessarily indicate policy experimentation."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate an intent by the City of Sydney to advocate upward to state and national governments to support climate action. The city's climate adaptation strategy is designed to align with the NSW Government\u2019s Plan 2021, which sets the target to 'minimise impacts of climate change in local communities'. This alignment suggests an intent to work with and influence state-level policy. The city also plans to 'advocate for the revision of engineering and building standards and codes to address climate change', which would likely involve engagement with state and national regulatory bodies. Furthermore, the city's strategy involves 'working with local business community to develop material that will assist businesses to adapt', which could involve advocating for supportive policies at higher levels of government. The city's commitment to 'report outcomes against all targets annually, both to Council and to our community' also suggests an intent to use its own progress as a basis for advocating for broader action.", "quote": {"content": "C4 \u2013 Work with local business community to develop material that will assist businesses to adapt. C3 \u2013 Advocate for the revision of engineering and building standards and codes to address climate change.", "page": 49, "source": "Sydney-NSW-16.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents clearly indicate that the City of Sydney is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The city has outlined a strategy that involves a high degree of cooperation and collaboration with other organisations from government, business, and the community to effectively respond to the complex challenges of climate change. The city plans to establish a climate risk and adaptation reference panel with key stakeholders to review climate science, risks, and a coordinated response. The city also plans to work with the local business community to develop material that will assist businesses to adapt. Furthermore, the city is committed to incorporating climate adaptation into all future key Council decision-making, indicating a strong commitment to building local capacity for climate action.", "quote": {"content": "To effectively respond to them, the involvement of our external stakeholders has been essential to identify likely risks and how to address them with suitable actions. Climate change involves complex challenges.", "page": 63, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The City of Sydney's climate adaptation strategy emphasizes the importance of collaboration with various stakeholders, including government agencies, businesses, and the community. The strategy outlines the establishment of a climate adaptation reference panel with key government agencies, businesses, and the community to review climate science, risks, and coordinated responses. The City of Sydney also mentions its commitment to working with the NSW Office of Environment and Heritage, Health NSW, and Family and Community Services. Furthermore, the strategy highlights the City's collaboration with over thirty relevant organizations, including emergency services, transport, social services, housing providers, energy, gas and water utilities, State and Commonwealth environmental departments, building portfolio owners and managers, the insurance industry, neighboring councils, and the City of Melbourne.", "quote": {"content": "This may sit within broader stakeholder collaboration as part of the 100 Resilient Cities program. C2 \u2013 Establish a climate adaptation reference panel with key government agencies, business and the community to periodically review the latest climate science, the risks and the coordinated response.", "page": 51, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that the social impacts of climate change are a crucial part of adaptation planning. The documents identify that extreme heat and air pollution will particularly affect the most vulnerable people in the community. The policy outlines the need to identify these vulnerable groups, their locations, and how to best resource and support them. The documents also acknowledge that people already marginalized in the city, such as Aboriginal and Torres Strait Islander people, those on low incomes, and people with disabilities, are likely to suffer disproportionate impacts from climate change. The policy also recognizes that climate impacts can worsen existing inequalities, particularly for people with disabilities and those on low incomes. The policy's Social Sustainability Strategy aims to address vulnerability to climate change risks and develop actions to strengthen the resilience of these vulnerable communities.", "quote": {"content": "An important task will be identifying who the most vulnerable are, where they are located, and how best to resource them and establish support networks. The social impacts of and responses to climate change are important components of our adaptation planning. Our research has identified that the impacts of extreme heat and air pollution will have a particularly acute impact on the most vulnerable people in our community.", "page": 9, "source": "Sydney-NSW-16.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. They highlight the importance of inclusivity in environmental action, particularly in relation to marginalized groups who are likely to suffer disproportionate impacts from climate change. The documents also mention the development of a Social Sustainability Strategy, which aims to maintain and improve the community's social wellbeing in the face of climate change. This strategy is intended to address vulnerability to climate change risks, identify vulnerable community members, and develop actions to strengthen their resilience. The documents also outline specific actions to address equity issues related to climate change, such as engaging with vulnerable groups to understand how climate-related issues are affecting them and collaborating with other organizations to advocate for policy changes. However, while these plans and strategies are commendable, the documents do not provide specific details on how the benefits and opportunities of a safe climate will be equitably shared."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}], "results": {"num_positives": 15, "num_questions": 20, "attribute_score": 80.0}}
+{
+  "settings": {
+    "source_files": [
+      "Sydney-NSW-16.pdf",
+      "Sydney-NSW-17.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T00:25:21.819795",
+    "lga": "Sydney"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. It outlines the local government's commitment to addressing climate change through a variety of strategies and actions. The policy emphasizes the need for efficient use of resources, integration of climate considerations into key decision-making processes, and the development of staff competencies in environmental matters. It also highlights the importance of high-quality environmental reporting and communication. The policy further outlines a timeframe for climate adaptation planning, indicating a long-term commitment to climate action. It also acknowledges the need for flexibility and adaptability in response to evolving climate science and impacts. The policy also emphasizes the importance of collaboration with various stakeholders, including staff, residents, businesses, and other levels of government, in implementing climate actions.",
+          "quote": {
+            "content": "The City wants to be a leader globally in tackling climate change with ambitious, focused and collaborative approaches.",
+            "page": 56,
+            "source": "Sydney-NSW-17.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the increasing global temperatures and the accelerating speed of heating, particularly in Australia. The documents also underscore the potential impacts of climate change, including the increased scale and frequency of extreme weather events, and the effects on the health of people and the environment. The documents further emphasize the potential disruptions to vital services and infrastructure, such as energy, transport, and communications, and the long-term impacts on workforce productivity. The documents also note the role of cities in contributing to climate change, consuming 78% of the world's energy, and the high cost of inaction. Therefore, the documents clearly express the need for action on climate change.",
+          "quote": {
+            "content": "Infrastructure for energy, water, transport, telecommunications and food production will come under increasing pressure. The Paris Agreement aims to halt warming to 1.5\u00b0C or well within 2\u00b0C above pre-industrial levels. But the world is already close to 1.2\u00b0C above pre-industrial levels, and the speed of heating is accelerating.1 Climate change will increase the scale and frequency of extreme weather events, and it will affect the health of people \u2013 and of the natural and built environment \u2013 as well as the liveability of the city.",
+            "page": 5,
+            "source": "Sydney-NSW-17.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the City of Sydney's strategies and actions for addressing climate change, including the integration of climate considerations into decision-making processes, the development of staff competencies in environmental outcomes, and the delivery of high-quality environmental reporting. The documents also discuss the risks associated with climate change, such as extreme weather events and their impact on infrastructure and health. However, while the documents clearly acknowledge the importance of addressing climate change and have outlined a comprehensive strategy for doing so, they do not explicitly convey a sense of urgency or call for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The policy outlines three distinct periods for action: short-term (2015\u20132030), mid-term (2030\u20132050), and long-term (2050\u20132070). The short-term actions are described as 'business as usual', applying current best practice and policy. The mid-term actions involve altering day-to-day work and taking physical protection measures. The long-term actions are regarded as significantly different from current practice. The policy also acknowledges the challenge of prioritising actions to both mitigate and adapt to climate changes over such a long timeframe. It is clear that the policy has a long-term view and recognises that some actions need to start immediately, while others must be planned for now but will not require action for many years."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and integrating climate considerations into decision-making processes, they do not explicitly rank this above other policy areas. The documents outline a number of actions related to climate change, such as building staff capability to deliver environmental outcomes, delivering high-quality environmental reporting, and developing procedures to ensure climate resilience is incorporated into key decision-making processes. However, these actions are presented as part of a broader strategy, rather than as a priority above all other policies. The documents also highlight the need for financial efficiency and the use of resources, suggesting that the prioritization of actions may be influenced by these considerations."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government's activities should be aligned with climate policy. The policy emphasizes the integration of climate emergency considerations into key decision-making processes, including strategy development, major projects, tenders, service delivery, asset management, investment, and the establishment of new programs and services. This suggests a comprehensive approach to aligning all council activities with climate policy. Furthermore, the policy outlines specific actions to ensure that climate resilience is incorporated into all future key Council decision-making. This includes projects, plans, strategies, procurement, contracts, risk framework, and insurance. The policy also highlights the need for ongoing monitoring of climate change science and global emissions, suggesting a commitment to aligning council activities with evolving climate policy.",
+          "quote": {
+            "content": "This includes strategy \ndevelopment, major projects and \ntenders, delivery of services, asset \nmanagement, investment and the \nestablishment of new programs and \nservices. Consideration of the climate \nemergency needs to be integrated into key decision-making processes \nin the City.",
+            "page": 56,
+            "source": "Sydney-NSW-17.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents do mention the need for efficient use of financial resources, the establishment of new programs and services, and the potential financial impact of climate change on the City, they do not provide specific details about the allocation of funds for climate action. The documents also mention the financial constraints due to COVID-19 and the need for prioritising actions. However, these references do not directly address the allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a commitment to 'retain a cohort of environment experts' and to 'strengthen the environmental competencies of a broader range of staff' (Sydney-NSW-17.pdf, page 56). This indicates a clear allocation of human resources towards environmental and climate-related actions. Furthermore, the policy emphasizes the integration of climate considerations into key decision-making processes, including strategy development, major projects, tenders, delivery of services, asset management, and the establishment of new programs and services. This suggests that institutional resources will be mobilized to ensure that climate action is embedded across various aspects of the local government's operations."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The 'Environmental Strategy 2021 - 2025 (Draft)' outlines a series of actions that involve community engagement and education. For instance, the document mentions the establishment of a climate adaptation reference panel with key government agencies, business, and the community to review the latest climate science, the risks, and the coordinated response. The document also mentions the City's commitment to providing up-to-date information to the public, establishing and facilitating business and community programs, and mechanisms such as environmental grants and sponsorship programs to influence environmental resilience in decision making. Furthermore, the City plans to engage with vulnerable groups in the community to gain a clearer understanding of how climate-related issues are affecting them and collaborate with other organizations to advocate for more equitable access to clean energy and resilient housing.",
+          "quote": {
+            "content": "We will explore ways to celebrate Aboriginal and Torres Strait Islander peoples\u2019 living culture in our designs and management of places in the city. We can use our partnership networks to raise awareness of reconciliation objectives.",
+            "page": 53,
+            "source": "Sydney-NSW-17.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a target of a 70% reduction in greenhouse gas emissions across the local government area and in their own operations by 2030. To achieve this, they have developed a series of innovative master plans for energy efficiency, renewable energy, and tri-generation. The plan also mentions the development of the Energy Efficiency Master Plan, which aims to significantly reduce energy consumption in buildings within the local government area. By using energy more efficiently, these buildings will help mitigate their impact on the climate by generating fewer emissions. Furthermore, the plan also includes actions to reduce the need for private car use in the city by providing safe alternatives, thereby reducing particulate pollution that contributes to ozone generation. This indicates a focus on both technological solutions and behaviour change.",
+          "quote": {
+            "content": "To achieve our targets, we have developed a series of innovative master plans for energy efficiency, renewable energy, and tri-generation. As part of our Sustainable Sydney 2030 plan, we set a target of a 70% reduction in greenhouse gas emissions across our local government area and in our own operations by 2030.",
+            "page": 2,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a long-term strategy for climate change adaptation, which is described as an iterative process that will require ongoing review and adjustment. The plan acknowledges the need for specific actions without locking into specific timeframes, given the long-term nature of climate change. The plan includes actions such as developing procedures to ensure climate resilience is incorporated into all future key Council decision-making, establishing a climate adaptation reference panel with key stakeholders, and developing a communication strategy to reach a broad audience. The plan also outlines actions to address specific climate risks such as heatwaves, flooding, and rising sea levels. These actions are allocated to specific business units and integrated into the City's operational plan, demonstrating a commitment to practical implementation.",
+          "quote": {
+            "content": "It is a collaborative strategy which establishes a framework to work with leading scientists, other levels of government, businesses, utilities, the not-for-profit sector and our residents. The Climate Adaptation Strategy includes a series of actions to address these risks such as a Heatwave Response Plan, flood management plans, and a Sea Level Rise Adaptation Action Plan.",
+            "page": 2,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The City of Sydney's approach to climate change adaptation is based on the best available science, referencing global and national level data and focusing on Sydney-specific modelling. The climate science used to reach planning decisions references the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports. The City also engages with the scientific community to monitor the science and stay informed as the body of knowledge increases. The strategy covers 2015 to 2070 and is founded on principles such as resilience, flexibility, and being based on the most up-to-date data. The City undertook a rigorous risk assessment process to identify and rank the climate risks that face them, consulting with stakeholders from state and local governments, utilities, emergency services, business, and the community. This comprehensive approach to planning and action, grounded in scientific evidence and broad consultation, supports the justification of the City's climate targets and actions.",
+          "quote": {
+            "content": "As shown earlier in this document, the climate science used to reach our planning decisions references the global and national level and becomes more detailed as we focus on Sydney-specific modelling. The City of Sydney\u2019s approach to climate change adaptation is based on the best available science.",
+            "page": 65,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's policy documents do not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines various actions related to climate change adaptation, such as developing procedures to incorporate climate resilience into key decision-making processes, monitoring developments in climate change science, and reviewing land use planning, it does not provide clear, quantifiable metrics or benchmarks for assessing the effectiveness of these actions. The policy does mention the use of a performance planning system to track individual progress against set actions and the provision of an annual environmental report to Council and the community. However, it does not detail what specific measures or indicators will be used in these evaluations. Therefore, it is unclear how the success of the policy's actions will be measured and evaluated."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City of Sydney's approach to climate change adaptation is iterative and involves extensive engagement with the local community. This is evident in the establishment of a Citizens\u2019 Panel, which provided recommendations for the City\u2019s adaptation strategy. The panel was a platform for in-depth conversations with residents to hear their concerns about climate change risks and their priorities for action. The City also plans to continue engaging and consulting with stakeholders to successfully deliver the strategy. Furthermore, the City has conducted a series of workshops, meetings, and review sessions with staff from various divisions and business units to ensure that their perspective of risks is accurately understood and that the suggested actions are viable. This approach ensures that the City's climate change adaptation strategy is informed by the local community's insights and priorities.",
+          "quote": {
+            "content": "The panel provided a set of overarching principles (included in the introduction to this strategy) and identified and prioritised risks and adaptation actions (adopted throughout the risk and actions in this strategy).",
+            "page": 63,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a number of strategies and actions for climate change adaptation, these are largely framed as part of a long-term strategy or plan, rather than as small-scale, real-world experiments or pilot projects. The documents discuss the need for ongoing review, revision, and fine-tuning of the adaptation process, and mention the involvement of various stakeholders, including technical advisers and a citizens' panel. However, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale under real-world conditions. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an intent by the City of Sydney to advocate upward to state and national governments to support climate action. The city's climate adaptation strategy is designed to align with the NSW Government\u2019s Plan 2021, which sets the target to 'minimise impacts of climate change in local communities'. This alignment suggests an intent to work with and influence state-level policy. The city also plans to 'advocate for the revision of engineering and building standards and codes to address climate change', which would likely involve engagement with state and national regulatory bodies. Furthermore, the city's strategy involves 'working with local business community to develop material that will assist businesses to adapt', which could involve advocating for supportive policies at higher levels of government. The city's commitment to 'report outcomes against all targets annually, both to Council and to our community' also suggests an intent to use its own progress as a basis for advocating for broader action.",
+          "quote": {
+            "content": "C4 \u2013 Work with local business community to develop material that will assist businesses to adapt. C3 \u2013 Advocate for the revision of engineering and building standards and codes to address climate change.",
+            "page": 49,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the City of Sydney is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The city has outlined a strategy that involves a high degree of cooperation and collaboration with other organisations from government, business, and the community to effectively respond to the complex challenges of climate change. The city plans to establish a climate risk and adaptation reference panel with key stakeholders to review climate science, risks, and a coordinated response. The city also plans to work with the local business community to develop material that will assist businesses to adapt. Furthermore, the city is committed to incorporating climate adaptation into all future key Council decision-making, indicating a strong commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "To effectively respond to them, the involvement of our external stakeholders has been essential to identify likely risks and how to address them with suitable actions. Climate change involves complex challenges.",
+            "page": 63,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The City of Sydney's climate adaptation strategy emphasizes the importance of collaboration with various stakeholders, including government agencies, businesses, and the community. The strategy outlines the establishment of a climate adaptation reference panel with key government agencies, businesses, and the community to review climate science, risks, and coordinated responses. The City of Sydney also mentions its commitment to working with the NSW Office of Environment and Heritage, Health NSW, and Family and Community Services. Furthermore, the strategy highlights the City's collaboration with over thirty relevant organizations, including emergency services, transport, social services, housing providers, energy, gas and water utilities, State and Commonwealth environmental departments, building portfolio owners and managers, the insurance industry, neighboring councils, and the City of Melbourne.",
+          "quote": {
+            "content": "This may sit within broader stakeholder collaboration as part of the 100 Resilient Cities program. C2 \u2013 Establish a climate adaptation reference panel with key government agencies, business and the community to periodically review the latest climate science, the risks and the coordinated response.",
+            "page": 51,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. They highlight that the social impacts of climate change are a crucial part of adaptation planning. The documents identify that extreme heat and air pollution will particularly affect the most vulnerable people in the community. The policy outlines the need to identify these vulnerable groups, their locations, and how to best resource and support them. The documents also acknowledge that people already marginalized in the city, such as Aboriginal and Torres Strait Islander people, those on low incomes, and people with disabilities, are likely to suffer disproportionate impacts from climate change. The policy also recognizes that climate impacts can worsen existing inequalities, particularly for people with disabilities and those on low incomes. The policy's Social Sustainability Strategy aims to address vulnerability to climate change risks and develop actions to strengthen the resilience of these vulnerable communities.",
+          "quote": {
+            "content": "An important task will be identifying who the most vulnerable are, where they are located, and how best to resource them and establish support networks. The social impacts of and responses to climate change are important components of our adaptation planning. Our research has identified that the impacts of extreme heat and air pollution will have a particularly acute impact on the most vulnerable people in our community.",
+            "page": 9,
+            "source": "Sydney-NSW-16.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. They highlight the importance of inclusivity in environmental action, particularly in relation to marginalized groups who are likely to suffer disproportionate impacts from climate change. The documents also mention the development of a Social Sustainability Strategy, which aims to maintain and improve the community's social wellbeing in the face of climate change. This strategy is intended to address vulnerability to climate change risks, identify vulnerable community members, and develop actions to strengthen their resilience. The documents also outline specific actions to address equity issues related to climate change, such as engaging with vulnerable groups to understand how climate-related issues are affecting them and collaborating with other organizations to advocate for policy changes. However, while these plans and strategies are commendable, the documents do not provide specific details on how the benefits and opportunities of a safe climate will be equitably shared."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 80.0
+  }
+}

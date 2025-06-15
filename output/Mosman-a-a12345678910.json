@@ -1,1 +1,304 @@
-{"settings": {"source_files": ["Mosman-NSW-36.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T22:06:29.171916", "lga": "Mosman"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'Mosman Climate Action Plan - Mitigation Strategy', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's commitment to mitigating climate change through actions that reduce dependence on fossil fuels. The policy also sets specific targets, such as achieving net zero emissions by 2030 for its operations and aspiring to achieve net zero emissions by 2040 for the Mosman Local Government Area (LGA). The policy is part of a broader climate action plan, which also includes a Resilience and Adaptation Strategy. This suggests a comprehensive approach to climate action, encompassing both mitigation and adaptation strategies. The policy's alignment with global initiatives such as the United Nations\u2019 Sustainable Development Goals (SDGs) and the Paris Agreement further underscores its commitment to climate action.", "quote": {"content": "Council aims to lead the Mosman community by example with a target of net zero emissions by 2030 for its operations and aspires to achieve net zero emissions by 2040 for the Mosman LGA. Mitigation involves actions that reduce dependence on fossil fuels and therefore reduce the rate of climate change.", "page": 3, "source": "Mosman-NSW-36.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. It emphasizes the increasing severity and frequency of climate-related disasters such as heatwaves, floods, and droughts, and the growing impact on lives and livelihoods. The document also highlights the projected national cost of inaction, estimated at $3.4 trillion and 880,000 jobs over the next 50 years. It calls for meaningful and broad-scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. The document further stresses the need to transition away from fossil fuels, decarbonize economies and societies, and work harder to conserve natural environments.", "quote": {"content": "As members of our local, national and global communities we have reached a point that demands meaningful and broad scale action to reduce carbon emissions, pollution and biodiversity loss, and that we mitigate our contribution to climate change. Inaction will put us on a trajectory that seems guaranteed to scale to worse and more disastrous consequences for future generations, as well as a projected national cost of $3.4 trillion and 880,000 jobs over the next 50 years.", "page": 9, "source": "Mosman-NSW-36.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does indeed call for rapid and urgent action on climate change. It emphasizes the increasing severity and frequency of climate-related disasters, such as city floods, sustained droughts, and severe heatwaves, and the growing impact on lives and livelihoods. The document warns that inaction will lead to disastrous consequences for future generations, including a projected national cost of $3.4 trillion and the loss of 880,000 jobs over the next 50 years. It states that we have reached a point that demands meaningful and broad-scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate our contribution to climate change. The document also highlights the need to transition away from fossil fuels and towards sources of clean energy, and to work harder to conserve our natural environments.", "quote": {"content": "As members of our local, national and global communities we have reached a point that demands meaningful and broad scale action to reduce carbon emissions, pollution and biodiversity loss, and that we mitigate our contribution to climate change. Inaction will put us on a trajectory that seems guaranteed to scale to worse and more disastrous consequences for future generations, as well as a projected national cost of $3.4 trillion and 880,000 jobs over the next 50 years.", "page": 9, "source": "Mosman-NSW-36.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines high-priority actions that are to be actioned within 1-3 years. These actions include working collaboratively with other councils on urban heat island mitigation measures, reviewing the Local Environmental Plan (LEP) to promote sustainability, planning for electric vehicle charging stations for apartments, revising the Development Control Plan (DCP) to strengthen sustainability measures, reviewing the NSW Government Design and Place State Environmental Planning Policy (SEPP) to ensure it meets its stated objectives, and advocating for a review of State Building codes. However, the document does not provide specific deadlines or dates for these actions, nor does it provide a comprehensive timeline for all its climate action plans.", "quote": {"content": "of charging \nstations installed\nRevision of DCP to strengthen \nsustainability measures\nnil\nn/a\nFunding\nChanges made\nReview NSW Government Design \nand Place SEPP to ensure it meets its \nstated objectives\nnil\nn/a\nOngoing\nDesign and Place \nSEPP reviewed\nAdvocate for review of State Building \ncodes", "page": 46, "source": "Mosman-NSW-36.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate action, with the Mosman Council declaring a climate emergency and outlining a mitigation strategy, there is no specific mention of prioritising this response over other policies. The documents discuss the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. They also mention the need to transition to clean energy sources and conserve natural environments. However, these statements do not necessarily imply that these actions should take precedence over all other policies. Therefore, without explicit evidence, it cannot be affirmed that the climate emergency response is to be prioritised above other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Mosman Climate Action Plan - Mitigation Strategy does outline a comprehensive approach to addressing climate change, including a focus on six key areas (energy use, biodiversity and trees, water cycle, transport, built environment, and waste), it does not mandate that all council activities must align with this policy. The documents do indicate that the council is committed to mitigating climate change impacts and has been proactive in implementing practical solutions to reduce energy and resource use. However, this does not equate to a requirement for all council activities to align with the climate policy. The documents also mention the council's commitment to provide the community with timely and reliable information about climate change and mitigation measures, but again, this does not imply that all council activities must be in line with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Mosman Climate Action Plan - Mitigation Strategy does explicitly allocate funding for climate action. The documents provide a detailed breakdown of the funding allocated to various climate action initiatives. The plan identifies funding for both capital and operational projects related to climate action. For instance, the plan allocates $450,000 for energy use, $90,000 for biodiversity and trees, and $25,000 for transport in the high priority 1-3 years category of capital projects. Similarly, for operational projects, the plan identifies recurring funding of $60,000 for energy use, $540,000 for biodiversity and trees, and $50,000 for transport. However, it should be noted that the figures are subject to refinement as part of the plan's development.", "quote": {"content": "These figures will be further refined as part of the Plan\u2019s development. The table below details the current draft funding identified for Climate Change projects in Council\u2019s existing Operational Budget and draft 10-year Capital Works Program...", "page": 47, "source": "Mosman-NSW-36.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly state that the local government's climate action plan allocates staff or other non-monetary institutional resources to climate action. The documents mention various aspects of the plan, including the mitigation strategy, the inclusion of sustainability elements in renewal projects, and the allocation of funding for different areas such as energy use, biodiversity and trees, water cycle, waste, transport, and the built environment. However, there is no specific mention of the allocation of staff or other non-monetary institutional resources for the implementation of the plan. Therefore, based on the provided documents, it cannot be affirmed that the plan allocates such resources to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a commitment to provide the community with timely and reliable information, incorporate community input to improve outcomes, and actively engage the community to build understanding of the importance of taking action. The policy also outlines a plan to support climate change action through community engagement efforts, including the establishment of a Climate Action Community Consultative Committee and the delivery of sustainability related programs and initiatives. The policy also commits to leading by example and implementing mitigation measures that can be replicated by residents and businesses. This suggests a comprehensive approach to social mobilisation for climate action.", "quote": {"content": "Council will actively engage the community to build understanding of the importance of taking action and facilitate capacity building for action to reduce emissions.", "page": 28, "source": "Mosman-NSW-36.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Mosman Climate Action Plan - Mitigation Strategy does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a two-pronged approach that involves managing Council operations and guiding the Mosman community as a whole. The strategy aims to reduce carbon and greenhouse gas emissions, promote sustainable lifestyles and practices, enhance and protect ecological systems, and reduce energy and water consumption, waste, and encourage reuse and recycling. However, the documents provided do not offer specific details on the technological solutions or behaviour changes that will be implemented to achieve these goals. The plan's focus on reducing dependence on fossil fuels suggests a shift towards renewable energy sources, but without further details, it is unclear what specific technologies will be used. Similarly, while the plan aims to promote sustainable lifestyles, it does not specify what behaviour changes will be encouraged or how they will be promoted.", "quote": {"content": "It responds to community priorities and presents how as a local government organisation and a community we will: Reduce carbon and greenhouse gas (GHG) emissions; Promote sustainable lifestyles and practises; Enhance, protect and respect waterways, bushland, nature, wildlife and ecological systems; and Reduce energy and water consumption, waste, and encourage reuse and recycling. This Mosman Climate Action Plan - Mitigation Strategy is focused on mitigation and has a two-pronged approach; management of Council operations and guiding the Mosman community as a whole.", "page": 9, "source": "Mosman-NSW-36.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific information or actions related to climate adaptation and resilience. The documents mention a 'Climate Action Plan - Mitigation Strategy' multiple times, suggesting that the focus of the policy is on mitigating the effects of climate change rather than adapting to them. The documents also mention commitments to inform the community about the significance of the environment and climate change, and to engage the community in reducing emissions. However, these commitments do not specifically address climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the local government's climate targets and actions. While the documents mention a 'Mosman Climate Action Plan - Mitigation Strategy', they do not provide specific details about the plan's targets or actions. The documents also mention the need for action to reduce dependence on fossil fuels and mitigate climate change, but they do not provide evidence to support these statements. Furthermore, the documents do not cite any sources or provide any data to back up their claims. Therefore, based on the provided documents, it cannot be concluded that the local government's climate targets and actions are justified by well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Mosman Climate Action Plan - Mitigation Strategy does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a range of actions, each with an associated indicator to measure progress. For instance, one of the actions is to 'work collaboratively with other councils on urban heat island mitigation measures', with the status of this action being monitored as 'ongoing'. Another action is the 'revision of DCP to strengthen sustainability measures', with the indicator being 'changes made'. These indicators serve as measurable criteria to evaluate the success of the actions. However, it is worth noting that the indicators provided are quite broad and may not provide a detailed measure of success. More specific, quantifiable indicators could provide a clearer picture of progress."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The provided documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents mention the Mosman Climate Action Plan and its focus on mitigation strategies, which involve actions that reduce dependence on fossil fuels. The documents also mention the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss. However, they do not specify any plans to conduct research in the local community to inform these actions. The documents also mention the existence of a Climate Emergency Declaration, Emissions Targets, and various action areas such as Energy Use, Biodiversity and Trees, Water Cycle, Waste, Transport, and Built Environment. However, these are stated without any explicit mention of conducting research in the local community to inform these actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The provided documents do not provide clear evidence of innovation and policy experimentation in climate action. While the documents mention a 'Climate Action Plan' and a 'Mitigation Strategy', there are no specific details about innovative or experimental policies. The documents discuss the need for action on climate change, the attitudes of Australians towards climate change, and the role of the Federal Department of Industry, Science, Energy and Resources in managing national climate change strategies. However, they do not provide specific examples of innovative or experimental policies being implemented or planned. Therefore, based on the provided documents, it cannot be concluded that there is evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The Mosman Climate Action Plan - Mitigation Strategy document does show an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the local government's commitment to climate action and its alignment with broader national and international climate goals, such as the Paris Agreement. The document also indicates that the local government is working in collaboration with other councils and Local Government NSW to urge state and federal governments to take urgent action to meet the Paris Agreement emissions reduction targets. This advocacy is a clear demonstration of the local government's commitment to climate action and its intent to influence higher levels of government to support these efforts.", "quote": {"content": "We join with and support other Councils and Local Government NSW in calling on state and federal governments to take urgent action to at least meet the Paris Agreement emissions reduction targets.", "page": 15, "source": "Mosman-NSW-36.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The Mosman Climate Action Plan - Mitigation Strategy does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy commits to providing the community with timely and reliable information, incorporating community input to improve outcomes, and actively engaging the community to build understanding of the importance of taking action. It also mentions the establishment of a Climate Action Community Consultative Committee with six community representatives. Furthermore, the policy outlines the council's commitment to lead by example and implement mitigation measures that can be replicated by residents and businesses. The policy also mentions collaboration with other councils on urban heat island mitigation measures, indicating a willingness to work with neighbouring local councils.", "quote": {"content": "Council will actively engage the community to build understanding of the importance of taking action and facilitate capacity building for action to reduce emissions.", "page": 28, "source": "Mosman-NSW-36.pdf", "search_score": 0.95}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not contain any specific references to regional associations, alliances, or other partnerships related to climate action. While the documents do mention a 'Climate Action Plan - Mitigation Strategy', they do not provide any details about coordination, partnerships, or advocacy for action with other entities. The documents primarily focus on the concept of mitigation, the importance of reducing dependence on fossil fuels, and the attitudes of Australians towards climate change. However, they do not provide any specific information about collaborative efforts or partnerships in addressing climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. They also mention the need to transition to clean energy sources and to conserve natural environments. The documents outline a mitigation strategy that involves reducing dependence on fossil fuels. However, they do not specifically address the impact of these changes on vulnerable communities or discuss these issues in the context of social justice or equity."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the Mosman Climate Action Plan - Mitigation Strategy, which involves actions to reduce dependence on fossil fuels and therefore reduce the rate of climate change. There is mention of aligning the strategy with community values and priority issues, and of the involvement of the community in the success of the strategy. However, there is no specific discussion or detail on how the benefits and opportunities of a safe climate will be shared equitably among different groups or individuals in the community."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 54.2}}
+{
+  "settings": {
+    "source_files": [
+      "Mosman-NSW-36.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T22:06:29.171916",
+    "lga": "Mosman"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Mosman Climate Action Plan - Mitigation Strategy', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's commitment to mitigating climate change through actions that reduce dependence on fossil fuels. The policy also sets specific targets, such as achieving net zero emissions by 2030 for its operations and aspiring to achieve net zero emissions by 2040 for the Mosman Local Government Area (LGA). The policy is part of a broader climate action plan, which also includes a Resilience and Adaptation Strategy. This suggests a comprehensive approach to climate action, encompassing both mitigation and adaptation strategies. The policy's alignment with global initiatives such as the United Nations\u2019 Sustainable Development Goals (SDGs) and the Paris Agreement further underscores its commitment to climate action.",
+          "quote": {
+            "content": "Council aims to lead the Mosman community by example with a target of net zero emissions by 2030 for its operations and aspires to achieve net zero emissions by 2040 for the Mosman LGA. Mitigation involves actions that reduce dependence on fossil fuels and therefore reduce the rate of climate change.",
+            "page": 3,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It emphasizes the increasing severity and frequency of climate-related disasters such as heatwaves, floods, and droughts, and the growing impact on lives and livelihoods. The document also highlights the projected national cost of inaction, estimated at $3.4 trillion and 880,000 jobs over the next 50 years. It calls for meaningful and broad-scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. The document further stresses the need to transition away from fossil fuels, decarbonize economies and societies, and work harder to conserve natural environments.",
+          "quote": {
+            "content": "As members of our local, national and global communities we have reached a point that demands meaningful and broad scale action to reduce carbon emissions, pollution and biodiversity loss, and that we mitigate our contribution to climate change. Inaction will put us on a trajectory that seems guaranteed to scale to worse and more disastrous consequences for future generations, as well as a projected national cost of $3.4 trillion and 880,000 jobs over the next 50 years.",
+            "page": 9,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for rapid and urgent action on climate change. It emphasizes the increasing severity and frequency of climate-related disasters, such as city floods, sustained droughts, and severe heatwaves, and the growing impact on lives and livelihoods. The document warns that inaction will lead to disastrous consequences for future generations, including a projected national cost of $3.4 trillion and the loss of 880,000 jobs over the next 50 years. It states that we have reached a point that demands meaningful and broad-scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate our contribution to climate change. The document also highlights the need to transition away from fossil fuels and towards sources of clean energy, and to work harder to conserve our natural environments.",
+          "quote": {
+            "content": "As members of our local, national and global communities we have reached a point that demands meaningful and broad scale action to reduce carbon emissions, pollution and biodiversity loss, and that we mitigate our contribution to climate change. Inaction will put us on a trajectory that seems guaranteed to scale to worse and more disastrous consequences for future generations, as well as a projected national cost of $3.4 trillion and 880,000 jobs over the next 50 years.",
+            "page": 9,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines high-priority actions that are to be actioned within 1-3 years. These actions include working collaboratively with other councils on urban heat island mitigation measures, reviewing the Local Environmental Plan (LEP) to promote sustainability, planning for electric vehicle charging stations for apartments, revising the Development Control Plan (DCP) to strengthen sustainability measures, reviewing the NSW Government Design and Place State Environmental Planning Policy (SEPP) to ensure it meets its stated objectives, and advocating for a review of State Building codes. However, the document does not provide specific deadlines or dates for these actions, nor does it provide a comprehensive timeline for all its climate action plans.",
+          "quote": {
+            "content": "of charging \nstations installed\nRevision of DCP to strengthen \nsustainability measures\nnil\nn/a\nFunding\nChanges made\nReview NSW Government Design \nand Place SEPP to ensure it meets its \nstated objectives\nnil\nn/a\nOngoing\nDesign and Place \nSEPP reviewed\nAdvocate for review of State Building \ncodes",
+            "page": 46,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate action, with the Mosman Council declaring a climate emergency and outlining a mitigation strategy, there is no specific mention of prioritising this response over other policies. The documents discuss the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. They also mention the need to transition to clean energy sources and conserve natural environments. However, these statements do not necessarily imply that these actions should take precedence over all other policies. Therefore, without explicit evidence, it cannot be affirmed that the climate emergency response is to be prioritised above other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Mosman Climate Action Plan - Mitigation Strategy does outline a comprehensive approach to addressing climate change, including a focus on six key areas (energy use, biodiversity and trees, water cycle, transport, built environment, and waste), it does not mandate that all council activities must align with this policy. The documents do indicate that the council is committed to mitigating climate change impacts and has been proactive in implementing practical solutions to reduce energy and resource use. However, this does not equate to a requirement for all council activities to align with the climate policy. The documents also mention the council's commitment to provide the community with timely and reliable information about climate change and mitigation measures, but again, this does not imply that all council activities must be in line with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Mosman Climate Action Plan - Mitigation Strategy does explicitly allocate funding for climate action. The documents provide a detailed breakdown of the funding allocated to various climate action initiatives. The plan identifies funding for both capital and operational projects related to climate action. For instance, the plan allocates $450,000 for energy use, $90,000 for biodiversity and trees, and $25,000 for transport in the high priority 1-3 years category of capital projects. Similarly, for operational projects, the plan identifies recurring funding of $60,000 for energy use, $540,000 for biodiversity and trees, and $50,000 for transport. However, it should be noted that the figures are subject to refinement as part of the plan's development.",
+          "quote": {
+            "content": "These figures will be further refined as part of the Plan\u2019s development. The table below details the current draft funding identified for Climate Change projects in Council\u2019s existing Operational Budget and draft 10-year Capital Works Program...",
+            "page": 47,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's climate action plan allocates staff or other non-monetary institutional resources to climate action. The documents mention various aspects of the plan, including the mitigation strategy, the inclusion of sustainability elements in renewal projects, and the allocation of funding for different areas such as energy use, biodiversity and trees, water cycle, waste, transport, and the built environment. However, there is no specific mention of the allocation of staff or other non-monetary institutional resources for the implementation of the plan. Therefore, based on the provided documents, it cannot be affirmed that the plan allocates such resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a commitment to provide the community with timely and reliable information, incorporate community input to improve outcomes, and actively engage the community to build understanding of the importance of taking action. The policy also outlines a plan to support climate change action through community engagement efforts, including the establishment of a Climate Action Community Consultative Committee and the delivery of sustainability related programs and initiatives. The policy also commits to leading by example and implementing mitigation measures that can be replicated by residents and businesses. This suggests a comprehensive approach to social mobilisation for climate action.",
+          "quote": {
+            "content": "Council will actively engage the community to build understanding of the importance of taking action and facilitate capacity building for action to reduce emissions.",
+            "page": 28,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Mosman Climate Action Plan - Mitigation Strategy does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a two-pronged approach that involves managing Council operations and guiding the Mosman community as a whole. The strategy aims to reduce carbon and greenhouse gas emissions, promote sustainable lifestyles and practices, enhance and protect ecological systems, and reduce energy and water consumption, waste, and encourage reuse and recycling. However, the documents provided do not offer specific details on the technological solutions or behaviour changes that will be implemented to achieve these goals. The plan's focus on reducing dependence on fossil fuels suggests a shift towards renewable energy sources, but without further details, it is unclear what specific technologies will be used. Similarly, while the plan aims to promote sustainable lifestyles, it does not specify what behaviour changes will be encouraged or how they will be promoted.",
+          "quote": {
+            "content": "It responds to community priorities and presents how as a local government organisation and a community we will: Reduce carbon and greenhouse gas (GHG) emissions; Promote sustainable lifestyles and practises; Enhance, protect and respect waterways, bushland, nature, wildlife and ecological systems; and Reduce energy and water consumption, waste, and encourage reuse and recycling. This Mosman Climate Action Plan - Mitigation Strategy is focused on mitigation and has a two-pronged approach; management of Council operations and guiding the Mosman community as a whole.",
+            "page": 9,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific information or actions related to climate adaptation and resilience. The documents mention a 'Climate Action Plan - Mitigation Strategy' multiple times, suggesting that the focus of the policy is on mitigating the effects of climate change rather than adapting to them. The documents also mention commitments to inform the community about the significance of the environment and climate change, and to engage the community in reducing emissions. However, these commitments do not specifically address climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the local government's climate targets and actions. While the documents mention a 'Mosman Climate Action Plan - Mitigation Strategy', they do not provide specific details about the plan's targets or actions. The documents also mention the need for action to reduce dependence on fossil fuels and mitigate climate change, but they do not provide evidence to support these statements. Furthermore, the documents do not cite any sources or provide any data to back up their claims. Therefore, based on the provided documents, it cannot be concluded that the local government's climate targets and actions are justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Mosman Climate Action Plan - Mitigation Strategy does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a range of actions, each with an associated indicator to measure progress. For instance, one of the actions is to 'work collaboratively with other councils on urban heat island mitigation measures', with the status of this action being monitored as 'ongoing'. Another action is the 'revision of DCP to strengthen sustainability measures', with the indicator being 'changes made'. These indicators serve as measurable criteria to evaluate the success of the actions. However, it is worth noting that the indicators provided are quite broad and may not provide a detailed measure of success. More specific, quantifiable indicators could provide a clearer picture of progress."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents mention the Mosman Climate Action Plan and its focus on mitigation strategies, which involve actions that reduce dependence on fossil fuels. The documents also mention the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss. However, they do not specify any plans to conduct research in the local community to inform these actions. The documents also mention the existence of a Climate Emergency Declaration, Emissions Targets, and various action areas such as Energy Use, Biodiversity and Trees, Water Cycle, Waste, Transport, and Built Environment. However, these are stated without any explicit mention of conducting research in the local community to inform these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention the Mosman Climate Action Plan and its Mitigation Strategy, they do not detail any specific initiatives, pilots, test beds, demonstration projects, or urban laboratories that would qualify as experiments under the given definition. The documents do mention the council's aim to lead the community by example with a target of net zero emissions by 2030 for its operations and by 2040 for the Mosman LGA. However, this is a broad goal rather than a specific experimental initiative. The documents also mention the council's efforts to factor sustainability into decision making and implement practical solutions to reduce energy and resource use, but again, these are general strategies rather than specific experiments."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Mosman Climate Action Plan - Mitigation Strategy document does show an explicit intent to advocate upward to state and national governments to support climate action. The document outlines the local government's commitment to climate action and its alignment with broader national and international climate goals, such as the Paris Agreement. The document also indicates that the local government is working in collaboration with other councils and Local Government NSW to urge state and federal governments to take urgent action to meet the Paris Agreement emissions reduction targets. This advocacy is a clear demonstration of the local government's commitment to climate action and its intent to influence higher levels of government to support these efforts.",
+          "quote": {
+            "content": "We join with and support other Councils and Local Government NSW in calling on state and federal governments to take urgent action to at least meet the Paris Agreement emissions reduction targets.",
+            "page": 15,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Mosman Climate Action Plan - Mitigation Strategy does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy commits to providing the community with timely and reliable information, incorporating community input to improve outcomes, and actively engaging the community to build understanding of the importance of taking action. It also mentions the establishment of a Climate Action Community Consultative Committee with six community representatives. Furthermore, the policy outlines the council's commitment to lead by example and implement mitigation measures that can be replicated by residents and businesses. The policy also mentions collaboration with other councils on urban heat island mitigation measures, indicating a willingness to work with neighbouring local councils.",
+          "quote": {
+            "content": "Council will actively engage the community to build understanding of the importance of taking action and facilitate capacity building for action to reduce emissions.",
+            "page": 28,
+            "source": "Mosman-NSW-36.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not contain any specific references to regional associations, alliances, or other partnerships related to climate action. While the documents do mention a 'Climate Action Plan - Mitigation Strategy', they do not provide any details about coordination, partnerships, or advocacy for action with other entities. The documents primarily focus on the concept of mitigation, the importance of reducing dependence on fossil fuels, and the attitudes of Australians towards climate change. However, they do not provide any specific information about collaborative efforts or partnerships in addressing climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the need for broad scale action to reduce carbon emissions, pollution, and biodiversity loss, and to mitigate the contribution to climate change. They also mention the need to transition to clean energy sources and to conserve natural environments. The documents outline a mitigation strategy that involves reducing dependence on fossil fuels. However, they do not specifically address the impact of these changes on vulnerable communities or discuss these issues in the context of social justice or equity."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the Mosman Climate Action Plan - Mitigation Strategy, which involves actions to reduce dependence on fossil fuels and therefore reduce the rate of climate change. There is mention of aligning the strategy with community values and priority issues, and of the involvement of the community in the success of the strategy. However, there is no specific discussion or detail on how the benefits and opportunities of a safe climate will be shared equitably among different groups or individuals in the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 54.2
+  }
+}

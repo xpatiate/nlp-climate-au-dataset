@@ -1,1 +1,262 @@
-{"settings": {"source_files": ["Wingecarribee-NSW-269.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T15:15:12.476097", "lga": "Wingecarribee"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly outlines that climate action is a core purpose or goal. The policy is designed to address, adapt, and build resilience to climate change in the Wingecarribee region. It includes a Climate Change Adaptation Plan, which identifies actions the Council will take to reduce climate change risks and adapt to climate change. The policy also includes specific actions for land use planning, community support, protecting biodiversity, and managing assets and infrastructure in response to climate change. These actions include incorporating climate change predictions into planning instruments, strategies, and plans, developing a community engagement strategy, including consideration of climate change in biodiversity strategies and management plans, and improving energy efficiency and implementing renewable energy projects. Therefore, it is evident that climate action is the core purpose or goal of the policy."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges that Australia's climate is already changing, with the region experiencing higher temperatures, less cold nights, more frequent and prolonged heatwaves, increased risk of bushfire, and seasonal changes in rainfall. These changes are expected to affect the community, places, and economy. The document also notes that current planning documents and strategies based on past climate may not be suited to future conditions, indicating a need for adaptation. The document further highlights that many places in the Shire, including buildings, public spaces, and homes, are designed for cooler conditions and are not well adapted to increasing heatwaves, which may put vulnerable people at risk during heatwaves. Therefore, the document clearly articulates the need for action on climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of actions and strategies to address climate change, including incorporating climate change predictions into planning instruments, monitoring changes to rainfall and runoff design standards, identifying opportunities for water capture and reuse, and increasing resources for bushfire management. However, these actions are presented as part of a long-term plan, with no specific emphasis on the urgency or speed of implementation. The documents also mention that progress on the actions will be reviewed annually and an update of the plan will be undertaken every four years, suggesting a gradual approach rather than an urgent one."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the policy outlines a range of actions to be taken in response to climate change, such as incorporating climate change predictions into planning instruments and strategies, improving energy efficiency, and increasing resources for bushfire management, it does not specify when these actions should be completed. The only mention of time is a statement that progress on the actions will be reviewed annually and an update of the plan will be undertaken every four years. However, this does not provide a clear timeline for the implementation of the individual actions outlined in the policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a series of actions and strategies to address climate change, including land use planning, emergency management, and community engagement. However, these actions are presented as part of a comprehensive approach to climate change, rather than as a higher priority than other policies. The documents emphasize the need for adaptation to climate change across various sectors, but do not explicitly prioritize these actions over other policy areas. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a series of actions and strategies to address climate change, including incorporating climate change predictions into planning instruments, monitoring changes to design standards, identifying opportunities for water capture and reuse, and improving energy efficiency. However, these actions are specific to certain areas such as land use planning, emergency management, and assets and infrastructure. There is no explicit requirement stated that all council activities, in general, must align with these climate change actions or any overarching climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the documents outline a comprehensive plan for addressing climate change, including actions for land use planning, assets and infrastructure, emergency management, and more, there is no clear mention of specific funding allocations for these actions. The documents do mention the need for additional resources for planning, preparedness, and response to emergencies, and the need to increase resourcing for bushfire management. However, these statements do not provide specific details about the source, amount, or allocation of these resources. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines a series of actions that require the involvement of staff and institutional resources. For instance, the policy mentions that the actions were developed by staff in a series of workshops, indicating that staff resources are being allocated to climate action. Additionally, the policy outlines specific actions such as monitoring changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria, which would require the allocation of staff resources. The policy also mentions the need to increase resourcing for bushfire management, which could imply the allocation of both staff and other institutional resources. However, the policy does not provide specific details on the number of staff or the exact nature of the resources to be allocated.", "quote": {"content": "Increase resourcing for bushfire management.", "page": 1, "source": "Wingecarribee-NSW-269.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together to address climate change. The policy outlines a plan to develop a community engagement strategy and program, which suggests an intention to educate and mobilize the community. However, the document does not provide specific details on how this strategy will be implemented, what it will entail, or how it will empower the community to rally and support climate action. The policy also mentions identifying heatwave response actions and incorporating climate change predictions into planning instruments, strategies, and plans. These actions suggest a proactive approach to climate change adaptation and a commitment to keeping the community informed and involved. However, the lack of specific details and concrete measures for community mobilization and education makes it difficult to fully assess the effectiveness of these plans."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's Climate Change Adaptation Plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, with the aim of 'restoring a safe climate'. The plan primarily focuses on adaptation strategies to climate change, such as identifying heatwave response actions, incorporating climate change predictions into planning instruments, improving energy efficiency, and managing bushfire risks. While these actions are crucial in responding to the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions. Mitigation strategies would involve actions to reduce the production of greenhouse gases, such as transitioning to renewable energy sources, promoting energy-efficient technologies, or encouraging changes in behaviour to reduce carbon footprints. Such strategies are not explicitly outlined in the provided documents."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to address the impacts of climate change on different sectors. For instance, in land use planning, the plan proposes to incorporate climate change predictions into planning instruments, strategies, and plans. It also suggests monitoring changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria. In terms of community support, the plan proposes to develop a community engagement strategy and program, identify heatwave response actions, and include climate change risks in the tourism and economic development strategy. For assets and infrastructure, the plan suggests improving energy efficiency, implementing renewable energy projects, and upgrading high priority buildings to reduce the risk of direct bushfire impact. These actions demonstrate a comprehensive approach to climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions related to climate change adaptation, such as incorporating climate change predictions into planning instruments and monitoring changes to design standards, it does not provide specific evidence or sources to justify these actions. The policy mentions the need to adapt to changing climate conditions and the risks associated with not doing so, but it does not provide specific data or research to support these claims. Furthermore, the policy does not clearly define its climate targets or provide a clear rationale for why these specific actions were chosen. Therefore, while the policy does address the issue of climate change and proposes a number of actions, it does not meet the high standard of evidence and specific detail required to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a range of actions to address climate change, such as incorporating climate change predictions into planning instruments and improving energy efficiency, it does not specify how the success of these actions will be measured. The plan mentions monitoring changes to various standards and identifying opportunities for water capture and reuse, but it does not provide clear metrics or benchmarks for these activities. Furthermore, the plan does not detail how often these actions will be reviewed or what constitutes successful implementation. Therefore, without specific measurable criteria, it is unclear how the local government will evaluate whether its actions are effectively addressing climate change."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a series of actions that involve research and monitoring to adapt to climate change. For instance, the policy mentions the need to monitor changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria. It also highlights the need to monitor water availability and identify opportunities for water capture and reuse in new development areas. Furthermore, the policy suggests researching opportunities for streetscape and town centres renewals that could contribute to cooler urban centres. These actions indicate a commitment to informed decision-making based on research and monitoring of local conditions and standards.", "quote": {"content": "Research opportunities for streetscape and town centres renewals that could contribute to cooler urban centres. Monitor changes to the Australian Rainfall and Runoff design standards, engineering standards and flood study criteria. Monitor water availability and identify opportunities for water capture and reuse in new development areas.", "page": 1, "source": "Wingecarribee-NSW-269.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's planned actions primarily involve monitoring and adapting to climate change, rather than experimenting with new, innovative policies. The actions include incorporating climate change predictions into planning instruments, strategies, and plans, monitoring changes to design standards and flood study criteria, and identifying opportunities for water capture and reuse in new development areas. While these actions are important for climate change adaptation, they do not represent innovative or experimental policy approaches. Instead, they reflect a more traditional, reactive approach to climate change, focusing on adaptation to predicted changes rather than proactive, innovative strategies to mitigate climate change or transform existing systems."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy documents focus primarily on local actions and strategies to adapt to climate change, such as incorporating climate change predictions into planning instruments, monitoring changes to design standards, and identifying opportunities for water capture and reuse. The documents also mention the need for community engagement and awareness, as well as actions to support the community during heatwaves. However, there is no explicit mention of advocating to higher levels of government for support in climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the council's role in supporting the community and partnering with other agencies for emergency management, there is no explicit mention of building local capacity for climate action. The documents focus more on the council's own actions and responsibilities, such as identifying heatwave response actions, incorporating climate change predictions into planning instruments, and improving energy efficiency. There is also no mention of collaborating with neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy outlines various actions and strategies to address climate change, such as incorporating climate change predictions into planning instruments, monitoring changes to design standards, and identifying opportunities for water capture and reuse. It also discusses the need to adapt to changing climate conditions, including higher temperatures, more frequent heatwaves, and increased risk of bushfires. However, it does not specify any partnerships or collaborations with other entities to achieve these goals. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline a number of actions and strategies to address climate change, including adaptation actions, land use planning, community support, emergency management, and asset and infrastructure management, they do not specifically address how these actions will impact or benefit vulnerable communities. The documents focus more on the physical impacts of climate change, such as increased temperatures, heatwaves, bushfires, and changes in rainfall, and the corresponding adaptation and mitigation strategies. Therefore, without explicit mention or discussion of the impact on vulnerable communities, it is not possible to affirmatively answer the question based on the provided context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy focuses on climate change adaptation actions, emergency management, heatwave response actions, and the impact of climate change on various sectors such as tourism, economic development, and infrastructure. It also outlines actions for land use planning, community knowledge and awareness, and assets and infrastructure. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 37.5}}
+{
+  "settings": {
+    "source_files": [
+      "Wingecarribee-NSW-269.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T15:15:12.476097",
+    "lga": "Wingecarribee"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly outlines that climate action is a core purpose or goal. The policy is designed to address, adapt, and build resilience to climate change in the Wingecarribee region. It includes a Climate Change Adaptation Plan, which identifies actions the Council will take to reduce climate change risks and adapt to climate change. The policy also includes specific actions for land use planning, community support, protecting biodiversity, and managing assets and infrastructure in response to climate change. These actions include incorporating climate change predictions into planning instruments, strategies, and plans, developing a community engagement strategy, including consideration of climate change in biodiversity strategies and management plans, and improving energy efficiency and implementing renewable energy projects. Therefore, it is evident that climate action is the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges that Australia's climate is already changing, with the region experiencing higher temperatures, less cold nights, more frequent and prolonged heatwaves, increased risk of bushfire, and seasonal changes in rainfall. These changes are expected to affect the community, places, and economy. The document also notes that current planning documents and strategies based on past climate may not be suited to future conditions, indicating a need for adaptation. The document further highlights that many places in the Shire, including buildings, public spaces, and homes, are designed for cooler conditions and are not well adapted to increasing heatwaves, which may put vulnerable people at risk during heatwaves. Therefore, the document clearly articulates the need for action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of actions and strategies to address climate change, including incorporating climate change predictions into planning instruments, monitoring changes to rainfall and runoff design standards, identifying opportunities for water capture and reuse, and increasing resources for bushfire management. However, these actions are presented as part of a long-term plan, with no specific emphasis on the urgency or speed of implementation. The documents also mention that progress on the actions will be reviewed annually and an update of the plan will be undertaken every four years, suggesting a gradual approach rather than an urgent one."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the policy outlines a range of actions to be taken in response to climate change, such as incorporating climate change predictions into planning instruments and strategies, improving energy efficiency, and increasing resources for bushfire management, it does not specify when these actions should be completed. The only mention of time is a statement that progress on the actions will be reviewed annually and an update of the plan will be undertaken every four years. However, this does not provide a clear timeline for the implementation of the individual actions outlined in the policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a series of actions and strategies to address climate change, including land use planning, emergency management, and community engagement. However, these actions are presented as part of a comprehensive approach to climate change, rather than as a higher priority than other policies. The documents emphasize the need for adaptation to climate change across various sectors, but do not explicitly prioritize these actions over other policy areas. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a series of actions and strategies to address climate change, including incorporating climate change predictions into planning instruments, monitoring changes to design standards, identifying opportunities for water capture and reuse, and improving energy efficiency. However, these actions are specific to certain areas such as land use planning, emergency management, and assets and infrastructure. There is no explicit requirement stated that all council activities, in general, must align with these climate change actions or any overarching climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the documents outline a comprehensive plan for addressing climate change, including actions for land use planning, assets and infrastructure, emergency management, and more, there is no clear mention of specific funding allocations for these actions. The documents do mention the need for additional resources for planning, preparedness, and response to emergencies, and the need to increase resourcing for bushfire management. However, these statements do not provide specific details about the source, amount, or allocation of these resources. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines a series of actions that require the involvement of staff and institutional resources. For instance, the policy mentions that the actions were developed by staff in a series of workshops, indicating that staff resources are being allocated to climate action. Additionally, the policy outlines specific actions such as monitoring changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria, which would require the allocation of staff resources. The policy also mentions the need to increase resourcing for bushfire management, which could imply the allocation of both staff and other institutional resources. However, the policy does not provide specific details on the number of staff or the exact nature of the resources to be allocated.",
+          "quote": {
+            "content": "Increase resourcing for bushfire management.",
+            "page": 1,
+            "source": "Wingecarribee-NSW-269.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together to address climate change. The policy outlines a plan to develop a community engagement strategy and program, which suggests an intention to educate and mobilize the community. However, the document does not provide specific details on how this strategy will be implemented, what it will entail, or how it will empower the community to rally and support climate action. The policy also mentions identifying heatwave response actions and incorporating climate change predictions into planning instruments, strategies, and plans. These actions suggest a proactive approach to climate change adaptation and a commitment to keeping the community informed and involved. However, the lack of specific details and concrete measures for community mobilization and education makes it difficult to fully assess the effectiveness of these plans."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's Climate Change Adaptation Plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, with the aim of 'restoring a safe climate'. The plan primarily focuses on adaptation strategies to climate change, such as identifying heatwave response actions, incorporating climate change predictions into planning instruments, improving energy efficiency, and managing bushfire risks. While these actions are crucial in responding to the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions. Mitigation strategies would involve actions to reduce the production of greenhouse gases, such as transitioning to renewable energy sources, promoting energy-efficient technologies, or encouraging changes in behaviour to reduce carbon footprints. Such strategies are not explicitly outlined in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to address the impacts of climate change on different sectors. For instance, in land use planning, the plan proposes to incorporate climate change predictions into planning instruments, strategies, and plans. It also suggests monitoring changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria. In terms of community support, the plan proposes to develop a community engagement strategy and program, identify heatwave response actions, and include climate change risks in the tourism and economic development strategy. For assets and infrastructure, the plan suggests improving energy efficiency, implementing renewable energy projects, and upgrading high priority buildings to reduce the risk of direct bushfire impact. These actions demonstrate a comprehensive approach to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions related to climate change adaptation, such as incorporating climate change predictions into planning instruments and monitoring changes to design standards, it does not provide specific evidence or sources to justify these actions. The policy mentions the need to adapt to changing climate conditions and the risks associated with not doing so, but it does not provide specific data or research to support these claims. Furthermore, the policy does not clearly define its climate targets or provide a clear rationale for why these specific actions were chosen. Therefore, while the policy does address the issue of climate change and proposes a number of actions, it does not meet the high standard of evidence and specific detail required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a range of actions to address climate change, such as incorporating climate change predictions into planning instruments and improving energy efficiency, it does not specify how the success of these actions will be measured. The plan mentions monitoring changes to various standards and identifying opportunities for water capture and reuse, but it does not provide clear metrics or benchmarks for these activities. Furthermore, the plan does not detail how often these actions will be reviewed or what constitutes successful implementation. Therefore, without specific measurable criteria, it is unclear how the local government will evaluate whether its actions are effectively addressing climate change."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a series of actions that involve research and monitoring to adapt to climate change. For instance, the policy mentions the need to monitor changes to the Australian Rainfall and Runoff design standards, engineering standards, and flood study criteria. It also highlights the need to monitor water availability and identify opportunities for water capture and reuse in new development areas. Furthermore, the policy suggests researching opportunities for streetscape and town centres renewals that could contribute to cooler urban centres. These actions indicate a commitment to informed decision-making based on research and monitoring of local conditions and standards.",
+          "quote": {
+            "content": "Research opportunities for streetscape and town centres renewals that could contribute to cooler urban centres. Monitor changes to the Australian Rainfall and Runoff design standards, engineering standards and flood study criteria. Monitor water availability and identify opportunities for water capture and reuse in new development areas.",
+            "page": 1,
+            "source": "Wingecarribee-NSW-269.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents outline a series of actions and strategies that the local government plans to implement in response to climate change. These include incorporating climate change predictions into planning instruments, monitoring changes to design standards and water availability, identifying heatwave response actions, and including climate change risks in economic development strategies. However, these actions are presented as planned responses to climate change, not as experiments or pilot projects to test new technologies, policies, or governance approaches under real-world conditions. Therefore, based on the provided documents, it cannot be concluded that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy documents focus primarily on local actions and strategies to adapt to climate change, such as incorporating climate change predictions into planning instruments, monitoring changes to design standards, and identifying opportunities for water capture and reuse. The documents also mention the need for community engagement and awareness, as well as actions to support the community during heatwaves. However, there is no explicit mention of advocating to higher levels of government for support in climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the council's role in supporting the community and partnering with other agencies for emergency management, there is no explicit mention of building local capacity for climate action. The documents focus more on the council's own actions and responsibilities, such as identifying heatwave response actions, incorporating climate change predictions into planning instruments, and improving energy efficiency. There is also no mention of collaborating with neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy outlines various actions and strategies to address climate change, such as incorporating climate change predictions into planning instruments, monitoring changes to design standards, and identifying opportunities for water capture and reuse. It also discusses the need to adapt to changing climate conditions, including higher temperatures, more frequent heatwaves, and increased risk of bushfires. However, it does not specify any partnerships or collaborations with other entities to achieve these goals. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline a number of actions and strategies to address climate change, including adaptation actions, land use planning, community support, emergency management, and asset and infrastructure management, they do not specifically address how these actions will impact or benefit vulnerable communities. The documents focus more on the physical impacts of climate change, such as increased temperatures, heatwaves, bushfires, and changes in rainfall, and the corresponding adaptation and mitigation strategies. Therefore, without explicit mention or discussion of the impact on vulnerable communities, it is not possible to affirmatively answer the question based on the provided context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy focuses on climate change adaptation actions, emergency management, heatwave response actions, and the impact of climate change on various sectors such as tourism, economic development, and infrastructure. It also outlines actions for land use planning, community knowledge and awareness, and assets and infrastructure. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 37.5
+  }
+}

@@ -1,1 +1,316 @@
-{"settings": {"source_files": ["Merribek-VIC-287.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T11:15:48.151482", "lga": "Merribek"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy's core purpose is indeed climate action. The policy outlines a comprehensive plan to reduce greenhouse gas emissions and transition to a zero-carbon community by 2040. This is evident in the policy's focus on three key areas: stationary energy, transport, and waste. The policy aims to drive emissions reductions in these areas through a series of five-yearly Zero Carbon Action Plans. These plans will set medium-term targets and map out priority projects and programs. The policy also emphasizes the importance of monitoring progress towards the zero-carbon vision, with annual progress reports to the Council and four-yearly community greenhouse gas emissions profiles. The policy also acknowledges the need for advocacy, particularly in relation to planning policy and environmentally sustainable design standards for new buildings.", "quote": {"content": "The Framework reflects our focus on driving emissions reductions across the three key sources of the Moreland community\u2019s greenhouse gas emissions: stationary energy, transport and waste.", "page": 1, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The local government's policy is centered around a 'Zero Carbon Vision' for 2040, which is a direct response to the threat of climate change. The policy outlines a series of five-yearly action plans to reduce greenhouse gas emissions, with a focus on three key areas: stationary energy, transport, and waste. The policy acknowledges the importance of monitoring progress towards this vision and adapting to changes in the social, political, and technological context. The policy also recognizes the need for advocacy and collaboration with other levels of government and the community. The policy's emphasis on flexibility and adaptability reflects an understanding of the complex and dynamic nature of climate change.", "quote": {"content": "We need to understand how effectively our programs are contributing towards emissions reduction in order to continually improve these programs and / or design new initiatives. Effectively monitoring our progress towards the zero carbon Vision is critical. Effectively monitoring our progress towards the zero carbon Vision is critical.", "page": 20, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the state of climate emergency that requires immediate action from all levels of government, including local councils. The local government's target of achieving zero emissions by 2035 is 15 years ahead of the State Government's target, indicating a sense of urgency. The document also emphasizes the need for embedding zero carbon thinking across all council services, operations, and decision-making. It recognizes the need for high levels of stakeholder and community involvement to achieve this target. The document also outlines the challenges posed by climate change, such as increased frequency and severity of extreme weather events, depletion of natural resources, and global conflict over natural resources, further emphasizing the urgency of the situation.", "quote": {"content": "Council acknowledges we are in a state of climate emergency that requires urgent action by all levels of government, including local Councils.", "page": 1, "source": "Merribek-VIC-287.pdf", "search_score": 0.98}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The Moreland Zero Carbon \u2013 2040 Framework outlines a 20-year plan from 2020 to 2040 to reduce emissions across three target areas: energy transition, sustainable transport, and waste and consumption. The framework is designed to be flexible to accommodate the dynamic social, political, and technological context. It sets out key priorities for the first five years (2020 \u2013 2025) and plans to review and reset these priorities every five years. Five-yearly Zero Carbon Action Plans will be developed to set medium-term targets and map out priority projects and programs. The document also mentions an annual progress report to the Council and a four-yearly community greenhouse gas emissions profile. This approach allows for regular review and adjustment of the plans in response to changing circumstances while maintaining a clear long-term vision and commitment to achieving zero carbon by 2040.", "quote": {"content": "Five-yearly Zero Carbon Action Plans will be developed to set medium-term targets and map out priority projects and programs. This Moreland Zero Carbon \u2013 2040 Framework defines the key priorities for driving emissions reductions across the three target areas: energy transition, sustainable transport and waste and consumption over the first five years (2020 \u2013 2025) and beyond. The key priorities for action and advocacy outcomes within the Framework will be reviewed each five years and re-set for the following five-years.", "page": 2, "source": "Merribek-VIC-287.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and transitioning to zero carbon, they do not explicitly rank this policy above others. The documents outline a comprehensive approach to addressing climate change, including strategies for energy transition, sustainable transport, and waste and consumption. They also highlight the need for advocacy and collaboration with other levels of government and stakeholders. However, they do not explicitly state that these climate-related policies should take precedence over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents clearly state that the local government's climate policy is to be integrated across all council activities. The policy's goal is to transition to a zero carbon Moreland, and this overarching objective is to be embedded across the council's strategic planning framework. This includes new and existing council strategies, which are expected to consider and drive progress towards the 2040 zero carbon vision. The policy also emphasizes the importance of embedding zero carbon thinking across all council services, operations, spheres of influence, and decision-making. This suggests that all council activities must align with the climate policy. However, it should be noted that the policy also acknowledges the need for high levels of stakeholder and community involvement, indicating that the council cannot deliver on its zero carbon aspiration alone.", "quote": {"content": "However, Council cannot deliver our zero carbon aspiration alone; we need high levels of stakeholder and community involvement to hit this target. Achieving the Vision will require embedding zero carbon thinking across all Council services, operations, spheres of influence and decision-making.", "page": 1, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. The policy outlines various strategies and actions to achieve low carbon outcomes, such as providing municipal waste collection services, investing in community infrastructure, and implementing Environmentally Sustainable Design (ESD) standards for new buildings. It also mentions the development of five-yearly action plans and annual progress reports. However, there is no specific mention of budget allocation or funding for these initiatives. The policy does advocate for strong community advocacy and the importance of planning for emissions reduction, but without explicit mention of financial resource allocation, it is not possible to affirm that the plan allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. The policy outlines various strategies for reducing emissions and achieving a low carbon outcome, such as providing municipal waste collection services, investing in community infrastructure, and implementing land use and infrastructure planning. It also mentions the development of medium-term targets and priority projects, as well as the need for strong advocacy on behalf of the community. However, there is no specific mention of allocating staff or other non-monetary institutional resources to these efforts. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates such resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. It outlines a strategy for using the local council's communication channels to foster action to reduce emissions, with a focus on reaching different sections of the community. The policy acknowledges the diversity of the community and aims to support more people to participate and feel ownership of the vision. It also emphasizes the importance of framing the messaging and language of actions so that they are simple, tangible, and applicable to diverse audiences. Furthermore, the document highlights the role of partnerships in achieving the zero carbon vision, including partnerships with community and advocacy groups, energy retailers, and state government departments. The policy also outlines a plan for developing five-yearly Zero Carbon Action Plans with community input.", "quote": {"content": "Our aim is to support more people to participate and feel ownership of the Vision and make it easy for everyone to get involved. Identifying and rethinking how we use Council\u2019s communication channels and points of contact with our community to foster action to reduce emissions will be crucial in reaching different sections of the community. The challenge is to reach beyond \u2018engaged audiences\u2019 to those who would not usually seek out information from Council or proactively act to reduce their emissions. The diversity of Moreland\u2019s community means that people will have varying levels of commitment and capacity to act.", "page": 15, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan focuses on three key sources of emissions: stationary energy, transport, and waste. It outlines strategies such as investing in community infrastructure like bike lanes and Electric Vehicles charging stations, and promoting sustainable land use and infrastructure planning. The plan also advocates for Environmentally Sustainable Design standards for new buildings and emphasizes the importance of integrated land use and transport planning to promote walking, cycling, and public transport use. Furthermore, the plan outlines the development of five-yearly Zero Carbon Action Plans to set medium-term targets and map out priority projects and programs. However, it should be noted that while the plan includes technological solutions, it does not explicitly mention behavior change as a mitigation strategy.", "quote": {"content": "Integrated land use and transport planning is key to creating an environment that promotes walking, cycling and public transport use. Achieving low carbon outcomes through land use and infrastructure planning is critical to the success of the 2040 Vision due to the enduring nature of planning decisions.", "page": 14, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The local government's policy does not provide specific actions for climate adaptation and resilience. While the policy acknowledges the need for action in response to climate change, it primarily focuses on emissions reduction across stationary energy, transport, and waste. The policy outlines the development of new infrastructure to cope with extreme weather and the minimization of social and economic impacts of extreme weather. However, these are broad strategies rather than specific actions. The policy also mentions the development of five-yearly Zero Carbon Action Plans, but it does not provide details on what these plans will entail in terms of climate adaptation and resilience. Therefore, based on the provided documents, the policy does not include specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and strategies to achieve a zero-carbon vision by 2040, such as investing in community infrastructure, promoting walking, cycling and public transport use, and implementing five-yearly Zero Carbon Action Plans, it does not provide specific evidence or data to support these actions. The policy also lacks clear, measurable targets and does not provide a detailed explanation of how these actions will contribute to emissions reduction. Furthermore, the policy does not provide any references to external sources, research, or data that could substantiate its strategies and targets. Therefore, based on the provided documents, it is not possible to affirm that the policy provides well-sourced evidence to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a series of actions, such as developing a Zero Carbon Action Plan, reviewing the 2040 Framework, and completing a Moreland community GHG emissions profile, it does not specify how the success of these actions will be measured. The plan also mentions the development of medium-term targets and priority projects, but again, no specific criteria for evaluating success are provided. The plan does mention the use of annual progress reports to the Council, but it does not detail what these reports will contain or how they will measure success. Therefore, based on the provided documents, it is not possible to affirm that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a systematic approach to planning and monitoring their climate actions. They plan to develop five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs. These plans will be developed with input from the community and will be checked for consistency against the 2040 Vision and Principles. The government also plans to monitor and report annually on the implementation of these action plans to understand the effectiveness of their programs and to continually improve them. This indicates a commitment to informed action based on research and feedback from the local community.", "quote": {"content": "Council will monitor and report annually on implementation of the Zero Carbon Action Plans to provide a clear understanding of our progress over time. The Framework Vision, Principles and priorities will be implemented via five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs (including advocacy) which will take advantage of the social, political and technological context at the time.", "page": 20, "source": "Merribek-VIC-287.pdf", "search_score": 0.97}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's policy includes a variety of strategies to reduce greenhouse gas emissions and promote sustainable practices. These strategies include providing municipal waste collection services, investing in community infrastructure such as shared paths, bike lanes, and electric vehicle charging stations, and implementing land use and infrastructure planning to promote walking, cycling, and public transport use. The policy also includes plans for increased density, mixed-use neighbourhoods, and reduced car parking requirements. The government plans to monitor and report annually on the implementation of these strategies, indicating a commitment to ongoing evaluation and potential policy experimentation. Furthermore, the policy acknowledges the need for strong advocacy and community engagement, suggesting an innovative, bottom-up approach to climate action.", "quote": {"content": "Effective strategies include increased density, ensuring mixed-use neighbourhoods, and reduced car parking requirements. Achieving low carbon outcomes through land use and infrastructure planning is critical to the success of the 2040 Vision due to the enduring nature of planning decisions. Integrated land use and transport planning is key to creating an environment that promotes walking, cycling and public transport use.", "page": 14, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the council's role in advocacy, which includes responding to government consultations and proactively advocating on issues identified as crucial to their vision. The policy also mentions the development of partnerships with other local governments, advocacy organizations, and the community to push for changes to reduce Australia\u2019s emissions. The policy further outlines key advocacy priorities that the council will work with others to achieve over the short- and longer-term. These priorities include energy transition, sustainable transport, and waste and consumption. The policy also mentions the development of five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs, including advocacy.", "quote": {"content": "Key advocacy priorities that Council will work with others to see achieved over the short- and longer-term are outlined below. Council will partner with other local governments, advocacy organisations and the community to push for changes to reduce Australia\u2019s emissions.", "page": 17, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The council acknowledges the need for high levels of stakeholder and community involvement to achieve their zero carbon aspiration. They emphasize the importance of developing partnerships, celebrating success, and promoting innovation in Moreland. The council also plans to assist local community groups whose activities contribute towards carbon reduction and amplify the voice of local campaign organizations pushing for change. They also mention the importance of partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA), and Council Alliance for a Sustainable Built Environment (CASBE).", "quote": {"content": "This will include assisting local community groups whose activities contribute towards carbon reduction in Moreland and amplifying the voice of local campaign organisations pushing for change. Council\u2019s role in advocacy is to work with other organisations and councils to respond to government consultations, as well as proactively advocate on issues we have identified as crucial to the vision.", "page": 16, "source": "Merribek-VIC-287.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. It emphasizes the importance of partnerships in leveraging further funding, particularly from the State Government. The document mentions existing partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA), and Council Alliance for a Sustainable Built Environment (CASBE). These partnerships are deemed crucial for the success of the local government's climate-related initiatives. The document also mentions potential partners, including energy retailers and local distribution businesses, as well as state government departments and authorities. The document further highlights the role of the council in advocacy, working with other organizations and councils to respond to government consultations and proactively advocate on issues identified as crucial to the vision of carbon reduction.", "quote": {"content": "Melbourne Water) Existing partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA) and Council Alliance for a Sustainable Built Environment (CASBE) will continue to be important. The opportunity to collaborate with research organisations may also attract other funding. Key potential partners include: Energy retailers (e.g. Powershop) and local distribution businesses (e.g. Jemena and CitiPower) State government departments and authorities (e.g.", "page": 16, "source": "Merribek-VIC-287.pdf", "search_score": 0.97}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention various challenges related to climate change, such as extreme weather events, resource scarcity, and the need for new infrastructure, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents also discuss the need for sustainable energy transitions and the challenges of rapid urbanisation, but again, there is no explicit mention of the impact on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of creating an equitable, sustainable zero carbon future, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the challenges of climate change, the need for emissions reduction, and the strategies for achieving a zero carbon community. They also mention the need for diverse responses from society to meet these challenges, but do not elaborate on how these responses will ensure equity and social justice in the sharing of benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 60.0}}
+{
+  "settings": {
+    "source_files": [
+      "Merribek-VIC-287.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T11:15:48.151482",
+    "lga": "Merribek"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed climate action. The policy outlines a comprehensive plan to reduce greenhouse gas emissions and transition to a zero-carbon community by 2040. This is evident in the policy's focus on three key areas: stationary energy, transport, and waste. The policy aims to drive emissions reductions in these areas through a series of five-yearly Zero Carbon Action Plans. These plans will set medium-term targets and map out priority projects and programs. The policy also emphasizes the importance of monitoring progress towards the zero-carbon vision, with annual progress reports to the Council and four-yearly community greenhouse gas emissions profiles. The policy also acknowledges the need for advocacy, particularly in relation to planning policy and environmentally sustainable design standards for new buildings.",
+          "quote": {
+            "content": "The Framework reflects our focus on driving emissions reductions across the three key sources of the Moreland community\u2019s greenhouse gas emissions: stationary energy, transport and waste.",
+            "page": 1,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government's policy is centered around a 'Zero Carbon Vision' for 2040, which is a direct response to the threat of climate change. The policy outlines a series of five-yearly action plans to reduce greenhouse gas emissions, with a focus on three key areas: stationary energy, transport, and waste. The policy acknowledges the importance of monitoring progress towards this vision and adapting to changes in the social, political, and technological context. The policy also recognizes the need for advocacy and collaboration with other levels of government and the community. The policy's emphasis on flexibility and adaptability reflects an understanding of the complex and dynamic nature of climate change.",
+          "quote": {
+            "content": "We need to understand how effectively our programs are contributing towards emissions reduction in order to continually improve these programs and / or design new initiatives. Effectively monitoring our progress towards the zero carbon Vision is critical. Effectively monitoring our progress towards the zero carbon Vision is critical.",
+            "page": 20,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It acknowledges the state of climate emergency that requires immediate action from all levels of government, including local councils. The local government's target of achieving zero emissions by 2035 is 15 years ahead of the State Government's target, indicating a sense of urgency. The document also emphasizes the need for embedding zero carbon thinking across all council services, operations, and decision-making. It recognizes the need for high levels of stakeholder and community involvement to achieve this target. The document also outlines the challenges posed by climate change, such as increased frequency and severity of extreme weather events, depletion of natural resources, and global conflict over natural resources, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Council acknowledges we are in a state of climate emergency that requires urgent action by all levels of government, including local Councils.",
+            "page": 1,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. The Moreland Zero Carbon \u2013 2040 Framework outlines a 20-year plan from 2020 to 2040 to reduce emissions across three target areas: energy transition, sustainable transport, and waste and consumption. The framework is designed to be flexible to accommodate the dynamic social, political, and technological context. It sets out key priorities for the first five years (2020 \u2013 2025) and plans to review and reset these priorities every five years. Five-yearly Zero Carbon Action Plans will be developed to set medium-term targets and map out priority projects and programs. The document also mentions an annual progress report to the Council and a four-yearly community greenhouse gas emissions profile. This approach allows for regular review and adjustment of the plans in response to changing circumstances while maintaining a clear long-term vision and commitment to achieving zero carbon by 2040.",
+          "quote": {
+            "content": "Five-yearly Zero Carbon Action Plans will be developed to set medium-term targets and map out priority projects and programs. This Moreland Zero Carbon \u2013 2040 Framework defines the key priorities for driving emissions reductions across the three target areas: energy transition, sustainable transport and waste and consumption over the first five years (2020 \u2013 2025) and beyond. The key priorities for action and advocacy outcomes within the Framework will be reviewed each five years and re-set for the following five-years.",
+            "page": 2,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and transitioning to zero carbon, they do not explicitly rank this policy above others. The documents outline a comprehensive approach to addressing climate change, including strategies for energy transition, sustainable transport, and waste and consumption. They also highlight the need for advocacy and collaboration with other levels of government and stakeholders. However, they do not explicitly state that these climate-related policies should take precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that the local government's climate policy is to be integrated across all council activities. The policy's goal is to transition to a zero carbon Moreland, and this overarching objective is to be embedded across the council's strategic planning framework. This includes new and existing council strategies, which are expected to consider and drive progress towards the 2040 zero carbon vision. The policy also emphasizes the importance of embedding zero carbon thinking across all council services, operations, spheres of influence, and decision-making. This suggests that all council activities must align with the climate policy. However, it should be noted that the policy also acknowledges the need for high levels of stakeholder and community involvement, indicating that the council cannot deliver on its zero carbon aspiration alone.",
+          "quote": {
+            "content": "However, Council cannot deliver our zero carbon aspiration alone; we need high levels of stakeholder and community involvement to hit this target. Achieving the Vision will require embedding zero carbon thinking across all Council services, operations, spheres of influence and decision-making.",
+            "page": 1,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. The policy outlines various strategies and actions to achieve low carbon outcomes, such as providing municipal waste collection services, investing in community infrastructure, and implementing Environmentally Sustainable Design (ESD) standards for new buildings. It also mentions the development of five-yearly action plans and annual progress reports. However, there is no specific mention of budget allocation or funding for these initiatives. The policy does advocate for strong community advocacy and the importance of planning for emissions reduction, but without explicit mention of financial resource allocation, it is not possible to affirm that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. The policy outlines various strategies for reducing emissions and achieving a low carbon outcome, such as providing municipal waste collection services, investing in community infrastructure, and implementing land use and infrastructure planning. It also mentions the development of medium-term targets and priority projects, as well as the need for strong advocacy on behalf of the community. However, there is no specific mention of allocating staff or other non-monetary institutional resources to these efforts. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates such resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. It outlines a strategy for using the local council's communication channels to foster action to reduce emissions, with a focus on reaching different sections of the community. The policy acknowledges the diversity of the community and aims to support more people to participate and feel ownership of the vision. It also emphasizes the importance of framing the messaging and language of actions so that they are simple, tangible, and applicable to diverse audiences. Furthermore, the document highlights the role of partnerships in achieving the zero carbon vision, including partnerships with community and advocacy groups, energy retailers, and state government departments. The policy also outlines a plan for developing five-yearly Zero Carbon Action Plans with community input.",
+          "quote": {
+            "content": "Our aim is to support more people to participate and feel ownership of the Vision and make it easy for everyone to get involved. Identifying and rethinking how we use Council\u2019s communication channels and points of contact with our community to foster action to reduce emissions will be crucial in reaching different sections of the community. The challenge is to reach beyond \u2018engaged audiences\u2019 to those who would not usually seek out information from Council or proactively act to reduce their emissions. The diversity of Moreland\u2019s community means that people will have varying levels of commitment and capacity to act.",
+            "page": 15,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan focuses on three key sources of emissions: stationary energy, transport, and waste. It outlines strategies such as investing in community infrastructure like bike lanes and Electric Vehicles charging stations, and promoting sustainable land use and infrastructure planning. The plan also advocates for Environmentally Sustainable Design standards for new buildings and emphasizes the importance of integrated land use and transport planning to promote walking, cycling, and public transport use. Furthermore, the plan outlines the development of five-yearly Zero Carbon Action Plans to set medium-term targets and map out priority projects and programs. However, it should be noted that while the plan includes technological solutions, it does not explicitly mention behavior change as a mitigation strategy.",
+          "quote": {
+            "content": "Integrated land use and transport planning is key to creating an environment that promotes walking, cycling and public transport use. Achieving low carbon outcomes through land use and infrastructure planning is critical to the success of the 2040 Vision due to the enduring nature of planning decisions.",
+            "page": 14,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The local government's policy does not provide specific actions for climate adaptation and resilience. While the policy acknowledges the need for action in response to climate change, it primarily focuses on emissions reduction across stationary energy, transport, and waste. The policy outlines the development of new infrastructure to cope with extreme weather and the minimization of social and economic impacts of extreme weather. However, these are broad strategies rather than specific actions. The policy also mentions the development of five-yearly Zero Carbon Action Plans, but it does not provide details on what these plans will entail in terms of climate adaptation and resilience. Therefore, based on the provided documents, the policy does not include specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of actions and strategies to achieve a zero-carbon vision by 2040, such as investing in community infrastructure, promoting walking, cycling and public transport use, and implementing five-yearly Zero Carbon Action Plans, it does not provide specific evidence or data to support these actions. The policy also lacks clear, measurable targets and does not provide a detailed explanation of how these actions will contribute to emissions reduction. Furthermore, the policy does not provide any references to external sources, research, or data that could substantiate its strategies and targets. Therefore, based on the provided documents, it is not possible to affirm that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a series of actions, such as developing a Zero Carbon Action Plan, reviewing the 2040 Framework, and completing a Moreland community GHG emissions profile, it does not specify how the success of these actions will be measured. The plan also mentions the development of medium-term targets and priority projects, but again, no specific criteria for evaluating success are provided. The plan does mention the use of annual progress reports to the Council, but it does not detail what these reports will contain or how they will measure success. Therefore, based on the provided documents, it is not possible to affirm that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a systematic approach to planning and monitoring their climate actions. They plan to develop five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs. These plans will be developed with input from the community and will be checked for consistency against the 2040 Vision and Principles. The government also plans to monitor and report annually on the implementation of these action plans to understand the effectiveness of their programs and to continually improve them. This indicates a commitment to informed action based on research and feedback from the local community.",
+          "quote": {
+            "content": "Council will monitor and report annually on implementation of the Zero Carbon Action Plans to provide a clear understanding of our progress over time. The Framework Vision, Principles and priorities will be implemented via five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs (including advocacy) which will take advantage of the social, political and technological context at the time.",
+            "page": 20,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined in the question. While the documents do outline a variety of strategies and initiatives aimed at reducing emissions and promoting sustainable practices, there is no explicit mention of small-scale testing or experimentation of technologies, policies, or governance approaches under real-world conditions. The documents discuss long-term planning, the development of Zero Carbon Action Plans, and the implementation of various strategies such as increased density, mixed-use neighbourhoods, and reduced car parking requirements. However, these are presented as planned or ongoing actions rather than experimental initiatives. Therefore, based on the provided documents, it cannot be conclusively stated that the policy includes elements of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines the council's role in advocacy, which includes responding to government consultations and proactively advocating on issues identified as crucial to their vision. The policy also mentions the development of partnerships with other local governments, advocacy organizations, and the community to push for changes to reduce Australia\u2019s emissions. The policy further outlines key advocacy priorities that the council will work with others to achieve over the short- and longer-term. These priorities include energy transition, sustainable transport, and waste and consumption. The policy also mentions the development of five-yearly Zero Carbon Action Plans that will set tangible medium-term targets and map out priority projects and programs, including advocacy.",
+          "quote": {
+            "content": "Key advocacy priorities that Council will work with others to see achieved over the short- and longer-term are outlined below. Council will partner with other local governments, advocacy organisations and the community to push for changes to reduce Australia\u2019s emissions.",
+            "page": 17,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The council acknowledges the need for high levels of stakeholder and community involvement to achieve their zero carbon aspiration. They emphasize the importance of developing partnerships, celebrating success, and promoting innovation in Moreland. The council also plans to assist local community groups whose activities contribute towards carbon reduction and amplify the voice of local campaign organizations pushing for change. They also mention the importance of partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA), and Council Alliance for a Sustainable Built Environment (CASBE).",
+          "quote": {
+            "content": "This will include assisting local community groups whose activities contribute towards carbon reduction in Moreland and amplifying the voice of local campaign organisations pushing for change. Council\u2019s role in advocacy is to work with other organisations and councils to respond to government consultations, as well as proactively advocate on issues we have identified as crucial to the vision.",
+            "page": 16,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate. It emphasizes the importance of partnerships in leveraging further funding, particularly from the State Government. The document mentions existing partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA), and Council Alliance for a Sustainable Built Environment (CASBE). These partnerships are deemed crucial for the success of the local government's climate-related initiatives. The document also mentions potential partners, including energy retailers and local distribution businesses, as well as state government departments and authorities. The document further highlights the role of the council in advocacy, working with other organizations and councils to respond to government consultations and proactively advocate on issues identified as crucial to the vision of carbon reduction.",
+          "quote": {
+            "content": "Melbourne Water) Existing partnerships with community and advocacy groups such as MEFL, CERES, the Northern Alliance for Greenhouse Action (NAGA) and Council Alliance for a Sustainable Built Environment (CASBE) will continue to be important. The opportunity to collaborate with research organisations may also attract other funding. Key potential partners include: Energy retailers (e.g. Powershop) and local distribution businesses (e.g. Jemena and CitiPower) State government departments and authorities (e.g.",
+            "page": 16,
+            "source": "Merribek-VIC-287.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention various challenges related to climate change, such as extreme weather events, resource scarcity, and the need for new infrastructure, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents also discuss the need for sustainable energy transitions and the challenges of rapid urbanisation, but again, there is no explicit mention of the impact on vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of creating an equitable, sustainable zero carbon future, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the challenges of climate change, the need for emissions reduction, and the strategies for achieving a zero carbon community. They also mention the need for diverse responses from society to meet these challenges, but do not elaborate on how these responses will ensure equity and social justice in the sharing of benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 60.0
+  }
+}

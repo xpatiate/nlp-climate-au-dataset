@@ -1,1 +1,299 @@
-{"settings": {"source_files": ["PortPhillip-VIC-153.pdf", "PortPhillip-VIC-196.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T23:40:06.119697", "lga": "PortPhillip"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as its core purpose. The policy outlines a comprehensive approach to addressing climate change, focusing on both mitigation and adaptation strategies. It emphasizes the need for integrated action, involving various stakeholders, to ensure effective outcomes. The policy also acknowledges the challenges posed by climate change, such as the accelerating pace of change and the need for updated planning and building standards to reflect projected climate risks. Furthermore, the policy outlines specific actions for the council to 'climate proof' the city, including working with local communities to develop a Community Climate Action Plan. This plan focuses on practical local actions to build community resilience to a changing climate. Therefore, it is evident that the policy is fundamentally oriented towards climate action."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the consensus among the world's climate scientists about the direct correlation between global temperature increases and greenhouse gases resulting from human activities. The documents also mention the catastrophic effects on human societies and the ecosystems we depend on if action is not taken to cut emissions related to fossil fuel consumption. It is estimated that without such action, by 2100, the average global surface temperature will be up to 4.0\u00b0C higher than in 2000. The documents also emphasize the need for community participation and action in developing a locally relevant, community-based Community Climate Action Plan.", "quote": {"content": "This would have catastrophic effects on human societies and the ecosystems we depend on. Without action to cut emissions related to fossil fuel consumption, it is estimated that by 21001 the average global surface temperature will be up to 4.0\u00b0C higher than in 2000.", "page": 7, "source": "PortPhillip-VIC-196.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for urgent action on climate change. They highlight the accelerating pace of climate change and the need for immediate action to mitigate its effects. The documents emphasize the need for rapid transition to a low carbon city and community, stating that without dramatically lowering carbon emissions within 10-20 years, there is a significant risk of exacerbating runaway climate change. The documents also underscore the importance of acting now to build a resilient, climate-smart, and liveable city. They further stress the need for immediate action in restricting coastal and flood-prone development and providing clear planning and building guidelines for climate resilience. The documents also highlight the urgency of implementing at least 90% of actions in the Climate Adaptation Plan by 2014.", "quote": {"content": "Managing a quick transition to a low carbon city and community \u2013 without dramatically lowering carbon emissions within 10-20 years, we greatly risk increasing runaway climate change.", "page": 21, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for intended actions on climate change. The local government's policy outlines a clear timeline for its climate change actions. For instance, the Climate Adaptation Plan is set to be reviewed in 2014, with the aim of having implemented at least 90% of actions in the Plan by that time. This indicates a clear timeframe and urgency in the implementation of the policy's actions. Additionally, the policy acknowledges the need for quick transition to a low carbon city and community within 10-20 years, highlighting the urgency of action. The policy also mentions the development of the Community Climate Action Plan through community participation and input over 2010 and 2011, further indicating specific timeframes for action.", "quote": {"content": "Managing a quick transition to a low carbon city and community \u2013 without dramatically lowering carbon emissions within 10-20 years, we greatly risk increasing runaway climate change.", "page": 21, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and outline various strategies and actions to do so, they do not explicitly prioritize these actions over other policies. The documents discuss the need for integrated action, collaboration with other stakeholders, and the development of climate resilient buildings and infrastructure. They also mention the need for state and federal regulations to reflect climate risks. However, these are presented as part of a comprehensive approach to climate change, rather than as a higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline various plans and actions related to climate change, such as the Climate Adaptation Plan and the Community Climate Action Plan, which focus on areas like built form, public space, coastal management, drainage, flooding management, and heat stress management. However, these plans and actions are not explicitly stated to be mandatory for all council activities. The documents also mention the development of 'action frameworks' for reducing emissions in certain areas, but again, these are not explicitly required for all council activities. Therefore, while the documents clearly indicate a strong focus on addressing climate change, they do not provide clear evidence that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents detail various plans and strategies for climate adaptation and mitigation, including restricting coastal and flood-prone development, introducing enhanced climate resilience standards, and developing updated flooding and special building overlay controls, there is no clear mention of specific funding allocations for these actions. The documents do acknowledge that effective actions and new design requirements will mean new budget considerations for the Council in the coming years, but they do not provide specific details about these budget considerations or how they will be allocated. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's Climate Adaptation Plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff resources. The plan outlines a staff capacity-building program to assist key and general staff to become energy efficient in everyday work activities. This indicates that the local government is investing in its staff to ensure they have the necessary skills and knowledge to implement the plan's climate action strategies. Furthermore, the plan also mentions the development of various strategies and policies, which implies the allocation of staff resources to these tasks. However, the plan does not provide specific details on the number of staff allocated, their roles, or the time they are expected to dedicate to these tasks."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indeed show evidence of social mobilisation in the context of climate action. The local government's policy outlines a clear intention to involve the community in the development and implementation of the Community Climate Action Plan. The policy encourages community participation and input, and it is designed to focus on practical local actions to build community resilience to a changing climate. The policy also encourages community members to share their ideas and issues through a discussion forum, indicating an active effort to empower and educate the community. Furthermore, the policy outlines specific areas for community action, such as carbon abatement, water conservation, waste minimisation, and building community resilience to a changing climate. The policy also emphasises the importance of community participation in achieving its objectives, stating that a prepared and locally networked community plays the biggest role in minimising the local impacts from a changing climate.", "quote": {"content": "Developed through community participation and input over 2010 and 2011, it will focus on practical local actions to build community resilience to a changing climate. The final key action is to work with local communities to develop the Community Climate Action Plan.", "page": 3, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a combination of technological solutions and behaviour change to achieve this goal. Technological solutions include the introduction of a sustainable transport framework, the development of infrastructure that can handle increased erosion, subsidence, and coastal inundation, and the use of insulation, eaves, external blinds/shades, and high-performance glass to improve indoor comfort. The policy also emphasizes the importance of behaviour change, particularly in the residential sector. It discusses two action models, 'optimistic' and 'ambitious', which combine government action with residential actions to achieve a significant reduction in total emissions per resident. The policy also highlights the role of the business/commercial sector in reducing emissions. Furthermore, the policy outlines the development of the Community Climate Action Plan, which focuses on community actions to reduce greenhouse gas emissions.", "quote": {"content": "The ambitious model combines more proactive federal and state government, economic and residential actions to achieve a 50% reduction in total emissions per resident without the need to purchase GreenPower or other offsets. The optimistic model combines moderate federal government action with a series of moderate residential actions and would require GreenPower or other offsets to be bought to achieve the 50% target.", "page": 4, "source": "PortPhillip-VIC-196.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on areas such as built form, public space, coastal management and protection, drainage and flooding management, managing heat stress and heat island effects, and supporting local emergency management. The plan also includes specific actions such as restricting coastal and flood-prone development, providing clear planning and building guidelines for climate resilience, and introducing enhanced climate resilience standards into local planning policy provisions. Furthermore, the plan aims to implement at least 90% of these actions by 2014, demonstrating a clear commitment to climate adaptation and resilience. However, it should be noted that the plan does not currently cover areas of local economic/business activity or social impacts from a changing climate."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various actions and plans related to climate change, such as the Community Climate Action Plan and the Climate Adaptation Plan, they do not provide specific sources or evidence to justify these actions or the targets set. The documents mention the involvement of the community and expert consultants in shaping these plans, but they do not provide details about the data, research, or methodologies used to inform these decisions. Furthermore, the documents do not provide clear, measurable targets for their climate actions, making it difficult to assess the adequacy or effectiveness of these plans. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various actions to address climate change, such as restricting coastal and flood-prone development, developing updated foreshore/coastal strategies, and introducing enhanced climate resilience standards into local planning policy provisions, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The plan mentions the need for 'comprehensive modelling' and 'capacity assessments' of the solutions trialled, but it does not specify what these assessments would entail or how they would be used to measure success. Furthermore, the plan does not set clear targets or timelines for its actions, which are crucial for tracking progress and evaluating outcomes. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Community Climate Action Plan, which was developed through community participation and input over 2010 and 2011. This plan focuses on practical local actions to build community resilience to a changing climate. The plan covers key areas such as carbon abatement, water conservation, waste minimisation, and community resilience to a changing climate. The government also encourages community participation and input, using the knowledge of the neighbourhood to identify issues and opportunities for becoming climate resilient. This information will be used to help the council plan and consider how to best assist community capacity building. Therefore, the local government is not only planning for informed action but is also actively involving the community in the process.", "quote": {"content": "Developed through community participation and input over 2010 and 2011, it will focus on practical local actions to build community resilience to a changing climate. The final key action is to work with local communities to develop the Community Climate Action Plan.", "page": 3, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive Climate Adaptation Plan that includes a variety of innovative actions to address climate change. These include the development of a Community Climate Action Plan, which was developed through community participation and focuses on practical local actions to build community resilience. The plan also includes innovative measures such as climate proofing buildings, flood management, beach protection, and city climate. The documents also mention the use of comprehensive modelling to prioritize key solutions and areas for adaptation. Furthermore, the local government is planning to restrict coastal and flood-prone development and provide clear planning and building guidelines for climate resilience. These actions demonstrate a willingness to experiment with new policies and approaches to address the challenges of climate change.", "quote": {"content": "Developed through community participation and input over 2010 and 2011, it will focus on practical local actions to build community resilience to a changing climate. It outlines five key actions for Council to begin to climate proof the city. It outlines five key actions for Council to begin to climate proof the city. The final key action is to work with local communities to develop the Community Climate Action Plan.", "page": 3, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government recognizes the importance of integrated action and collaboration with other stakeholders, including other cities, state, and federal governments, to ensure effective outcomes. It also acknowledges that many of the overarching state/federal policy and regulations around building and development design and conditions have not been updated to reflect planning and building standards that meet the projected climate risks. The documents also highlight the need for strong advocacy for proactive federal and state government action as a key part of their greenhouse management plan. This includes advocating for more stringent energy use and lifecycle labelling of appliances and key energy-using technology, reform of the national electricity and gas markets, and steps to offset or cease the exportation of Australia's coal and gas."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of community participation and involvement in climate action plans, they do not specifically advocate for capacity building across different councils or for collaboration with neighbouring councils. The documents focus more on the actions that the local council itself can take, such as implementing climate resilience standards, restricting coastal and flood-prone development, and resourcing adaptation actions. They also mention the role of the community in identifying issues and opportunities for becoming climate resilient, but do not explicitly mention capacity building or collaboration with other councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate. While the documents do discuss the importance of community participation and stakeholder engagement in developing and implementing climate action plans, they do not specify any particular organizations or partnerships involved in these efforts. The documents also mention the need for integrated action and collaboration with other cities, state, and federal governments, but again, no specific entities are named. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in great detail. The policy outlines a commitment to 'inter and intra-generational equity', which implies a focus on the impact of climate change on different groups within society, including potentially vulnerable communities. The policy also mentions the development of an 'information and early notification/prevention strategy for key pests, diseases and health risks' and working with 'our most vulnerable communities to provide city climate solutions during extreme temperatures'. These actions suggest an awareness of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts. However, the documents do not provide a detailed analysis of how climate change might affect vulnerable communities, nor do they outline specific measures to address these impacts beyond the general actions mentioned.", "quote": {"content": "Work with our most vulnerable communities to provide city climate solutions during extreme temperatures \u2013 these are currently heat stress management programs, insulation and energy efficiency projects, and additional assistance services on days over 35\u00b0C.", "page": 16, "source": "PortPhillip-VIC-153.pdf", "search_score": 0.98}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents mention the principle of 'inter and intra-generational equity' and the need to work for equity between and within generations, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the actions and strategies to mitigate and adapt to climate change, such as local greenhouse action programs, water conservation programs, and building community resilience. However, they do not elaborate on how these actions will ensure equity and social justice in the distribution of climate benefits and opportunities."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 68.3}}
+{
+  "settings": {
+    "source_files": [
+      "PortPhillip-VIC-153.pdf",
+      "PortPhillip-VIC-196.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T23:40:06.119697",
+    "lga": "PortPhillip"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy outlines a comprehensive approach to addressing climate change, focusing on both mitigation and adaptation strategies. It emphasizes the need for integrated action, involving various stakeholders, to ensure effective outcomes. The policy also acknowledges the challenges posed by climate change, such as the accelerating pace of change and the need for updated planning and building standards to reflect projected climate risks. Furthermore, the policy outlines specific actions for the council to 'climate proof' the city, including working with local communities to develop a Community Climate Action Plan. This plan focuses on practical local actions to build community resilience to a changing climate. Therefore, it is evident that the policy is fundamentally oriented towards climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the consensus among the world's climate scientists about the direct correlation between global temperature increases and greenhouse gases resulting from human activities. The documents also mention the catastrophic effects on human societies and the ecosystems we depend on if action is not taken to cut emissions related to fossil fuel consumption. It is estimated that without such action, by 2100, the average global surface temperature will be up to 4.0\u00b0C higher than in 2000. The documents also emphasize the need for community participation and action in developing a locally relevant, community-based Community Climate Action Plan.",
+          "quote": {
+            "content": "This would have catastrophic effects on human societies and the ecosystems we depend on. Without action to cut emissions related to fossil fuel consumption, it is estimated that by 21001 the average global surface temperature will be up to 4.0\u00b0C higher than in 2000.",
+            "page": 7,
+            "source": "PortPhillip-VIC-196.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. They highlight the accelerating pace of climate change and the need for immediate action to mitigate its effects. The documents emphasize the need for rapid transition to a low carbon city and community, stating that without dramatically lowering carbon emissions within 10-20 years, there is a significant risk of exacerbating runaway climate change. The documents also underscore the importance of acting now to build a resilient, climate-smart, and liveable city. They further stress the need for immediate action in restricting coastal and flood-prone development and providing clear planning and building guidelines for climate resilience. The documents also highlight the urgency of implementing at least 90% of actions in the Climate Adaptation Plan by 2014.",
+          "quote": {
+            "content": "Managing a quick transition to a low carbon city and community \u2013 without dramatically lowering carbon emissions within 10-20 years, we greatly risk increasing runaway climate change.",
+            "page": 21,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for intended actions on climate change. The local government's policy outlines a clear timeline for its climate change actions. For instance, the Climate Adaptation Plan is set to be reviewed in 2014, with the aim of having implemented at least 90% of actions in the Plan by that time. This indicates a clear timeframe and urgency in the implementation of the policy's actions. Additionally, the policy acknowledges the need for quick transition to a low carbon city and community within 10-20 years, highlighting the urgency of action. The policy also mentions the development of the Community Climate Action Plan through community participation and input over 2010 and 2011, further indicating specific timeframes for action.",
+          "quote": {
+            "content": "Managing a quick transition to a low carbon city and community \u2013 without dramatically lowering carbon emissions within 10-20 years, we greatly risk increasing runaway climate change.",
+            "page": 21,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and outline various strategies and actions to do so, they do not explicitly prioritize these actions over other policies. The documents discuss the need for integrated action, collaboration with other stakeholders, and the development of climate resilient buildings and infrastructure. They also mention the need for state and federal regulations to reflect climate risks. However, these are presented as part of a comprehensive approach to climate change, rather than as a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline various plans and actions related to climate change, such as the Climate Adaptation Plan and the Community Climate Action Plan, which focus on areas like built form, public space, coastal management, drainage, flooding management, and heat stress management. However, these plans and actions are not explicitly stated to be mandatory for all council activities. The documents also mention the development of 'action frameworks' for reducing emissions in certain areas, but again, these are not explicitly required for all council activities. Therefore, while the documents clearly indicate a strong focus on addressing climate change, they do not provide clear evidence that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents detail various plans and strategies for climate adaptation and mitigation, including restricting coastal and flood-prone development, introducing enhanced climate resilience standards, and developing updated flooding and special building overlay controls, there is no clear mention of specific funding allocations for these actions. The documents do acknowledge that effective actions and new design requirements will mean new budget considerations for the Council in the coming years, but they do not provide specific details about these budget considerations or how they will be allocated. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's Climate Adaptation Plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff resources. The plan outlines a staff capacity-building program to assist key and general staff to become energy efficient in everyday work activities. This indicates that the local government is investing in its staff to ensure they have the necessary skills and knowledge to implement the plan's climate action strategies. Furthermore, the plan also mentions the development of various strategies and policies, which implies the allocation of staff resources to these tasks. However, the plan does not provide specific details on the number of staff allocated, their roles, or the time they are expected to dedicate to these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indeed show evidence of social mobilisation in the context of climate action. The local government's policy outlines a clear intention to involve the community in the development and implementation of the Community Climate Action Plan. The policy encourages community participation and input, and it is designed to focus on practical local actions to build community resilience to a changing climate. The policy also encourages community members to share their ideas and issues through a discussion forum, indicating an active effort to empower and educate the community. Furthermore, the policy outlines specific areas for community action, such as carbon abatement, water conservation, waste minimisation, and building community resilience to a changing climate. The policy also emphasises the importance of community participation in achieving its objectives, stating that a prepared and locally networked community plays the biggest role in minimising the local impacts from a changing climate.",
+          "quote": {
+            "content": "Developed through community participation and input over 2010 and 2011, it will focus on practical local actions to build community resilience to a changing climate. The final key action is to work with local communities to develop the Community Climate Action Plan.",
+            "page": 3,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a combination of technological solutions and behaviour change to achieve this goal. Technological solutions include the introduction of a sustainable transport framework, the development of infrastructure that can handle increased erosion, subsidence, and coastal inundation, and the use of insulation, eaves, external blinds/shades, and high-performance glass to improve indoor comfort. The policy also emphasizes the importance of behaviour change, particularly in the residential sector. It discusses two action models, 'optimistic' and 'ambitious', which combine government action with residential actions to achieve a significant reduction in total emissions per resident. The policy also highlights the role of the business/commercial sector in reducing emissions. Furthermore, the policy outlines the development of the Community Climate Action Plan, which focuses on community actions to reduce greenhouse gas emissions.",
+          "quote": {
+            "content": "The ambitious model combines more proactive federal and state government, economic and residential actions to achieve a 50% reduction in total emissions per resident without the need to purchase GreenPower or other offsets. The optimistic model combines moderate federal government action with a series of moderate residential actions and would require GreenPower or other offsets to be bought to achieve the 50% target.",
+            "page": 4,
+            "source": "PortPhillip-VIC-196.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, focusing on areas such as built form, public space, coastal management and protection, drainage and flooding management, managing heat stress and heat island effects, and supporting local emergency management. The plan also includes specific actions such as restricting coastal and flood-prone development, providing clear planning and building guidelines for climate resilience, and introducing enhanced climate resilience standards into local planning policy provisions. Furthermore, the plan aims to implement at least 90% of these actions by 2014, demonstrating a clear commitment to climate adaptation and resilience. However, it should be noted that the plan does not currently cover areas of local economic/business activity or social impacts from a changing climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various actions and plans related to climate change, such as the Community Climate Action Plan and the Climate Adaptation Plan, they do not provide specific sources or evidence to justify these actions or the targets set. The documents mention the involvement of the community and expert consultants in shaping these plans, but they do not provide details about the data, research, or methodologies used to inform these decisions. Furthermore, the documents do not provide clear, measurable targets for their climate actions, making it difficult to assess the adequacy or effectiveness of these plans. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various actions to address climate change, such as restricting coastal and flood-prone development, developing updated foreshore/coastal strategies, and introducing enhanced climate resilience standards into local planning policy provisions, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The plan mentions the need for 'comprehensive modelling' and 'capacity assessments' of the solutions trialled, but it does not specify what these assessments would entail or how they would be used to measure success. Furthermore, the plan does not set clear targets or timelines for its actions, which are crucial for tracking progress and evaluating outcomes. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Community Climate Action Plan, which was developed through community participation and input over 2010 and 2011. This plan focuses on practical local actions to build community resilience to a changing climate. The plan covers key areas such as carbon abatement, water conservation, waste minimisation, and community resilience to a changing climate. The government also encourages community participation and input, using the knowledge of the neighbourhood to identify issues and opportunities for becoming climate resilient. This information will be used to help the council plan and consider how to best assist community capacity building. Therefore, the local government is not only planning for informed action but is also actively involving the community in the process.",
+          "quote": {
+            "content": "Developed through community participation and input over 2010 and 2011, it will focus on practical local actions to build community resilience to a changing climate. The final key action is to work with local communities to develop the Community Climate Action Plan.",
+            "page": 3,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's policy outlines a plan to trial and pilot various solutions, including capacity assessments of the solutions trialled. This indicates a willingness to test different approaches under real-world conditions to determine their effectiveness. The policy also mentions the development of a Community Climate Action Plan through community participation and input, which suggests an experimental approach to policy development and implementation. Furthermore, the policy outlines the development of updated foreshore/coastal strategies and policies to address local climate vulnerability, which could involve testing and refining different strategies. Therefore, the policy does show evidence of policy experimentation in climate action.",
+          "quote": {
+            "content": "to trial and pilot various solutions including capacity assessments of the various solutions trialled.",
+            "page": 14,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government recognizes the importance of integrated action and collaboration with other stakeholders, including other cities, state, and federal governments, to ensure effective outcomes. It also acknowledges that many of the overarching state/federal policy and regulations around building and development design and conditions have not been updated to reflect planning and building standards that meet the projected climate risks. The documents also highlight the need for strong advocacy for proactive federal and state government action as a key part of their greenhouse management plan. This includes advocating for more stringent energy use and lifecycle labelling of appliances and key energy-using technology, reform of the national electricity and gas markets, and steps to offset or cease the exportation of Australia's coal and gas."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the importance of community participation and involvement in climate action plans, they do not specifically advocate for capacity building across different councils or for collaboration with neighbouring councils. The documents focus more on the actions that the local council itself can take, such as implementing climate resilience standards, restricting coastal and flood-prone development, and resourcing adaptation actions. They also mention the role of the community in identifying issues and opportunities for becoming climate resilient, but do not explicitly mention capacity building or collaboration with other councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate. While the documents do discuss the importance of community participation and stakeholder engagement in developing and implementing climate action plans, they do not specify any particular organizations or partnerships involved in these efforts. The documents also mention the need for integrated action and collaboration with other cities, state, and federal governments, but again, no specific entities are named. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in great detail. The policy outlines a commitment to 'inter and intra-generational equity', which implies a focus on the impact of climate change on different groups within society, including potentially vulnerable communities. The policy also mentions the development of an 'information and early notification/prevention strategy for key pests, diseases and health risks' and working with 'our most vulnerable communities to provide city climate solutions during extreme temperatures'. These actions suggest an awareness of the differential impacts of climate change on vulnerable communities and a commitment to addressing these impacts. However, the documents do not provide a detailed analysis of how climate change might affect vulnerable communities, nor do they outline specific measures to address these impacts beyond the general actions mentioned.",
+          "quote": {
+            "content": "Work with our most vulnerable communities to provide city climate solutions during extreme temperatures \u2013 these are currently heat stress management programs, insulation and energy efficiency projects, and additional assistance services on days over 35\u00b0C.",
+            "page": 16,
+            "source": "PortPhillip-VIC-153.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents mention the principle of 'inter and intra-generational equity' and the need to work for equity between and within generations, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the actions and strategies to mitigate and adapt to climate change, such as local greenhouse action programs, water conservation programs, and building community resilience. However, they do not elaborate on how these actions will ensure equity and social justice in the distribution of climate benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 68.3
+  }
+}

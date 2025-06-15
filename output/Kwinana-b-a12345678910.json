@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["Kwinana-WA-228.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T10:34:32.503453", "lga": "Kwinana"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, titled 'Climate Change Plan 2021-2026', clearly indicates that climate action is the core purpose or goal. The policy outlines a comprehensive plan for the local government to address climate change through a variety of actions. These actions are grouped into key categories such as energy generation and efficiency, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, and others. Each action is designed to either mitigate the effects of climate change or help the community adapt to its impacts. The policy also emphasizes the need for ongoing monitoring and review to ensure the effectiveness of these actions and to make necessary adjustments in response to changing circumstances. Therefore, it is evident that the policy is primarily focused on climate action.", "quote": {"content": "The City will identify and organise relevant data to benchmark its current position and use this information to inform its long term planning and budget requirements in the context of climate change mitigation and adaptation. This Climate Change Plan defines how the City views climate change, its effects and the risks that climate change associated impacts may have on the City\u2019s corporate operations as well as on our community.", "page": 3, "source": "Kwinana-WA-228.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly articulates the need for action on climate change. It acknowledges the worsening effects and local impacts of climate change over time, and the associated escalation of financial risks if the City continues with a business-as-usual approach. The document also highlights the potential for climate change impact-related issues that seem insignificant now to become financially unaffordable to address in the future. To mitigate these risks, the City has outlined a set of implementation actions, grouped into three categories: mitigation actions, adaptation actions, and actions addressing both mitigation and adaptation. These actions are aimed at reducing the City\u2019s corporate greenhouse gas emissions, helping the City and its community anticipate and adapt to the progressive impacts of climate change, and addressing both mitigation and adaptation.", "quote": {"content": "Allowing climate change impact-related issues that appear insignificant now to continue and develop, may cause them to become financially unaffordable to address later on.", "page": 2, "source": "Kwinana-WA-228.pdf", "search_score": 0.92}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a variety of strategies and actions to address climate change, including the development of an Urban Forest Plan, investigating opportunities for sustainable development, and updating the Climate Change Policy. These actions are planned for specific timeframes, indicating a structured and methodical approach rather than a sense of urgency. The documents also mention the need for adaptation to the impacts of climate change and the financial implications of these actions. However, they do not express a need for immediate or urgent action. Instead, they suggest a measured approach, with actions reviewed annually and a mid-life plan review scheduled for 2023-2024."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, the Urban Forest Plan, which aims to preserve, expand, and manage the city's urban forest, is slated for completion in the 2021-2022 timeframe. Similarly, the investigation of opportunities to encourage sustainability in developments via the planning approvals process is scheduled for 2022-2023. The document also mentions a mid-life Climate Change Plan review in 2023-2024, indicating a clear timeline for reassessing and adjusting actions as necessary. These specific timeframes demonstrate a sense of urgency and commitment to taking action on climate change within a defined period."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline various strategies and actions related to climate change, such as developing an Urban Forest Plan, updating the Climate Change Policy, and developing a Sea Level Rise Policy. However, these actions are presented as part of a comprehensive plan, not as a prioritized response to a climate emergency. The documents also mention the financial implications of climate change and the need for proactive steps to adapt to these changes. However, this is not framed as a prioritization over other policies, but rather as a necessary response to the increasing severity of climate change impacts."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Climate Change Plan 2021-2026 outlines a comprehensive approach to addressing climate change, including mitigation and adaptation actions, it does not mandate that all council activities align with this policy. The plan does indicate that climate change impacts are considered and addressed through the City\u2019s strategic framework and operations, and it aims to support the community to better understand and adapt to the impacts of climate change. However, this does not equate to a requirement for all council activities to align with the climate policy. The documents also mention the development and review of various strategies and policies related to climate change, but these are specific actions rather than a blanket requirement for all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does explicitly allocate funding for climate action. The plan outlines a variety of actions, each assigned to specific positions or teams, and these actions are reviewed annually against their relevant measure of success. The plan also mentions that all direct actions outlined are considered achievable within the City\u2019s existing budgets. Furthermore, the plan discusses the development of a more formal framework for the existing Revolving Energy Fund, which is intended to establish a clearer process for the calculation of energy costs saved with the implementation of energy efficiency and renewable energy works. This suggests that there is a dedicated fund for climate action, and that the savings from energy efficiency and renewable energy works are reinvested into further such projects.", "quote": {"content": "All direct actions outlined in this Plan are considered achievable within the City\u2019s existing budgets and, as such, there are no direct financial implications resulting from the implementation of this Plan.", "page": 2, "source": "Kwinana-WA-228.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions, each assigned to specific positions or teams within the local government. For instance, the development and adoption of an Urban Forest Plan is assigned to the Senior Environmental Planner, Landscape Architects, and Coordinator Technical Operations. Similarly, the investigation of opportunities to encourage sustainability in developments is assigned to the Sustainability Officer and Planning Services. The plan also mentions the annual review of the progress of each action against its relevant measure of success. This indicates a clear allocation of staff time and effort towards the implementation of the plan. Furthermore, the plan includes the development of a system for recording City resources utilised in response to climate change related events, indicating a commitment to monitoring and managing non-monetary institutional resources.", "quote": {"content": "The progress of each action will be reviewed annually against its relevant measure of success and considered in the context of the priorities of the organisation and community at the time.", "page": 18, "source": "Kwinana-WA-228.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines several initiatives aimed at raising awareness and educating the community about the impacts of climate change. For instance, the policy mentions the implementation of a seven-week sustainable living course, which has seen positive feedback and tangible lifestyle changes among participants. The policy also includes plans to develop and implement an annual communications plan to promote the city's climate change-related work and achievements. Furthermore, the policy encourages community involvement in citizen science and education initiatives to raise awareness of the effects of climate change locally. These initiatives are designed to connect community members with activities that assist in adapting to the effects of climate change. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "Investigate options for including the community in citizen science and education initiatives to raise awareness of the effects of climate change locally and connect community members with activities that assist in adapting to the effects of climate change.", "page": 15, "source": "Kwinana-WA-228.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to reduce emissions. Technological solutions include increasing the energy efficiency of city facilities and public lighting, and installing renewable energy generation systems on facilities where feasible. The plan also includes actions to encourage behavioural change, such as supporting the community to better understand, prepare for, and adapt to the impacts of climate change. The plan also sets a specific target to reduce carbon dioxide equivalent emissions generated by the city's operations by 5% per capita of resident population below 2019-2020 levels by 2024-2025. The plan's actions are grouped into key categories including energy generation and efficiency, vehicles, monitoring and review, trees and green cover, and policy development and review.", "quote": {"content": "Installing renewable energy generation systems on facilities where an acceptable payback period can be demonstrated and budget is available. The City of Kwinana aims to minimise its greenhouse gas emissions as much as practicable. This will be achieved through a number of approaches, including: Increasing the energy efficiency of City facilities and public lighting.", "page": 8, "source": "Kwinana-WA-228.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. The adaptation actions are designed to assist the city and its community to anticipate and adapt to the progressive impacts of climate change. Specific actions include the development of an Urban Forest Plan, a Sea Level Rise Policy, and a review of the Public Health Plan to consider the increasing effects of climate change on vulnerable community members. Each action is assigned to a responsible team, has a timeframe for completion, and addresses specific climate change effects and localised consequences. This level of detail suggests a high degree of planning and commitment to climate adaptation and resilience.", "quote": {"content": "Adaptation actions will assist the City and its community to anticipate and adapt to the progressive impacts of climate change. The Plan contains a set of implementation actions, grouped into three categories: Mitigation actions will assist with the reduction of the City\u2019s corporate greenhouse gas emissions.", "page": 3, "source": "Kwinana-WA-228.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a variety of actions and strategies to address climate change, such as developing an Energy Sustainability Plan, reviewing asset deterioration rates, and monitoring human resourcing demands resulting from climate change impacts, it does not provide specific, well-sourced evidence to justify these actions. The policy does mention that the City's greenhouse emissions data will be calculated annually and used to track progress towards its emissions reduction target, but it does not provide details on what this target is or how it was determined. Furthermore, the policy states that all direct actions outlined in the plan are considered achievable within the City's existing budgets, but it does not provide a detailed budget or financial plan to support this claim."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each assigned to specific positions or teams, and the progress of each action will be reviewed annually against its relevant measure of success. For instance, the plan includes actions such as developing an Urban Forest Plan, investigating opportunities to encourage sustainability in developments, and continuing to deliver an annual sustainable living course. Each of these actions has a 'measure of success' associated with it, indicating that the plan has specific criteria for evaluating the success of its actions. Furthermore, the City's greenhouse emissions data is calculated annually and will be used to demonstrate how the City is tracking toward its new corporate emissions reduction target. This target will be reviewed at the time of the mid-life Plan review to ensure it remains realistic and achievable.", "quote": {"content": "The City\u2019s greenhouse emissions data is calculated annually, and this data will be used to demonstrate how the City is tracking toward its new corporate emissions reduction target.", "page": 18, "source": "Kwinana-WA-228.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The City of Kwinana's Climate Change Plan 2021-2026 outlines a variety of actions aimed at understanding and addressing the impacts of climate change. These actions include investigating options for community involvement in citizen science and education initiatives to raise awareness of the effects of climate change locally. This suggests a plan to gather data from the community, which could inform future climate actions. Additionally, the plan includes the development of a centralised system for recording City resources utilised in response to climate change-related events. This system will be used to monitor the ongoing impact of these events on the financial cost of the diversion of staff and other resources, which could also inform future planning and resource allocation for climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The actions outlined in the Climate Change Plan 2021-2026 by the City of Kwinana are largely focused on investigation, strategy development, and education. For instance, the plan includes actions such as investigating opportunities to encourage sustainability in developments, developing an Urban Forest Plan, and delivering a sustainable living course. While these actions are important for climate action, they do not necessarily represent innovative or experimental approaches. The documents also mention the development of a centralised system for recording resources used in response to climate change events, and the update of the Climate Change Policy to include a Revolving Energy Fund Framework. However, these actions seem to be more about improving existing systems and policies rather than experimenting with new, innovative approaches. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes a variety of actions to reduce greenhouse gas emissions and adapt to local climate change-related impacts. These actions are grouped into categories such as energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, none of these actions or categories explicitly mention advocating to higher levels of government for climate action. The documents focus on the City's own strategies and actions, rather than advocacy efforts."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes various strategies and actions to mitigate and adapt to climate change. These actions are grouped into categories such as energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, these actions are primarily focused on the City's own operations and community, with no explicit mention of building capacity with neighbouring local councils. Therefore, based on the provided documents, the local government policy does not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy outlines various actions and strategies to address climate change, including energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, these actions and strategies are to be implemented by the local government and its departments, and there is no mention of coordination or collaboration with external entities such as regional associations or alliances. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes strategies for energy generation and efficiency, policy development and review, community and staff health, and other areas. The plan also discusses the need for adaptation to climate change and the financial risks of a business-as-usual approach. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address equity and social justice in relation to climate change impacts."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to address climate change, including education initiatives, communication plans, and policy updates. These actions aim to raise awareness of climate change effects, promote the city's climate change-related work, and align policies with climate change plans. However, they do not specifically address the equitable distribution of climate benefits and opportunities. Therefore, based on the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 60.0}}
+{
+  "settings": {
+    "source_files": [
+      "Kwinana-WA-228.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T10:34:32.503453",
+    "lga": "Kwinana"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, titled 'Climate Change Plan 2021-2026', clearly indicates that climate action is the core purpose or goal. The policy outlines a comprehensive plan for the local government to address climate change through a variety of actions. These actions are grouped into key categories such as energy generation and efficiency, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, and others. Each action is designed to either mitigate the effects of climate change or help the community adapt to its impacts. The policy also emphasizes the need for ongoing monitoring and review to ensure the effectiveness of these actions and to make necessary adjustments in response to changing circumstances. Therefore, it is evident that the policy is primarily focused on climate action.",
+          "quote": {
+            "content": "The City will identify and organise relevant data to benchmark its current position and use this information to inform its long term planning and budget requirements in the context of climate change mitigation and adaptation. This Climate Change Plan defines how the City views climate change, its effects and the risks that climate change associated impacts may have on the City\u2019s corporate operations as well as on our community.",
+            "page": 3,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It acknowledges the worsening effects and local impacts of climate change over time, and the associated escalation of financial risks if the City continues with a business-as-usual approach. The document also highlights the potential for climate change impact-related issues that seem insignificant now to become financially unaffordable to address in the future. To mitigate these risks, the City has outlined a set of implementation actions, grouped into three categories: mitigation actions, adaptation actions, and actions addressing both mitigation and adaptation. These actions are aimed at reducing the City\u2019s corporate greenhouse gas emissions, helping the City and its community anticipate and adapt to the progressive impacts of climate change, and addressing both mitigation and adaptation.",
+          "quote": {
+            "content": "Allowing climate change impact-related issues that appear insignificant now to continue and develop, may cause them to become financially unaffordable to address later on.",
+            "page": 2,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a variety of strategies and actions to address climate change, including the development of an Urban Forest Plan, investigating opportunities for sustainable development, and updating the Climate Change Policy. These actions are planned for specific timeframes, indicating a structured and methodical approach rather than a sense of urgency. The documents also mention the need for adaptation to the impacts of climate change and the financial implications of these actions. However, they do not express a need for immediate or urgent action. Instead, they suggest a measured approach, with actions reviewed annually and a mid-life plan review scheduled for 2023-2024."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. For instance, the Urban Forest Plan, which aims to preserve, expand, and manage the city's urban forest, is slated for completion in the 2021-2022 timeframe. Similarly, the investigation of opportunities to encourage sustainability in developments via the planning approvals process is scheduled for 2022-2023. The document also mentions a mid-life Climate Change Plan review in 2023-2024, indicating a clear timeline for reassessing and adjusting actions as necessary. These specific timeframes demonstrate a sense of urgency and commitment to taking action on climate change within a defined period."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline various strategies and actions related to climate change, such as developing an Urban Forest Plan, updating the Climate Change Policy, and developing a Sea Level Rise Policy. However, these actions are presented as part of a comprehensive plan, not as a prioritized response to a climate emergency. The documents also mention the financial implications of climate change and the need for proactive steps to adapt to these changes. However, this is not framed as a prioritization over other policies, but rather as a necessary response to the increasing severity of climate change impacts."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the Climate Change Plan 2021-2026 outlines a comprehensive approach to addressing climate change, including mitigation and adaptation actions, it does not mandate that all council activities align with this policy. The plan does indicate that climate change impacts are considered and addressed through the City\u2019s strategic framework and operations, and it aims to support the community to better understand and adapt to the impacts of climate change. However, this does not equate to a requirement for all council activities to align with the climate policy. The documents also mention the development and review of various strategies and policies related to climate change, but these are specific actions rather than a blanket requirement for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does explicitly allocate funding for climate action. The plan outlines a variety of actions, each assigned to specific positions or teams, and these actions are reviewed annually against their relevant measure of success. The plan also mentions that all direct actions outlined are considered achievable within the City\u2019s existing budgets. Furthermore, the plan discusses the development of a more formal framework for the existing Revolving Energy Fund, which is intended to establish a clearer process for the calculation of energy costs saved with the implementation of energy efficiency and renewable energy works. This suggests that there is a dedicated fund for climate action, and that the savings from energy efficiency and renewable energy works are reinvested into further such projects.",
+          "quote": {
+            "content": "All direct actions outlined in this Plan are considered achievable within the City\u2019s existing budgets and, as such, there are no direct financial implications resulting from the implementation of this Plan.",
+            "page": 2,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines a variety of actions, each assigned to specific positions or teams within the local government. For instance, the development and adoption of an Urban Forest Plan is assigned to the Senior Environmental Planner, Landscape Architects, and Coordinator Technical Operations. Similarly, the investigation of opportunities to encourage sustainability in developments is assigned to the Sustainability Officer and Planning Services. The plan also mentions the annual review of the progress of each action against its relevant measure of success. This indicates a clear allocation of staff time and effort towards the implementation of the plan. Furthermore, the plan includes the development of a system for recording City resources utilised in response to climate change related events, indicating a commitment to monitoring and managing non-monetary institutional resources.",
+          "quote": {
+            "content": "The progress of each action will be reviewed annually against its relevant measure of success and considered in the context of the priorities of the organisation and community at the time.",
+            "page": 18,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines several initiatives aimed at raising awareness and educating the community about the impacts of climate change. For instance, the policy mentions the implementation of a seven-week sustainable living course, which has seen positive feedback and tangible lifestyle changes among participants. The policy also includes plans to develop and implement an annual communications plan to promote the city's climate change-related work and achievements. Furthermore, the policy encourages community involvement in citizen science and education initiatives to raise awareness of the effects of climate change locally. These initiatives are designed to connect community members with activities that assist in adapting to the effects of climate change. Therefore, the policy does actively empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Investigate options for including the community in citizen science and education initiatives to raise awareness of the effects of climate change locally and connect community members with activities that assist in adapting to the effects of climate change.",
+            "page": 15,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to reduce emissions. Technological solutions include increasing the energy efficiency of city facilities and public lighting, and installing renewable energy generation systems on facilities where feasible. The plan also includes actions to encourage behavioural change, such as supporting the community to better understand, prepare for, and adapt to the impacts of climate change. The plan also sets a specific target to reduce carbon dioxide equivalent emissions generated by the city's operations by 5% per capita of resident population below 2019-2020 levels by 2024-2025. The plan's actions are grouped into key categories including energy generation and efficiency, vehicles, monitoring and review, trees and green cover, and policy development and review.",
+          "quote": {
+            "content": "Installing renewable energy generation systems on facilities where an acceptable payback period can be demonstrated and budget is available. The City of Kwinana aims to minimise its greenhouse gas emissions as much as practicable. This will be achieved through a number of approaches, including: Increasing the energy efficiency of City facilities and public lighting.",
+            "page": 8,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. The adaptation actions are designed to assist the city and its community to anticipate and adapt to the progressive impacts of climate change. Specific actions include the development of an Urban Forest Plan, a Sea Level Rise Policy, and a review of the Public Health Plan to consider the increasing effects of climate change on vulnerable community members. Each action is assigned to a responsible team, has a timeframe for completion, and addresses specific climate change effects and localised consequences. This level of detail suggests a high degree of planning and commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "Adaptation actions will assist the City and its community to anticipate and adapt to the progressive impacts of climate change. The Plan contains a set of implementation actions, grouped into three categories: Mitigation actions will assist with the reduction of the City\u2019s corporate greenhouse gas emissions.",
+            "page": 3,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a variety of actions and strategies to address climate change, such as developing an Energy Sustainability Plan, reviewing asset deterioration rates, and monitoring human resourcing demands resulting from climate change impacts, it does not provide specific, well-sourced evidence to justify these actions. The policy does mention that the City's greenhouse emissions data will be calculated annually and used to track progress towards its emissions reduction target, but it does not provide details on what this target is or how it was determined. Furthermore, the policy states that all direct actions outlined in the plan are considered achievable within the City's existing budgets, but it does not provide a detailed budget or financial plan to support this claim."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Change Plan 2021-2026 by the City of Kwinana does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each assigned to specific positions or teams, and the progress of each action will be reviewed annually against its relevant measure of success. For instance, the plan includes actions such as developing an Urban Forest Plan, investigating opportunities to encourage sustainability in developments, and continuing to deliver an annual sustainable living course. Each of these actions has a 'measure of success' associated with it, indicating that the plan has specific criteria for evaluating the success of its actions. Furthermore, the City's greenhouse emissions data is calculated annually and will be used to demonstrate how the City is tracking toward its new corporate emissions reduction target. This target will be reviewed at the time of the mid-life Plan review to ensure it remains realistic and achievable.",
+          "quote": {
+            "content": "The City\u2019s greenhouse emissions data is calculated annually, and this data will be used to demonstrate how the City is tracking toward its new corporate emissions reduction target.",
+            "page": 18,
+            "source": "Kwinana-WA-228.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The City of Kwinana's Climate Change Plan 2021-2026 outlines a variety of actions aimed at understanding and addressing the impacts of climate change. These actions include investigating options for community involvement in citizen science and education initiatives to raise awareness of the effects of climate change locally. This suggests a plan to gather data from the community, which could inform future climate actions. Additionally, the plan includes the development of a centralised system for recording City resources utilised in response to climate change-related events. This system will be used to monitor the ongoing impact of these events on the financial cost of the diversion of staff and other resources, which could also inform future planning and resource allocation for climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the Climate Change Plan 2021-2026 outlines a variety of actions and strategies to address climate change, including mitigation and adaptation actions, there is no explicit mention of initiatives designed to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The actions outlined in the plan are broad and strategic, such as developing an Urban Forest Plan, investigating opportunities to encourage sustainability in developments, and developing a system for recording resources used in response to climate change events. However, these actions do not clearly fit the definition of policy experimentation as they do not explicitly involve testing or piloting new approaches under real-world conditions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes a variety of actions to reduce greenhouse gas emissions and adapt to local climate change-related impacts. These actions are grouped into categories such as energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, none of these actions or categories explicitly mention advocating to higher levels of government for climate action. The documents focus on the City's own strategies and actions, rather than advocacy efforts."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes various strategies and actions to mitigate and adapt to climate change. These actions are grouped into categories such as energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, these actions are primarily focused on the City's own operations and community, with no explicit mention of building capacity with neighbouring local councils. Therefore, based on the provided documents, the local government policy does not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy outlines various actions and strategies to address climate change, including energy generation and efficiency, vehicles, monitoring and review, trees and green cover, sustainability and environmental education, policy development and review, development and construction, coastal impacts, water sustainability, community and staff health, and urban heat. However, these actions and strategies are to be implemented by the local government and its departments, and there is no mention of coordination or collaboration with external entities such as regional associations or alliances. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents outline the City of Kwinana's Climate Change Plan 2021-2026, which includes strategies for energy generation and efficiency, policy development and review, community and staff health, and other areas. The plan also discusses the need for adaptation to climate change and the financial risks of a business-as-usual approach. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address equity and social justice in relation to climate change impacts."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to address climate change, including education initiatives, communication plans, and policy updates. These actions aim to raise awareness of climate change effects, promote the city's climate change-related work, and align policies with climate change plans. However, they do not specifically address the equitable distribution of climate benefits and opportunities. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 60.0
+  }
+}

@@ -1,1 +1,262 @@
-{"settings": {"source_files": ["Wellington-VIC-158.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T15:07:19.987202", "lga": "Wellington"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy documents provided do not explicitly state that climate action is the core purpose or goal of the policy. The documents focus on the concept of building resilience in homes, particularly in relation to climate change impacts. They provide guidance on how to make homes more resilient to climate change, such as through passive cooling and design, and discuss the potential impacts of climate change on homes, such as heat stress damage. However, these actions are framed more as responses to climate change, rather than proactive measures to mitigate climate change. Therefore, while the policy is clearly related to climate change, it does not appear that climate action, in the sense of reducing greenhouse gas emissions or mitigating climate change, is the core purpose or goal of the policy."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly articulates the need for action on climate change. It emphasizes the potential risks and impacts of climate change on properties, including more frequent and intense heavy rainfalls causing flooding, harsher bushfires, more days of extreme heat, sea level rise combined with storm surges, and more storms including hailstorms. The document also highlights the financial implications of climate change, citing that property damage caused by extreme weather costs Australians between $900 million and $4 billion a year. It further underscores the importance of making homes more resilient to these climate risks and provides practical information on adaptation options. The document also notes that the existing residential building stock in Gippsland was not designed to meet the climate we are experiencing and expecting in the future, indicating a clear need for action.", "quote": {"content": "In 2013, an Australian parliamentary inquiry heard that property damage caused by extreme weather costs Australians between $900 million and $4 billion a year.", "page": 3, "source": "Wellington-VIC-158.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They primarily focus on providing information about the potential impacts of climate change on properties, particularly in the Gippsland region, and offer advice on how to make homes more resilient to these impacts. The documents mention the risks posed by climate change, such as more frequent and intense heavy rainfalls causing flooding, harsher bushfires, more days of extreme heat, sea level rise combined with storm surges, and more storms including hailstorms. However, they do not express a sense of urgency or call for immediate action to address climate change. Instead, they provide resources for understanding and preparing for the impacts of climate change, and suggest seeking professional advice before making changes to a house to increase its resilience to climate impacts."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate. The documents focus on providing information about the potential impacts of climate change on properties, and advice on how to make homes more resilient to these impacts. They discuss the risks posed by climate change, such as more frequent and intense heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms. They also provide resources for further information and advice on how to protect properties from these risks. However, they do not provide specific timeframes for when these actions should be taken or when the impacts are expected to occur. Therefore, the documents do not meet the high standard of evidence required to answer the question in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on providing information about climate change impacts, particularly in relation to property and housing in the Gippsland region. They discuss the need for resilience and adaptation to climate change, including measures to protect properties from extreme weather events and other climate-related risks. The documents also provide resources for further information about climate change and its impacts. However, they do not make any explicit statements about the prioritisation of climate change responses over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The documents focus on providing information about climate change impacts and adaptation options for property buyers and homeowners in the Wellington Shire. They discuss the need for resilience in the face of climate change, particularly in relation to property and building regulations. They also provide resources for further information about climate change and its potential impacts. However, they do not provide any specific directives or requirements about aligning all council activities with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the importance of building resilience against climate change, provide resources for understanding climate change impacts, and suggest modifications to increase property resilience, they do not mention any specific budget allocation or funding for these actions. The documents primarily serve as a guide for property owners and buyers to understand and mitigate climate risks. They emphasize the need for professional advice and council approval for certain modifications, and they provide resources for further information. However, they do not detail any financial commitments or funding mechanisms from the local government to support these actions."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not provide any explicit evidence of the local government allocating staff or other non-monetary institutional resources to climate action. The documents primarily focus on providing information and guidance to property owners about building resilience against climate change impacts. They suggest seeking professional advice before making modifications to properties and provide resources for further information about climate change and its potential impacts. However, there is no mention of specific staff or institutional resources being allocated to implement or oversee these actions. Therefore, based on the available information, it cannot be confirmed that the local government is mobilising institutional resources for climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents provided do not explicitly mention or provide evidence of 'social mobilisation' in the context of empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on providing information about climate change, its potential impacts, and how individuals can make their homes more resilient to these impacts. They offer resources for further information and suggest questions that property buyers should consider. However, they do not explicitly discuss community mobilisation or collective action. Therefore, based on the provided documents, it cannot be affirmed that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government policy documents provided do not include specific actions for the mitigation of greenhouse gas emissions, neither through technological solutions nor behaviour change. The documents focus primarily on resilience and adaptation to climate change, particularly in relation to housing and property. They discuss the concept of climate resilience, the potential climate risks faced by the Gippsland region, and the importance of making homes more resilient to these risks. They also provide guidance for property buyers and homeowners on how to improve the resilience of their properties. However, they do not outline specific measures to reduce greenhouse gas emissions, which would be necessary for 'restoring a safe climate'. Therefore, based on the provided documents, the policy does not meet the criteria specified in the question."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy emphasizes the importance of understanding climate risks and taking proactive adaptation actions to increase the resilience of properties. It provides guiding questions for property buyers to consider, such as the likely climate impacts now and in the future, the consequences for the property, and the flexibility in the design for further modifications. The policy also encourages property owners to seek professional advice before making changes to their houses. Furthermore, it provides resources for further information about the possible impact of climate on properties. However, the policy could be improved by providing more specific examples of adaptation actions and detailing a clear implementation plan.", "quote": {"content": "Is there flexibility in the design in terms of allowing for further modifications in the future? Guiding questions could include: What are the likely climate impacts, now and in the future, and what are the consequences for your property? Are there win-win/no-regret options, which may offer other co-benefits such as improved efficiency or liveability?", "page": 4, "source": "Wellington-VIC-158.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not contain specific climate targets or actions that the local government plans to implement. The documents primarily focus on providing information to property buyers and homeowners about the potential climate risks in the Wellington Shire and how to make their homes more resilient. The documents also provide resources for further information about climate change and its potential impacts. However, they do not provide any specific targets or actions that the local government is planning to take to address climate change. Therefore, it is not possible to assess whether the document provides well-sourced evidence to justify its climate targets and actions, as no such targets or actions are specified."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. The policy does provide guidance on how to make homes more resilient to climate change, including questions to consider, potential climate impacts, and suggestions for modifications to improve resilience. However, these are general recommendations and do not include specific, measurable criteria or benchmarks for success. The policy also does not outline a process for evaluating whether these actions have been successful in improving resilience. Therefore, while the policy provides useful information for property owners, it lacks the necessary detail to allow for a clear evaluation of its effectiveness."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not describe any plans to conduct research in the local community to inform climate actions. Instead, they focus on providing information to property buyers and homeowners about the potential climate risks and adaptation options. The documents detail the climate risks faced by the Gippsland region, including more frequent and intense heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms. They also provide guidance on how to make homes more resilient to these risks, including seeking professional advice before making changes to a property, checking council planning controls, and considering the potential impacts of modifications on a property's resilience to other climate impacts. However, there is no mention of conducting research in the local community to inform these actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The policy primarily focuses on providing information and guidance to property buyers and homeowners in the Wellington Shire about the potential climate risks and adaptation options. It outlines the various climate risks the Gippsland region faces, such as more frequent and intense heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise combined with storm surges, and more storms including hailstorms. The policy also provides advice on how to make homes more resilient to these climate risks. However, these actions seem to be more reactive and adaptive rather than innovative or experimental. The policy does not mention any new or experimental approaches to climate action, but rather focuses on informing and preparing the community for the impacts of climate change."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The focus of the documents is primarily on providing information to property buyers and homeowners about the risks of climate change and how to make their homes more resilient. The documents mention various resources for further information, including government and non-governmental organisations, statutory authorities, and research institutions. However, these references are made in the context of providing sources of information and advice, rather than as part of an advocacy strategy. The documents do not mention any plans or intentions to lobby or advocate to higher levels of government for support for climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The focus of the documents is primarily on providing information about climate change risks and adaptation options for property buyers and homeowners in the Wellington Shire. The documents detail the climate risks faced by the Gippsland region, provide advice on making homes more resilient to these risks, and offer resources for further information. However, they do not specifically mention the need for coordination, partnerships, or advocacy for action among the council, local communities, and neighbouring councils. Therefore, based on the provided documents, it cannot be affirmed that the policy encourages building local capacity for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate. The focus of the documents is primarily on providing information about climate risks and adaptation options for property buyers and existing homeowners in the Wellington Shire. The documents detail the climate risks faced by the Gippsland region, provide resources for further information about the impact of climate on properties, and offer guidance on how to make homes more resilient to climate change. However, they do not mention any specific partnerships or collaborations with other organizations or entities in relation to climate action."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The focus of the documents is primarily on the physical impacts of climate change, such as increased frequency and intensity of heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms including hailstorms. The documents also provide information on how to make homes more resilient to these impacts and encourage property buyers and owners to inform themselves of potential climate risks. However, there is no specific mention or discussion of how these climate change impacts might disproportionately affect vulnerable communities, or any measures to address such disparities in the context of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on providing information about climate change risks and adaptation options for property buyers and homeowners in the Wellington Shire. They discuss the importance of building resilience to climate change impacts, including the benefits of resilient homes and the potential climate risks that the region faces. However, they do not delve into the distribution of these benefits and opportunities in an equitable manner or address social justice issues related to climate change. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 2, "num_questions": 20, "attribute_score": 15.0}}
+{
+  "settings": {
+    "source_files": [
+      "Wellington-VIC-158.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T15:07:19.987202",
+    "lga": "Wellington"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly state that climate action is the core purpose or goal of the policy. The documents focus on the concept of building resilience in homes, particularly in relation to climate change impacts. They provide guidance on how to make homes more resilient to climate change, such as through passive cooling and design, and discuss the potential impacts of climate change on homes, such as heat stress damage. However, these actions are framed more as responses to climate change, rather than proactive measures to mitigate climate change. Therefore, while the policy is clearly related to climate change, it does not appear that climate action, in the sense of reducing greenhouse gas emissions or mitigating climate change, is the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly articulates the need for action on climate change. It emphasizes the potential risks and impacts of climate change on properties, including more frequent and intense heavy rainfalls causing flooding, harsher bushfires, more days of extreme heat, sea level rise combined with storm surges, and more storms including hailstorms. The document also highlights the financial implications of climate change, citing that property damage caused by extreme weather costs Australians between $900 million and $4 billion a year. It further underscores the importance of making homes more resilient to these climate risks and provides practical information on adaptation options. The document also notes that the existing residential building stock in Gippsland was not designed to meet the climate we are experiencing and expecting in the future, indicating a clear need for action.",
+          "quote": {
+            "content": "In 2013, an Australian parliamentary inquiry heard that property damage caused by extreme weather costs Australians between $900 million and $4 billion a year.",
+            "page": 3,
+            "source": "Wellington-VIC-158.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They primarily focus on providing information about the potential impacts of climate change on properties, particularly in the Gippsland region, and offer advice on how to make homes more resilient to these impacts. The documents mention the risks posed by climate change, such as more frequent and intense heavy rainfalls causing flooding, harsher bushfires, more days of extreme heat, sea level rise combined with storm surges, and more storms including hailstorms. However, they do not express a sense of urgency or call for immediate action to address climate change. Instead, they provide resources for understanding and preparing for the impacts of climate change, and suggest seeking professional advice before making changes to a house to increase its resilience to climate impacts."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate. The documents focus on providing information about the potential impacts of climate change on properties, and advice on how to make homes more resilient to these impacts. They discuss the risks posed by climate change, such as more frequent and intense heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms. They also provide resources for further information and advice on how to protect properties from these risks. However, they do not provide specific timeframes for when these actions should be taken or when the impacts are expected to occur. Therefore, the documents do not meet the high standard of evidence required to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on providing information about climate change impacts, particularly in relation to property and housing in the Gippsland region. They discuss the need for resilience and adaptation to climate change, including measures to protect properties from extreme weather events and other climate-related risks. The documents also provide resources for further information about climate change and its impacts. However, they do not make any explicit statements about the prioritisation of climate change responses over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The documents focus on providing information about climate change impacts and adaptation options for property buyers and homeowners in the Wellington Shire. They discuss the need for resilience in the face of climate change, particularly in relation to property and building regulations. They also provide resources for further information about climate change and its potential impacts. However, they do not provide any specific directives or requirements about aligning all council activities with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the importance of building resilience against climate change, provide resources for understanding climate change impacts, and suggest modifications to increase property resilience, they do not mention any specific budget allocation or funding for these actions. The documents primarily serve as a guide for property owners and buyers to understand and mitigate climate risks. They emphasize the need for professional advice and council approval for certain modifications, and they provide resources for further information. However, they do not detail any financial commitments or funding mechanisms from the local government to support these actions."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide any explicit evidence of the local government allocating staff or other non-monetary institutional resources to climate action. The documents primarily focus on providing information and guidance to property owners about building resilience against climate change impacts. They suggest seeking professional advice before making modifications to properties and provide resources for further information about climate change and its potential impacts. However, there is no mention of specific staff or institutional resources being allocated to implement or oversee these actions. Therefore, based on the available information, it cannot be confirmed that the local government is mobilising institutional resources for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly mention or provide evidence of 'social mobilisation' in the context of empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on providing information about climate change, its potential impacts, and how individuals can make their homes more resilient to these impacts. They offer resources for further information and suggest questions that property buyers should consider. However, they do not explicitly discuss community mobilisation or collective action. Therefore, based on the provided documents, it cannot be affirmed that the policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy documents provided do not include specific actions for the mitigation of greenhouse gas emissions, neither through technological solutions nor behaviour change. The documents focus primarily on resilience and adaptation to climate change, particularly in relation to housing and property. They discuss the concept of climate resilience, the potential climate risks faced by the Gippsland region, and the importance of making homes more resilient to these risks. They also provide guidance for property buyers and homeowners on how to improve the resilience of their properties. However, they do not outline specific measures to reduce greenhouse gas emissions, which would be necessary for 'restoring a safe climate'. Therefore, based on the provided documents, the policy does not meet the criteria specified in the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy emphasizes the importance of understanding climate risks and taking proactive adaptation actions to increase the resilience of properties. It provides guiding questions for property buyers to consider, such as the likely climate impacts now and in the future, the consequences for the property, and the flexibility in the design for further modifications. The policy also encourages property owners to seek professional advice before making changes to their houses. Furthermore, it provides resources for further information about the possible impact of climate on properties. However, the policy could be improved by providing more specific examples of adaptation actions and detailing a clear implementation plan.",
+          "quote": {
+            "content": "Is there flexibility in the design in terms of allowing for further modifications in the future? Guiding questions could include: What are the likely climate impacts, now and in the future, and what are the consequences for your property? Are there win-win/no-regret options, which may offer other co-benefits such as improved efficiency or liveability?",
+            "page": 4,
+            "source": "Wellington-VIC-158.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not contain specific climate targets or actions that the local government plans to implement. The documents primarily focus on providing information to property buyers and homeowners about the potential climate risks in the Wellington Shire and how to make their homes more resilient. The documents also provide resources for further information about climate change and its potential impacts. However, they do not provide any specific targets or actions that the local government is planning to take to address climate change. Therefore, it is not possible to assess whether the document provides well-sourced evidence to justify its climate targets and actions, as no such targets or actions are specified."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. The policy does provide guidance on how to make homes more resilient to climate change, including questions to consider, potential climate impacts, and suggestions for modifications to improve resilience. However, these are general recommendations and do not include specific, measurable criteria or benchmarks for success. The policy also does not outline a process for evaluating whether these actions have been successful in improving resilience. Therefore, while the policy provides useful information for property owners, it lacks the necessary detail to allow for a clear evaluation of its effectiveness."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not describe any plans to conduct research in the local community to inform climate actions. Instead, they focus on providing information to property buyers and homeowners about the potential climate risks and adaptation options. The documents detail the climate risks faced by the Gippsland region, including more frequent and intense heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms. They also provide guidance on how to make homes more resilient to these risks, including seeking professional advice before making changes to a property, checking council planning controls, and considering the potential impacts of modifications on a property's resilience to other climate impacts. However, there is no mention of conducting research in the local community to inform these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action. They primarily focus on providing information about climate change, its potential impacts, and how homeowners can adapt their properties to be more resilient. The documents discuss the need for homeowners to inform themselves about potential climate risks and actions to improve resilience, and they provide resources for further information. However, they do not mention any initiatives to test technologies, policies, or governance approaches on a small scale and under real-world conditions. Therefore, based on the provided documents, it cannot be concluded that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The focus of the documents is primarily on providing information to property buyers and homeowners about the risks of climate change and how to make their homes more resilient. The documents mention various resources for further information, including government and non-governmental organisations, statutory authorities, and research institutions. However, these references are made in the context of providing sources of information and advice, rather than as part of an advocacy strategy. The documents do not mention any plans or intentions to lobby or advocate to higher levels of government for support for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The focus of the documents is primarily on providing information about climate change risks and adaptation options for property buyers and homeowners in the Wellington Shire. The documents detail the climate risks faced by the Gippsland region, provide advice on making homes more resilient to these risks, and offer resources for further information. However, they do not specifically mention the need for coordination, partnerships, or advocacy for action among the council, local communities, and neighbouring councils. Therefore, based on the provided documents, it cannot be affirmed that the policy encourages building local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate. The focus of the documents is primarily on providing information about climate risks and adaptation options for property buyers and existing homeowners in the Wellington Shire. The documents detail the climate risks faced by the Gippsland region, provide resources for further information about the impact of climate on properties, and offer guidance on how to make homes more resilient to climate change. However, they do not mention any specific partnerships or collaborations with other organizations or entities in relation to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The focus of the documents is primarily on the physical impacts of climate change, such as increased frequency and intensity of heavy rainfalls, harsher bushfires, more days of extreme heat, sea level rise, and more storms including hailstorms. The documents also provide information on how to make homes more resilient to these impacts and encourage property buyers and owners to inform themselves of potential climate risks. However, there is no specific mention or discussion of how these climate change impacts might disproportionately affect vulnerable communities, or any measures to address such disparities in the context of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on providing information about climate change risks and adaptation options for property buyers and homeowners in the Wellington Shire. They discuss the importance of building resilience to climate change impacts, including the benefits of resilient homes and the potential climate risks that the region faces. However, they do not delve into the distribution of these benefits and opportunities in an equitable manner or address social justice issues related to climate change. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 2,
+    "num_questions": 20,
+    "attribute_score": 15.0
+  }
+}

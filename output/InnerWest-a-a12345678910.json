@@ -1,1 +1,310 @@
-{"settings": {"source_files": ["InnerWest-NSW-27.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T20:24:32.876269", "lga": "InnerWest"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy documents clearly indicate that climate action is the core purpose or goal of the policy. The Inner West Council has declared a climate emergency and has committed to accelerating action, resourcing solutions, and placing climate at the centre of decisions. The policy outlines a practical and actionable Climate + Renewables Strategy that focuses on mitigating climate change. The strategy includes embedding climate action in Council systems and processes, rapidly increasing solar and renewable energy generation, switching to a renewable powered fleet, fostering zero emissions mobility solutions, supporting low carbon development, and more. The policy also includes a commitment to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. The policy's purpose is clearly centered on climate action.", "quote": {"content": "There is much to do for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025. The climate emergency requires radically adjusted deadlines and far reaching changes.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, referring to it as a 'climate emergency' and noting that the 'window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing.' The documents also provide specific targets for emissions reduction, aiming for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025, and targeting a 75% reduction in community emissions by 2036. The documents further outline the tools and strategies that will be used to achieve these targets, such as integrating climate action into council systems and processes, increasing solar and renewable energy generation, and fostering zero emissions mobility solutions.", "quote": {"content": "The window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing. The release of Greenhouse Gases (GHG) into the atmosphere by human activities, mostly burning fossil fuels for energy, is heating the planet.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents clearly call for rapid and urgent action on climate change. The Inner West Council has declared a climate emergency, indicating the urgency of the situation. The documents highlight the need for 'radically adjusted deadlines' and 'far-reaching changes' to address the climate emergency. The council has set ambitious targets, such as becoming a carbon-neutral council powered by 100% renewable energy by 2025 and targeting a 75% reduction in community emissions by 2036. The documents also mention that the 'window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing.' This language underscores the urgency of the situation and the need for immediate action.", "quote": {"content": "The climate emergency requires radically adjusted deadlines and far reaching changes. The window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing. By 2030 global emissions need to be cut by 45% on 2010 levels to limit global heating exceeding 1.5\u00b0C.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Inner West Council has declared a climate emergency and has outlined a Climate+ Renewables Strategy to address this. The strategy includes specific targets and deadlines. By 2025, the council aims to become carbon neutral and powered by 100% renewable energy. The strategy also targets a 75% reduction in community emissions by 2036 and zero emissions before 2050. The council has committed to annual reviews of its corporate carbon inventory to measure progress towards the 2025 targets. Total community carbon emissions will be reviewed every four years. These specific timeframes indicate a sense of urgency in the council's climate action plans.", "quote": {"content": "There is much to do for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025. By 2030 global emissions need to be cut by 45% on 2010 levels to limit global heating exceeding 1.5\u00b0C. The climate emergency requires radically adjusted deadlines and far reaching changes.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": true, "answer": "The documents clearly indicate that the local government has prioritized climate change response over other policies. The Inner West Council has declared a climate emergency and has committed to urgent action. The Climate+ Renewables Strategy document outlines the council's commitment to integrating climate change action into senior manager performance plans, corporate documents, and staff inductions. It also mentions the establishment of the Inner West Office of Renewable Energy Innovation and the commitment to increasing solar and renewable energy generation, among other actions. The council's commitment to placing climate at the centre of decisions is also evident. Therefore, it can be concluded that the council has prioritized climate emergency response over other policies.", "quote": {"content": "Recognising the urgency, Inner West Council has committed to accelerating action, resourcing solutions and placing climate at the centre of decisions.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 0.99}}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents provide clear evidence that the Inner West Council is committed to aligning all its activities with its climate policy. The council's Climate + Renewables Strategy is integrated across various corporate documents, including the Delivery Plan, Operational Plan, and Group Business Plans. This integration is also reflected in individual work plans and performance reviews. The council has committed to embedding climate action in its systems and processes, including CEO and senior staff performance reviews. The council also plans to embed energy management across all council areas, which includes providing staff with support for energy savings through information, engagement, consumption monitoring, and reporting. This comprehensive integration of climate action into the council's activities and processes demonstrates a clear alignment with its climate policy."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the Climate+ Renewables Strategy Plan outlines various strategies and actions to address climate change, including the integration of climate change action into senior manager performance plans, the establishment of an Office of Renewable Energy Innovation, and the increase of environmental performance standards in Inner West Council planning controls, there is no specific mention of financial resources being allocated to these initiatives. The documents mention a Long Term Financial Plan under the Resourcing Strategy, but they do not provide details about what this plan entails or whether it includes funding for climate action. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's Climate+ Renewables Strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines that climate change action will be included in senior manager performance plans, and objectives, strategies, and actions will be integrated across corporate documents. This includes the Delivery Plan, Operational Plan, and Group Business Plans, and will be reflected in individual work plans and performance reviews. The policy also mentions the establishment of an Office of Renewable Energy Innovation, which implies the allocation of staff resources. Furthermore, the policy commits to communicating the organisational priority of the Climate + Renewables Strategy at Council staff induction, indicating a commitment to institutional resource mobilisation for climate action.", "quote": {"content": "In order to embed action on emissions reduction and climate change the Inner West Council will commit to: Climate change action included in senior manager performance plans.", "page": 40, "source": "InnerWest-NSW-27.pdf", "search_score": 0.91}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed provide evidence of active efforts to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at social mobilisation. For instance, it mentions the implementation of low-carbon information/media campaigns via social media, events, and programs. It also talks about delivering Green Living Centre and sustainability support programs and projects with local groups, schools, businesses, networks, community gardens, and community members. Furthermore, the policy outlines practical support for residents and community groups through annual Environment Grants, Community Leaders in Sustainability Course, and other initiatives. These actions indicate a clear intent to engage the community in climate action and to provide them with the necessary tools and knowledge to contribute effectively.", "quote": {"content": "Deliver Green Living Centre and sustainability support programs and projects with local groups, schools, businesses, networks, community gardens and community members. Support Inner West people to live low-carbon lifestyles. Implement low-carbon information/media campaigns via social media, events and programs.", "page": 33, "source": "InnerWest-NSW-27.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Climate+ Renewables Strategy does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the use of best practice methods to quantify emissions, increasing solar and renewable energy generation, and switching to a renewable powered fleet. The plan also includes the establishment of the Inner West Office of Renewable Energy Innovation, which suggests a commitment to exploring and implementing new technological solutions. Behaviour change is addressed through the integration of climate change action into senior manager performance plans, staff inductions, and performance reviews. The plan also outlines a pathway targeting a 75% reduction in community emissions by 2036 and zero emissions before 2050, demonstrating a clear commitment to mitigating greenhouse gas emissions.", "quote": {"content": "The tools we will use include: Embedding climate action in Council systems and processes including CEO and senior staff performance review.", "page": 4, "source": "InnerWest-NSW-27.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of 'adapting to a changing climate'. The documents primarily focus on climate change mitigation strategies, such as reducing emissions, increasing renewable energy use, and improving energy efficiency. They outline plans for integrating climate change action into various aspects of the local government's operations, including senior manager performance plans, corporate documents, and staff induction. They also mention the establishment of an Office of Renewable Energy Innovation and the implementation of an energy-efficiency capital works program. However, these actions are aimed at mitigating climate change rather than adapting to its effects. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide evidence of a well-researched and comprehensive approach to climate action planning. The Inner West Council has used best practice methods to quantify emissions, conducted thorough research to identify opportunities for change, and engaged with a wide range of experts and community members. The Council has also committed to integrating climate action into its systems and processes, including senior staff performance reviews, and to establishing the Inner West Office of Renewable Energy Innovation. The Council's Climate + Renewables Strategy is aligned with the Our Inner West 2036 Community Strategic Plan and will be reviewed annually. The Council will also complete a corporate carbon inventory annually to measure progress towards its targets. These actions suggest a robust and well-planned approach to achieving its climate targets.", "quote": {"content": "Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable.", "page": 40, "source": "InnerWest-NSW-27.pdf", "search_score": 0.96}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that the Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. Additionally, total community carbon emissions (the community carbon inventory) will be completed every four years and the following trends measured annually: Installed solar capacity in the Inner West, Solar installations through Our Energy Future program, and more residents who can't install solar have access to other options for renewables. These specific, measurable criteria provide a clear framework for evaluating the success of the plan's actions.", "quote": {"content": "Solar installations through Our Energy Future program. Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. Total community carbon emissions (the community carbon inventory) will be completed every four years and the following trends measured annually: Installed solar capacity in the Inner West.", "page": 39, "source": "InnerWest-NSW-27.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate+ Renewables Strategy outlines a comprehensive approach to addressing climate change, which includes conducting thorough research. This research involves analyzing greenhouse gas emissions from the Inner West community and from Council operations to identify opportunities for change. The strategy also includes engaging with various stakeholders, including local experts and academics, to identify the most effective actions for the Council to lead. The Council also plans to measure progress towards their 2025 targets of being carbon neutral and 100% renewable by completing an annual corporate carbon inventory. Additionally, total community carbon emissions will be measured every four years. These measures indicate a commitment to informed action based on research and data."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The Inner West Council's Climate and Renewables Strategy Plan outlines a comprehensive approach to addressing climate change, including innovative measures such as the establishment of an Office of Renewable Energy Innovation. This office is tasked with implementing a range of initiatives, including Solar My School, developing an Inner West Solar Garden, and promoting the installation of solar on commercial and industrial sites through local business networks and Sustainable Business Consultations. The plan also includes policy experimentation, such as seeking expressions of interest and engaging community/private sector organisations to pilot innovative business and policy models that rapidly increase renewable energy uptake. These actions demonstrate a commitment to innovative and experimental approaches to climate action."}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the Inner West Council's Climate+ Renewables Strategy outlines a comprehensive plan for emissions reduction and climate change action, it primarily focuses on internal measures and community engagement. The documents mention the integration of climate change action into various operational and strategic plans, the use of best practice methods to quantify emissions, and the engagement with various experts and community members. However, these actions seem to be directed towards local implementation and do not explicitly indicate an intent to advocate for climate action at the state or national level. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the Inner West Council's Climate and Renewables Strategy, including various actions and measures to mitigate climate change, there is no specific mention of building local capacity across different stakeholders for climate action. The documents do mention engaging with a range of experts and community members, integrating climate action into council systems and processes, and working with state agencies, private sector, and the community. However, these actions do not necessarily equate to building local capacity, and there is no explicit mention of involving neighbouring local councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has been engaging with a range of experts and community members to learn about opportunities related to climate change. These include organizations such as the Australian Youth Climate Coalition, Climate Change Balmain Rozelle, Climate Council Cities Power Partnership, and the Green Building Council of Australia. The document also mentions the Inner West Council Environmental Advisory Group and the Department of Planning and Environment, NSW Government. These partnerships and associations are crucial in the local government's strategy to address climate change, as they provide expertise, resources, and support. The document also mentions the establishment of an Office of Renewable Energy Innovation, which will work with community energy groups and other organizations to increase renewable energy uptake."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's strategies and actions to mitigate climate change, such as reducing greenhouse gas emissions, increasing renewable energy generation, and fostering zero emissions mobility solutions. They detail the council's commitment to becoming a carbon-neutral council powered by 100% renewable energy by 2025 and targeting a 75% reduction in community emissions by 2036. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address equity and social justice in relation to climate change impacts."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy outlines various strategies for reducing emissions and promoting renewable energy, it does not specifically address the distribution of these benefits in an equitable manner. The policy does mention engaging with the community and various organizations, conducting research, and planning for physical spaces to support sharing. However, these actions are not directly linked to the equitable sharing of benefits and opportunities of a safe climate. Therefore, based on the provided documents, the policy does not explicitly discuss equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 68.3}}
+{
+  "settings": {
+    "source_files": [
+      "InnerWest-NSW-27.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T20:24:32.876269",
+    "lga": "InnerWest"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is the core purpose or goal of the policy. The Inner West Council has declared a climate emergency and has committed to accelerating action, resourcing solutions, and placing climate at the centre of decisions. The policy outlines a practical and actionable Climate + Renewables Strategy that focuses on mitigating climate change. The strategy includes embedding climate action in Council systems and processes, rapidly increasing solar and renewable energy generation, switching to a renewable powered fleet, fostering zero emissions mobility solutions, supporting low carbon development, and more. The policy also includes a commitment to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. The policy's purpose is clearly centered on climate action.",
+          "quote": {
+            "content": "There is much to do for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025. The climate emergency requires radically adjusted deadlines and far reaching changes.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, referring to it as a 'climate emergency' and noting that the 'window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing.' The documents also provide specific targets for emissions reduction, aiming for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025, and targeting a 75% reduction in community emissions by 2036. The documents further outline the tools and strategies that will be used to achieve these targets, such as integrating climate action into council systems and processes, increasing solar and renewable energy generation, and fostering zero emissions mobility solutions.",
+          "quote": {
+            "content": "The window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing. The release of Greenhouse Gases (GHG) into the atmosphere by human activities, mostly burning fossil fuels for energy, is heating the planet.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly call for rapid and urgent action on climate change. The Inner West Council has declared a climate emergency, indicating the urgency of the situation. The documents highlight the need for 'radically adjusted deadlines' and 'far-reaching changes' to address the climate emergency. The council has set ambitious targets, such as becoming a carbon-neutral council powered by 100% renewable energy by 2025 and targeting a 75% reduction in community emissions by 2036. The documents also mention that the 'window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing.' This language underscores the urgency of the situation and the need for immediate action.",
+          "quote": {
+            "content": "The climate emergency requires radically adjusted deadlines and far reaching changes. The window of opportunity to de-carbonise before the most serious consequences of climate change are realised is rapidly closing. By 2030 global emissions need to be cut by 45% on 2010 levels to limit global heating exceeding 1.5\u00b0C.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Inner West Council has declared a climate emergency and has outlined a Climate+ Renewables Strategy to address this. The strategy includes specific targets and deadlines. By 2025, the council aims to become carbon neutral and powered by 100% renewable energy. The strategy also targets a 75% reduction in community emissions by 2036 and zero emissions before 2050. The council has committed to annual reviews of its corporate carbon inventory to measure progress towards the 2025 targets. Total community carbon emissions will be reviewed every four years. These specific timeframes indicate a sense of urgency in the council's climate action plans.",
+          "quote": {
+            "content": "There is much to do for the Inner West to become a carbon neutral council powered by 100% renewable energy by 2025. By 2030 global emissions need to be cut by 45% on 2010 levels to limit global heating exceeding 1.5\u00b0C. The climate emergency requires radically adjusted deadlines and far reaching changes.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government has prioritized climate change response over other policies. The Inner West Council has declared a climate emergency and has committed to urgent action. The Climate+ Renewables Strategy document outlines the council's commitment to integrating climate change action into senior manager performance plans, corporate documents, and staff inductions. It also mentions the establishment of the Inner West Office of Renewable Energy Innovation and the commitment to increasing solar and renewable energy generation, among other actions. The council's commitment to placing climate at the centre of decisions is also evident. Therefore, it can be concluded that the council has prioritized climate emergency response over other policies.",
+          "quote": {
+            "content": "Recognising the urgency, Inner West Council has committed to accelerating action, resourcing solutions and placing climate at the centre of decisions.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the Inner West Council is committed to aligning all its activities with its climate policy. The council's Climate + Renewables Strategy is integrated across various corporate documents, including the Delivery Plan, Operational Plan, and Group Business Plans. This integration is also reflected in individual work plans and performance reviews. The council has committed to embedding climate action in its systems and processes, including CEO and senior staff performance reviews. The council also plans to embed energy management across all council areas, which includes providing staff with support for energy savings through information, engagement, consumption monitoring, and reporting. This comprehensive integration of climate action into the council's activities and processes demonstrates a clear alignment with its climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the Climate+ Renewables Strategy Plan outlines various strategies and actions to address climate change, including the integration of climate change action into senior manager performance plans, the establishment of an Office of Renewable Energy Innovation, and the increase of environmental performance standards in Inner West Council planning controls, there is no specific mention of financial resources being allocated to these initiatives. The documents mention a Long Term Financial Plan under the Resourcing Strategy, but they do not provide details about what this plan entails or whether it includes funding for climate action. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's Climate+ Renewables Strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines that climate change action will be included in senior manager performance plans, and objectives, strategies, and actions will be integrated across corporate documents. This includes the Delivery Plan, Operational Plan, and Group Business Plans, and will be reflected in individual work plans and performance reviews. The policy also mentions the establishment of an Office of Renewable Energy Innovation, which implies the allocation of staff resources. Furthermore, the policy commits to communicating the organisational priority of the Climate + Renewables Strategy at Council staff induction, indicating a commitment to institutional resource mobilisation for climate action.",
+          "quote": {
+            "content": "In order to embed action on emissions reduction and climate change the Inner West Council will commit to: Climate change action included in senior manager performance plans.",
+            "page": 40,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed provide evidence of active efforts to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at social mobilisation. For instance, it mentions the implementation of low-carbon information/media campaigns via social media, events, and programs. It also talks about delivering Green Living Centre and sustainability support programs and projects with local groups, schools, businesses, networks, community gardens, and community members. Furthermore, the policy outlines practical support for residents and community groups through annual Environment Grants, Community Leaders in Sustainability Course, and other initiatives. These actions indicate a clear intent to engage the community in climate action and to provide them with the necessary tools and knowledge to contribute effectively.",
+          "quote": {
+            "content": "Deliver Green Living Centre and sustainability support programs and projects with local groups, schools, businesses, networks, community gardens and community members. Support Inner West people to live low-carbon lifestyles. Implement low-carbon information/media campaigns via social media, events and programs.",
+            "page": 33,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate+ Renewables Strategy does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the use of best practice methods to quantify emissions, increasing solar and renewable energy generation, and switching to a renewable powered fleet. The plan also includes the establishment of the Inner West Office of Renewable Energy Innovation, which suggests a commitment to exploring and implementing new technological solutions. Behaviour change is addressed through the integration of climate change action into senior manager performance plans, staff inductions, and performance reviews. The plan also outlines a pathway targeting a 75% reduction in community emissions by 2036 and zero emissions before 2050, demonstrating a clear commitment to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "The tools we will use include: Embedding climate action in Council systems and processes including CEO and senior staff performance review.",
+            "page": 4,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of 'adapting to a changing climate'. The documents primarily focus on climate change mitigation strategies, such as reducing emissions, increasing renewable energy use, and improving energy efficiency. They outline plans for integrating climate change action into various aspects of the local government's operations, including senior manager performance plans, corporate documents, and staff induction. They also mention the establishment of an Office of Renewable Energy Innovation and the implementation of an energy-efficiency capital works program. However, these actions are aimed at mitigating climate change rather than adapting to its effects. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide evidence of a well-researched and comprehensive approach to climate action planning. The Inner West Council has used best practice methods to quantify emissions, conducted thorough research to identify opportunities for change, and engaged with a wide range of experts and community members. The Council has also committed to integrating climate action into its systems and processes, including senior staff performance reviews, and to establishing the Inner West Office of Renewable Energy Innovation. The Council's Climate + Renewables Strategy is aligned with the Our Inner West 2036 Community Strategic Plan and will be reviewed annually. The Council will also complete a corporate carbon inventory annually to measure progress towards its targets. These actions suggest a robust and well-planned approach to achieving its climate targets.",
+          "quote": {
+            "content": "Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable.",
+            "page": 40,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that the Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. Additionally, total community carbon emissions (the community carbon inventory) will be completed every four years and the following trends measured annually: Installed solar capacity in the Inner West, Solar installations through Our Energy Future program, and more residents who can't install solar have access to other options for renewables. These specific, measurable criteria provide a clear framework for evaluating the success of the plan's actions.",
+          "quote": {
+            "content": "Solar installations through Our Energy Future program. Council's corporate carbon inventory will be completed annually to measure progress towards the 2025 targets to be carbon neutral and 100% renewable. Total community carbon emissions (the community carbon inventory) will be completed every four years and the following trends measured annually: Installed solar capacity in the Inner West.",
+            "page": 39,
+            "source": "InnerWest-NSW-27.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate+ Renewables Strategy outlines a comprehensive approach to addressing climate change, which includes conducting thorough research. This research involves analyzing greenhouse gas emissions from the Inner West community and from Council operations to identify opportunities for change. The strategy also includes engaging with various stakeholders, including local experts and academics, to identify the most effective actions for the Council to lead. The Council also plans to measure progress towards their 2025 targets of being carbon neutral and 100% renewable by completing an annual corporate carbon inventory. Additionally, total community carbon emissions will be measured every four years. These measures indicate a commitment to informed action based on research and data."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's Climate+ Renewables Strategy outlines several initiatives that can be considered as experiments. These include the establishment of the Inner West Office of Renewable Energy Innovation, which is tasked with implementing Solar My School, developing an Inner West Solar Garden, and seeking expressions of interest to pilot innovative business and policy models that increase renewable energy uptake. These initiatives are designed to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The strategy also includes the annual completion of the Council's corporate carbon inventory to measure progress towards their targets, which can be seen as a form of ongoing experimentation and evaluation."
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the Inner West Council's Climate+ Renewables Strategy outlines a comprehensive plan for emissions reduction and climate change action, it primarily focuses on internal measures and community engagement. The documents mention the integration of climate change action into various operational and strategic plans, the use of best practice methods to quantify emissions, and the engagement with various experts and community members. However, these actions seem to be directed towards local implementation and do not explicitly indicate an intent to advocate for climate action at the state or national level. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the Inner West Council's Climate and Renewables Strategy, including various actions and measures to mitigate climate change, there is no specific mention of building local capacity across different stakeholders for climate action. The documents do mention engaging with a range of experts and community members, integrating climate action into council systems and processes, and working with state agencies, private sector, and the community. However, these actions do not necessarily equate to building local capacity, and there is no explicit mention of involving neighbouring local councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has been engaging with a range of experts and community members to learn about opportunities related to climate change. These include organizations such as the Australian Youth Climate Coalition, Climate Change Balmain Rozelle, Climate Council Cities Power Partnership, and the Green Building Council of Australia. The document also mentions the Inner West Council Environmental Advisory Group and the Department of Planning and Environment, NSW Government. These partnerships and associations are crucial in the local government's strategy to address climate change, as they provide expertise, resources, and support. The document also mentions the establishment of an Office of Renewable Energy Innovation, which will work with community energy groups and other organizations to increase renewable energy uptake."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's strategies and actions to mitigate climate change, such as reducing greenhouse gas emissions, increasing renewable energy generation, and fostering zero emissions mobility solutions. They detail the council's commitment to becoming a carbon-neutral council powered by 100% renewable energy by 2025 and targeting a 75% reduction in community emissions by 2036. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address equity and social justice in relation to climate change impacts."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy outlines various strategies for reducing emissions and promoting renewable energy, it does not specifically address the distribution of these benefits in an equitable manner. The policy does mention engaging with the community and various organizations, conducting research, and planning for physical spaces to support sharing. However, these actions are not directly linked to the equitable sharing of benefits and opportunities of a safe climate. Therefore, based on the provided documents, the policy does not explicitly discuss equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 68.3
+  }
+}

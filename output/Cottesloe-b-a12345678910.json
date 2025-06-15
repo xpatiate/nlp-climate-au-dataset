@@ -1,1 +1,299 @@
-{"settings": {"source_files": ["Cottesloe-WA-245.pdf", "Cottesloe-WA-246.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T17:01:34.133540", "lga": "Cottesloe"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Local Adaptation Action Plan, clearly identifies climate action as its core purpose. The policy's aim is to set out priorities and timelines for the Town of Cottesloe to manage and adapt to the localised impacts from human enhanced climate change. The policy outlines specific adaptation actions, such as incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and undertaking targeted capacity building programs. The policy also includes a commitment to monitoring and reviewing the plan annually to determine progress against the adaptation actions. Furthermore, the policy acknowledges the need for adaptive management, which involves implementing small, flexible, incremental changes based on regular monitoring and revision of plans. This approach is in line with the policy's core purpose of managing and adapting to climate change."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents do explicitly explain the need for action on climate change. They outline a variety of strategies and actions that the local government plans to take in response to the threat of climate change. These include identifying gaps in current decision-making frameworks, developing strategies to incorporate climate change into policy and decision-making processes, and undertaking targeted capacity building programs. The documents also mention the need to review management plans, guidelines, and other decision-making tools to ensure climate change is incorporated into planning and decision-making. Furthermore, the documents highlight the importance of educating and involving the community in climate change and adaptation activities. The documents also mention the need for regular review and monitoring of the implemented actions to ensure their effectiveness and make necessary adjustments.", "quote": {"content": "\u2022 Work to reduce the concentrations of GHGs within the atmosphere and avoid the worst impacts of climate change. Climate change is often referred to as the \u2018greatest ecological, economic and social challenge of our time\u2019. It requires the concerted efforts of countries, communities and individuals around the globe to meet the challenge. The response is two-fold:  \n\u2022 Adapt to the effects of climate change that can no longer be avoided.", "page": 3, "source": "Cottesloe-WA-246.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions to address climate change, including adaptation and mitigation measures, and the incorporation of climate change scenarios into policy and decision-making processes. However, these are presented as planned actions and strategies, rather than urgent calls to action. The documents also discuss the potential impacts of climate change on various sectors, such as the built environment and community health, and the need for risk assessments and adaptation planning. However, these are framed as ongoing or future considerations, rather than immediate, urgent actions. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Local Adaptation Action Plan, for instance, outlines a schedule for various adaptation actions, with specific years indicated for each action. The plan also mentions that it will be monitored annually to track progress against the adaptation actions, and a major review will be undertaken in 2013-2014 to identify future actions that may be needed. This review will coincide with a major review of the Western Suburbs Regional Organisation of Councils Climate Change Risk Assessment and Adaptation Plan (WCCRAAR), and will consider any changes to climate change action at a regional scale. Therefore, the documents do provide specific timeframes for their intended actions on climate change.", "quote": {"content": "A major review will be undertaken in 2013-2014 to identify future action that may be needed.", "page": 4, "source": "Cottesloe-WA-245.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, outline a comprehensive plan for incorporating climate change considerations into various aspects of local government decision-making and policy development. This includes identifying gaps in current decision-making frameworks, developing strategies to incorporate climate change, and reviewing management plans and guidelines to ensure climate change is incorporated into planning and decision-making. The documents also mention the prioritisation of adaptation actions based on criteria such as treating or managing the priority climate change risks and having limited barriers to implementation. However, these actions are not explicitly given higher priority over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council is taking steps to incorporate climate change considerations into its decision-making processes and planning. For instance, the documents mention the development of strategies to incorporate climate change into decision-making frameworks, the review of management plans and guidelines to ensure climate change is incorporated into planning and decision-making, and the updating of planning policies to promote environmental design features. However, these actions do not necessarily imply that all council activities must align with climate policy. The documents also mention the prioritisation of adaptation actions based on criteria such as treating or managing the priority climate change risks and having limited barriers to implementation. However, this does not explicitly state that all council activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline a comprehensive plan for addressing climate change, including strategies for adaptation, mitigation, and community education, there is no clear mention of specific funding allocations for these actions. The documents discuss the need for actions such as updating planning policies, reviewing management plans, and increasing community awareness, but they do not provide details on the financial resources that will be used to implement these actions. The documents also mention potential financial barriers to implementing the plan, but again, there is no explicit mention of how these barriers will be addressed through funding. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions related to climate change adaptation and mitigation, and for each action, it specifies the roles or departments within the local government that are responsible for implementing it. For instance, the CEO, Management, and Sustainability Officer are tasked with reviewing management plans and guidelines to ensure climate change is incorporated into planning and decision-making. The MES, Coast Care Officer, and Sustainability Officer are responsible for reviewing current plans and strategies to incorporate local climate change impacts. The policy also mentions the creation of a community awareness and participation program to disseminate results of the current study, which is to be handled by the Sustainability Officer and Coast Care Officer. This allocation of responsibilities indicates a clear commitment of staff resources to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is taking steps to educate and involve the community in climate action. The policy outlines several initiatives aimed at increasing community awareness and participation. For instance, the policy includes plans to 'educate the community about the increased pressure of providing stabilised dunes and foreshores', 'disseminate climate change information and new knowledge within each member Council', and 'create a community awareness and participation program to disseminate results of the current study'. These actions suggest that the local government is not only informing the community about climate change but also actively involving them in the response. This approach could potentially empower community members and encourage them to work together to address climate change. However, the documents do not provide specific details on how these initiatives will be implemented or how their effectiveness will be measured.", "quote": {"content": "Create a community awareness and participation program to disseminate results of the current study.", "page": 5, "source": "Cottesloe-WA-245.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to become a carbon neutral municipality, which involves reducing greenhouse gas emissions from the Town's operations before using carbon offsets to balance remaining emissions to zero. The plan also sets internal abatement targets to ensure meaningful greenhouse gas reductions occur before the purchase of any carbon offsets. The approach taken is one of least-cost abatement, where projects representing the best value for money in terms of the volume of CO2-e abated will be implemented first. This approach is expected to not only achieve the Town's goal in carbon abatement but also reduce expenditure through improved energy efficiencies. The plan also mentions the introduction of initiatives to encourage the uptake of clean energy technologies and reduce dependence on fossil fuels. However, the plan does not provide specific details on the technological solutions or behaviour changes that will be implemented to achieve these targets.", "quote": {"content": "Achieving zero net emissions not only ensures the Town plays its part in mitigating the worst effects of climate change, it is also an opportunity to provide leadership to the broader community in terms of responding to climate change.", "page": 11, "source": "Cottesloe-WA-246.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Local Adaptation Action Plan of the Town of Cottesloe indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of adaptation actions that are categorized based on their importance and ease of implementation. These actions are designed to address the impacts of climate change on key assets and service delivery areas. The plan also includes a strategy for implementing these actions, which involves removing barriers, taking advantage of opportunities, and actively reducing greenhouse gas emissions. The plan also includes a monitoring and review process to track progress and make necessary adjustments. The plan's approach to adaptation is comprehensive, involving structural, technological, regulatory, and educational measures. It also emphasizes the importance of incorporating climate change scenarios into policy and decision-making processes.", "quote": {"content": "The adaptation actions are ranked in accordance with the classification applied through The Plan lists the adaptation actions (see Table 3 below) that the Town must implement to prepare for the impacts of climate change on key assets and service delivery areas.", "page": 4, "source": "Cottesloe-WA-245.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various strategies and actions to address climate change, such as incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and reviewing management plans to ensure climate change is incorporated, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the implementation of a Risk Treatment Plan and a Local Adaptation Action Plan, but they do not provide detailed information about these plans or evidence to support their effectiveness. Furthermore, the documents do not provide clear climate targets, making it difficult to assess whether the proposed actions are sufficient or appropriate to meet these targets. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the documents do mention the implementation of various actions and strategies to address climate change, such as updating planning policies, promoting environmental design features, and incorporating climate change scenarios into policy and decision-making processes, they do not explicitly state how the success of these actions will be measured. The documents mention reviews and updates of the plan, but these are not tied to specific, measurable outcomes or targets. Therefore, it cannot be definitively stated that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a series of adaptation actions that include research as one of the six approaches to complete the adaptation option. The documents also mention the undertaking of a literature review of the effectiveness of implementing updated frameworks in line with scheduled climate change risk assessments and adaptation planning. This suggests that the local government is committed to conducting research to inform its climate actions. Furthermore, the documents mention the creation of a community awareness and participation program to disseminate results of the current study, indicating that the local government plans to involve the community in its research efforts.", "quote": {"content": "The Town is participating in the regional Climate Change Project Group to oversee implementation of the regional adaptation actions from WCCRAAR (2010).", "page": 3, "source": "Cottesloe-WA-245.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The local government's policy appears to be focused on incorporating climate change scenarios into decision-making processes, revising planning guidelines, and enhancing coastal and estuarine foreshore management. While these actions are important for climate change adaptation, they do not necessarily represent innovative or experimental approaches. The documents mention the development of strategies, the review of existing frameworks, and the incorporation of climate change scenarios into policy and decision-making processes. However, these actions seem to be standard responses to climate change rather than innovative or experimental policies. The documents do not provide specific details about the nature of these strategies or how they differ from traditional approaches to climate change adaptation."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents detail a comprehensive plan for local adaptation to climate change, including strategies for incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and identifying gaps in current decision-making frameworks, they do not explicitly mention advocacy towards state and national governments. The documents focus primarily on internal actions and strategies within the local government and community, such as capacity building programs, management plan reviews, and community awareness campaigns. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that are aimed at strengthening the profile of climate change and capacity building within local government. These include undertaking targeted capacity building programs, reviewing resourcing to address climate change, and incorporating climate change scenarios into policy and decision-making processes. The policy also emphasizes the importance of disseminating climate change information and new knowledge within each member council, which suggests an effort to build capacity and foster collaboration among neighbouring local councils. Furthermore, the policy encourages community involvement in climate change and adaptation activities, indicating an effort to build capacity within local communities as well.", "quote": {"content": "4.", "page": 6, "source": "Cottesloe-WA-245.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The Western Suburbs Regional Organisation of Councils (WESROC) is mentioned as a key regional entity involved in climate change action. WESROC is a regional grouping of councils that includes the Town of Cottesloe, among others. The documents indicate that WESROC has been involved in identifying potential future impacts of climate change in the region, developing a regional plan for action, and reviewing activities undertaken by its member councils to mitigate greenhouse gas emissions. The regional Climate Change Project Group, made up of senior representatives from each of the participating councils, is also mentioned as being responsible for developing a Regional Climate Change Adaptation Action Plan. This indicates a clear commitment to collaborative action and partnership in addressing climate change at a regional level.", "quote": {"content": "\u2022 \nReview activities undertaken by WESROC members to mitigate greenhouse gas \nemissions. The primary objectives of the project were to: \n\u2022 \nIdentify the potential future impacts of climate change in the WESROC region \nand the associated risks to participating councils. \u2022 \nDevelop a regional plan for action.", "page": 1, "source": "Cottesloe-WA-245.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential health impacts of working in higher temperatures and the increased demand for waste collection due to higher temperatures, these are general concerns and not specifically tied to vulnerable communities. The documents also mention the need for community awareness and participation programs, but again, these are not specifically targeted at vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and strategies to mitigate and adapt to the impacts of climate change. These include measures such as updating planning policies, implementing outdoor work programs considering health impacts of higher temperatures, and increasing community awareness about climate change. However, these actions are not framed in terms of equity or social justice, nor do they discuss the distribution of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 59.2}}
+{
+  "settings": {
+    "source_files": [
+      "Cottesloe-WA-245.pdf",
+      "Cottesloe-WA-246.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T17:01:34.133540",
+    "lga": "Cottesloe"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Local Adaptation Action Plan, clearly identifies climate action as its core purpose. The policy's aim is to set out priorities and timelines for the Town of Cottesloe to manage and adapt to the localised impacts from human enhanced climate change. The policy outlines specific adaptation actions, such as incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and undertaking targeted capacity building programs. The policy also includes a commitment to monitoring and reviewing the plan annually to determine progress against the adaptation actions. Furthermore, the policy acknowledges the need for adaptive management, which involves implementing small, flexible, incremental changes based on regular monitoring and revision of plans. This approach is in line with the policy's core purpose of managing and adapting to climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly explain the need for action on climate change. They outline a variety of strategies and actions that the local government plans to take in response to the threat of climate change. These include identifying gaps in current decision-making frameworks, developing strategies to incorporate climate change into policy and decision-making processes, and undertaking targeted capacity building programs. The documents also mention the need to review management plans, guidelines, and other decision-making tools to ensure climate change is incorporated into planning and decision-making. Furthermore, the documents highlight the importance of educating and involving the community in climate change and adaptation activities. The documents also mention the need for regular review and monitoring of the implemented actions to ensure their effectiveness and make necessary adjustments.",
+          "quote": {
+            "content": "\u2022 Work to reduce the concentrations of GHGs within the atmosphere and avoid the worst impacts of climate change. Climate change is often referred to as the \u2018greatest ecological, economic and social challenge of our time\u2019. It requires the concerted efforts of countries, communities and individuals around the globe to meet the challenge. The response is two-fold:  \n\u2022 Adapt to the effects of climate change that can no longer be avoided.",
+            "page": 3,
+            "source": "Cottesloe-WA-246.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline various strategies and actions to address climate change, including adaptation and mitigation measures, and the incorporation of climate change scenarios into policy and decision-making processes. However, these are presented as planned actions and strategies, rather than urgent calls to action. The documents also discuss the potential impacts of climate change on various sectors, such as the built environment and community health, and the need for risk assessments and adaptation planning. However, these are framed as ongoing or future considerations, rather than immediate, urgent actions. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Local Adaptation Action Plan, for instance, outlines a schedule for various adaptation actions, with specific years indicated for each action. The plan also mentions that it will be monitored annually to track progress against the adaptation actions, and a major review will be undertaken in 2013-2014 to identify future actions that may be needed. This review will coincide with a major review of the Western Suburbs Regional Organisation of Councils Climate Change Risk Assessment and Adaptation Plan (WCCRAAR), and will consider any changes to climate change action at a regional scale. Therefore, the documents do provide specific timeframes for their intended actions on climate change.",
+          "quote": {
+            "content": "A major review will be undertaken in 2013-2014 to identify future action that may be needed.",
+            "page": 4,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, outline a comprehensive plan for incorporating climate change considerations into various aspects of local government decision-making and policy development. This includes identifying gaps in current decision-making frameworks, developing strategies to incorporate climate change, and reviewing management plans and guidelines to ensure climate change is incorporated into planning and decision-making. The documents also mention the prioritisation of adaptation actions based on criteria such as treating or managing the priority climate change risks and having limited barriers to implementation. However, these actions are not explicitly given higher priority over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the council is taking steps to incorporate climate change considerations into its decision-making processes and planning. For instance, the documents mention the development of strategies to incorporate climate change into decision-making frameworks, the review of management plans and guidelines to ensure climate change is incorporated into planning and decision-making, and the updating of planning policies to promote environmental design features. However, these actions do not necessarily imply that all council activities must align with climate policy. The documents also mention the prioritisation of adaptation actions based on criteria such as treating or managing the priority climate change risks and having limited barriers to implementation. However, this does not explicitly state that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline a comprehensive plan for addressing climate change, including strategies for adaptation, mitigation, and community education, there is no clear mention of specific funding allocations for these actions. The documents discuss the need for actions such as updating planning policies, reviewing management plans, and increasing community awareness, but they do not provide details on the financial resources that will be used to implement these actions. The documents also mention potential financial barriers to implementing the plan, but again, there is no explicit mention of how these barriers will be addressed through funding. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of actions related to climate change adaptation and mitigation, and for each action, it specifies the roles or departments within the local government that are responsible for implementing it. For instance, the CEO, Management, and Sustainability Officer are tasked with reviewing management plans and guidelines to ensure climate change is incorporated into planning and decision-making. The MES, Coast Care Officer, and Sustainability Officer are responsible for reviewing current plans and strategies to incorporate local climate change impacts. The policy also mentions the creation of a community awareness and participation program to disseminate results of the current study, which is to be handled by the Sustainability Officer and Coast Care Officer. This allocation of responsibilities indicates a clear commitment of staff resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to educate and involve the community in climate action. The policy outlines several initiatives aimed at increasing community awareness and participation. For instance, the policy includes plans to 'educate the community about the increased pressure of providing stabilised dunes and foreshores', 'disseminate climate change information and new knowledge within each member Council', and 'create a community awareness and participation program to disseminate results of the current study'. These actions suggest that the local government is not only informing the community about climate change but also actively involving them in the response. This approach could potentially empower community members and encourage them to work together to address climate change. However, the documents do not provide specific details on how these initiatives will be implemented or how their effectiveness will be measured.",
+          "quote": {
+            "content": "Create a community awareness and participation program to disseminate results of the current study.",
+            "page": 5,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to become a carbon neutral municipality, which involves reducing greenhouse gas emissions from the Town's operations before using carbon offsets to balance remaining emissions to zero. The plan also sets internal abatement targets to ensure meaningful greenhouse gas reductions occur before the purchase of any carbon offsets. The approach taken is one of least-cost abatement, where projects representing the best value for money in terms of the volume of CO2-e abated will be implemented first. This approach is expected to not only achieve the Town's goal in carbon abatement but also reduce expenditure through improved energy efficiencies. The plan also mentions the introduction of initiatives to encourage the uptake of clean energy technologies and reduce dependence on fossil fuels. However, the plan does not provide specific details on the technological solutions or behaviour changes that will be implemented to achieve these targets.",
+          "quote": {
+            "content": "Achieving zero net emissions not only ensures the Town plays its part in mitigating the worst effects of climate change, it is also an opportunity to provide leadership to the broader community in terms of responding to climate change.",
+            "page": 11,
+            "source": "Cottesloe-WA-246.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Local Adaptation Action Plan of the Town of Cottesloe indeed includes specific actions for climate adaptation and resilience. The plan outlines a range of adaptation actions that are categorized based on their importance and ease of implementation. These actions are designed to address the impacts of climate change on key assets and service delivery areas. The plan also includes a strategy for implementing these actions, which involves removing barriers, taking advantage of opportunities, and actively reducing greenhouse gas emissions. The plan also includes a monitoring and review process to track progress and make necessary adjustments. The plan's approach to adaptation is comprehensive, involving structural, technological, regulatory, and educational measures. It also emphasizes the importance of incorporating climate change scenarios into policy and decision-making processes.",
+          "quote": {
+            "content": "The adaptation actions are ranked in accordance with the classification applied through The Plan lists the adaptation actions (see Table 3 below) that the Town must implement to prepare for the impacts of climate change on key assets and service delivery areas.",
+            "page": 4,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various strategies and actions to address climate change, such as incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and reviewing management plans to ensure climate change is incorporated, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the implementation of a Risk Treatment Plan and a Local Adaptation Action Plan, but they do not provide detailed information about these plans or evidence to support their effectiveness. Furthermore, the documents do not provide clear climate targets, making it difficult to assess whether the proposed actions are sufficient or appropriate to meet these targets. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the documents do mention the implementation of various actions and strategies to address climate change, such as updating planning policies, promoting environmental design features, and incorporating climate change scenarios into policy and decision-making processes, they do not explicitly state how the success of these actions will be measured. The documents mention reviews and updates of the plan, but these are not tied to specific, measurable outcomes or targets. Therefore, it cannot be definitively stated that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a series of adaptation actions that include research as one of the six approaches to complete the adaptation option. The documents also mention the undertaking of a literature review of the effectiveness of implementing updated frameworks in line with scheduled climate change risk assessments and adaptation planning. This suggests that the local government is committed to conducting research to inform its climate actions. Furthermore, the documents mention the creation of a community awareness and participation program to disseminate results of the current study, indicating that the local government plans to involve the community in its research efforts.",
+          "quote": {
+            "content": "The Town is participating in the regional Climate Change Project Group to oversee implementation of the regional adaptation actions from WCCRAAR (2010).",
+            "page": 3,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents outline a variety of adaptation actions and strategies to address climate change, including risk management, regulatory changes, and education. However, these actions do not appear to be experimental in nature, nor are they described as being tested on a small scale under real-world conditions. Instead, they seem to be part of a broader, established policy approach. The documents also mention the implementation of certain actions and the monitoring of their progress, but again, this does not necessarily constitute experimentation. Therefore, based on the information provided, it cannot be concluded that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents detail a comprehensive plan for local adaptation to climate change, including strategies for incorporating climate change scenarios into policy and decision-making processes, strengthening the profile of climate change within local government, and identifying gaps in current decision-making frameworks, they do not explicitly mention advocacy towards state and national governments. The documents focus primarily on internal actions and strategies within the local government and community, such as capacity building programs, management plan reviews, and community awareness campaigns. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that are aimed at strengthening the profile of climate change and capacity building within local government. These include undertaking targeted capacity building programs, reviewing resourcing to address climate change, and incorporating climate change scenarios into policy and decision-making processes. The policy also emphasizes the importance of disseminating climate change information and new knowledge within each member council, which suggests an effort to build capacity and foster collaboration among neighbouring local councils. Furthermore, the policy encourages community involvement in climate change and adaptation activities, indicating an effort to build capacity within local communities as well.",
+          "quote": {
+            "content": "4.",
+            "page": 6,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and partnerships related to climate change. The Western Suburbs Regional Organisation of Councils (WESROC) is mentioned as a key regional entity involved in climate change action. WESROC is a regional grouping of councils that includes the Town of Cottesloe, among others. The documents indicate that WESROC has been involved in identifying potential future impacts of climate change in the region, developing a regional plan for action, and reviewing activities undertaken by its member councils to mitigate greenhouse gas emissions. The regional Climate Change Project Group, made up of senior representatives from each of the participating councils, is also mentioned as being responsible for developing a Regional Climate Change Adaptation Action Plan. This indicates a clear commitment to collaborative action and partnership in addressing climate change at a regional level.",
+          "quote": {
+            "content": "\u2022 \nReview activities undertaken by WESROC members to mitigate greenhouse gas \nemissions. The primary objectives of the project were to: \n\u2022 \nIdentify the potential future impacts of climate change in the WESROC region \nand the associated risks to participating councils. \u2022 \nDevelop a regional plan for action.",
+            "page": 1,
+            "source": "Cottesloe-WA-245.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the potential health impacts of working in higher temperatures and the increased demand for waste collection due to higher temperatures, these are general concerns and not specifically tied to vulnerable communities. The documents also mention the need for community awareness and participation programs, but again, these are not specifically targeted at vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and strategies to mitigate and adapt to the impacts of climate change. These include measures such as updating planning policies, implementing outdoor work programs considering health impacts of higher temperatures, and increasing community awareness about climate change. However, these actions are not framed in terms of equity or social justice, nor do they discuss the distribution of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 59.2
+  }
+}

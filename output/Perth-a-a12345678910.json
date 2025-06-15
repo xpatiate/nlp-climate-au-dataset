@@ -1,1 +1,286 @@
-{"settings": {"source_files": ["Perth-WA-229.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T23:29:25.089484", "lga": "Perth"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Waterwise Perth Action Plan, is primarily focused on water management in response to climate change. The core purpose of the policy is not solely climate action, but rather the management of water resources in the face of climate change. The policy aims to transition Perth into a leading waterwise city by 2030, with a focus on managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security beyond 2030. This is particularly important in the context of a growing population and climate change. The policy includes actions to support jobs, growth, and development, improve urban spaces, and protect wetlands and waterways. While climate action is a significant aspect of the policy, it is not the sole purpose. The policy is a response to the impacts of climate change, particularly the reduction in rainfall and groundwater levels, but its primary focus is on water management.", "quote": {"content": "The Waterwise Perth Action Plan is part of the McGowan Government\u2019s coordinated response to the impacts of climate change and sets the direction for transitioning Perth to a leading waterwise city by 2030.", "page": 2, "source": "Perth-WA-229.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. It acknowledges the significant impact of climate change on the local environment, particularly in terms of reduced rainfall and groundwater levels. The document also recognizes the anticipated population growth in the Perth-Peel region over the next thirty years, which will likely exacerbate these issues. The purpose of the two-year action plan is to transition beyond 'saving water' to better managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security beyond 2030. This is particularly important in the context of a growing population and climate change. The actions in the plan are designed to support jobs, growth, and development, improve urban spaces, and protect wetlands and waterways.", "quote": {"content": "Our groundwater levels have also significantly reduced with a 1.8 meter drop in aquifer storage since 1998. Climate change has made Perth\u2019s winters drier. The south west of WA has had a 15 per cent decline in average annual rainfall since the mid-1970s due to climate change. We used to get on average 420 billion litres of water running into Perth dams each year, but now can expect just 25 billion litres. And it\u2019s not just our dams feeling the pinch.", "page": 2, "source": "Perth-WA-229.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the policy does acknowledge the impacts of climate change, particularly in relation to the south west of Western Australia, and outlines a plan for transitioning Perth to a leading waterwise city by 2030, there is no explicit language used that indicates a sense of urgency or calls for rapid action. The policy discusses the need for new building approaches, adaptations, and innovations to meet the changing conditions, and it outlines a plan for action that includes annual report cards on progress and reviews every two years. However, these measures suggest a steady, long-term approach rather than an urgent, immediate response."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a two-year action plan as the beginning of a 10-year journey towards transitioning to a leading waterwise city by 2030. The plan includes annual report cards on progress and a review of the action plan every two years. Specific actions such as the implementation of an urban forest tree canopy program, the increase of green space in urban environments, and the investment in infrastructure to support local government are all part of this plan. However, the document does not provide specific deadlines for each individual action within the two-year plan.", "quote": {"content": "As successive action plans will be needed to achieve the targets by 2030, an annual report card on progress will be developed and every two years this will include a review of the action plan. Transitioning to a leading waterwise city means changing the way we manage water in our urban landscape between now and 2030.", "page": 10, "source": "Perth-WA-229.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do highlight the importance of addressing climate change, particularly in the context of water management in Perth, Western Australia. They outline a 'Waterwise Perth Action Plan' as part of the government's response to climate change impacts, with a goal of transitioning Perth to a leading waterwise city by 2030. The plan includes measures such as sustainable water use in homes and gardens, creating liveable and resilient communities, sustainable maintenance of public open spaces, and harmonious development of Perth with its water resources. However, there is no explicit statement prioritising this climate response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a plan for transitioning Perth to a waterwise city by 2030, in response to climate change. The plan includes actions at different scales, from household to city, and involves various stakeholders, including state and local government, industry, research and community organisations. The plan is to be coordinated by the Department of Water and Environmental Regulation and overseen by the Waterwise Perth Steering Committee. However, there is no explicit requirement stated that all council activities must align with this climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to address climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, it does not specify any budget or funding allocation for these initiatives. The documents mention partnerships with local governments and other agencies, but they do not detail any financial commitments or resource mobilisation strategies. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a number of actions related to climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, they do not specify the allocation of staff or other non-monetary institutional resources to these actions. The documents mention various agencies such as the Water Corporation (WC), the Department of Local Government, Sport and Cultural Industries (DLGSC), and the Department of Water and Environmental Regulation (DWER) as lead agencies for different actions, but they do not detail the specific resources these agencies will dedicate to the tasks."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents do not provide clear evidence of active empowerment and education of the community to rally, support, and work productively together to deliver climate action. While the policy outlines various actions related to climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, these actions are led by government agencies and do not explicitly involve community participation or social mobilisation. The documents mention increasing community engagement and knowledge about water, but this is a specific aspect and does not necessarily translate to broader climate action. Therefore, the documents do not actively empower and educate the community to rally, support, and work productively together to deliver climate action."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on water management, creating green spaces, and adapting to climate change impacts. It outlines actions such as investigating and mitigating potential impacts to native flora and fauna, groundwater, rivers, and wetlands; reducing stormwater runoff; reducing pollution impacts on nearby waterways; and integrating stormwater management features in public open spaces. While these actions are crucial for climate adaptation and resilience, they do not directly address the mitigation of greenhouse gas emissions. Therefore, the plan does not meet the criteria for 'restoring a safe climate' in terms of specific actions for greenhouse gas mitigation."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does include specific actions for climate adaptation and resilience. The plan acknowledges the impact of climate change on the region, particularly in terms of reduced rainfall and groundwater levels. It outlines a strategy to transition Perth into a leading waterwise city by 2030, with a focus on better managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security. The plan also includes actions to improve urban spaces and protect wetlands and waterways. It mentions the need for new building approaches, adaptations, and innovations to meet the changing conditions. The plan also includes a commitment to invest in pioneering waterwise developments and initiatives, and to test improvements to the water policy and land use planning framework. The plan's implementation will be overseen by the Waterwise Perth Steering Committee, and its success will be measured by the delivery of the actions, progress towards the 2030 targets, and progress on increasing Perth\u2019s rating on the internationally recognised Water Sensitive Cities Benchmarking Index.", "quote": {"content": "This is particularly important in the context of a growing population and climate change.", "page": 4, "source": "Perth-WA-229.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions to be taken in response to climate change, such as creating more urban green spaces, implementing an urban forest tree canopy program, and investigating major water recycling projects, they do not provide specific evidence or sources to justify these actions or their associated targets. The documents mention the involvement of various organizations and committees, such as the Waterwise Perth Steering Committee and the Water Sensitive Transition Network, in coordinating and implementing these actions. However, they do not provide any specific data, research, or other forms of evidence that were used to inform these actions or to set their associated targets. Therefore, it cannot be confirmed that the climate targets and actions outlined in the documents are based on well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that the successful implementation of the action plan will be measured by the delivery of the actions, progress towards the 2030 targets, and progress on increasing Perth\u2019s rating on the internationally recognised Water Sensitive Cities Benchmarking Index. Furthermore, the plan also mentions that an annual report card on progress will be developed and every two years this will include a review of the action plan. This indicates a commitment to regular monitoring and evaluation of the plan's implementation and its effectiveness in achieving its stated goals. The plan also provides specific actions, such as transforming eight drains or basins into living streams and parkland, and implementing an urban forest tree canopy program, which can be measured and evaluated."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has committed to ongoing consultation, design, and testing of new actions in collaboration with the Water Sensitive Transition Network, a group of leaders from across state and local government, industry, research, and community organisations. This collaboration is aimed at supporting Perth\u2019s transition to a waterwise city. The government also plans to continue its relationships with the Cooperative Research Centre for Water Sensitive Cities and other innovators to help deliver necessary changes in urban water management. Furthermore, the government plans to invest in pioneering waterwise developments and initiatives, testing improvements to the water policy and land use planning framework, and demonstrating to the community what waterwise, liveable, and affordable development can look like."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's action plan includes a variety of innovative approaches to address climate change, particularly in relation to water management. For instance, the government plans to invest in pioneering waterwise developments and initiatives, testing improvements to the water policy and land use planning framework. They also plan to encourage waterwise urban design and built form outcomes. The government is also collaborating with the Water Sensitive Transition Network and the Cooperative Research Centre for Water Sensitive Cities to deliver necessary changes in urban water management. Furthermore, the government is implementing an urban forest tree canopy program to plant trees in high urban heat risk areas. These actions demonstrate a commitment to innovative and experimental policies to address climate change.", "quote": {"content": "We will invest in pioneering waterwise developments and initiatives. We will invest in pioneering waterwise developments and initiatives.", "page": 23, "source": "Perth-WA-229.pdf", "search_score": 0.97}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. The policy primarily focuses on local actions and partnerships within the local and state government, industry, research, and community organisations. It outlines a plan for transitioning to a waterwise city, with actions such as creating more urban green spaces, improving water efficiency in government-owned buildings, and increasing Indigenous engagement in water resource management. The policy also mentions a Waterwise Perth Steering Committee, which includes Directors General and Chief Executives of respective agencies, to oversee the implementation of the action plan. However, there is no explicit mention of advocating to state and national governments for climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention collaboration with various groups, including local government organisations, in the design and testing of new actions, they do not specifically mention capacity building. The documents also mention the continuation of relationships with the Cooperative Research Centre for Water Sensitive Cities and other innovators, but again, this does not explicitly refer to capacity building. The documents also mention the implementation of various actions, such as creating more urban green spaces and climate resilient public open spaces, but these are not explicitly linked to capacity building. Therefore, while the documents do suggest a level of collaboration and action, they do not provide clear evidence of an explicit encouragement of capacity building for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific partnerships related to climate, particularly in the context of water management, which is a critical aspect of climate change adaptation. The Water Sensitive Transition Network is mentioned as a group of leaders from across state and local government, industry, research, and community organisations working together to support Perth\u2019s transition to a waterwise city. The Cooperative Research Centre for Water Sensitive Cities is also mentioned as a partner in delivering necessary changes in urban water management. The document also mentions the Waterwise Perth Steering Committee, which includes Directors General and Chief Executives of respective agencies, as the body overseeing the implementation of the action plan. These partnerships are crucial in coordinating and advocating for actions related to climate change adaptation.", "quote": {"content": "Implementation of the action plan will be overseen by the cross-Government Waterwise Perth Steering Committee, chaired by the Director General of the Department of Water and Environmental Regulation, and supported by Directors General and Chief Executives of respective agencies.", "page": 10, "source": "Perth-WA-229.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents detail the local government's action plan in response to climate change, including creating green spaces, improving water use efficiency, and mitigating potential impacts to native flora and fauna, groundwater, rivers, and wetlands, they do not specifically address how these actions will affect vulnerable communities. The documents also do not discuss any measures to ensure that the benefits of these actions are equitably distributed among all community members, including those who are most vulnerable to the impacts of climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate change policy explicitly considers equity and social justice in relation to vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various actions and initiatives aimed at mitigating climate change impacts, such as creating more urban green spaces, implementing waterwise approaches, and investigating alternative water sources, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents focus more on the technical and environmental aspects of climate change mitigation, rather than the social justice implications. Therefore, without explicit evidence in the documents, it cannot be affirmed that the policy discusses how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 35.8}}
+{
+  "settings": {
+    "source_files": [
+      "Perth-WA-229.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T23:29:25.089484",
+    "lga": "Perth"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Waterwise Perth Action Plan, is primarily focused on water management in response to climate change. The core purpose of the policy is not solely climate action, but rather the management of water resources in the face of climate change. The policy aims to transition Perth into a leading waterwise city by 2030, with a focus on managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security beyond 2030. This is particularly important in the context of a growing population and climate change. The policy includes actions to support jobs, growth, and development, improve urban spaces, and protect wetlands and waterways. While climate action is a significant aspect of the policy, it is not the sole purpose. The policy is a response to the impacts of climate change, particularly the reduction in rainfall and groundwater levels, but its primary focus is on water management.",
+          "quote": {
+            "content": "The Waterwise Perth Action Plan is part of the McGowan Government\u2019s coordinated response to the impacts of climate change and sets the direction for transitioning Perth to a leading waterwise city by 2030.",
+            "page": 2,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges the significant impact of climate change on the local environment, particularly in terms of reduced rainfall and groundwater levels. The document also recognizes the anticipated population growth in the Perth-Peel region over the next thirty years, which will likely exacerbate these issues. The purpose of the two-year action plan is to transition beyond 'saving water' to better managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security beyond 2030. This is particularly important in the context of a growing population and climate change. The actions in the plan are designed to support jobs, growth, and development, improve urban spaces, and protect wetlands and waterways.",
+          "quote": {
+            "content": "Our groundwater levels have also significantly reduced with a 1.8 meter drop in aquifer storage since 1998. Climate change has made Perth\u2019s winters drier. The south west of WA has had a 15 per cent decline in average annual rainfall since the mid-1970s due to climate change. We used to get on average 420 billion litres of water running into Perth dams each year, but now can expect just 25 billion litres. And it\u2019s not just our dams feeling the pinch.",
+            "page": 2,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the policy does acknowledge the impacts of climate change, particularly in relation to the south west of Western Australia, and outlines a plan for transitioning Perth to a leading waterwise city by 2030, there is no explicit language used that indicates a sense of urgency or calls for rapid action. The policy discusses the need for new building approaches, adaptations, and innovations to meet the changing conditions, and it outlines a plan for action that includes annual report cards on progress and reviews every two years. However, these measures suggest a steady, long-term approach rather than an urgent, immediate response."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines a two-year action plan as the beginning of a 10-year journey towards transitioning to a leading waterwise city by 2030. The plan includes annual report cards on progress and a review of the action plan every two years. Specific actions such as the implementation of an urban forest tree canopy program, the increase of green space in urban environments, and the investment in infrastructure to support local government are all part of this plan. However, the document does not provide specific deadlines for each individual action within the two-year plan.",
+          "quote": {
+            "content": "As successive action plans will be needed to achieve the targets by 2030, an annual report card on progress will be developed and every two years this will include a review of the action plan. Transitioning to a leading waterwise city means changing the way we manage water in our urban landscape between now and 2030.",
+            "page": 10,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do highlight the importance of addressing climate change, particularly in the context of water management in Perth, Western Australia. They outline a 'Waterwise Perth Action Plan' as part of the government's response to climate change impacts, with a goal of transitioning Perth to a leading waterwise city by 2030. The plan includes measures such as sustainable water use in homes and gardens, creating liveable and resilient communities, sustainable maintenance of public open spaces, and harmonious development of Perth with its water resources. However, there is no explicit statement prioritising this climate response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a plan for transitioning Perth to a waterwise city by 2030, in response to climate change. The plan includes actions at different scales, from household to city, and involves various stakeholders, including state and local government, industry, research and community organisations. The plan is to be coordinated by the Department of Water and Environmental Regulation and overseen by the Waterwise Perth Steering Committee. However, there is no explicit requirement stated that all council activities must align with this climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to address climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, it does not specify any budget or funding allocation for these initiatives. The documents mention partnerships with local governments and other agencies, but they do not detail any financial commitments or resource mobilisation strategies. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a number of actions related to climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, they do not specify the allocation of staff or other non-monetary institutional resources to these actions. The documents mention various agencies such as the Water Corporation (WC), the Department of Local Government, Sport and Cultural Industries (DLGSC), and the Department of Water and Environmental Regulation (DWER) as lead agencies for different actions, but they do not detail the specific resources these agencies will dedicate to the tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of active empowerment and education of the community to rally, support, and work productively together to deliver climate action. While the policy outlines various actions related to climate change, such as creating more urban green spaces, investing in infrastructure to support local government, and implementing an urban forest tree canopy program, these actions are led by government agencies and do not explicitly involve community participation or social mobilisation. The documents mention increasing community engagement and knowledge about water, but this is a specific aspect and does not necessarily translate to broader climate action. Therefore, the documents do not actively empower and educate the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on water management, creating green spaces, and adapting to climate change impacts. It outlines actions such as investigating and mitigating potential impacts to native flora and fauna, groundwater, rivers, and wetlands; reducing stormwater runoff; reducing pollution impacts on nearby waterways; and integrating stormwater management features in public open spaces. While these actions are crucial for climate adaptation and resilience, they do not directly address the mitigation of greenhouse gas emissions. Therefore, the plan does not meet the criteria for 'restoring a safe climate' in terms of specific actions for greenhouse gas mitigation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does include specific actions for climate adaptation and resilience. The plan acknowledges the impact of climate change on the region, particularly in terms of reduced rainfall and groundwater levels. It outlines a strategy to transition Perth into a leading waterwise city by 2030, with a focus on better managing the urban water cycle to ensure healthy waterways and wetlands, attractive urban spaces, and water security. The plan also includes actions to improve urban spaces and protect wetlands and waterways. It mentions the need for new building approaches, adaptations, and innovations to meet the changing conditions. The plan also includes a commitment to invest in pioneering waterwise developments and initiatives, and to test improvements to the water policy and land use planning framework. The plan's implementation will be overseen by the Waterwise Perth Steering Committee, and its success will be measured by the delivery of the actions, progress towards the 2030 targets, and progress on increasing Perth\u2019s rating on the internationally recognised Water Sensitive Cities Benchmarking Index.",
+          "quote": {
+            "content": "This is particularly important in the context of a growing population and climate change.",
+            "page": 4,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions to be taken in response to climate change, such as creating more urban green spaces, implementing an urban forest tree canopy program, and investigating major water recycling projects, they do not provide specific evidence or sources to justify these actions or their associated targets. The documents mention the involvement of various organizations and committees, such as the Waterwise Perth Steering Committee and the Water Sensitive Transition Network, in coordinating and implementing these actions. However, they do not provide any specific data, research, or other forms of evidence that were used to inform these actions or to set their associated targets. Therefore, it cannot be confirmed that the climate targets and actions outlined in the documents are based on well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that the successful implementation of the action plan will be measured by the delivery of the actions, progress towards the 2030 targets, and progress on increasing Perth\u2019s rating on the internationally recognised Water Sensitive Cities Benchmarking Index. Furthermore, the plan also mentions that an annual report card on progress will be developed and every two years this will include a review of the action plan. This indicates a commitment to regular monitoring and evaluation of the plan's implementation and its effectiveness in achieving its stated goals. The plan also provides specific actions, such as transforming eight drains or basins into living streams and parkland, and implementing an urban forest tree canopy program, which can be measured and evaluated."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has committed to ongoing consultation, design, and testing of new actions in collaboration with the Water Sensitive Transition Network, a group of leaders from across state and local government, industry, research, and community organisations. This collaboration is aimed at supporting Perth\u2019s transition to a waterwise city. The government also plans to continue its relationships with the Cooperative Research Centre for Water Sensitive Cities and other innovators to help deliver necessary changes in urban water management. Furthermore, the government plans to invest in pioneering waterwise developments and initiatives, testing improvements to the water policy and land use planning framework, and demonstrating to the community what waterwise, liveable, and affordable development can look like."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government plans to invest in pioneering waterwise developments and initiatives, testing improvements to the water policy and land use planning framework. They aim to encourage waterwise urban design and built form outcomes, demonstrating to the community what waterwise, liveable, and affordable development can look like. The design and testing of new actions will be carried out in collaboration with the Water Sensitive Transition Network, a group of leaders from across State and local government, industry, research, and community organisations. The government has committed to support the continuation and evolution of this CRC to cover the period to 2030. These initiatives align with the definition of policy experimentation as they involve testing technologies, policies, and governance approaches on a small scale and under real-world conditions.",
+          "quote": {
+            "content": "We will invest in pioneering waterwise developments and initiatives. We will invest in pioneering waterwise developments and initiatives.",
+            "page": 23,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. The policy primarily focuses on local actions and partnerships within the local and state government, industry, research, and community organisations. It outlines a plan for transitioning to a waterwise city, with actions such as creating more urban green spaces, improving water efficiency in government-owned buildings, and increasing Indigenous engagement in water resource management. The policy also mentions a Waterwise Perth Steering Committee, which includes Directors General and Chief Executives of respective agencies, to oversee the implementation of the action plan. However, there is no explicit mention of advocating to state and national governments for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention collaboration with various groups, including local government organisations, in the design and testing of new actions, they do not specifically mention capacity building. The documents also mention the continuation of relationships with the Cooperative Research Centre for Water Sensitive Cities and other innovators, but again, this does not explicitly refer to capacity building. The documents also mention the implementation of various actions, such as creating more urban green spaces and climate resilient public open spaces, but these are not explicitly linked to capacity building. Therefore, while the documents do suggest a level of collaboration and action, they do not provide clear evidence of an explicit encouragement of capacity building for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific partnerships related to climate, particularly in the context of water management, which is a critical aspect of climate change adaptation. The Water Sensitive Transition Network is mentioned as a group of leaders from across state and local government, industry, research, and community organisations working together to support Perth\u2019s transition to a waterwise city. The Cooperative Research Centre for Water Sensitive Cities is also mentioned as a partner in delivering necessary changes in urban water management. The document also mentions the Waterwise Perth Steering Committee, which includes Directors General and Chief Executives of respective agencies, as the body overseeing the implementation of the action plan. These partnerships are crucial in coordinating and advocating for actions related to climate change adaptation.",
+          "quote": {
+            "content": "Implementation of the action plan will be overseen by the cross-Government Waterwise Perth Steering Committee, chaired by the Director General of the Department of Water and Environmental Regulation, and supported by Directors General and Chief Executives of respective agencies.",
+            "page": 10,
+            "source": "Perth-WA-229.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents detail the local government's action plan in response to climate change, including creating green spaces, improving water use efficiency, and mitigating potential impacts to native flora and fauna, groundwater, rivers, and wetlands, they do not specifically address how these actions will affect vulnerable communities. The documents also do not discuss any measures to ensure that the benefits of these actions are equitably distributed among all community members, including those who are most vulnerable to the impacts of climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate change policy explicitly considers equity and social justice in relation to vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various actions and initiatives aimed at mitigating climate change impacts, such as creating more urban green spaces, implementing waterwise approaches, and investigating alternative water sources, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents focus more on the technical and environmental aspects of climate change mitigation, rather than the social justice implications. Therefore, without explicit evidence in the documents, it cannot be affirmed that the policy discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 35.8
+  }
+}

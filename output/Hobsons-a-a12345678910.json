@@ -1,1 +1,324 @@
-{"settings": {"source_files": ["Hobsons-VIC-174.pdf", "Hobsons-VIC-175.pdf", "Hobsons-VIC-176.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:31:35.476550", "lga": "Hobsons"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as a core purpose. It outlines a strategic framework for managing climate change vulnerability through a combination of adaptation and mitigation strategies. The policy aims to reduce environmental impacts and operating costs of all Council operations, minimize fuel consumption, and achieve zero net greenhouse gas emissions by 2020. It also seeks to reduce the community\u2019s greenhouse gas emissions and lead the community towards achieving zero net greenhouse gas emissions by 2030. Furthermore, the policy aims to respond to the risks of climate change to Council assets and services and assist the community to be more resilient to the effects of climate change. The policy also outlines a range of adaptation actions to address high climate change risks for the Council in 2030. These actions are evaluated against criteria such as 'win-win', 'no regrets', and 'cost-effectiveness', indicating a comprehensive approach to climate action."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents provide explicit reasoning for the need for action on climate change. They highlight the inevitability of climate change and the necessity of adaptation measures to reduce vulnerability and increase resilience to its impacts. The documents emphasize the importance of early planning to reduce impacts and costs, and to identify potential benefits. They also stress the need for the local government to lead by example in preparing for climate change, and to integrate adaptation actions into existing strategies and programs. The documents further underscore the importance of collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighboring councils, and state government, in implementing adaptation actions. They also highlight the need for greater awareness and understanding of climate change risks among staff and the community, and for accountability in implementing adaptation measures.", "quote": {"content": "Preparing for these changes \u2013 adapting to climate change \u2013 is a necessary and complementary strategy to reducing greenhouse gas emissions. There is increasing scientific evidence that some degree of climate change is now inevitable and that changes have already begun to occur.", "page": 5, "source": "Hobsons-VIC-175.pdf", "search_score": 0.96}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's climate change policy, adaptation plans, and strategies for addressing climate change risks. They also mention the need for community engagement, awareness, and understanding of climate change risks, as well as the need for accountability, permission to undertake adaptation measures, and a monitoring, evaluation, and reporting process. However, they do not explicitly state that these actions need to be taken rapidly or urgently. The documents also mention the need for future reviews and updates to ensure the effectiveness and relevance of the local government's adaptation responses and approaches. This suggests a long-term, ongoing approach to addressing climate change, rather than an immediate, urgent response."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The adaptation actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years, and longer term (i.e., 7 years and beyond). This indicates a clear timeline for the execution of the adaptation actions. However, it is also noted that these timeframes may be affected by factors outside the Council\u2019s control and may require further investigation, such as funding-related factors. The documents also mention that the Plan will be reviewed and updated, and future reviews will reassess the Council\u2019s risk profile in consideration of changes. This suggests a dynamic approach to policy implementation, with room for adjustments based on changing circumstances.", "quote": {"content": "7 years and beyond). The 38 adaptation actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years and longer term (i.e.", "page": 4, "source": "Hobsons-VIC-175.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, emphasize the importance of climate change adaptation and mitigation measures, and the integration of these measures into existing policies and strategies. The documents outline a range of adaptation actions to address high climate change risks, and these actions are evaluated against criteria such as 'win-win' and 'no regrets', indicating a focus on actions that would benefit multiple Council operations or respond to multiple climate change risks. The documents also mention the need for long-term financial plans to ensure the objectives of the strategies are met. However, there is no explicit statement prioritizing a climate emergency response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate change considerations into various aspects of council operations. For instance, the documents mention the need for embedding relevant processes within existing organisational policies and procedures, developing new organisational procedures to address climate change mitigation and adaptation gaps, and regularly reviewing plans, strategies, policies, and benchmarks in light of climate change. The documents also highlight the importance of ensuring that the council's actions, decisions, and policy responses to climate change remain current and reflect the council's operational capacity, community expectations, and changes in climate change scenarios. However, these statements do not amount to a requirement that all council activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's climate change adaptation plan does allocate funding for climate action, although the specifics of the funding amounts are not detailed. The plan outlines various adaptation actions to be taken within different time frames, and each action is associated with an 'Indicative Budget Implication', which ranges from 'low cost' to 'medium cost' to 'high cost'. However, the plan does not provide specific monetary values for these cost categories. Furthermore, the plan acknowledges that the demand on the goods and services the Council provides will change as a result of climate change, and that the plan will be used to inform future budgetary decisions. This suggests that the Council is prepared to allocate resources as necessary to address the impacts of climate change.", "quote": {"content": "This plan will be used to inform future budgetary decisions. The Council has determined that it will use a planning framework that integrates planning from a strategy level through to service delivery to set its annual rate base. This strategy recognises that the demand on the goods and services Council provide will alter as a result of climate change.", "page": 26, "source": "Hobsons-VIC-175.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines a range of adaptation actions that involve all sections of the Council and require collaboration with external stakeholders. These actions are not just monetary but also involve the allocation of staff and institutional resources. For instance, the plan mentions the need for the Council to review and update the Asset Management Plan for buildings to take climate change impacts into consideration. This would involve the allocation of staff time and expertise. Similarly, the plan mentions the need to improve, promote, and support sharing of information around 'at risk' members of the community, which would also involve the allocation of staff resources. Therefore, the plan does explicitly allocate staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at building the community's capacity to respond to climate change. These include educational campaigns, workshops, and training for community members, councillors, and businesses. The policy also emphasizes the importance of community engagement in decision-making processes related to climate change adaptation. The government is also promoting shared use of public spaces and encouraging community greening initiatives. Furthermore, the policy outlines plans for training staff to respond appropriately to emergency situations caused by extreme weather, which indicates a proactive approach to climate change adaptation. The policy also mentions the creation of programs led by young people to create 'change agents', which suggests an effort to empower the younger generation to take action on climate change.", "quote": {"content": "Other actions focussed on creating a shared economy and making council buildings multi-use and more available to the community. educating and preparing the community for climate change through events and capacity building programs. Building adaptive capacity involves developing the community\u2019s capacity to respond to the impacts of climate change.", "page": 42, "source": "Hobsons-VIC-174.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a strategic objective of reducing the Council\u2019s net greenhouse gas emissions to zero by 2020 and assisting the local community to achieve zero net emissions by 2030. This is supported by the Council\u2019s Greenhouse Action Plan 2008-2013, which focuses on how it will achieve its net zero emissions objectives. The policy also mentions the development of new organisational procedures and marshalling resources to address climate change mitigation gaps. Furthermore, the policy includes actions to reduce greenhouse gas emissions from both the Council and the community, and to address environmental sustainable design requirements for new buildings, retrofits, and upgrades. However, the policy does not provide specific details on technological solutions or behaviour change strategies for greenhouse gas mitigation.", "quote": {"content": "In the Council\u2019s 2011 Annual Report, Key Strategic Objective 3: Environmental Sustainability, climate adaptation planning is noted as a key action to achieve the Council\u2019s objective of reducing the Council\u2019s net greenhouse gas emissions to zero by 2020 and assist the local community achieve zero net emissions by 2030.", "page": 6, "source": "Hobsons-VIC-175.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan identifies 38 adaptation actions tailored to address 19 high-rated risks by 2030. These actions span across various areas such as climate resilience of essential infrastructure, long-term protection and enhancement of public open space, water and energy security, and sustainable design issues. The plan also outlines actions to increase community resilience to extreme events and manage coastal assets at risk from flooding. The actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years, and longer term (i.e., 7 years and beyond). The plan also emphasizes the need for regular monitoring and review to ensure the adaptation responses remain effective and relevant to local priorities and climate conditions.", "quote": {"content": "The proposed actions address the following broad areas: > The climate resilience of essential infrastructure; > The long term protection and enhancement of public open space; > Water and energy security and other sustainable design issues; This strategy identifies 38 adaptation actions tailored to address the 19 risks rated high in 2030.", "page": 3, "source": "Hobsons-VIC-175.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a comprehensive plan for climate change adaptation, with a clear focus on risk management and strategic planning. The plan outlines specific actions, their associated risks, and the responsible divisions within the council. It also provides a timeline for implementation, indicating a well-structured approach to climate change adaptation. The plan is based on extensive research, including consultation with the community and examination of adaptation measures undertaken by other municipalities and businesses. The documents also mention the need for regular review of plans, strategies, and policies to ensure they remain current as the science of climate change develops. This indicates a commitment to evidence-based policy and continuous learning. However, the documents do not provide specific sources for the scientific claims made, which could potentially limit the robustness of the evidence base.", "quote": {"content": "The Plan is designed to reflect the Council\u2019s approach to responsible government as well as managing the City\u2019s assets and infrastructure for future generations. This Plan focuses on addressing risks specific to the Council and identifies priority opportunities to integrate adaptation action into existing Council processes and activities.", "page": 6, "source": "Hobsons-VIC-175.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear process for evaluating the effectiveness of its climate change adaptation plan. This process involves setting out what needs to be measured, how it can be measured, over what timeframes the measurement will take place, and what success looks like when they are achieved. The plan also includes an evaluation plan as part of the Plan Refresh along with an annual action plan. Furthermore, the plan outlines a range of adaptation actions and each action is evaluated against four criteria: 'Win-win', 'No regrets', 'Cost-effectiveness', and 'Preparatory or foundation tasks'. This approach ensures that the actions are beneficial, cost-effective, and foundational for other actions. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.", "quote": {"content": "To determine success, it is necessary to set out what needs to be measured, how it can be measured, over what timeframes the measurement will take place, and what success looks like when they are achieved.", "page": 34, "source": "Hobsons-VIC-174.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Council has outlined a strategic and practical approach to preparing for climate change, which includes increased stakeholder involvement and dialogue. This suggests that the Council plans to engage with the local community and other stakeholders to gather information and insights that can inform their climate change decisions and actions. The Council also plans to integrate adaptation action into existing Council processes and activities, which could potentially involve research activities. Furthermore, the Council has identified priority opportunities to address climate change risks specific to the Council, which could involve research to understand these risks better. The Council's approach to responsible government and managing the City's assets for future generations also suggests a commitment to informed decision-making, which would likely involve research.", "quote": {"content": "dialogue and increased stakeholder involvement, the Council will be better positioned to make informed decisions about climate change issues that affect the local community.", "page": 6, "source": "Hobsons-VIC-175.pdf", "search_score": 0.98}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Change Adaptation Plan outlines a range of adaptation actions, these largely appear to be standard responses to climate change, such as improving infrastructure resilience, enhancing public open spaces, and ensuring water and energy security. The plan also includes measures for community engagement and collaboration with external stakeholders. However, these actions do not necessarily represent innovative or experimental approaches to climate policy. The documents also mention the integration of climate change adaptation actions into existing strategies and plans, and the pursuit of funding opportunities for further climate change response. However, these are standard practices in policy implementation and do not indicate a particularly innovative or experimental approach."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government recognizes the importance of collaboration and advocacy with state and federal government for effective adaptation to climate change. They acknowledge that local government is best positioned to inform State Government and the Federal Government of local and regional needs, to directly communicate with the community, and to respond to local changes in an appropriate and timely manner. They also express the need for state and federal support to deliver effective strategies to reduce community emissions and to adapt to climate change. This advocacy is seen as crucial for the local government to prepare for climate change and to implement their Climate Change Adaptation Plan.", "quote": {"content": "Local government is best positioned to inform State Government and the Federal Government of local and regional needs, to directly communicate with the community, and to respond to local changes in an appropriate and timely manner.", "page": 45, "source": "Hobsons-VIC-174.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The local government policy emphasizes the importance of community engagement, education, and capacity building in response to climate change. It also highlights the need for collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighbouring councils, and state government. The policy also acknowledges the need for increased awareness and understanding of climate change risks among staff and the community, and the importance of implementing actions that are part of business as usual. The policy also encourages the pursuit of grant and other funding opportunities to further examine and respond to climate change. However, it is also noted that there were challenges in implementing some actions due to a lack of resources and the complexity of the actions.", "quote": {"content": "In the Plan Refresh, Council will focus on the capability of the community to adapt to climate change through adaptive capacity. The intent of the Plan Refresh is to provide the broad strategic directions and a framework for decision-making (Stage 4 of the five stages of the climate change process).", "page": 46, "source": "Hobsons-VIC-174.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not provide specific evidence of regional associations, alliances, or other partnerships related to climate change. While there are mentions of collaboration and partnerships, these are general in nature and do not specify any particular regional associations or alliances. For instance, the documents mention the need for collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighbouring councils, and state government. However, these are broad categories and do not point to any specific regional associations or alliances. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents indeed discuss the impact of climate change on vulnerable communities. They highlight the need to understand social vulnerability within the community to determine which groups will bear the greatest burden from climate change impacts. The documents also mention that the impacts of climate change may not be evenly distributed and that certain communities such as the elderly, sick, young, or economically disadvantaged are likely to be more affected than others. The documents further emphasize the need to monitor climate-vulnerable communities and advocate for governmental and scientific support for effective adaptation. They also suggest that climate change could intensify existing inequalities and result in greater gaps between communities, thus highlighting the importance of considering equity and social justice in climate change policies.", "quote": {"content": "Vulnerability is \u201cthe degree to which a system is susceptible to, or unable to cope with, adverse effects of climate change, including climate variability and extremes.", "page": 5, "source": "Hobsons-VIC-174.pdf", "search_score": 0.98}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The documents do discuss the equitable sharing of benefits and opportunities in the context of climate change, although the specifics of how this will be achieved are not fully detailed. The policy acknowledges the need to consider social equity in adaptation measures, including understanding who will win and lose, the social and legal legitimacy of adaptation processes, and the efficiency and costs of adaptation. It recognizes that certain adaptation measures can exacerbate existing inequalities, making already vulnerable people even more vulnerable. The policy also outlines four major components that the Council can invest in to build adaptive capacity: assets, learning, social organization, and flexibility. Furthermore, the policy outlines objectives and action areas for climate change adaptation, including creating and sustaining buildings, infrastructure, and activities that promote social cohesion, equality of opportunity, and health. However, the policy does not provide specific details on how these benefits and opportunities will be equitably shared."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}], "results": {"num_positives": 15, "num_questions": 20, "attribute_score": 79.2}}
+{
+  "settings": {
+    "source_files": [
+      "Hobsons-VIC-174.pdf",
+      "Hobsons-VIC-175.pdf",
+      "Hobsons-VIC-176.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:31:35.476550",
+    "lga": "Hobsons"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as a core purpose. It outlines a strategic framework for managing climate change vulnerability through a combination of adaptation and mitigation strategies. The policy aims to reduce environmental impacts and operating costs of all Council operations, minimize fuel consumption, and achieve zero net greenhouse gas emissions by 2020. It also seeks to reduce the community\u2019s greenhouse gas emissions and lead the community towards achieving zero net greenhouse gas emissions by 2030. Furthermore, the policy aims to respond to the risks of climate change to Council assets and services and assist the community to be more resilient to the effects of climate change. The policy also outlines a range of adaptation actions to address high climate change risks for the Council in 2030. These actions are evaluated against criteria such as 'win-win', 'no regrets', and 'cost-effectiveness', indicating a comprehensive approach to climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide explicit reasoning for the need for action on climate change. They highlight the inevitability of climate change and the necessity of adaptation measures to reduce vulnerability and increase resilience to its impacts. The documents emphasize the importance of early planning to reduce impacts and costs, and to identify potential benefits. They also stress the need for the local government to lead by example in preparing for climate change, and to integrate adaptation actions into existing strategies and programs. The documents further underscore the importance of collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighboring councils, and state government, in implementing adaptation actions. They also highlight the need for greater awareness and understanding of climate change risks among staff and the community, and for accountability in implementing adaptation measures.",
+          "quote": {
+            "content": "Preparing for these changes \u2013 adapting to climate change \u2013 is a necessary and complementary strategy to reducing greenhouse gas emissions. There is increasing scientific evidence that some degree of climate change is now inevitable and that changes have already begun to occur.",
+            "page": 5,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's climate change policy, adaptation plans, and strategies for addressing climate change risks. They also mention the need for community engagement, awareness, and understanding of climate change risks, as well as the need for accountability, permission to undertake adaptation measures, and a monitoring, evaluation, and reporting process. However, they do not explicitly state that these actions need to be taken rapidly or urgently. The documents also mention the need for future reviews and updates to ensure the effectiveness and relevance of the local government's adaptation responses and approaches. This suggests a long-term, ongoing approach to addressing climate change, rather than an immediate, urgent response."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The adaptation actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years, and longer term (i.e., 7 years and beyond). This indicates a clear timeline for the execution of the adaptation actions. However, it is also noted that these timeframes may be affected by factors outside the Council\u2019s control and may require further investigation, such as funding-related factors. The documents also mention that the Plan will be reviewed and updated, and future reviews will reassess the Council\u2019s risk profile in consideration of changes. This suggests a dynamic approach to policy implementation, with room for adjustments based on changing circumstances.",
+          "quote": {
+            "content": "7 years and beyond). The 38 adaptation actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years and longer term (i.e.",
+            "page": 4,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They do, however, emphasize the importance of climate change adaptation and mitigation measures, and the integration of these measures into existing policies and strategies. The documents outline a range of adaptation actions to address high climate change risks, and these actions are evaluated against criteria such as 'win-win' and 'no regrets', indicating a focus on actions that would benefit multiple Council operations or respond to multiple climate change risks. The documents also mention the need for long-term financial plans to ensure the objectives of the strategies are met. However, there is no explicit statement prioritizing a climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate change considerations into various aspects of council operations. For instance, the documents mention the need for embedding relevant processes within existing organisational policies and procedures, developing new organisational procedures to address climate change mitigation and adaptation gaps, and regularly reviewing plans, strategies, policies, and benchmarks in light of climate change. The documents also highlight the importance of ensuring that the council's actions, decisions, and policy responses to climate change remain current and reflect the council's operational capacity, community expectations, and changes in climate change scenarios. However, these statements do not amount to a requirement that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate change adaptation plan does allocate funding for climate action, although the specifics of the funding amounts are not detailed. The plan outlines various adaptation actions to be taken within different time frames, and each action is associated with an 'Indicative Budget Implication', which ranges from 'low cost' to 'medium cost' to 'high cost'. However, the plan does not provide specific monetary values for these cost categories. Furthermore, the plan acknowledges that the demand on the goods and services the Council provides will change as a result of climate change, and that the plan will be used to inform future budgetary decisions. This suggests that the Council is prepared to allocate resources as necessary to address the impacts of climate change.",
+          "quote": {
+            "content": "This plan will be used to inform future budgetary decisions. The Council has determined that it will use a planning framework that integrates planning from a strategy level through to service delivery to set its annual rate base. This strategy recognises that the demand on the goods and services Council provide will alter as a result of climate change.",
+            "page": 26,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines a range of adaptation actions that involve all sections of the Council and require collaboration with external stakeholders. These actions are not just monetary but also involve the allocation of staff and institutional resources. For instance, the plan mentions the need for the Council to review and update the Asset Management Plan for buildings to take climate change impacts into consideration. This would involve the allocation of staff time and expertise. Similarly, the plan mentions the need to improve, promote, and support sharing of information around 'at risk' members of the community, which would also involve the allocation of staff resources. Therefore, the plan does explicitly allocate staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at building the community's capacity to respond to climate change. These include educational campaigns, workshops, and training for community members, councillors, and businesses. The policy also emphasizes the importance of community engagement in decision-making processes related to climate change adaptation. The government is also promoting shared use of public spaces and encouraging community greening initiatives. Furthermore, the policy outlines plans for training staff to respond appropriately to emergency situations caused by extreme weather, which indicates a proactive approach to climate change adaptation. The policy also mentions the creation of programs led by young people to create 'change agents', which suggests an effort to empower the younger generation to take action on climate change.",
+          "quote": {
+            "content": "Other actions focussed on creating a shared economy and making council buildings multi-use and more available to the community. educating and preparing the community for climate change through events and capacity building programs. Building adaptive capacity involves developing the community\u2019s capacity to respond to the impacts of climate change.",
+            "page": 42,
+            "source": "Hobsons-VIC-174.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a strategic objective of reducing the Council\u2019s net greenhouse gas emissions to zero by 2020 and assisting the local community to achieve zero net emissions by 2030. This is supported by the Council\u2019s Greenhouse Action Plan 2008-2013, which focuses on how it will achieve its net zero emissions objectives. The policy also mentions the development of new organisational procedures and marshalling resources to address climate change mitigation gaps. Furthermore, the policy includes actions to reduce greenhouse gas emissions from both the Council and the community, and to address environmental sustainable design requirements for new buildings, retrofits, and upgrades. However, the policy does not provide specific details on technological solutions or behaviour change strategies for greenhouse gas mitigation.",
+          "quote": {
+            "content": "In the Council\u2019s 2011 Annual Report, Key Strategic Objective 3: Environmental Sustainability, climate adaptation planning is noted as a key action to achieve the Council\u2019s objective of reducing the Council\u2019s net greenhouse gas emissions to zero by 2020 and assist the local community achieve zero net emissions by 2030.",
+            "page": 6,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Plan indeed includes specific actions for climate adaptation and resilience. The plan identifies 38 adaptation actions tailored to address 19 high-rated risks by 2030. These actions span across various areas such as climate resilience of essential infrastructure, long-term protection and enhancement of public open space, water and energy security, and sustainable design issues. The plan also outlines actions to increase community resilience to extreme events and manage coastal assets at risk from flooding. The actions are grouped into three implementation timeframes: within the next 2 years, within the next 3 to 7 years, and longer term (i.e., 7 years and beyond). The plan also emphasizes the need for regular monitoring and review to ensure the adaptation responses remain effective and relevant to local priorities and climate conditions.",
+          "quote": {
+            "content": "The proposed actions address the following broad areas: > The climate resilience of essential infrastructure; > The long term protection and enhancement of public open space; > Water and energy security and other sustainable design issues; This strategy identifies 38 adaptation actions tailored to address the 19 risks rated high in 2030.",
+            "page": 3,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a comprehensive plan for climate change adaptation, with a clear focus on risk management and strategic planning. The plan outlines specific actions, their associated risks, and the responsible divisions within the council. It also provides a timeline for implementation, indicating a well-structured approach to climate change adaptation. The plan is based on extensive research, including consultation with the community and examination of adaptation measures undertaken by other municipalities and businesses. The documents also mention the need for regular review of plans, strategies, and policies to ensure they remain current as the science of climate change develops. This indicates a commitment to evidence-based policy and continuous learning. However, the documents do not provide specific sources for the scientific claims made, which could potentially limit the robustness of the evidence base.",
+          "quote": {
+            "content": "The Plan is designed to reflect the Council\u2019s approach to responsible government as well as managing the City\u2019s assets and infrastructure for future generations. This Plan focuses on addressing risks specific to the Council and identifies priority opportunities to integrate adaptation action into existing Council processes and activities.",
+            "page": 6,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear process for evaluating the effectiveness of its climate change adaptation plan. This process involves setting out what needs to be measured, how it can be measured, over what timeframes the measurement will take place, and what success looks like when they are achieved. The plan also includes an evaluation plan as part of the Plan Refresh along with an annual action plan. Furthermore, the plan outlines a range of adaptation actions and each action is evaluated against four criteria: 'Win-win', 'No regrets', 'Cost-effectiveness', and 'Preparatory or foundation tasks'. This approach ensures that the actions are beneficial, cost-effective, and foundational for other actions. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "To determine success, it is necessary to set out what needs to be measured, how it can be measured, over what timeframes the measurement will take place, and what success looks like when they are achieved.",
+            "page": 34,
+            "source": "Hobsons-VIC-174.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Council has outlined a strategic and practical approach to preparing for climate change, which includes increased stakeholder involvement and dialogue. This suggests that the Council plans to engage with the local community and other stakeholders to gather information and insights that can inform their climate change decisions and actions. The Council also plans to integrate adaptation action into existing Council processes and activities, which could potentially involve research activities. Furthermore, the Council has identified priority opportunities to address climate change risks specific to the Council, which could involve research to understand these risks better. The Council's approach to responsible government and managing the City's assets for future generations also suggests a commitment to informed decision-making, which would likely involve research.",
+          "quote": {
+            "content": "dialogue and increased stakeholder involvement, the Council will be better positioned to make informed decisions about climate change issues that affect the local community.",
+            "page": 6,
+            "source": "Hobsons-VIC-175.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do discuss various strategies and actions for climate change adaptation, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents focus more on the planning and implementation of broad adaptation strategies, risk management, and the integration of climate change considerations into existing policies and procedures. They also mention the importance of community engagement, collaboration with external stakeholders, and the pursuit of funding opportunities for climate change response. However, these are not presented as experimental or pilot initiatives, but rather as part of the overall policy approach."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The local government recognizes the importance of collaboration and advocacy with state and federal government for effective adaptation to climate change. They acknowledge that local government is best positioned to inform State Government and the Federal Government of local and regional needs, to directly communicate with the community, and to respond to local changes in an appropriate and timely manner. They also express the need for state and federal support to deliver effective strategies to reduce community emissions and to adapt to climate change. This advocacy is seen as crucial for the local government to prepare for climate change and to implement their Climate Change Adaptation Plan.",
+          "quote": {
+            "content": "Local government is best positioned to inform State Government and the Federal Government of local and regional needs, to directly communicate with the community, and to respond to local changes in an appropriate and timely manner.",
+            "page": 45,
+            "source": "Hobsons-VIC-174.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The local government policy emphasizes the importance of community engagement, education, and capacity building in response to climate change. It also highlights the need for collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighbouring councils, and state government. The policy also acknowledges the need for increased awareness and understanding of climate change risks among staff and the community, and the importance of implementing actions that are part of business as usual. The policy also encourages the pursuit of grant and other funding opportunities to further examine and respond to climate change. However, it is also noted that there were challenges in implementing some actions due to a lack of resources and the complexity of the actions.",
+          "quote": {
+            "content": "In the Plan Refresh, Council will focus on the capability of the community to adapt to climate change through adaptive capacity. The intent of the Plan Refresh is to provide the broad strategic directions and a framework for decision-making (Stage 4 of the five stages of the climate change process).",
+            "page": 46,
+            "source": "Hobsons-VIC-174.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not provide specific evidence of regional associations, alliances, or other partnerships related to climate change. While there are mentions of collaboration and partnerships, these are general in nature and do not specify any particular regional associations or alliances. For instance, the documents mention the need for collaboration with external stakeholders, including residents, businesses, emergency service agencies, neighbouring councils, and state government. However, these are broad categories and do not point to any specific regional associations or alliances. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents indeed discuss the impact of climate change on vulnerable communities. They highlight the need to understand social vulnerability within the community to determine which groups will bear the greatest burden from climate change impacts. The documents also mention that the impacts of climate change may not be evenly distributed and that certain communities such as the elderly, sick, young, or economically disadvantaged are likely to be more affected than others. The documents further emphasize the need to monitor climate-vulnerable communities and advocate for governmental and scientific support for effective adaptation. They also suggest that climate change could intensify existing inequalities and result in greater gaps between communities, thus highlighting the importance of considering equity and social justice in climate change policies.",
+          "quote": {
+            "content": "Vulnerability is \u201cthe degree to which a system is susceptible to, or unable to cope with, adverse effects of climate change, including climate variability and extremes.",
+            "page": 5,
+            "source": "Hobsons-VIC-174.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss the equitable sharing of benefits and opportunities in the context of climate change, although the specifics of how this will be achieved are not fully detailed. The policy acknowledges the need to consider social equity in adaptation measures, including understanding who will win and lose, the social and legal legitimacy of adaptation processes, and the efficiency and costs of adaptation. It recognizes that certain adaptation measures can exacerbate existing inequalities, making already vulnerable people even more vulnerable. The policy also outlines four major components that the Council can invest in to build adaptive capacity: assets, learning, social organization, and flexibility. Furthermore, the policy outlines objectives and action areas for climate change adaptation, including creating and sustaining buildings, infrastructure, and activities that promote social cohesion, equality of opportunity, and health. However, the policy does not provide specific details on how these benefits and opportunities will be equitably shared."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 79.2
+  }
+}

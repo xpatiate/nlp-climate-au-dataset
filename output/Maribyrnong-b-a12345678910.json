@@ -1,1 +1,305 @@
-{"settings": {"source_files": ["Maribyrnong-VIC-183.pdf", "Maribyrnong-VIC-184.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T11:00:53.602656", "lga": "Maribyrnong"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy documents clearly indicate that climate action is the core purpose of the policy. The Climate Emergency Strategy and Climate Emergency Action Plan are designed to address the climate emergency, which is recognized as the most significant threat to life on this planet. The policy outlines a three-step response to the climate emergency, including the development of an Action Plan detailing programs, projects, and actions to meet the high-level goals and visions set out in the Strategy. The policy also emphasizes the need for urgent action, with the overarching goal of restoring a safe climate at emergency speed. The policy's key objectives include ceasing emissions of greenhouse gases by Council and working with the community to transition to zero greenhouse gas emissions by 2030, drawing down existing and future greenhouse gas emissions from the atmosphere, and empowering and mobilizing community action and building community resilience.", "quote": {"content": "An Adaptation Framework will be developed in parallel to this. The Climate Emergency Strategy is a guiding document providing the framework for Council to address the climate emergency. It is the first part of Council\u2019s three-step response: Step 1 Climate Emergency Strategy includes visions and high level goals to set the direction for how Council responds to the climate emergency (this Strategy) Step 2 Action Plan includes detailed programs, projects and actions to meet the high-level goals and visions set out in the Climate Emergency Strategy.", "page": 1, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents from the Maribyrnong City Council clearly articulate the need for action on climate change. The council recognizes the global climate emergency as an unprecedented threat to society, economy, and environment. The community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke, and other impacts to air and water quality. The council acknowledges that if the climate emergency isn't addressed, local and global impacts will be significant. The council's Climate Emergency Strategy and Action Plan aim to restore a safe climate at emergency speed to provide maximum protection for people and species. The council also acknowledges the need for coordinated local and global action. The council's actions include transitioning to renewable forms of energy, increasing energy efficiency, moving investments from fossil fuel industries, and building or retrofitting buildings which use less energy.", "quote": {"content": "Locally, our community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke and other impacts to air and water quality \u2014 and these will only worsen as the climate emergency continues. Maribyrnong City Council recognises that the global climate emergency affects everyone, and poses an unprecedented threat to our society, economy and environment.", "page": 5, "source": "Maribyrnong-VIC-183.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. The Maribyrnong City Council's Climate Emergency Action Plan and Strategy documents repeatedly emphasize the need for immediate and strategic action to address the climate emergency. The documents outline a comprehensive plan to transition to renewable energy, increase energy efficiency, build or retrofit energy-efficient buildings, prioritize sustainable transport, and manage consumption and waste. The documents also highlight the need for community education and engagement, partnerships with other organizations, and advocacy to all levels of government. The documents' language underscores the urgency of the situation, referring to the 'climate emergency' and the need to 'act strategically and with urgency'. The documents also set ambitious goals, such as ceasing emissions of greenhouse gases by 2030 and drawing down existing and future greenhouse gas emissions.", "quote": {"content": "Restore a safe climate at emergency speed to provide maximum protection for people and species, recognising and acting on the need for coordinated local and global action.", "page": 2, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate. The Climate Emergency Action Plan outlines a series of actions, each with a designated timeline for implementation. For instance, the plan to 'Investigate options to establish a community group to work with Council on the climate emergency' is slated for 2022/2023-2025/2026. Similarly, the action to 'Ensure that electric options and energy efficiency is prioritised and is a key criteria when procuring Council plant and equipment' is scheduled for 2021/2022-2025/2026. The documents also mention that the Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. These specific timeframes indicate a clear sense of urgency and a structured approach to addressing climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": true, "answer": "The documents clearly state that the climate emergency response is a priority for the local government. The policy outlines a three-step response to the climate emergency, which includes the Climate Emergency Strategy, an Action Plan, and Implementation. The Strategy is described as a guiding document that will feed into all of the Council's strategies, plans, and policies, indicating that it is a priority. The documents also mention that the Council must take immediate steps towards transformational change within the organisation to incorporate climate emergency action across all areas - strategy, policy, planning, decision making, resourcing and operations - ensuring it becomes part of core business. This suggests that the climate emergency response is not only a priority, but it is also considered a core part of the Council's operations."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents clearly state that the Maribyrnong City Council has a comprehensive plan to align all council activities with their climate policy. The Climate Emergency Action Plan 2021\u20132025 outlines a strategic approach to integrate climate emergency responses into all council strategies, policies, and key documents. This includes both mitigation and adaptation measures. The council is committed to transitioning to zero greenhouse gas emissions and has dedicated resources across budget and staffing to enable action in a climate emergency mode. The council's executive management and leadership teams are expected to act with urgency to deliver a safe climate and respond to the climate emergency. The council also plans to develop an adaptation framework and programs to build community and council resilience to climate impacts. Therefore, it is evident that the council's activities are expected to be aligned with their climate policy."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Maribyrnong City Council Climate Emergency Action Plan does allocate resources for climate action, although it does not specify the exact amount of funding. The plan outlines a series of actions to be taken in response to the climate emergency, and for each action, it states that the resources will come from 'Within Council operating resources'. This suggests that the council has committed to allocating a portion of its operating resources to implement these actions. However, the plan does not provide specific details about the amount of funding that will be allocated to each action. It is also worth noting that for some actions, the plan states that the resources will be 'referred to future budget', indicating that additional funding may be allocated in future budget cycles."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate staff or other non-monetary institutional resources to climate action. The plan outlines a series of actions to be taken within specific timelines, and it is stated that these actions will be carried out 'within Council operating resources'. This implies that the Council's existing staff and institutional resources will be mobilized to implement these actions. For instance, the plan includes actions such as undertaking an assessment of land availability for increased vegetation, researching opportunities to increase targets for green infrastructure in new developments, and ensuring that electric options and energy efficiency are prioritized in Council procurement. All these actions are to be carried out within the Council's operating resources, indicating a clear allocation of non-monetary institutional resources to climate action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a comprehensive approach to community mobilisation, including education, advocacy, and collaboration. The policy emphasises the importance of community understanding of the climate crisis and the ways in which they can take action. It also highlights the need for political action, peer-to-peer education, community-based projects, and community resilience building. The policy also outlines plans to develop and implement a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. Furthermore, the policy aims to develop a community climate civic participation and leadership program, focused on increasing skills and ability for the community to act on climate.", "quote": {"content": "Mobilisation can include political action, peer-to-peer education, community based projects, voting for strong climate candidates, campaigning, individual change or actions, community resilience building, mass actions or many other approaches. Community mobilisation on the climate emergency can take many forms, but community understanding of the climate crisis and ways in which they can take action is essential.", "page": 5, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Maribyrnong City Council Climate Emergency Action Plan does include specific actions for mitigation of greenhouse gas emissions. The plan outlines a clear focus on mitigation, which it defines as ending the climate emergency by reducing and preventing emissions of greenhouse gases, and drawing down greenhouse gases from the atmosphere. The plan includes technological solutions such as transitioning to renewable forms of energy, increasing energy efficiency, and moving investments from fossil fuel industries. It also mentions the use of carbon offsets, which are a way to achieve net zero greenhouse gas emissions by paying for carbon offsets that avoid or remove emissions from the atmosphere. In terms of behaviour change, the plan includes actions such as supporting and working with the community to understand and take action on the climate emergency, and advocating to all levels of government for urgent climate emergency responses. The plan also includes a focus on efficient buildings and infrastructure, and prioritising zero emissions transport outcomes.", "quote": {"content": "This is in \ncontrast to adaptation, which is not about ending the emergency, but is \nabout adjusting to it. Mitigation \nIn terms of climate emergency, mitigation is focused on ending the \nemergency by reducing and preventing emissions of greenhouse gases, \nand draw down of greenhouse gases from the atmosphere.", "page": 6, "source": "Maribyrnong-VIC-184.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan calls for a review of all Council policies, plans, and related strategies to ensure they incorporate a climate emergency response. This response is supported by an Action Plan, which outlines detailed actions to meet the Strategy's direction. Alongside the Action Plan, an Adaptation Framework will be developed to provide further support. The Adaptation Framework is designed to ensure that adaptation actions are incorporated into the review of Council strategies, plans, and policies to protect the City of Maribyrnong and its community. The plan also mentions that adaptation planning is already included in many Council policies, plans, and related strategies. This is either through Council-led initiatives or in response to legislative requirements. Therefore, the plan does include specific actions for climate adaptation and resilience.", "quote": {"content": "Parallel to the Action Plan, an Adaptation Framework will be developed to provide further support. It calls for a review of all Council polices, plans and related strategies to ensure they build in a climate emergency response. It will also be supported by an Action Plan, which will outline detailed actions to meet the Strategy\u2019s direction.", "page": 10, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions proposed by the Maribyrnong City Council. While the Climate Emergency Action Plan outlines a range of actions to be taken in response to the climate emergency, such as increasing vegetation, prioritising zero emissions transport outcomes, and updating procurement processes to consider climate emergency objectives, it does not provide specific evidence or data to support these actions. The documents mention the development of key measures to track and evaluate actions over the next four years, but they do not detail what these measures are or how they were determined. Furthermore, the documents do not cite any external research, data, or expert opinions that might justify the specific targets and actions proposed. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's Climate Emergency Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that key measures will be developed to track and evaluate actions for the next four years. This is to measure the outcomes against the high-level goals in the Climate Emergency Strategy. The strategy and action plan will be reviewed and updated in 2026, and during this review, the need for new goals and actions will be assessed. This suggests that the plan has a built-in mechanism for evaluation and adjustment based on the success of its actions. The plan also includes specific actions with timelines and resources, which further indicates that the success of these actions can be measured against these specified criteria.", "quote": {"content": "The Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. Key measures will be developed to track and evaluate actions for the next four years in order to measure the outcomes against the high-level goals in the Climate Emergency Strategy.", "page": 17, "source": "Maribyrnong-VIC-183.pdf", "search_score": 0.96}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The Maribyrnong City Council Climate Emergency Action Plan does indeed outline plans to conduct research within the local community to inform climate actions. The plan includes a range of actions that involve research and investigation, such as assessing land availability for increased vegetation (LUD01), researching opportunities to increase targets for tree cover and green walls in new developments (LUD02), and engaging with research institutes and other groups to ensure innovative climate response (CE11). The plan also includes actions to develop community education programs on climate topics (CE13), and to establish a community group to work with the Council on the climate emergency (CE21). These actions suggest a commitment to informed, evidence-based planning and decision-making, and a recognition of the importance of community engagement and participation in responding to the climate emergency."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The Maribyrnong City Council's Climate Emergency Action Plan 2021\u20132025 does show evidence of innovation and policy experimentation in climate action. The plan outlines a comprehensive approach to addressing the climate emergency, with a focus on mitigation, adaptation, and resilience. It includes a range of innovative actions, such as engaging with research institutes, innovative technology groups, and climate emergency strategists to ensure best practice climate response. The plan also includes actions to work with Traditional Owners and First Nations people to identify opportunities to collaborate on the climate emergency response. Furthermore, the plan outlines actions to develop and implement a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. These actions demonstrate a commitment to innovation and policy experimentation in climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate Maribyrnong City Council's intent to advocate upward to state and national governments to support climate action. The council acknowledges that while local governments have a critical role in managing their own greenhouse emissions and supporting local communities, significant change also requires the power of state and federal governments. The council's Climate Emergency Strategy outlines a commitment to advocate, educate, and engage with all levels of government to enact real and meaningful change. This includes actively collaborating with stakeholders and directly influencing the decisions of others in line with the vision and goals of the strategy. The council also plans to develop partnerships and networks with other councils and organisations to enhance the effectiveness of their climate emergency action. This advocacy and collaboration are integral to the council's approach to addressing the climate emergency."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes education, mobilisation, action, mitigation, and resilience building. It also emphasises the importance of ensuring that councillors, the executive management team, and council staff understand and act on their roles in a climate emergency response. The policy also encourages collaboration with and support for other councils in implementing a climate emergency response. Furthermore, the policy outlines specific actions such as developing a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. It also plans to establish a community group to work with the council on the climate emergency, focusing on climate justice.", "quote": {"content": "Ensure Councillors, the Executive Management Team and Council staff understand and act on their roles in a climate emergency response.", "page": 13, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.98}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate. While the documents do emphasize the importance of collaboration, partnerships, and advocacy in addressing the climate emergency, they do not provide specific details about who these partners might be. The documents mention the need to 'develop partnerships and networks with other Councils and organisations', 'collaborate with stakeholders', and 'work with Traditional Owners and First Nations people', but these are general statements and do not refer to any specific entities or partnerships. Therefore, based on the provided documents, it cannot be confirmed that the local government is part of any specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents provided by the Maribyrnong City Council do indeed discuss the impact of climate change on vulnerable communities. The council acknowledges that the climate emergency affects everyone, but it also recognizes that certain groups are more vulnerable to its impacts. Specifically, the council identifies Aboriginal and Torres Strait Islander people as highly vulnerable to the impacts of climate change due to the social and economic inequality they experience as a result of colonialism. The council also acknowledges that the vulnerable, socially and economically disadvantaged, and those who have typically made the least contribution to the problem, often have less capacity to respond and are often disproportionately affected by the impacts of climate change. This recognition of the differential impacts of climate change is crucial for developing equitable and socially just responses to the climate emergency.", "quote": {"content": "Aboriginal and Torres Strait Islander people are highly vulnerable to the impacts of climate change due to the social and economic inequality they experience as a result of colonialism.", "page": 3, "source": "Maribyrnong-VIC-184.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not provide explicit details on how to equitably share the benefits and opportunities of a safe climate. While the documents do mention the importance of a fair and just response to the climate emergency, particularly for vulnerable and disadvantaged communities, they do not outline specific strategies or actions to ensure that the benefits and opportunities of a safe climate are shared equitably. The documents focus more on the need for collective action, the reduction of greenhouse gas emissions, and the importance of community engagement and resilience. However, they do not delve into the specifics of how these actions will lead to equitable outcomes or how the benefits of these actions will be distributed among different groups within the community."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 17, "num_questions": 20, "attribute_score": 89.2}}
+{
+  "settings": {
+    "source_files": [
+      "Maribyrnong-VIC-183.pdf",
+      "Maribyrnong-VIC-184.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T11:00:53.602656",
+    "lga": "Maribyrnong"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is the core purpose of the policy. The Climate Emergency Strategy and Climate Emergency Action Plan are designed to address the climate emergency, which is recognized as the most significant threat to life on this planet. The policy outlines a three-step response to the climate emergency, including the development of an Action Plan detailing programs, projects, and actions to meet the high-level goals and visions set out in the Strategy. The policy also emphasizes the need for urgent action, with the overarching goal of restoring a safe climate at emergency speed. The policy's key objectives include ceasing emissions of greenhouse gases by Council and working with the community to transition to zero greenhouse gas emissions by 2030, drawing down existing and future greenhouse gas emissions from the atmosphere, and empowering and mobilizing community action and building community resilience.",
+          "quote": {
+            "content": "An Adaptation Framework will be developed in parallel to this. The Climate Emergency Strategy is a guiding document providing the framework for Council to address the climate emergency. It is the first part of Council\u2019s three-step response: Step 1 Climate Emergency Strategy includes visions and high level goals to set the direction for how Council responds to the climate emergency (this Strategy) Step 2 Action Plan includes detailed programs, projects and actions to meet the high-level goals and visions set out in the Climate Emergency Strategy.",
+            "page": 1,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents from the Maribyrnong City Council clearly articulate the need for action on climate change. The council recognizes the global climate emergency as an unprecedented threat to society, economy, and environment. The community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke, and other impacts to air and water quality. The council acknowledges that if the climate emergency isn't addressed, local and global impacts will be significant. The council's Climate Emergency Strategy and Action Plan aim to restore a safe climate at emergency speed to provide maximum protection for people and species. The council also acknowledges the need for coordinated local and global action. The council's actions include transitioning to renewable forms of energy, increasing energy efficiency, moving investments from fossil fuel industries, and building or retrofitting buildings which use less energy.",
+          "quote": {
+            "content": "Locally, our community is already experiencing the impacts of climate change through extreme weather events, heat waves, flooding, health impacts, bushfire smoke and other impacts to air and water quality \u2014 and these will only worsen as the climate emergency continues. Maribyrnong City Council recognises that the global climate emergency affects everyone, and poses an unprecedented threat to our society, economy and environment.",
+            "page": 5,
+            "source": "Maribyrnong-VIC-183.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The Maribyrnong City Council's Climate Emergency Action Plan and Strategy documents repeatedly emphasize the need for immediate and strategic action to address the climate emergency. The documents outline a comprehensive plan to transition to renewable energy, increase energy efficiency, build or retrofit energy-efficient buildings, prioritize sustainable transport, and manage consumption and waste. The documents also highlight the need for community education and engagement, partnerships with other organizations, and advocacy to all levels of government. The documents' language underscores the urgency of the situation, referring to the 'climate emergency' and the need to 'act strategically and with urgency'. The documents also set ambitious goals, such as ceasing emissions of greenhouse gases by 2030 and drawing down existing and future greenhouse gas emissions.",
+          "quote": {
+            "content": "Restore a safe climate at emergency speed to provide maximum protection for people and species, recognising and acting on the need for coordinated local and global action.",
+            "page": 2,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate. The Climate Emergency Action Plan outlines a series of actions, each with a designated timeline for implementation. For instance, the plan to 'Investigate options to establish a community group to work with Council on the climate emergency' is slated for 2022/2023-2025/2026. Similarly, the action to 'Ensure that electric options and energy efficiency is prioritised and is a key criteria when procuring Council plant and equipment' is scheduled for 2021/2022-2025/2026. The documents also mention that the Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. These specific timeframes indicate a clear sense of urgency and a structured approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": true,
+          "answer": "The documents clearly state that the climate emergency response is a priority for the local government. The policy outlines a three-step response to the climate emergency, which includes the Climate Emergency Strategy, an Action Plan, and Implementation. The Strategy is described as a guiding document that will feed into all of the Council's strategies, plans, and policies, indicating that it is a priority. The documents also mention that the Council must take immediate steps towards transformational change within the organisation to incorporate climate emergency action across all areas - strategy, policy, planning, decision making, resourcing and operations - ensuring it becomes part of core business. This suggests that the climate emergency response is not only a priority, but it is also considered a core part of the Council's operations."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that the Maribyrnong City Council has a comprehensive plan to align all council activities with their climate policy. The Climate Emergency Action Plan 2021\u20132025 outlines a strategic approach to integrate climate emergency responses into all council strategies, policies, and key documents. This includes both mitigation and adaptation measures. The council is committed to transitioning to zero greenhouse gas emissions and has dedicated resources across budget and staffing to enable action in a climate emergency mode. The council's executive management and leadership teams are expected to act with urgency to deliver a safe climate and respond to the climate emergency. The council also plans to develop an adaptation framework and programs to build community and council resilience to climate impacts. Therefore, it is evident that the council's activities are expected to be aligned with their climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Maribyrnong City Council Climate Emergency Action Plan does allocate resources for climate action, although it does not specify the exact amount of funding. The plan outlines a series of actions to be taken in response to the climate emergency, and for each action, it states that the resources will come from 'Within Council operating resources'. This suggests that the council has committed to allocating a portion of its operating resources to implement these actions. However, the plan does not provide specific details about the amount of funding that will be allocated to each action. It is also worth noting that for some actions, the plan states that the resources will be 'referred to future budget', indicating that additional funding may be allocated in future budget cycles."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Maribyrnong City Council Climate Emergency Action Plan does explicitly allocate staff or other non-monetary institutional resources to climate action. The plan outlines a series of actions to be taken within specific timelines, and it is stated that these actions will be carried out 'within Council operating resources'. This implies that the Council's existing staff and institutional resources will be mobilized to implement these actions. For instance, the plan includes actions such as undertaking an assessment of land availability for increased vegetation, researching opportunities to increase targets for green infrastructure in new developments, and ensuring that electric options and energy efficiency are prioritized in Council procurement. All these actions are to be carried out within the Council's operating resources, indicating a clear allocation of non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a comprehensive approach to community mobilisation, including education, advocacy, and collaboration. The policy emphasises the importance of community understanding of the climate crisis and the ways in which they can take action. It also highlights the need for political action, peer-to-peer education, community-based projects, and community resilience building. The policy also outlines plans to develop and implement a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. Furthermore, the policy aims to develop a community climate civic participation and leadership program, focused on increasing skills and ability for the community to act on climate.",
+          "quote": {
+            "content": "Mobilisation can include political action, peer-to-peer education, community based projects, voting for strong climate candidates, campaigning, individual change or actions, community resilience building, mass actions or many other approaches. Community mobilisation on the climate emergency can take many forms, but community understanding of the climate crisis and ways in which they can take action is essential.",
+            "page": 5,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Maribyrnong City Council Climate Emergency Action Plan does include specific actions for mitigation of greenhouse gas emissions. The plan outlines a clear focus on mitigation, which it defines as ending the climate emergency by reducing and preventing emissions of greenhouse gases, and drawing down greenhouse gases from the atmosphere. The plan includes technological solutions such as transitioning to renewable forms of energy, increasing energy efficiency, and moving investments from fossil fuel industries. It also mentions the use of carbon offsets, which are a way to achieve net zero greenhouse gas emissions by paying for carbon offsets that avoid or remove emissions from the atmosphere. In terms of behaviour change, the plan includes actions such as supporting and working with the community to understand and take action on the climate emergency, and advocating to all levels of government for urgent climate emergency responses. The plan also includes a focus on efficient buildings and infrastructure, and prioritising zero emissions transport outcomes.",
+          "quote": {
+            "content": "This is in \ncontrast to adaptation, which is not about ending the emergency, but is \nabout adjusting to it. Mitigation \nIn terms of climate emergency, mitigation is focused on ending the \nemergency by reducing and preventing emissions of greenhouse gases, \nand draw down of greenhouse gases from the atmosphere.",
+            "page": 6,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan calls for a review of all Council policies, plans, and related strategies to ensure they incorporate a climate emergency response. This response is supported by an Action Plan, which outlines detailed actions to meet the Strategy's direction. Alongside the Action Plan, an Adaptation Framework will be developed to provide further support. The Adaptation Framework is designed to ensure that adaptation actions are incorporated into the review of Council strategies, plans, and policies to protect the City of Maribyrnong and its community. The plan also mentions that adaptation planning is already included in many Council policies, plans, and related strategies. This is either through Council-led initiatives or in response to legislative requirements. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Parallel to the Action Plan, an Adaptation Framework will be developed to provide further support. It calls for a review of all Council polices, plans and related strategies to ensure they build in a climate emergency response. It will also be supported by an Action Plan, which will outline detailed actions to meet the Strategy\u2019s direction.",
+            "page": 10,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions proposed by the Maribyrnong City Council. While the Climate Emergency Action Plan outlines a range of actions to be taken in response to the climate emergency, such as increasing vegetation, prioritising zero emissions transport outcomes, and updating procurement processes to consider climate emergency objectives, it does not provide specific evidence or data to support these actions. The documents mention the development of key measures to track and evaluate actions over the next four years, but they do not detail what these measures are or how they were determined. Furthermore, the documents do not cite any external research, data, or expert opinions that might justify the specific targets and actions proposed. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that key measures will be developed to track and evaluate actions for the next four years. This is to measure the outcomes against the high-level goals in the Climate Emergency Strategy. The strategy and action plan will be reviewed and updated in 2026, and during this review, the need for new goals and actions will be assessed. This suggests that the plan has a built-in mechanism for evaluation and adjustment based on the success of its actions. The plan also includes specific actions with timelines and resources, which further indicates that the success of these actions can be measured against these specified criteria.",
+          "quote": {
+            "content": "The Climate Emergency Strategy and Climate Emergency Action Plan will be reviewed and updated in 2026. Key measures will be developed to track and evaluate actions for the next four years in order to measure the outcomes against the high-level goals in the Climate Emergency Strategy.",
+            "page": 17,
+            "source": "Maribyrnong-VIC-183.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Maribyrnong City Council Climate Emergency Action Plan does indeed outline plans to conduct research within the local community to inform climate actions. The plan includes a range of actions that involve research and investigation, such as assessing land availability for increased vegetation (LUD01), researching opportunities to increase targets for tree cover and green walls in new developments (LUD02), and engaging with research institutes and other groups to ensure innovative climate response (CE11). The plan also includes actions to develop community education programs on climate topics (CE13), and to establish a community group to work with the Council on the climate emergency (CE21). These actions suggest a commitment to informed, evidence-based planning and decision-making, and a recognition of the importance of community engagement and participation in responding to the climate emergency."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents outline a comprehensive plan for addressing climate change, including a review of all Council policies, the development of an Action Plan and an Adaptation Framework, and various specific actions related to energy, efficient buildings and infrastructure, and land use, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do mention the development of partnerships and networks with other Councils and organisations, community education programs, and the review and update of Council policies and plans, but these do not clearly constitute policy experimentation as defined in the question."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate Maribyrnong City Council's intent to advocate upward to state and national governments to support climate action. The council acknowledges that while local governments have a critical role in managing their own greenhouse emissions and supporting local communities, significant change also requires the power of state and federal governments. The council's Climate Emergency Strategy outlines a commitment to advocate, educate, and engage with all levels of government to enact real and meaningful change. This includes actively collaborating with stakeholders and directly influencing the decisions of others in line with the vision and goals of the strategy. The council also plans to develop partnerships and networks with other councils and organisations to enhance the effectiveness of their climate emergency action. This advocacy and collaboration are integral to the council's approach to addressing the climate emergency."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate that the local government is committed to building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes education, mobilisation, action, mitigation, and resilience building. It also emphasises the importance of ensuring that councillors, the executive management team, and council staff understand and act on their roles in a climate emergency response. The policy also encourages collaboration with and support for other councils in implementing a climate emergency response. Furthermore, the policy outlines specific actions such as developing a community climate education plan and education programs for residents, businesses, and industry on a range of climate topics. It also plans to establish a community group to work with the council on the climate emergency, focusing on climate justice.",
+          "quote": {
+            "content": "Ensure Councillors, the Executive Management Team and Council staff understand and act on their roles in a climate emergency response.",
+            "page": 13,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate. While the documents do emphasize the importance of collaboration, partnerships, and advocacy in addressing the climate emergency, they do not provide specific details about who these partners might be. The documents mention the need to 'develop partnerships and networks with other Councils and organisations', 'collaborate with stakeholders', and 'work with Traditional Owners and First Nations people', but these are general statements and do not refer to any specific entities or partnerships. Therefore, based on the provided documents, it cannot be confirmed that the local government is part of any specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents provided by the Maribyrnong City Council do indeed discuss the impact of climate change on vulnerable communities. The council acknowledges that the climate emergency affects everyone, but it also recognizes that certain groups are more vulnerable to its impacts. Specifically, the council identifies Aboriginal and Torres Strait Islander people as highly vulnerable to the impacts of climate change due to the social and economic inequality they experience as a result of colonialism. The council also acknowledges that the vulnerable, socially and economically disadvantaged, and those who have typically made the least contribution to the problem, often have less capacity to respond and are often disproportionately affected by the impacts of climate change. This recognition of the differential impacts of climate change is crucial for developing equitable and socially just responses to the climate emergency.",
+          "quote": {
+            "content": "Aboriginal and Torres Strait Islander people are highly vulnerable to the impacts of climate change due to the social and economic inequality they experience as a result of colonialism.",
+            "page": 3,
+            "source": "Maribyrnong-VIC-184.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not provide explicit details on how to equitably share the benefits and opportunities of a safe climate. While the documents do mention the importance of a fair and just response to the climate emergency, particularly for vulnerable and disadvantaged communities, they do not outline specific strategies or actions to ensure that the benefits and opportunities of a safe climate are shared equitably. The documents focus more on the need for collective action, the reduction of greenhouse gas emissions, and the importance of community engagement and resilience. However, they do not delve into the specifics of how these actions will lead to equitable outcomes or how the benefits of these actions will be distributed among different groups within the community."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 89.2
+  }
+}

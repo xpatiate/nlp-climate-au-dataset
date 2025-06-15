@@ -1,1 +1,324 @@
-{"settings": {"source_files": ["YarraRanges-VIC-206.pdf", "YarraRanges-VIC-207.pdf", "YarraRanges-VIC-208.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T15:30:20.536510", "lga": "YarraRanges"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy documents clearly indicate that climate action is a core purpose of the policy. The policy aims to provide a corporate response to climate change, peak oil, and carbon pollution. It outlines strategic directions for the organization, promotes actions that can be adopted to implement these directions, and identifies risks related to climate change. The policy also includes a plan for how the organization will respond to a changing climate and energy future, addressing associated risks and opportunities. The policy is accompanied by background research, risk assessments, and a guide to action planning. The policy also outlines specific actions that will be taken, such as improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organization' review on current oil and other fossil fuel needs, and improving communication of knowledge across the organization in science, policy, and regulatory change related to energy and climate.", "quote": {"content": "\u2022\ufffd Identifies risks that relate to impacts  \nfrom carbon pollution, climate change  \nand peak oil. The purpose is to provide Council with a corporate response that: \u2022\ufffd Links to Council\u2019s strategic objectives and \nsustainable excellence principles. \u2022\ufffd Prioritises a set of strategic directions for \nour organisation. \u2022\ufffd Promotes actions that can be adopted to  \nimplement prioritised directions.", "page": 4, "source": "YarraRanges-VIC-207.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's plan to respond to climate change, with actions spread across the entire organization to reach their goals. The purpose of the plan is to provide a corporate response that links to the Council\u2019s strategic objectives and sustainable excellence principles. It aims to prioritize strategic directions, promote actions for implementation, identify risks from carbon pollution, climate change, and peak oil, and fit into existing strategies, policies, and action plans. The plan also aims to address the strategic objectives outlined in the Council\u2019s Plan, which include managing carbon pollution, promoting an energy transition, and adapting to climate change. The documents also highlight the risks that climate change poses, such as increasing energy costs, compounding health impacts, policy and legislation flux, changes in community and customer needs, disruptions in Council services, and budget pressure.", "quote": {"content": "\u2022\ufffd Identifies risks that relate to impacts  \nfrom carbon pollution, climate change  \nand peak oil. The purpose is to provide Council with a corporate response that:\n\u2022\ufffd Links to Council\u2019s strategic objectives and \nsustainable excellence principles. \u2022\ufffd Prioritises a set of strategic directions for \nour organisation. \u2022\ufffd Promotes actions that can be adopted to  \nimplement prioritised directions.", "page": 4, "source": "YarraRanges-VIC-207.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a plan for the local government to respond to climate change, including strategies for reducing emissions, preparing for a changing climate, demonstrating responsible climate leadership, and working with the community. The documents also detail specific actions to be taken, such as improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organisation' review on current oil and other fossil fuel needs, and identifying risks that could disrupt Council services in a changing climate. However, while these actions indicate a commitment to addressing climate change, they do not convey a sense of urgency or the need for rapid action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Liveable Climate Action Plan 2020\u20142030' indicates a 10-year timeframe for the plan's implementation. The documents also mention that the plan will be assessed annually through the Council's reporting framework. Furthermore, the documents outline actions to be taken within 3 years and between 3-5 years and 5-10 years. These actions include improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organisation' review on current oil and other fossil fuel needs, and assessing existing Council owned assets and services to identify carbon reduction opportunities. Therefore, the documents do provide specific timeframes for their intended actions on climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's planned actions in response to climate change, including strategies to reduce greenhouse gas emissions, increase use of renewable fuels, and build resilience to climate change impacts. However, these actions are presented as part of the council's overall strategic objectives and sustainable excellence principles, rather than as a higher priority over other policies. The documents also mention the importance of considering climate change in all strategies, policies, programs, and services, but this is not the same as stating that climate change response should take precedence over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's plan outlines the role that every team within the council will play in responding to climate change, ensuring that the entire organisation is working towards the same goals. The plan provides direction on how the organisation will respond to a changing climate, informed by background research and risk assessments. It is accompanied by a detailed action plan, and actions will be driven through council and department business planning. Every department in the council will plan actions annually in accordance with the council\u2019s organisational planning framework. The council also aims to reduce emissions, prepare for a changing climate, and demonstrate responsible climate leadership. The plan will be assessed annually through the council\u2019s reporting framework, ensuring that progress is being made towards the targets.", "quote": {"content": "This work across the entire organisation will ensure we can reach our goals. The actions in this document outline the role that every team within Council will play in responding to climate change.", "page": 2, "source": "YarraRanges-VIC-208.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's plan does indeed allocate funding for climate action. This is evident in several instances throughout the documents. For instance, the plan outlines the establishment of a Resilient Communities Program, which is allocated a budget of $250,000 per year. This program is designed to help local communities overcome barriers to investing in climate resilience measures. Additionally, the plan also proposes the development of a comprehensive Sustainable Business Program, which is allocated a budget of $100,000 per year. This program is aimed at supporting the transition to a vibrant, zero-carbon and circular economy. Furthermore, the plan also proposes the administration of a dedicated Climate Action Fund to upgrade facilities and equipment, improving energy and water efficiency, building climate resilience and continuing the shift to renewable resources. This fund is allocated a budget of $250,000 per year. These allocations of funding are clear indications of the local government's commitment to climate action.", "quote": {"content": "Develop and coordinate a comprehensive Sustainable Business Program to actively support the transition to a vibrant, zero-carbon and circular economy.", "page": 11, "source": "YarraRanges-VIC-208.pdf", "search_score": 0.96}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a strategic approach to reducing emissions and adapting to climate change, which involves the entire organization. It is clear from the documents that every department within the council has a role to play in implementing the plan. For instance, the plan includes actions such as providing planning applicants with an Environmentally Sustainable Development (ESD) Advisory Service, and establishing a Resilient Communities Program to help local communities invest in climate resilience measures. These actions imply the allocation of staff resources to provide these services and implement these programs. Furthermore, the plan also includes a commitment to continuous improvement through regular planning and reporting cycles, which would require the allocation of staff time and expertise.", "quote": {"content": "The actions Council will embed across all aspects of its business are detailed in the accompanying Action Plan.", "page": 11, "source": "YarraRanges-VIC-206.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at engaging the community in climate action. These include the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures, and the provision of ongoing Practical Support Programs to help residents, schools, groups, and businesses overcome barriers and participate in the transition to a low carbon future. The policy also outlines plans to work with townships to develop tailored Community Resilience Plans, ensuring they can respond to various emergencies, shocks, and stresses resulting from a changing climate. Furthermore, the policy includes plans to engage with communities to identify future service options in response to climate change and peak oil challenges, and to define what Council\u2019s role is in delivering them.", "quote": {"content": "Engage with our communities to identify future service options in response to climate change and peak oil challenges and define what Council\u2019s role is in delivering them.", "page": 9, "source": "YarraRanges-VIC-207.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate action plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reduce corporate greenhouse gas emissions by 30% on 2000 levels by 2020. It also includes a target to transition all council services and infrastructure to 100% renewable energy by 2030, and to achieve net zero emissions by 2040. These targets indicate a clear focus on technological solutions to reduce emissions. The plan also includes actions to improve monitoring and reporting of corporate energy use and greenhouse gas emissions, and to conduct a 'whole of organisation' review on current oil and other fossil fuel needs. This suggests a commitment to behaviour change within the organisation. Furthermore, the plan includes actions to educate and build community resilience to climate change, indicating a focus on behaviour change at the community level as well.", "quote": {"content": "Reduce greenhouse \ngas emissions by 60% \non 2005 levels by 2025\nTransition all council \nservices and infrastructure \nto 100% renewable energy \nby 2030.", "page": 9, "source": "YarraRanges-VIC-206.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, with a focus on resilience and adaptation. It includes specific actions such as the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures, including energy efficiency, water harvesting, renewables, and energy storage. The plan also includes the development of tailored Community Resilience Plans for townships, ensuring they can respond to various emergencies, shocks, and stresses resulting from a changing climate. Furthermore, the plan outlines the provision of ongoing Practical Support Programs that help residents, schools, groups, and businesses to overcome barriers and participate in the transition to a low carbon future. These actions demonstrate a clear commitment to climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's climate action plan, including specific actions and targets, they do not provide the sources of the evidence used to inform these decisions. The documents mention the use of 'background research and risk assessments' to inform the plan, but they do not detail what this research and these assessments entail, nor do they cite specific studies or data. The documents also mention the use of an 'organisational planning framework' and a 'corporate performance reporting system', but again, they do not provide specific details about these systems or how they contribute to the evidence base for the plan. Therefore, while the documents provide a detailed outline of the local government's climate action plan, they do not provide well-sourced evidence to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear framework for monitoring and evaluating its performance. This includes annual assessments through the Council's reporting framework, with specific climate resilience actions documented and delivered throughout Council strategies, policies, and business plans. The plan also sets clear targets, such as a reduction in corporate greenhouse gas emissions by 30% on 2000 levels by 2020, and the inclusion of planning for climate change and peak oil risk in all Council's departments starting from 2013. These targets provide a clear benchmark against which the success of the plan can be measured. Furthermore, the plan includes a commitment to report on progress through the Council's corporate performance reporting system, ensuring ongoing accountability and transparency.", "quote": {"content": "\u2022\ufffd Demonstrate inclusion of planning for climate change and peak oil risk in all Council\u2019s departments starting from 2013. The success of this plan will be evaluated against the following indicators:\n\u2022\ufffd Demonstrate reduction in corporate greenhouse gas emissions by 30% on 2000 levels by 2020.", "page": 13, "source": "YarraRanges-VIC-207.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indicate that the local government has plans to conduct research to inform their climate actions. The policy outlines a comprehensive approach to addressing climate change, which includes conducting background research and risk assessments to inform their action plan. This is evident in the statement that the plan is 'informed by background research and risk assessments, and accompanied by a detailed action plan.' The policy also mentions the development of 'Community Resilience Plans' in partnership with townships, which suggests a level of research and engagement with the local community. Furthermore, the policy emphasizes the importance of evidence-based approaches, which implies the use of research to inform their actions.", "quote": {"content": "It is informed by background research and risk assessments, and accompanied by a detailed action plan. The plan provides direction to Council on how the organisation will respond to a changing climate.", "page": 4, "source": "YarraRanges-VIC-206.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. They outline the local government's plan to respond to climate change, including reducing greenhouse gas emissions, increasing the use of renewable fuels, and building resilience to climate change impacts. The plan also includes monitoring performance against these goals and incorporating climate change planning into all council departments. However, these actions represent standard responses to climate change, rather than innovative or experimental policies. The documents mention the use of background research and risk assessments to inform the plan, but do not provide specific details about these processes or how they might lead to innovative approaches. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined actions and strategies that involve partnerships and advocacy. The local government plans to advocate to the State and Federal government for action on climate change that benefits their local community, including local businesses, households, and the agricultural sector. They also plan to advocate for effective and efficient public transport infrastructure and services throughout their region. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes a focus on partnerships and collaboration. For instance, the policy mentions the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures. It also mentions the coordination of an inter-agency and regional partnership approach to facilitate Regional Resilience. Furthermore, the policy encourages the council to continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach. These actions demonstrate a commitment to building local capacity and fostering partnerships for climate action.", "quote": {"content": "Eastern Alliance for \nGreenhouse Action (EAGA), Cities Power \nPartnership, Sustainability Victoria\u2019s TAKE2 \nprogram. Action 5.4\nContinue to partner across the region and \ngovernment sector, to deliver on climate \nchange initiatives through a collaborative \napproach; e.g.", "page": 7, "source": "YarraRanges-VIC-208.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined its commitment to partner across the region and government sector to deliver on climate change initiatives. This is done through a collaborative approach with specific entities such as the Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, and Sustainability Victoria\u2019s TAKE2 program. These partnerships are aimed at identifying and addressing climate risks and opportunities in the Council Plan and by each business unit through their annual Business Planning process. The government also advocates to State and Federal government for action on climate change that benefits the local community, including local businesses, households, and the agricultural sector.", "quote": {"content": "Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, Sustainability Victoria\u2019s TAKE2 program. Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach; e.g.", "page": 7, "source": "YarraRanges-VIC-208.pdf", "search_score": 0.97}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the risks and challenges posed by climate change, such as increasing energy costs, health impacts, changes in community needs, and disruptions in Council services, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents focus more on the overall community and organizational response to climate change, rather than on specific impacts on different social groups. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered positively."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies, actions, and targets related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities. The documents focus on reducing emissions, planning for climate change risks, partnering for climate initiatives, and monitoring performance towards climate goals. They also mention working with communities and supporting a thriving economy and climate-resilient landscape. However, these references do not explicitly discuss equity or social justice in the context of sharing the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 75.0}}
+{
+  "settings": {
+    "source_files": [
+      "YarraRanges-VIC-206.pdf",
+      "YarraRanges-VIC-207.pdf",
+      "YarraRanges-VIC-208.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T15:30:20.536510",
+    "lga": "YarraRanges"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is a core purpose of the policy. The policy aims to provide a corporate response to climate change, peak oil, and carbon pollution. It outlines strategic directions for the organization, promotes actions that can be adopted to implement these directions, and identifies risks related to climate change. The policy also includes a plan for how the organization will respond to a changing climate and energy future, addressing associated risks and opportunities. The policy is accompanied by background research, risk assessments, and a guide to action planning. The policy also outlines specific actions that will be taken, such as improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organization' review on current oil and other fossil fuel needs, and improving communication of knowledge across the organization in science, policy, and regulatory change related to energy and climate.",
+          "quote": {
+            "content": "\u2022\ufffd Identifies risks that relate to impacts  \nfrom carbon pollution, climate change  \nand peak oil. The purpose is to provide Council with a corporate response that: \u2022\ufffd Links to Council\u2019s strategic objectives and \nsustainable excellence principles. \u2022\ufffd Prioritises a set of strategic directions for \nour organisation. \u2022\ufffd Promotes actions that can be adopted to  \nimplement prioritised directions.",
+            "page": 4,
+            "source": "YarraRanges-VIC-207.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's plan to respond to climate change, with actions spread across the entire organization to reach their goals. The purpose of the plan is to provide a corporate response that links to the Council\u2019s strategic objectives and sustainable excellence principles. It aims to prioritize strategic directions, promote actions for implementation, identify risks from carbon pollution, climate change, and peak oil, and fit into existing strategies, policies, and action plans. The plan also aims to address the strategic objectives outlined in the Council\u2019s Plan, which include managing carbon pollution, promoting an energy transition, and adapting to climate change. The documents also highlight the risks that climate change poses, such as increasing energy costs, compounding health impacts, policy and legislation flux, changes in community and customer needs, disruptions in Council services, and budget pressure.",
+          "quote": {
+            "content": "\u2022\ufffd Identifies risks that relate to impacts  \nfrom carbon pollution, climate change  \nand peak oil. The purpose is to provide Council with a corporate response that:\n\u2022\ufffd Links to Council\u2019s strategic objectives and \nsustainable excellence principles. \u2022\ufffd Prioritises a set of strategic directions for \nour organisation. \u2022\ufffd Promotes actions that can be adopted to  \nimplement prioritised directions.",
+            "page": 4,
+            "source": "YarraRanges-VIC-207.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a plan for the local government to respond to climate change, including strategies for reducing emissions, preparing for a changing climate, demonstrating responsible climate leadership, and working with the community. The documents also detail specific actions to be taken, such as improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organisation' review on current oil and other fossil fuel needs, and identifying risks that could disrupt Council services in a changing climate. However, while these actions indicate a commitment to addressing climate change, they do not convey a sense of urgency or the need for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Liveable Climate Action Plan 2020\u20142030' indicates a 10-year timeframe for the plan's implementation. The documents also mention that the plan will be assessed annually through the Council's reporting framework. Furthermore, the documents outline actions to be taken within 3 years and between 3-5 years and 5-10 years. These actions include improving monitoring and reporting of corporate energy use and greenhouse gas emissions, conducting a 'whole of organisation' review on current oil and other fossil fuel needs, and assessing existing Council owned assets and services to identify carbon reduction opportunities. Therefore, the documents do provide specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's planned actions in response to climate change, including strategies to reduce greenhouse gas emissions, increase use of renewable fuels, and build resilience to climate change impacts. However, these actions are presented as part of the council's overall strategic objectives and sustainable excellence principles, rather than as a higher priority over other policies. The documents also mention the importance of considering climate change in all strategies, policies, programs, and services, but this is not the same as stating that climate change response should take precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that all council activities must be aligned with climate policy. The council's plan outlines the role that every team within the council will play in responding to climate change, ensuring that the entire organisation is working towards the same goals. The plan provides direction on how the organisation will respond to a changing climate, informed by background research and risk assessments. It is accompanied by a detailed action plan, and actions will be driven through council and department business planning. Every department in the council will plan actions annually in accordance with the council\u2019s organisational planning framework. The council also aims to reduce emissions, prepare for a changing climate, and demonstrate responsible climate leadership. The plan will be assessed annually through the council\u2019s reporting framework, ensuring that progress is being made towards the targets.",
+          "quote": {
+            "content": "This work across the entire organisation will ensure we can reach our goals. The actions in this document outline the role that every team within Council will play in responding to climate change.",
+            "page": 2,
+            "source": "YarraRanges-VIC-208.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. This is evident in several instances throughout the documents. For instance, the plan outlines the establishment of a Resilient Communities Program, which is allocated a budget of $250,000 per year. This program is designed to help local communities overcome barriers to investing in climate resilience measures. Additionally, the plan also proposes the development of a comprehensive Sustainable Business Program, which is allocated a budget of $100,000 per year. This program is aimed at supporting the transition to a vibrant, zero-carbon and circular economy. Furthermore, the plan also proposes the administration of a dedicated Climate Action Fund to upgrade facilities and equipment, improving energy and water efficiency, building climate resilience and continuing the shift to renewable resources. This fund is allocated a budget of $250,000 per year. These allocations of funding are clear indications of the local government's commitment to climate action.",
+          "quote": {
+            "content": "Develop and coordinate a comprehensive Sustainable Business Program to actively support the transition to a vibrant, zero-carbon and circular economy.",
+            "page": 11,
+            "source": "YarraRanges-VIC-208.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate non-monetary institutional resources to climate action. The plan outlines a strategic approach to reducing emissions and adapting to climate change, which involves the entire organization. It is clear from the documents that every department within the council has a role to play in implementing the plan. For instance, the plan includes actions such as providing planning applicants with an Environmentally Sustainable Development (ESD) Advisory Service, and establishing a Resilient Communities Program to help local communities invest in climate resilience measures. These actions imply the allocation of staff resources to provide these services and implement these programs. Furthermore, the plan also includes a commitment to continuous improvement through regular planning and reporting cycles, which would require the allocation of staff time and expertise.",
+          "quote": {
+            "content": "The actions Council will embed across all aspects of its business are detailed in the accompanying Action Plan.",
+            "page": 11,
+            "source": "YarraRanges-VIC-206.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at engaging the community in climate action. These include the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures, and the provision of ongoing Practical Support Programs to help residents, schools, groups, and businesses overcome barriers and participate in the transition to a low carbon future. The policy also outlines plans to work with townships to develop tailored Community Resilience Plans, ensuring they can respond to various emergencies, shocks, and stresses resulting from a changing climate. Furthermore, the policy includes plans to engage with communities to identify future service options in response to climate change and peak oil challenges, and to define what Council\u2019s role is in delivering them.",
+          "quote": {
+            "content": "Engage with our communities to identify future service options in response to climate change and peak oil challenges and define what Council\u2019s role is in delivering them.",
+            "page": 9,
+            "source": "YarraRanges-VIC-207.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reduce corporate greenhouse gas emissions by 30% on 2000 levels by 2020. It also includes a target to transition all council services and infrastructure to 100% renewable energy by 2030, and to achieve net zero emissions by 2040. These targets indicate a clear focus on technological solutions to reduce emissions. The plan also includes actions to improve monitoring and reporting of corporate energy use and greenhouse gas emissions, and to conduct a 'whole of organisation' review on current oil and other fossil fuel needs. This suggests a commitment to behaviour change within the organisation. Furthermore, the plan includes actions to educate and build community resilience to climate change, indicating a focus on behaviour change at the community level as well.",
+          "quote": {
+            "content": "Reduce greenhouse \ngas emissions by 60% \non 2005 levels by 2025\nTransition all council \nservices and infrastructure \nto 100% renewable energy \nby 2030.",
+            "page": 9,
+            "source": "YarraRanges-VIC-206.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change, with a focus on resilience and adaptation. It includes specific actions such as the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures, including energy efficiency, water harvesting, renewables, and energy storage. The plan also includes the development of tailored Community Resilience Plans for townships, ensuring they can respond to various emergencies, shocks, and stresses resulting from a changing climate. Furthermore, the plan outlines the provision of ongoing Practical Support Programs that help residents, schools, groups, and businesses to overcome barriers and participate in the transition to a low carbon future. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's climate action plan, including specific actions and targets, they do not provide the sources of the evidence used to inform these decisions. The documents mention the use of 'background research and risk assessments' to inform the plan, but they do not detail what this research and these assessments entail, nor do they cite specific studies or data. The documents also mention the use of an 'organisational planning framework' and a 'corporate performance reporting system', but again, they do not provide specific details about these systems or how they contribute to the evidence base for the plan. Therefore, while the documents provide a detailed outline of the local government's climate action plan, they do not provide well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear framework for monitoring and evaluating its performance. This includes annual assessments through the Council's reporting framework, with specific climate resilience actions documented and delivered throughout Council strategies, policies, and business plans. The plan also sets clear targets, such as a reduction in corporate greenhouse gas emissions by 30% on 2000 levels by 2020, and the inclusion of planning for climate change and peak oil risk in all Council's departments starting from 2013. These targets provide a clear benchmark against which the success of the plan can be measured. Furthermore, the plan includes a commitment to report on progress through the Council's corporate performance reporting system, ensuring ongoing accountability and transparency.",
+          "quote": {
+            "content": "\u2022\ufffd Demonstrate inclusion of planning for climate change and peak oil risk in all Council\u2019s departments starting from 2013. The success of this plan will be evaluated against the following indicators:\n\u2022\ufffd Demonstrate reduction in corporate greenhouse gas emissions by 30% on 2000 levels by 2020.",
+            "page": 13,
+            "source": "YarraRanges-VIC-207.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government has plans to conduct research to inform their climate actions. The policy outlines a comprehensive approach to addressing climate change, which includes conducting background research and risk assessments to inform their action plan. This is evident in the statement that the plan is 'informed by background research and risk assessments, and accompanied by a detailed action plan.' The policy also mentions the development of 'Community Resilience Plans' in partnership with townships, which suggests a level of research and engagement with the local community. Furthermore, the policy emphasizes the importance of evidence-based approaches, which implies the use of research to inform their actions.",
+          "quote": {
+            "content": "It is informed by background research and risk assessments, and accompanied by a detailed action plan. The plan provides direction to Council on how the organisation will respond to a changing climate.",
+            "page": 4,
+            "source": "YarraRanges-VIC-206.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's climate policy includes a commitment to testing and implementing new approaches to climate action. This is evident in their plan to identify demonstration projects to illustrate what can be achieved by community and business in regard to acting on climate change and peak oil. These demonstration projects can be considered as policy experiments as they involve testing new approaches to climate action under real-world conditions. The policy also includes a commitment to continuous improvement, which suggests an iterative approach to policy implementation that allows for learning and adaptation. This is a key characteristic of policy experimentation. Furthermore, the policy's emphasis on an evidence-based approach suggests that the outcomes of these experiments will be carefully evaluated, which is another important aspect of policy experimentation.",
+          "quote": {
+            "content": "Identify demonstration projects to illustrate what can be achieved by community and business in regard to acting on climate change and peak oil.",
+            "page": 10,
+            "source": "YarraRanges-VIC-207.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined actions and strategies that involve partnerships and advocacy. The local government plans to advocate to the State and Federal government for action on climate change that benefits their local community, including local businesses, households, and the agricultural sector. They also plan to advocate for effective and efficient public transport infrastructure and services throughout their region. These actions demonstrate a clear intent to engage with higher levels of government to promote and support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate change, which includes a focus on partnerships and collaboration. For instance, the policy mentions the establishment of a Resilient Communities Program to help local communities overcome barriers to investing in climate resilience measures. It also mentions the coordination of an inter-agency and regional partnership approach to facilitate Regional Resilience. Furthermore, the policy encourages the council to continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach. These actions demonstrate a commitment to building local capacity and fostering partnerships for climate action.",
+          "quote": {
+            "content": "Eastern Alliance for \nGreenhouse Action (EAGA), Cities Power \nPartnership, Sustainability Victoria\u2019s TAKE2 \nprogram. Action 5.4\nContinue to partner across the region and \ngovernment sector, to deliver on climate \nchange initiatives through a collaborative \napproach; e.g.",
+            "page": 7,
+            "source": "YarraRanges-VIC-208.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined its commitment to partner across the region and government sector to deliver on climate change initiatives. This is done through a collaborative approach with specific entities such as the Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, and Sustainability Victoria\u2019s TAKE2 program. These partnerships are aimed at identifying and addressing climate risks and opportunities in the Council Plan and by each business unit through their annual Business Planning process. The government also advocates to State and Federal government for action on climate change that benefits the local community, including local businesses, households, and the agricultural sector.",
+          "quote": {
+            "content": "Eastern Alliance for Greenhouse Action (EAGA), Cities Power Partnership, Sustainability Victoria\u2019s TAKE2 program. Continue to partner across the region and government sector, to deliver on climate change initiatives through a collaborative approach; e.g.",
+            "page": 7,
+            "source": "YarraRanges-VIC-208.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the risks and challenges posed by climate change, such as increasing energy costs, health impacts, changes in community needs, and disruptions in Council services, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents focus more on the overall community and organizational response to climate change, rather than on specific impacts on different social groups. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered positively."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies, actions, and targets related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities. The documents focus on reducing emissions, planning for climate change risks, partnering for climate initiatives, and monitoring performance towards climate goals. They also mention working with communities and supporting a thriving economy and climate-resilient landscape. However, these references do not explicitly discuss equity or social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 75.0
+  }
+}

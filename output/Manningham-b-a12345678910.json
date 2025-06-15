@@ -1,1 +1,250 @@
-{"settings": {"source_files": ["Manningham-VIC-181.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T10:55:55.566283", "lga": "Manningham"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose or goal. The policy is structured around several priority areas, each with specific goals and actions related to climate change and environmental sustainability. These include 'Lead sustainability action', 'Protect our biodiversity', 'Address our waste', 'Work with you', and 'Manage our water'. Each of these priority areas includes specific actions for the 2019/20 period that are aimed at reducing environmental impact and adapting to climate change. For example, under 'Lead sustainability action', the policy outlines plans to optimize energy, waste, and water management, including a joint tender for a renewable energy purchasing agreement and the exploration of electric cars for the council's fleet. The policy also includes a goal to 'Reduce our environmental impact and adapt to climate change' under each priority area, further emphasizing the centrality of climate action to the policy's purpose."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": false, "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's plans and actions to reduce environmental impact and adapt to climate change, such as optimizing energy, waste, and water management, exploring renewable energy options, and implementing community education programs. However, they do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. The documents focus more on the actions being taken and the goals set, rather than providing a detailed explanation of the reasons behind these actions. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's plans and actions to reduce environmental impact and adapt to climate change, such as optimizing the management of energy, waste, and water, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these actions are presented as ongoing or future plans, rather than urgent measures. The documents also mention challenges and goals, but do not express a sense of urgency or immediate action. Therefore, based on the provided documents, the local government appears to be taking a steady and planned approach to addressing climate change, rather than calling for rapid and urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the documents outline various actions and initiatives that the local government plans to undertake, such as preparing for a renewable energy purchasing agreement, installing solar and battery systems, exploring the feasibility of electric cars, and developing a new emissions reduction target, they do not specify when these actions will be completed. The documents also mention past actions and achievements, such as reducing carbon emissions by 25% since 2008/09 and adding 18 hybrid cars to the fleet, but these are retrospective and do not provide a timeframe for future actions. Therefore, the documents do not meet the high standard of evidence required to affirm that they give specific timeframes for their intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the local government's commitment to reducing environmental impact and adapting to climate change, they do not explicitly prioritize these actions over other policies. The documents outline various actions and initiatives related to sustainability, such as optimizing energy, waste, and water management, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these are presented as part of the council's overall plan and not as a response to a climate emergency that takes precedence over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline various actions and goals related to reducing environmental impact and adapting to climate change, such as optimising energy, waste, and water management, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these are specific initiatives rather than a blanket requirement for all council activities to align with climate policy. The documents also mention the council's plan to work with the community and build awareness of environmental issues, but again, this is not presented as a requirement for all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the local government's plan outlines various actions related to climate change, such as reducing environmental impact, optimizing energy, waste, and water management, and implementing sustainable practices, there is no specific mention of budget allocation or funding for these initiatives. The plan does detail actions like preparing for a renewable energy purchasing agreement, installing solar and battery systems, and exploring the feasibility of electric cars, but these are stated as actions to be taken, not as budgeted items. Therefore, without explicit evidence of financial allocation towards these climate actions, the question cannot be answered in the affirmative."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that would require the allocation of staff and other institutional resources. For instance, the plan mentions the continuation of community education programs to reduce environmental impact, which would require staff to develop and deliver these programs. The plan also mentions the initiation of live electronic monitoring of water meters and the investigation of new ways to harvest water, which would require technical staff and resources. Furthermore, the plan mentions the preparation for a joint tender with other councils for a renewable energy purchasing agreement, which would require staff to prepare and manage this tender. Therefore, while the plan does not explicitly state the allocation of staff or other non-monetary institutional resources, it is implicit in the actions outlined in the plan."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively working to empower and educate the community to support and work together to deliver climate action. The council has outlined a plan to build community awareness and support of environmental issues, and to demonstrate leadership in sustainable and innovative environmental practices. They have also planned to continue community education programs to reduce environmental impact. In the past, they have supported volunteers through their Waterwatch program to monitor local water quality and get involved in stream rehabilitation programs. They have also run workshops, seminars, and walks attended by a significant number of people. These actions indicate a commitment to social mobilisation for climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of both technological solutions and behaviour change initiatives. Technological solutions include the preparation for a joint tender with 47 other councils for a renewable energy purchasing agreement to power 40% of the Council\u2019s electricity use with solar or wind generation, the continued rollout of energy efficient LED streetlights, and the installation of solar and battery systems at various centres. The plan also mentions the exploration of the feasibility of electric cars for the council's fleet. In terms of behaviour change, the plan includes the continuation of community education programs to reduce environmental impact and the fostering of community partnerships in protecting natural spaces. However, while these actions are commendable, the plan could benefit from more specific targets and timelines to ensure accountability and progress tracking."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The local government's plan does not provide specific actions for climate adaptation and resilience. While the plan does mention the goal to 'reduce our environmental impact and adapt to climate change', it does not outline any specific strategies or actions that directly address climate adaptation and resilience. The actions mentioned in the plan are more focused on mitigation efforts such as reducing carbon emissions, optimizing energy, waste and water management, and promoting environmental awareness and sustainable practices. While these actions can indirectly contribute to climate adaptation and resilience, they do not directly address the challenges and risks posed by a changing climate such as increasing temperatures, extreme weather events, and sea-level rise. Therefore, the plan lacks specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and goals related to climate change, such as reducing environmental impact, optimizing energy, waste and water management, and exploring renewable energy options, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention a number of initiatives, such as a joint tender for a renewable energy purchasing agreement, the rollout of energy efficient LED streetlights, and the exploration of electric cars for the council's fleet. However, they do not provide any data, research, or other evidence to support the effectiveness or necessity of these actions. Furthermore, the documents do not provide any clear, measurable targets for their climate actions, making it difficult to assess their adequacy or ambition. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence and specific detail required to justify their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various actions to be taken in the areas of water management, community education, energy optimization, biodiversity protection, and waste management, it does not provide clear, quantifiable metrics or targets against which the success of these actions can be evaluated. For instance, while the plan mentions initiatives like live electronic monitoring of water meters, exploring new ways to harvest water, and continuing community education programs, it does not specify what outcomes would constitute success in these areas. The absence of such criteria makes it difficult to assess whether the plan's actions are effective in achieving their intended goals."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government's plans, as outlined in the documents, primarily focus on implementing actions and initiatives that have already been decided upon. These include efforts to reduce environmental impact, adapt to climate change, optimize energy, waste, and water management, and foster community partnerships. The documents mention community education programs, awareness campaigns, and engagement programs, but these seem to be more about informing the community and encouraging their participation rather than conducting research to inform the local government's climate actions. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined several innovative strategies to manage environmental impact and adapt to climate change. These include the initiation of live electronic monitoring of water meters, investigating new ways to harvest water through water sensitive urban design, and exploring the feasibility of electric cars for their fleet. They also plan to prepare for a joint tender with 47 other councils for a renewable energy purchasing agreement to power 40% of Council\u2019s electricity use with solar or wind generation. These actions demonstrate a willingness to experiment with new technologies and approaches to address climate change, indicating a commitment to innovation in their climate policies."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The local government policy focuses on local actions such as community education programs, sustainable management of natural spaces, energy efficiency measures, and waste management. While there is mention of 'advocacy to the Victorian Government' in the context of deer control, this does not relate to climate action. The policy does demonstrate a commitment to environmental sustainability and climate change adaptation at the local level, but there is no clear evidence of intent to advocate for climate action at higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the council's efforts to work with the community and to build their own capacity, such as through community education programs and the complex task of installing and operating solar systems, there is no explicit mention of coordinating with neighbouring local councils. The documents focus primarily on the council's own actions and initiatives, such as reducing environmental impact, managing waste and water, and protecting biodiversity. Therefore, while there is evidence of the council working towards climate action and involving the local community in these efforts, there is no clear evidence of coordination, partnerships, and advocacy for action with neighbouring local councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations and alliances related to climate. The local government has mentioned its involvement with the 'Northern Alliance for Greenhouse Action' and the 'Municipal Association of Victoria'. The Northern Alliance for Greenhouse Action is a network of councils in Melbourne's north working towards mitigating and adapting to climate change. The Municipal Association of Victoria is the legislated peak body for Victoria's 79 councils, which also works on environmental issues including climate change. These partnerships indicate a collaborative approach to addressing climate change, suggesting that the local government is not working in isolation but is part of broader networks and alliances. This can enhance the effectiveness and reach of their climate-related policies and actions."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's environmental initiatives, such as reducing environmental impact, adapting to climate change, protecting biodiversity, and managing waste and water. The documents detail the council's plans and actions, including community education programs, sustainable practices, and environmental monitoring. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures being taken to address equity and social justice in this context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the local government policy does outline various initiatives and actions related to environmental sustainability and climate change adaptation, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The policy focuses on reducing environmental impact, adapting to climate change, protecting biodiversity, and leading sustainability action. It also mentions community education programs, environmental practices, and various initiatives for reducing carbon emissions and managing waste. However, these actions are not discussed in the context of equity or social justice. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 35.8}}
+{
+  "settings": {
+    "source_files": [
+      "Manningham-VIC-181.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T10:55:55.566283",
+    "lga": "Manningham"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose or goal. The policy is structured around several priority areas, each with specific goals and actions related to climate change and environmental sustainability. These include 'Lead sustainability action', 'Protect our biodiversity', 'Address our waste', 'Work with you', and 'Manage our water'. Each of these priority areas includes specific actions for the 2019/20 period that are aimed at reducing environmental impact and adapting to climate change. For example, under 'Lead sustainability action', the policy outlines plans to optimize energy, waste, and water management, including a joint tender for a renewable energy purchasing agreement and the exploration of electric cars for the council's fleet. The policy also includes a goal to 'Reduce our environmental impact and adapt to climate change' under each priority area, further emphasizing the centrality of climate action to the policy's purpose."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's plans and actions to reduce environmental impact and adapt to climate change, such as optimizing energy, waste, and water management, exploring renewable energy options, and implementing community education programs. However, they do not provide a clear rationale or explanation for why these actions are necessary in the context of climate change. The documents focus more on the actions being taken and the goals set, rather than providing a detailed explanation of the reasons behind these actions. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's plans and actions to reduce environmental impact and adapt to climate change, such as optimizing the management of energy, waste, and water, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these actions are presented as ongoing or future plans, rather than urgent measures. The documents also mention challenges and goals, but do not express a sense of urgency or immediate action. Therefore, based on the provided documents, the local government appears to be taking a steady and planned approach to addressing climate change, rather than calling for rapid and urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the documents outline various actions and initiatives that the local government plans to undertake, such as preparing for a renewable energy purchasing agreement, installing solar and battery systems, exploring the feasibility of electric cars, and developing a new emissions reduction target, they do not specify when these actions will be completed. The documents also mention past actions and achievements, such as reducing carbon emissions by 25% since 2008/09 and adding 18 hybrid cars to the fleet, but these are retrospective and do not provide a timeframe for future actions. Therefore, the documents do not meet the high standard of evidence required to affirm that they give specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the local government's commitment to reducing environmental impact and adapting to climate change, they do not explicitly prioritize these actions over other policies. The documents outline various actions and initiatives related to sustainability, such as optimizing energy, waste, and water management, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these are presented as part of the council's overall plan and not as a response to a climate emergency that takes precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline various actions and goals related to reducing environmental impact and adapting to climate change, such as optimising energy, waste, and water management, exploring the feasibility of electric cars, and developing a new emissions reduction target. However, these are specific initiatives rather than a blanket requirement for all council activities to align with climate policy. The documents also mention the council's plan to work with the community and build awareness of environmental issues, but again, this is not presented as a requirement for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the local government's plan outlines various actions related to climate change, such as reducing environmental impact, optimizing energy, waste, and water management, and implementing sustainable practices, there is no specific mention of budget allocation or funding for these initiatives. The plan does detail actions like preparing for a renewable energy purchasing agreement, installing solar and battery systems, and exploring the feasibility of electric cars, but these are stated as actions to be taken, not as budgeted items. Therefore, without explicit evidence of financial allocation towards these climate actions, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that would require the allocation of staff and other institutional resources. For instance, the plan mentions the continuation of community education programs to reduce environmental impact, which would require staff to develop and deliver these programs. The plan also mentions the initiation of live electronic monitoring of water meters and the investigation of new ways to harvest water, which would require technical staff and resources. Furthermore, the plan mentions the preparation for a joint tender with other councils for a renewable energy purchasing agreement, which would require staff to prepare and manage this tender. Therefore, while the plan does not explicitly state the allocation of staff or other non-monetary institutional resources, it is implicit in the actions outlined in the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively working to empower and educate the community to support and work together to deliver climate action. The council has outlined a plan to build community awareness and support of environmental issues, and to demonstrate leadership in sustainable and innovative environmental practices. They have also planned to continue community education programs to reduce environmental impact. In the past, they have supported volunteers through their Waterwatch program to monitor local water quality and get involved in stream rehabilitation programs. They have also run workshops, seminars, and walks attended by a significant number of people. These actions indicate a commitment to social mobilisation for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of both technological solutions and behaviour change initiatives. Technological solutions include the preparation for a joint tender with 47 other councils for a renewable energy purchasing agreement to power 40% of the Council\u2019s electricity use with solar or wind generation, the continued rollout of energy efficient LED streetlights, and the installation of solar and battery systems at various centres. The plan also mentions the exploration of the feasibility of electric cars for the council's fleet. In terms of behaviour change, the plan includes the continuation of community education programs to reduce environmental impact and the fostering of community partnerships in protecting natural spaces. However, while these actions are commendable, the plan could benefit from more specific targets and timelines to ensure accountability and progress tracking."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific actions for climate adaptation and resilience. While the plan does mention the goal to 'reduce our environmental impact and adapt to climate change', it does not outline any specific strategies or actions that directly address climate adaptation and resilience. The actions mentioned in the plan are more focused on mitigation efforts such as reducing carbon emissions, optimizing energy, waste and water management, and promoting environmental awareness and sustainable practices. While these actions can indirectly contribute to climate adaptation and resilience, they do not directly address the challenges and risks posed by a changing climate such as increasing temperatures, extreme weather events, and sea-level rise. Therefore, the plan lacks specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and goals related to climate change, such as reducing environmental impact, optimizing energy, waste and water management, and exploring renewable energy options, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention a number of initiatives, such as a joint tender for a renewable energy purchasing agreement, the rollout of energy efficient LED streetlights, and the exploration of electric cars for the council's fleet. However, they do not provide any data, research, or other evidence to support the effectiveness or necessity of these actions. Furthermore, the documents do not provide any clear, measurable targets for their climate actions, making it difficult to assess their adequacy or ambition. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence and specific detail required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various actions to be taken in the areas of water management, community education, energy optimization, biodiversity protection, and waste management, it does not provide clear, quantifiable metrics or targets against which the success of these actions can be evaluated. For instance, while the plan mentions initiatives like live electronic monitoring of water meters, exploring new ways to harvest water, and continuing community education programs, it does not specify what outcomes would constitute success in these areas. The absence of such criteria makes it difficult to assess whether the plan's actions are effective in achieving their intended goals."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government's plans, as outlined in the documents, primarily focus on implementing actions and initiatives that have already been decided upon. These include efforts to reduce environmental impact, adapt to climate change, optimize energy, waste, and water management, and foster community partnerships. The documents mention community education programs, awareness campaigns, and engagement programs, but these seem to be more about informing the community and encouraging their participation rather than conducting research to inform the local government's climate actions. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has outlined several initiatives that can be considered as experiments to test technologies, policies, and governance approaches on a small scale and under real-world conditions. These include the preparation for a joint tender with 47 other councils for a renewable energy purchasing agreement to power 40% of Council\u2019s electricity use with solar or wind generation, the rollout of energy-efficient LEDs streetlights, the installation of solar and battery systems at specific centres, and the exploration of the feasibility of electric cars for their fleet. These initiatives are all examples of policy experimentation as they involve testing new technologies and approaches to reduce environmental impact and adapt to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The local government policy focuses on local actions such as community education programs, sustainable management of natural spaces, energy efficiency measures, and waste management. While there is mention of 'advocacy to the Victorian Government' in the context of deer control, this does not relate to climate action. The policy does demonstrate a commitment to environmental sustainability and climate change adaptation at the local level, but there is no clear evidence of intent to advocate for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the council's efforts to work with the community and to build their own capacity, such as through community education programs and the complex task of installing and operating solar systems, there is no explicit mention of coordinating with neighbouring local councils. The documents focus primarily on the council's own actions and initiatives, such as reducing environmental impact, managing waste and water, and protecting biodiversity. Therefore, while there is evidence of the council working towards climate action and involving the local community in these efforts, there is no clear evidence of coordination, partnerships, and advocacy for action with neighbouring local councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and alliances related to climate. The local government has mentioned its involvement with the 'Northern Alliance for Greenhouse Action' and the 'Municipal Association of Victoria'. The Northern Alliance for Greenhouse Action is a network of councils in Melbourne's north working towards mitigating and adapting to climate change. The Municipal Association of Victoria is the legislated peak body for Victoria's 79 councils, which also works on environmental issues including climate change. These partnerships indicate a collaborative approach to addressing climate change, suggesting that the local government is not working in isolation but is part of broader networks and alliances. This can enhance the effectiveness and reach of their climate-related policies and actions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's environmental initiatives, such as reducing environmental impact, adapting to climate change, protecting biodiversity, and managing waste and water. The documents detail the council's plans and actions, including community education programs, sustainable practices, and environmental monitoring. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures being taken to address equity and social justice in this context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the local government policy does outline various initiatives and actions related to environmental sustainability and climate change adaptation, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The policy focuses on reducing environmental impact, adapting to climate change, protecting biodiversity, and leading sustainability action. It also mentions community education programs, environmental practices, and various initiatives for reducing carbon emissions and managing waste. However, these actions are not discussed in the context of equity or social justice. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 35.8
+  }
+}

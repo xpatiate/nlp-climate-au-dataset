@@ -1,1 +1,305 @@
-{"settings": {"source_files": ["Cairns-QLD-61.pdf", "Cairns-QLD-62.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T14:12:09.117016", "lga": "Cairns"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Cairns Climate Change Strategy 2030, clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan for the Cairns Regional Council to achieve net zero emissions by 2030 and to support the climate aspirations of the community. The policy is structured around six focus areas: community, industry, energy, transport, built environment, and natural environment. Each of these areas has specific objectives and actions designed to mitigate greenhouse gas emissions and adapt to climate change impacts. The policy also includes provisions for monitoring and reporting on progress towards its climate targets, demonstrating a commitment to transparency and accountability. The policy's emphasis on both mitigation and adaptation, its comprehensive approach, and its commitment to achieving net zero emissions by 2030 all indicate that climate action is indeed the core purpose of the policy.", "quote": {"content": "The Cairns Climate Change Strategy 2030 sets out a pathway for Cairns Regional Council to achieve net zero emissions by 2030 and to support the climate aspirations of our community.", "page": 2, "source": "Cairns-QLD-62.pdf", "search_score": 0.96}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Cairns Climate Change Strategy 2030 is presented as a response to the community's strong desire for the Council to show leadership on climate change. The strategy is framed as a commitment to the community on climate action, with the aim of achieving net zero emissions by 2030. The documents also highlight the importance of climate action in the context of global commitments, such as the Paris Climate Agreement, and the potential social and economic impacts of delayed emissions reductions. The strategy outlines over 100 actions across six focus areas, demonstrating a comprehensive approach to addressing climate change. The documents also emphasize the importance of accountability and transparency in the implementation of the strategy, with plans for regular evaluation and reporting on progress.", "quote": {"content": "This strategy is our commitment to our community on climate action. What we have heard is that a strong majority of people in Cairns want Council to show leadership and action on climate change.", "page": 2, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for urgent action on climate change. The local government acknowledges the need for immediate measures to address the impacts of climate change and improve the resilience of the local environment, community, and economy. The documents highlight the community's strong desire for the council to show leadership and take action on climate change. The Cairns Climate Change Strategy 2030 is presented as a pathway for the council to achieve net zero emissions by 2030, indicating a sense of urgency in addressing climate change. The strategy includes a commitment to track the implementation of the strategy and monitor progress towards net zero emissions, further emphasizing the need for immediate and ongoing action. The documents also highlight the risks of delayed emissions reductions and the advantages of a proactive economic transition prior to 2050, suggesting a sense of urgency in mitigating climate change impacts.", "quote": {"content": "Urgent action is required to address the impacts of climate change and improve the resilience of our local environment, community and economy.", "page": 5, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. The Cairns Climate Change Strategy 2030, as the name suggests, outlines a strategy for the next decade, aiming to achieve net zero emissions by 2030. The document also mentions an implementation plan that will keep track of each initiative, outlining how and when actions will be implemented. This plan is described as a 'live working document', suggesting that it will be regularly updated and adjusted as necessary. The document also refers to the Paris Climate Agreement's global goal of net zero emissions no later than 2050, indicating an awareness of broader international timeframes. However, the document does not provide detailed timelines or deadlines for each specific action within the strategy.", "quote": {"content": "The implementation plan is a live working document keeping track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. This strategy will be supported by an implementation plan covering the next decade.", "page": 17, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including setting a pathway to achieve net zero emissions by 2030, developing a strategic approach to urban greening, and incorporating climate change considerations into planning and development, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate action and outline specific strategies and objectives related to climate change, but they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response is given higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do indicate that all council activities should be aligned with the climate policy. The Cairns Climate Change Strategy 2030 outlines actions that cover all areas of Council responsibility, indicating that all council activities should be in line with the climate policy. The strategy emphasizes the need for sound governance, which includes well-aligned risk management procedures to proactively analyze, mitigate, and adapt to climate risk and impacts. The strategy also mentions the establishment of an internal Sustainability Advisory Group to oversee the implementation of the strategy, further suggesting that all council activities should be aligned with the climate policy. The strategy also includes the development of an implementation plan that outlines how and when actions will be implemented, and who will be responsible for implementation and governance, which suggests a comprehensive approach to aligning all council activities with the climate policy.", "quote": {"content": "Governance refers to having well-aligned risk management procedures to proactively analyse, mitigate and adapt to climate risk and impacts, and to ensure progress is being made across Council.", "page": 17, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The local government policy does not explicitly allocate funding for climate action. While the policy outlines a comprehensive approach to addressing climate change, including the development of strategies, policies, and plans, the establishment of an internal Sustainability Advisory Group, and the implementation of various initiatives, it does not provide specific details on the allocation of funding for these actions. The policy mentions the development of an implementation plan, which is intended to track each initiative, outline how and when actions will be implemented, and identify who will be responsible for implementation and governance. However, it does not explicitly state that funding will be allocated for these initiatives. Therefore, without clear evidence of explicit funding allocation for climate action in the provided documents, the question cannot be answered in the affirmative."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines the establishment of an internal Sustainability Advisory Group, which will be responsible for overseeing the implementation of the Strategy. This group will consist of representatives from each key department of the Council, meeting quarterly. The Advisory Group will be accountable to the Council Executive and Councillors. This allocation of staff time and expertise is a clear commitment of institutional resources towards climate action. Furthermore, the policy also mentions the development of an implementation plan, which is a live working document that keeps track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. This indicates a structured approach to resource allocation and responsibility assignment for climate action.", "quote": {"content": "The implementation plan is a live working document keeping track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. The Advisory Group will be accountable to the Council Executive and Councillors. This strategy will be supported by an implementation plan covering the next decade.", "page": 17, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a collaborative approach to empower community groups to plan for and address climate change. It also mentions the implementation of the Local Disaster Management Plan and raising awareness through disaster management programs and initiatives. The policy also includes the delivery of education and engagement to identify and address climate risk and build resilience. Furthermore, the policy emphasizes the importance of involving traditional custodians and youth in climate change planning, education, and action. The policy also mentions the development of an emission inventory for the Cairns local government area and the collaboration with climate action stakeholders to deliver targeted community emission reduction education, resources, and initiatives. These actions demonstrate a commitment to social mobilization in the context of climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to reducing emissions through both technological solutions and behaviour change. Technological solutions are evident in the policy's focus on renewable energy, energy efficiency, and the development of a 'Smart Green Economy'. The policy also emphasizes the importance of urban greening and the development of nature-based solutions to address climate hazards. Behaviour change is encouraged through the policy's focus on community engagement and education, as well as through the promotion of sustainable growth and planning. The policy also outlines a commitment to achieving net zero emissions, further demonstrating a clear focus on greenhouse gas mitigation.", "quote": {"content": "The municipal emissions inventory highlights the emissions intensive areas of energy and transport as key sectors where initiatives are needed.", "page": 9, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, incorporating both mitigation and adaptation strategies. It includes measures to incorporate climate risk considerations into planning, development, and management of new and existing buildings, streetscapes, and urban spaces. The policy also includes plans to develop a strategic approach to urban greening and increase city and suburb canopy cover, which can help mitigate urban heat effects and build resilience. Furthermore, the policy outlines plans to develop integrated catchment management plans and build resilience into city and suburbs through water-sensitive urban design. These measures are aimed at addressing climate hazards such as sea level rise, storm surge, flooding, erosion, heat, and fire. The policy also includes plans to deliver a 'Towards 2050 Growth Strategy' that supports sustainable growth while building resilience to the long-term impacts of climate change."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies, actions, and plans to address climate change, it does not provide specific evidence or data to support these actions. For instance, the policy mentions the establishment of an internal Sustainability Advisory Group, the development of a strategic approach to urban greening, and the incorporation of climate change considerations into planning and development. However, it does not provide any data, research, or other forms of evidence to justify these actions or to demonstrate how they will effectively address climate change. Furthermore, the policy does not provide any specific targets or benchmarks for measuring the success of these actions, making it difficult to assess their effectiveness or impact. Therefore, while the policy outlines a number of actions to address climate change, it does not provide well-sourced evidence to justify these actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's climate change strategy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The strategy outlines a range of actions across different focus areas, such as community, industry, energy, transport, built environment, and natural environment. For each of these areas, the strategy provides specific objectives and actions to achieve success. Importantly, the strategy also outlines how success will be measured. For instance, in the area of energy, success will be measured through the total annual fuel consumption by the Council and the percentage of hybrid and electric vehicles in the Council's vehicle fleet. Similarly, in the area of built environment, success will be measured through the percentage change in energy use of Council's top 10 energy consuming buildings and infrastructure, and the percentage of canopy cover in CBD and suburbs. These specific measurable criteria provide a clear framework for evaluating the success of the strategy's proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged in extensive consultation and engagement with the community over a two-year period while developing the Cairns Climate Change Strategy 2030. This included hosting climate summits, workshops, surveys, and internal audits to gather community input and inform the strategy. The documents also mention the development of an emission inventory for the Cairns local government area, which would require research into local emission sources. Furthermore, the local government plans to collaborate with climate action stakeholders to deliver targeted community emission reduction education, resources, and initiatives. This would likely involve research into the most effective strategies for community engagement and education. The documents also mention plans to measure success through various metrics, which would require ongoing research and data collection.", "quote": {"content": "Over 88% of survey respondents in the Cairns community said they wanted Council to show leadership and action on climate change. During two years of consultation and engagement, the community has been appealing to all levels of government and industry to take action to address climate change in our region.", "page": 6, "source": "Cairns-QLD-62.pdf", "search_score": 0.96}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive strategy to address climate change, which includes a variety of innovative approaches. For instance, the policy includes the implementation of a 'tropical urbanism policy' and the development of 'nature-based solutions' to address climate hazards. These initiatives suggest a willingness to experiment with new and potentially innovative methods of addressing climate change. The policy also includes a commitment to 'identify and address urban heat affects to cool our cities and suburbs', which could involve innovative urban planning and design strategies. Furthermore, the policy outlines a strategic approach to urban greening and increasing city and suburb canopy cover, which is an innovative way of using nature-based solutions to mitigate climate change impacts. The policy also includes a commitment to 'advocate for climate risk support at a regional, state and federal level', suggesting a proactive approach to policy advocacy and collaboration."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the policy's commitment to collaborate with climate action stakeholders, encourage the uptake of locally produced goods and services, and advocate for state and federal support for local climate action. The policy also outlines the local government's participation in various climate action partnerships and coalitions, such as the Climate Council\u2019s Cities Power Partnership Coalition, Queensland Climate Resilient Councils, and the LGAQ Climate Advisory Committee. These partnerships and coalitions are platforms through which the local government can advocate for climate action at higher levels of government. The policy's commitment to apply for Climate Active certification once it achieves its target of net zero emissions also demonstrates its intent to align with state and national climate action standards and to advocate for their support."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach to empower community groups to plan for and address climate change. It also emphasizes the importance of strengthening networks to develop collaborative solutions for climate resilience. The policy also mentions the establishment of partnerships with communities to be connected, adaptive, and resilient to the impacts of climate change. Furthermore, the policy highlights the involvement of traditional custodians and values their expertise and input. The policy also outlines the council's role in supporting the region to reduce greenhouse gas emissions, prepare for the unavoidable impacts of climate change, and transition to a net zero emissions economy."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Cairns Regional Council is actively involved in several climate-related partnerships and alliances. These include the Climate Council\u2019s Cities Power Partnership Coalition (CPP), Queensland Climate Resilient Councils (QCRC), LGAQ Climate Advisory Committee, Coastal Councils Adaptation Taskforce (C-CAT), QCoast2100 Councils Leading Coastal Adaptation, ICLEI Oceania \u2013 Local Governments for Sustainability, and the United Nations Office for Disaster Risk Reduction (UNDRR) - Making Cities Resilient Campaign (MCRC). These partnerships and alliances are crucial for the council's climate change strategy as they provide a platform for collaboration, knowledge sharing, and joint action on climate change mitigation and adaptation. They also enable the council to advocate for climate action at various levels of government and industry."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in explicit terms. The policy outlines a commitment to 'strengthen the resilience of vulnerable communities' in the face of climate change. This indicates an awareness of the disproportionate impact of climate change on certain communities, and a commitment to address this inequity. The policy also mentions the need to 'collaborate to address social impacts of climate change', which suggests a recognition of the social justice implications of climate change. However, the documents do not provide specific details on how these impacts will be addressed, or which communities are considered vulnerable. The policy could be improved by providing more specific details on these aspects.", "quote": {"content": "Council\u2019s commitment to the community is to deliver local initiatives that accelerate our regions progress towards State government targets while simultaneously working to strengthen the resilience of vulnerable communities, ensuring they are not disproportionately impacted by climate change risks / impacts.", "page": 11, "source": "Cairns-QLD-62.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention various initiatives related to climate change, such as increasing resilience, diversifying energy sources, and creating workforce opportunities, it does not specifically address the distribution of these benefits in an equitable manner. The policy also mentions collaboration with traditional custodians and involving youth in climate change planning, but these are more related to participation and inclusion rather than the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 16, "num_questions": 20, "attribute_score": 82.5}}
+{
+  "settings": {
+    "source_files": [
+      "Cairns-QLD-61.pdf",
+      "Cairns-QLD-62.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T14:12:09.117016",
+    "lga": "Cairns"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Cairns Climate Change Strategy 2030, clearly identifies climate action as its core purpose. The policy outlines a comprehensive plan for the Cairns Regional Council to achieve net zero emissions by 2030 and to support the climate aspirations of the community. The policy is structured around six focus areas: community, industry, energy, transport, built environment, and natural environment. Each of these areas has specific objectives and actions designed to mitigate greenhouse gas emissions and adapt to climate change impacts. The policy also includes provisions for monitoring and reporting on progress towards its climate targets, demonstrating a commitment to transparency and accountability. The policy's emphasis on both mitigation and adaptation, its comprehensive approach, and its commitment to achieving net zero emissions by 2030 all indicate that climate action is indeed the core purpose of the policy.",
+          "quote": {
+            "content": "The Cairns Climate Change Strategy 2030 sets out a pathway for Cairns Regional Council to achieve net zero emissions by 2030 and to support the climate aspirations of our community.",
+            "page": 2,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Cairns Climate Change Strategy 2030 is presented as a response to the community's strong desire for the Council to show leadership on climate change. The strategy is framed as a commitment to the community on climate action, with the aim of achieving net zero emissions by 2030. The documents also highlight the importance of climate action in the context of global commitments, such as the Paris Climate Agreement, and the potential social and economic impacts of delayed emissions reductions. The strategy outlines over 100 actions across six focus areas, demonstrating a comprehensive approach to addressing climate change. The documents also emphasize the importance of accountability and transparency in the implementation of the strategy, with plans for regular evaluation and reporting on progress.",
+          "quote": {
+            "content": "This strategy is our commitment to our community on climate action. What we have heard is that a strong majority of people in Cairns want Council to show leadership and action on climate change.",
+            "page": 2,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The local government acknowledges the need for immediate measures to address the impacts of climate change and improve the resilience of the local environment, community, and economy. The documents highlight the community's strong desire for the council to show leadership and take action on climate change. The Cairns Climate Change Strategy 2030 is presented as a pathway for the council to achieve net zero emissions by 2030, indicating a sense of urgency in addressing climate change. The strategy includes a commitment to track the implementation of the strategy and monitor progress towards net zero emissions, further emphasizing the need for immediate and ongoing action. The documents also highlight the risks of delayed emissions reductions and the advantages of a proactive economic transition prior to 2050, suggesting a sense of urgency in mitigating climate change impacts.",
+          "quote": {
+            "content": "Urgent action is required to address the impacts of climate change and improve the resilience of our local environment, community and economy.",
+            "page": 5,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. The Cairns Climate Change Strategy 2030, as the name suggests, outlines a strategy for the next decade, aiming to achieve net zero emissions by 2030. The document also mentions an implementation plan that will keep track of each initiative, outlining how and when actions will be implemented. This plan is described as a 'live working document', suggesting that it will be regularly updated and adjusted as necessary. The document also refers to the Paris Climate Agreement's global goal of net zero emissions no later than 2050, indicating an awareness of broader international timeframes. However, the document does not provide detailed timelines or deadlines for each specific action within the strategy.",
+          "quote": {
+            "content": "The implementation plan is a live working document keeping track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. This strategy will be supported by an implementation plan covering the next decade.",
+            "page": 17,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including setting a pathway to achieve net zero emissions by 2030, developing a strategic approach to urban greening, and incorporating climate change considerations into planning and development, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate action and outline specific strategies and objectives related to climate change, but they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that all council activities should be aligned with the climate policy. The Cairns Climate Change Strategy 2030 outlines actions that cover all areas of Council responsibility, indicating that all council activities should be in line with the climate policy. The strategy emphasizes the need for sound governance, which includes well-aligned risk management procedures to proactively analyze, mitigate, and adapt to climate risk and impacts. The strategy also mentions the establishment of an internal Sustainability Advisory Group to oversee the implementation of the strategy, further suggesting that all council activities should be aligned with the climate policy. The strategy also includes the development of an implementation plan that outlines how and when actions will be implemented, and who will be responsible for implementation and governance, which suggests a comprehensive approach to aligning all council activities with the climate policy.",
+          "quote": {
+            "content": "Governance refers to having well-aligned risk management procedures to proactively analyse, mitigate and adapt to climate risk and impacts, and to ensure progress is being made across Council.",
+            "page": 17,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The local government policy does not explicitly allocate funding for climate action. While the policy outlines a comprehensive approach to addressing climate change, including the development of strategies, policies, and plans, the establishment of an internal Sustainability Advisory Group, and the implementation of various initiatives, it does not provide specific details on the allocation of funding for these actions. The policy mentions the development of an implementation plan, which is intended to track each initiative, outline how and when actions will be implemented, and identify who will be responsible for implementation and governance. However, it does not explicitly state that funding will be allocated for these initiatives. Therefore, without clear evidence of explicit funding allocation for climate action in the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed allocate non-monetary institutional resources to climate action. The policy outlines the establishment of an internal Sustainability Advisory Group, which will be responsible for overseeing the implementation of the Strategy. This group will consist of representatives from each key department of the Council, meeting quarterly. The Advisory Group will be accountable to the Council Executive and Councillors. This allocation of staff time and expertise is a clear commitment of institutional resources towards climate action. Furthermore, the policy also mentions the development of an implementation plan, which is a live working document that keeps track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. This indicates a structured approach to resource allocation and responsibility assignment for climate action.",
+          "quote": {
+            "content": "The implementation plan is a live working document keeping track of each initiative, outlining how and when actions will be implemented, and who will be responsible for implementation and governance. The Advisory Group will be accountable to the Council Executive and Councillors. This strategy will be supported by an implementation plan covering the next decade.",
+            "page": 17,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a collaborative approach to empower community groups to plan for and address climate change. It also mentions the implementation of the Local Disaster Management Plan and raising awareness through disaster management programs and initiatives. The policy also includes the delivery of education and engagement to identify and address climate risk and build resilience. Furthermore, the policy emphasizes the importance of involving traditional custodians and youth in climate change planning, education, and action. The policy also mentions the development of an emission inventory for the Cairns local government area and the collaboration with climate action stakeholders to deliver targeted community emission reduction education, resources, and initiatives. These actions demonstrate a commitment to social mobilization in the context of climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to reducing emissions through both technological solutions and behaviour change. Technological solutions are evident in the policy's focus on renewable energy, energy efficiency, and the development of a 'Smart Green Economy'. The policy also emphasizes the importance of urban greening and the development of nature-based solutions to address climate hazards. Behaviour change is encouraged through the policy's focus on community engagement and education, as well as through the promotion of sustainable growth and planning. The policy also outlines a commitment to achieving net zero emissions, further demonstrating a clear focus on greenhouse gas mitigation.",
+          "quote": {
+            "content": "The municipal emissions inventory highlights the emissions intensive areas of energy and transport as key sectors where initiatives are needed.",
+            "page": 9,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, incorporating both mitigation and adaptation strategies. It includes measures to incorporate climate risk considerations into planning, development, and management of new and existing buildings, streetscapes, and urban spaces. The policy also includes plans to develop a strategic approach to urban greening and increase city and suburb canopy cover, which can help mitigate urban heat effects and build resilience. Furthermore, the policy outlines plans to develop integrated catchment management plans and build resilience into city and suburbs through water-sensitive urban design. These measures are aimed at addressing climate hazards such as sea level rise, storm surge, flooding, erosion, heat, and fire. The policy also includes plans to deliver a 'Towards 2050 Growth Strategy' that supports sustainable growth while building resilience to the long-term impacts of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies, actions, and plans to address climate change, it does not provide specific evidence or data to support these actions. For instance, the policy mentions the establishment of an internal Sustainability Advisory Group, the development of a strategic approach to urban greening, and the incorporation of climate change considerations into planning and development. However, it does not provide any data, research, or other forms of evidence to justify these actions or to demonstrate how they will effectively address climate change. Furthermore, the policy does not provide any specific targets or benchmarks for measuring the success of these actions, making it difficult to assess their effectiveness or impact. Therefore, while the policy outlines a number of actions to address climate change, it does not provide well-sourced evidence to justify these actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change strategy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The strategy outlines a range of actions across different focus areas, such as community, industry, energy, transport, built environment, and natural environment. For each of these areas, the strategy provides specific objectives and actions to achieve success. Importantly, the strategy also outlines how success will be measured. For instance, in the area of energy, success will be measured through the total annual fuel consumption by the Council and the percentage of hybrid and electric vehicles in the Council's vehicle fleet. Similarly, in the area of built environment, success will be measured through the percentage change in energy use of Council's top 10 energy consuming buildings and infrastructure, and the percentage of canopy cover in CBD and suburbs. These specific measurable criteria provide a clear framework for evaluating the success of the strategy's proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged in extensive consultation and engagement with the community over a two-year period while developing the Cairns Climate Change Strategy 2030. This included hosting climate summits, workshops, surveys, and internal audits to gather community input and inform the strategy. The documents also mention the development of an emission inventory for the Cairns local government area, which would require research into local emission sources. Furthermore, the local government plans to collaborate with climate action stakeholders to deliver targeted community emission reduction education, resources, and initiatives. This would likely involve research into the most effective strategies for community engagement and education. The documents also mention plans to measure success through various metrics, which would require ongoing research and data collection.",
+          "quote": {
+            "content": "Over 88% of survey respondents in the Cairns community said they wanted Council to show leadership and action on climate change. During two years of consultation and engagement, the community has been appealing to all levels of government and industry to take action to address climate change in our region.",
+            "page": 6,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents outline various strategies, plans, and initiatives related to climate change, they do not specifically mention the testing of technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents discuss the development of a climate change strategy, the incorporation of climate risk considerations into planning and development, and the establishment of an internal Sustainability Advisory Group. However, these actions do not meet the criteria for policy experimentation as defined in the question. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the policy's commitment to collaborate with climate action stakeholders, encourage the uptake of locally produced goods and services, and advocate for state and federal support for local climate action. The policy also outlines the local government's participation in various climate action partnerships and coalitions, such as the Climate Council\u2019s Cities Power Partnership Coalition, Queensland Climate Resilient Councils, and the LGAQ Climate Advisory Committee. These partnerships and coalitions are platforms through which the local government can advocate for climate action at higher levels of government. The policy's commitment to apply for Climate Active certification once it achieves its target of net zero emissions also demonstrates its intent to align with state and national climate action standards and to advocate for their support."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a collaborative approach to empower community groups to plan for and address climate change. It also emphasizes the importance of strengthening networks to develop collaborative solutions for climate resilience. The policy also mentions the establishment of partnerships with communities to be connected, adaptive, and resilient to the impacts of climate change. Furthermore, the policy highlights the involvement of traditional custodians and values their expertise and input. The policy also outlines the council's role in supporting the region to reduce greenhouse gas emissions, prepare for the unavoidable impacts of climate change, and transition to a net zero emissions economy."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Cairns Regional Council is actively involved in several climate-related partnerships and alliances. These include the Climate Council\u2019s Cities Power Partnership Coalition (CPP), Queensland Climate Resilient Councils (QCRC), LGAQ Climate Advisory Committee, Coastal Councils Adaptation Taskforce (C-CAT), QCoast2100 Councils Leading Coastal Adaptation, ICLEI Oceania \u2013 Local Governments for Sustainability, and the United Nations Office for Disaster Risk Reduction (UNDRR) - Making Cities Resilient Campaign (MCRC). These partnerships and alliances are crucial for the council's climate change strategy as they provide a platform for collaboration, knowledge sharing, and joint action on climate change mitigation and adaptation. They also enable the council to advocate for climate action at various levels of government and industry."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in explicit terms. The policy outlines a commitment to 'strengthen the resilience of vulnerable communities' in the face of climate change. This indicates an awareness of the disproportionate impact of climate change on certain communities, and a commitment to address this inequity. The policy also mentions the need to 'collaborate to address social impacts of climate change', which suggests a recognition of the social justice implications of climate change. However, the documents do not provide specific details on how these impacts will be addressed, or which communities are considered vulnerable. The policy could be improved by providing more specific details on these aspects.",
+          "quote": {
+            "content": "Council\u2019s commitment to the community is to deliver local initiatives that accelerate our regions progress towards State government targets while simultaneously working to strengthen the resilience of vulnerable communities, ensuring they are not disproportionately impacted by climate change risks / impacts.",
+            "page": 11,
+            "source": "Cairns-QLD-62.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention various initiatives related to climate change, such as increasing resilience, diversifying energy sources, and creating workforce opportunities, it does not specifically address the distribution of these benefits in an equitable manner. The policy also mentions collaboration with traditional custodians and involving youth in climate change planning, but these are more related to participation and inclusion rather than the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 82.5
+  }
+}

@@ -1,1 +1,304 @@
-{"settings": {"source_files": ["CanadaBay-NSW-258.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T15:59:32.037707", "lga": "CanadaBay"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the 'Emissions Reduction Action Plan', clearly identifies climate action as its core purpose. The policy outlines the local government's commitment to addressing climate change, with a focus on reducing greenhouse gas emissions. It sets specific targets for emissions reduction, aligning with international climate goals such as the Paris Agreement and the United Nations' Sustainable Development Goals. The policy also acknowledges the urgency of climate action, recognizing the state of climate emergency and the need for immediate action to prevent catastrophic outcomes. The policy further outlines strategies for achieving its emissions reduction targets, including community engagement, staff education, and resource allocation. Therefore, it is evident that the core purpose of this policy is climate action.", "quote": {"content": "The motion requires urgent action by all levels of government, including local councils and acknowledges that by taking urgent action it is still possible to prevent the most catastrophic outcomes. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. It outlined Council\u2019s commitment to recognise that we are in a state of climate emergency.", "page": 8, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the real and identifiable impact of climate change on the local environment, including increases in the frequency and intensity of heatwaves and heavy precipitation, and the subsequent effects on the natural, social, and economic welfare of New South Wales. The document also highlights the impact of rising temperatures and sea levels on native species and ecosystems, and the potential implications of sea level rise for coastal zones and low-lying areas. Furthermore, the document refers to the Climate Emergency motion passed by the Council, which recognizes the urgent need for action by all levels of government to prevent the most catastrophic outcomes of climate change. The document also sets ambitious emissions reduction targets and provides an action plan to reach these targets, demonstrating a commitment to taking action on climate change.", "quote": {"content": "These types of weather events will impact on the natural, social and economic welfare of NSW. Climate change has a real and identifiable impact on our local environment. Changes in some types of natural hazards have already been observed. For example, there have been increases in the frequency and intensity of heatwaves and heavy precipitation.", "page": 8, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the state of climate emergency and the need for immediate action by all levels of government, including local councils. The document also acknowledges that by taking urgent action, it is still possible to prevent the most catastrophic outcomes of climate change. The policy outlines a commitment to reduce corporate and community emissions, using a science-based approach to limit the rise of global mean temperature to 1.5 \u00b0C and to achieve net-zero emissions. The document also mentions the need for urgent action in response to the Climate Emergency motion passed at a council meeting. This urgency is further emphasized by the document's reference to the second commitment period of the Kyoto Protocol, which runs until 31 December 2020.", "quote": {"content": "The motion requires urgent action by all levels of government, including local councils and acknowledges that by taking urgent action it is still possible to prevent the most catastrophic outcomes. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. It outlined Council\u2019s commitment to recognise that we are in a state of climate emergency.", "page": 8, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a commitment to the second period of the Kyoto Protocol, which runs until 31 December 2020. Furthermore, Australia's response to the Paris Agreement is to set a goal for greenhouse gas emissions of 5% below 2000 levels by 2020 and 26% to 28% below 2005 levels by 2030. At a local level, the council has outlined actions with specific timeframes, such as reviewing the benefits of joining local government-focused leadership initiatives by 2020, and providing regular staff education events on an ongoing basis. These timeframes indicate a sense of urgency in the council's approach to addressing climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the unanimous passing of a Climate Emergency motion and the development of an Emissions Reduction Action Plan, they do not explicitly prioritize these actions over other policies. The documents mention the integration of climate change actions into various strategic plans and initiatives, suggesting that climate action is considered alongside other policy areas rather than being prioritized above them. Furthermore, the documents highlight the use of a science-based approach to set emissions reduction targets and the implementation of various actions to achieve these targets. However, the prioritization of these actions over other policies is not explicitly stated."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and initiatives related to climate change, such as developing an electric vehicle charging infrastructure plan, providing support to local community groups for developing community energy projects, and including climate change in its biannual Sustainability Awards, there is no explicit requirement stated that all council activities must align with these climate policies. The documents do indicate that the council is taking a leadership role in emissions reduction and is committed to implementing a variety of actions to address climate change. However, the absence of a clear, overarching mandate for all council activities to align with climate policy prevents a positive response to the question."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly state that the local government has allocated funding for climate action. While the policy outlines various actions related to climate change, such as developing an electric vehicle charging infrastructure plan, providing support to local community groups for solar projects, and improving the Bike Plan, it does not specify any budget or funding allocation for these initiatives. The documents mention the allocation of staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan, but this does not necessarily imply financial resource allocation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Emissions Reduction Action Plan of the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, Action 7.2 states that the Council will allocate staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan. This allocation is ongoing within Operational Plans & Delivery Program. Furthermore, Action 7.3 mentions that the Council will provide regular staff education events and newsletters that focus on climate change actions in the community. These actions demonstrate a clear commitment to mobilizing institutional resources, including staff, for climate action.", "quote": {"content": "Lead by example\nOngoing within \nOperational Plans & \nDelivery Program\nNumber of actions \nImplemented. 7.2\nCouncil will allocate staff resources to manage and implement \nthe actions listed within this Emissions Reduction Action Plan.", "page": 33, "source": "CanadaBay-NSW-258.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive plan to reduce emissions, which includes a variety of initiatives aimed at engaging and educating the community. For instance, the policy mentions the provision of support to local community groups seeking to develop community energy projects, the development and implementation of a community engagement strategy to educate and inform the community on opportunities to buy clean energy, and the provision of up-to-date online information resources and regular workshops on solar energy generation. The policy also includes plans for advocacy to state or commonwealth governments regarding clean energy policies and regulatory changes that can make renewable energy more accessible to the community. These initiatives demonstrate a clear commitment to social mobilisation in the context of climate action.", "quote": {"content": "This may include the provision of or links to information, meeting spaces for local volunteers, planning assistance and technical support.", "page": 30, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Emissions Reduction Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a science-based approach to limit the rise of global mean temperature to 1.5 \u00b0C and to achieve net-zero emissions. It also mentions the use of technological solutions, such as energy efficiency upgrades at council facilities. Furthermore, the plan acknowledges the need for behaviour change, as it includes community consultation and stakeholder input in setting ambitious emissions reduction targets. However, the documents do not provide specific details on the technological solutions or the strategies for behaviour change.", "quote": {"content": "This plan addresses greenhouse gas (GHG) emissions generated by both council operations and the City of Canada Bay community. In 2014 the City of Canada Bay adopted its first Greenhouse Action Plan, which set a target to \u2018reduce Council\u2019s greenhouse gas emissions by 35% of 2011/12 levels by 2023\u2019. Our efforts so far see us on track to reach our current target by 2023 and in response to this we have drafted a new plan.", "page": 1, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific actions for climate adaptation and resilience. While the documents acknowledge the impacts of climate change on the local environment, such as increased frequency and intensity of heatwaves, heavy precipitation, and rising sea levels, they do not outline specific strategies or actions to adapt to these changes or enhance resilience. The documents do mention the development of an Emissions Reduction Action Plan and the alignment of climate change mitigation actions with the City of Canada Bay Community Strategic Plan. However, these primarily focus on emissions reduction and mitigation, not adaptation or resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive plan for emissions reduction, which is informed by a variety of sources. The plan was developed considering Australia\u2019s global emissions reduction obligations, precedents set by other councils, and input from the community and Council staff. The Council also engaged consultants to assist in mapping different emissions reduction scenarios and assessing their feasibility, actions needed, and associated costs. The plan aligns with the United Nations\u2019 Sustainable Development Goals and the Community Strategic Plan Your Future 2030. It also considers actions taken by other cities, policy settings of the NSW Government and other Australian Governments, climate impacts, changes in technology, demographics, and urban densification trends. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.", "quote": {"content": "We undertook an extensive and structured consultation process which indicated that all stakeholders had a strong preference for ambitious emissions reduction targets for both corporate and community emissions. In developing this plan, we were committed to setting targets which considered Australia\u2019s global emissions reduction obligations, precedents set by other councils in NSW, as well as input from the community and Council staff.", "page": 1, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's Emissions Reduction Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of actions, each with a corresponding target or metric that serves as a measurable criterion. For instance, one action is to 'review and periodically continue to update its information resources relating to energy efficiency in houses, apartments and business', with the target or metric being the 'currency of online resources'. Another action is to 'develop an electric vehicle (EV) charging infrastructure plan for Council-owned facilities/car parks', although the specific metric for this action is not provided in the given context. These targets or metrics provide a clear means of evaluating the success of the actions, thereby enabling the local government to monitor progress and make necessary adjustments.", "quote": {"content": "4.3\nCouncil will update its Sustainable Action \nnumber\nAction\nAction category\nTimeframe\nTarget or metric\n4.1\nCouncil will review and periodically continue to update its \ninformation resources relating to energy efficiency in houses, \napartments and business, for example including links to the \nNSW Department of Planning, Industry and Environment \n(DPIE)\u2019s Energy Saver Program resources. Education, training, \nworkshops\nOngoing\nCurrency of online resources. 4.2\nWater heating is a significant proportion of home heating. Council will include information resources and links that \ncan help residents (and small business) select low or zero-\nemissions hot water heating systems, e.g. via DPIE. Education, training, \nworkshops\nOngoing\nCurrency of online resources.", "page": 31, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive Emissions Reduction Action Plan, which is based on extensive consultation and research. The plan includes a community action plan that outlines 33 actions aimed at reducing emissions. The actions are based on the community's recommendations and scientific evidence. The plan also includes a strategic framework that aligns with the City of Canada Bay Community Strategic Plan YOUR future 2030. The framework includes several goals and strategies leading to more sustainable outcomes and lower carbon emissions. The local government has also committed to providing up-to-date online information resources and running regular workshops on solar energy generation. This shows that the local government is planning to conduct research and gather information to inform its climate actions.", "quote": {"content": "In developing this plan, we were committed to setting targets which considered Australia\u2019s global emissions reduction obligations, precedents set by other councils in NSW, as well as input from the community and Council staff.", "page": 1, "source": "CanadaBay-NSW-258.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Emissions Reduction Action Plan of the City of Canada Bay outlines a strategic framework for mitigating climate change, with goals and strategies leading to more sustainable outcomes and lower carbon emissions. The plan includes actions such as buying renewable energy, supporting local community groups and schools to install solar PV systems, and advocating for sustainable transport. However, these actions, while important, are not particularly innovative or experimental. They are standard strategies that many local governments are implementing. The plan also mentions the council's role as a leader and its intention to empower the community through initiatives and programs. However, the specifics of these initiatives and programs are not detailed, making it difficult to assess their innovative or experimental nature. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the policy's strategy and collaboration section, where it mentions the development of local energy sharing trials or projects from 2020-21. Furthermore, the policy outlines an advocacy or lobbying role, where the local government will engage with state or commonwealth governments regarding clean energy policies and regulatory changes. This is aimed at making renewable energy more accessible to the community. The policy also mentions submissions to the state and federal governments, indicating a clear intent to communicate and advocate for climate action at higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government is taking steps to build local capacity across council, their local communities, and neighbouring local councils for climate action. The council has outlined a series of actions in its Emissions Reduction Action Plan that demonstrate its commitment to leading by example, collaborating with others, and advocating for sustainable practices. For instance, the council plans to allocate staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan, provide regular staff education events and newsletters that focus on climate change actions in the community, and work with neighbouring councils and Bike Share proponents to provide cycling opportunities in the community. These actions indicate a concerted effort to build local capacity for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the policy does mention the council's intention to review the benefits of joining local government-focused leadership initiatives such as the Cities Power Partnership, it does not provide any specific details about regional associations or alliances. The policy also outlines plans for collaboration with state government and suppliers of innovative solutions, but again, no specific partnerships are mentioned. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the general impacts of climate change on the local environment, such as increased frequency and intensity of heatwaves, heavy precipitation, and rising sea levels, they do not specifically address how these changes might disproportionately affect vulnerable communities. The documents focus more on the strategic context of climate change, the local government's commitment to emissions reduction, and the actions planned to achieve this goal. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered positively based on the provided context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to reduce emissions and tackle climate change. They mention the establishment of ambitious emissions reduction targets, the impacts of climate change on the local environment, and the strategic framework for mitigating climate change. However, they do not provide specific details on how the benefits and opportunities resulting from these actions will be shared equitably among different social groups or how social justice will be ensured in the process."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 59.2}}
+{
+  "settings": {
+    "source_files": [
+      "CanadaBay-NSW-258.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T15:59:32.037707",
+    "lga": "CanadaBay"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Emissions Reduction Action Plan', clearly identifies climate action as its core purpose. The policy outlines the local government's commitment to addressing climate change, with a focus on reducing greenhouse gas emissions. It sets specific targets for emissions reduction, aligning with international climate goals such as the Paris Agreement and the United Nations' Sustainable Development Goals. The policy also acknowledges the urgency of climate action, recognizing the state of climate emergency and the need for immediate action to prevent catastrophic outcomes. The policy further outlines strategies for achieving its emissions reduction targets, including community engagement, staff education, and resource allocation. Therefore, it is evident that the core purpose of this policy is climate action.",
+          "quote": {
+            "content": "The motion requires urgent action by all levels of government, including local councils and acknowledges that by taking urgent action it is still possible to prevent the most catastrophic outcomes. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. It outlined Council\u2019s commitment to recognise that we are in a state of climate emergency.",
+            "page": 8,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the real and identifiable impact of climate change on the local environment, including increases in the frequency and intensity of heatwaves and heavy precipitation, and the subsequent effects on the natural, social, and economic welfare of New South Wales. The document also highlights the impact of rising temperatures and sea levels on native species and ecosystems, and the potential implications of sea level rise for coastal zones and low-lying areas. Furthermore, the document refers to the Climate Emergency motion passed by the Council, which recognizes the urgent need for action by all levels of government to prevent the most catastrophic outcomes of climate change. The document also sets ambitious emissions reduction targets and provides an action plan to reach these targets, demonstrating a commitment to taking action on climate change.",
+          "quote": {
+            "content": "These types of weather events will impact on the natural, social and economic welfare of NSW. Climate change has a real and identifiable impact on our local environment. Changes in some types of natural hazards have already been observed. For example, there have been increases in the frequency and intensity of heatwaves and heavy precipitation.",
+            "page": 8,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document indeed calls for rapid and urgent action on climate change. It emphasizes the state of climate emergency and the need for immediate action by all levels of government, including local councils. The document also acknowledges that by taking urgent action, it is still possible to prevent the most catastrophic outcomes of climate change. The policy outlines a commitment to reduce corporate and community emissions, using a science-based approach to limit the rise of global mean temperature to 1.5 \u00b0C and to achieve net-zero emissions. The document also mentions the need for urgent action in response to the Climate Emergency motion passed at a council meeting. This urgency is further emphasized by the document's reference to the second commitment period of the Kyoto Protocol, which runs until 31 December 2020.",
+          "quote": {
+            "content": "The motion requires urgent action by all levels of government, including local councils and acknowledges that by taking urgent action it is still possible to prevent the most catastrophic outcomes. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. At Council\u2019s September meeting, a Climate Emergency motion was passed unanimously. It outlined Council\u2019s commitment to recognise that we are in a state of climate emergency.",
+            "page": 8,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a commitment to the second period of the Kyoto Protocol, which runs until 31 December 2020. Furthermore, Australia's response to the Paris Agreement is to set a goal for greenhouse gas emissions of 5% below 2000 levels by 2020 and 26% to 28% below 2005 levels by 2030. At a local level, the council has outlined actions with specific timeframes, such as reviewing the benefits of joining local government-focused leadership initiatives by 2020, and providing regular staff education events on an ongoing basis. These timeframes indicate a sense of urgency in the council's approach to addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change, including the unanimous passing of a Climate Emergency motion and the development of an Emissions Reduction Action Plan, they do not explicitly prioritize these actions over other policies. The documents mention the integration of climate change actions into various strategic plans and initiatives, suggesting that climate action is considered alongside other policy areas rather than being prioritized above them. Furthermore, the documents highlight the use of a science-based approach to set emissions reduction targets and the implementation of various actions to achieve these targets. However, the prioritization of these actions over other policies is not explicitly stated."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and initiatives related to climate change, such as developing an electric vehicle charging infrastructure plan, providing support to local community groups for developing community energy projects, and including climate change in its biannual Sustainability Awards, there is no explicit requirement stated that all council activities must align with these climate policies. The documents do indicate that the council is taking a leadership role in emissions reduction and is committed to implementing a variety of actions to address climate change. However, the absence of a clear, overarching mandate for all council activities to align with climate policy prevents a positive response to the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government has allocated funding for climate action. While the policy outlines various actions related to climate change, such as developing an electric vehicle charging infrastructure plan, providing support to local community groups for solar projects, and improving the Bike Plan, it does not specify any budget or funding allocation for these initiatives. The documents mention the allocation of staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan, but this does not necessarily imply financial resource allocation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Emissions Reduction Action Plan of the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, Action 7.2 states that the Council will allocate staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan. This allocation is ongoing within Operational Plans & Delivery Program. Furthermore, Action 7.3 mentions that the Council will provide regular staff education events and newsletters that focus on climate change actions in the community. These actions demonstrate a clear commitment to mobilizing institutional resources, including staff, for climate action.",
+          "quote": {
+            "content": "Lead by example\nOngoing within \nOperational Plans & \nDelivery Program\nNumber of actions \nImplemented. 7.2\nCouncil will allocate staff resources to manage and implement \nthe actions listed within this Emissions Reduction Action Plan.",
+            "page": 33,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive plan to reduce emissions, which includes a variety of initiatives aimed at engaging and educating the community. For instance, the policy mentions the provision of support to local community groups seeking to develop community energy projects, the development and implementation of a community engagement strategy to educate and inform the community on opportunities to buy clean energy, and the provision of up-to-date online information resources and regular workshops on solar energy generation. The policy also includes plans for advocacy to state or commonwealth governments regarding clean energy policies and regulatory changes that can make renewable energy more accessible to the community. These initiatives demonstrate a clear commitment to social mobilisation in the context of climate action.",
+          "quote": {
+            "content": "This may include the provision of or links to information, meeting spaces for local volunteers, planning assistance and technical support.",
+            "page": 30,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Emissions Reduction Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a science-based approach to limit the rise of global mean temperature to 1.5 \u00b0C and to achieve net-zero emissions. It also mentions the use of technological solutions, such as energy efficiency upgrades at council facilities. Furthermore, the plan acknowledges the need for behaviour change, as it includes community consultation and stakeholder input in setting ambitious emissions reduction targets. However, the documents do not provide specific details on the technological solutions or the strategies for behaviour change.",
+          "quote": {
+            "content": "This plan addresses greenhouse gas (GHG) emissions generated by both council operations and the City of Canada Bay community. In 2014 the City of Canada Bay adopted its first Greenhouse Action Plan, which set a target to \u2018reduce Council\u2019s greenhouse gas emissions by 35% of 2011/12 levels by 2023\u2019. Our efforts so far see us on track to reach our current target by 2023 and in response to this we have drafted a new plan.",
+            "page": 1,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience. While the documents acknowledge the impacts of climate change on the local environment, such as increased frequency and intensity of heatwaves, heavy precipitation, and rising sea levels, they do not outline specific strategies or actions to adapt to these changes or enhance resilience. The documents do mention the development of an Emissions Reduction Action Plan and the alignment of climate change mitigation actions with the City of Canada Bay Community Strategic Plan. However, these primarily focus on emissions reduction and mitigation, not adaptation or resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive plan for emissions reduction, which is informed by a variety of sources. The plan was developed considering Australia\u2019s global emissions reduction obligations, precedents set by other councils, and input from the community and Council staff. The Council also engaged consultants to assist in mapping different emissions reduction scenarios and assessing their feasibility, actions needed, and associated costs. The plan aligns with the United Nations\u2019 Sustainable Development Goals and the Community Strategic Plan Your Future 2030. It also considers actions taken by other cities, policy settings of the NSW Government and other Australian Governments, climate impacts, changes in technology, demographics, and urban densification trends. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "We undertook an extensive and structured consultation process which indicated that all stakeholders had a strong preference for ambitious emissions reduction targets for both corporate and community emissions. In developing this plan, we were committed to setting targets which considered Australia\u2019s global emissions reduction obligations, precedents set by other councils in NSW, as well as input from the community and Council staff.",
+            "page": 1,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Emissions Reduction Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of actions, each with a corresponding target or metric that serves as a measurable criterion. For instance, one action is to 'review and periodically continue to update its information resources relating to energy efficiency in houses, apartments and business', with the target or metric being the 'currency of online resources'. Another action is to 'develop an electric vehicle (EV) charging infrastructure plan for Council-owned facilities/car parks', although the specific metric for this action is not provided in the given context. These targets or metrics provide a clear means of evaluating the success of the actions, thereby enabling the local government to monitor progress and make necessary adjustments.",
+          "quote": {
+            "content": "4.3\nCouncil will update its Sustainable Action \nnumber\nAction\nAction category\nTimeframe\nTarget or metric\n4.1\nCouncil will review and periodically continue to update its \ninformation resources relating to energy efficiency in houses, \napartments and business, for example including links to the \nNSW Department of Planning, Industry and Environment \n(DPIE)\u2019s Energy Saver Program resources. Education, training, \nworkshops\nOngoing\nCurrency of online resources. 4.2\nWater heating is a significant proportion of home heating. Council will include information resources and links that \ncan help residents (and small business) select low or zero-\nemissions hot water heating systems, e.g. via DPIE. Education, training, \nworkshops\nOngoing\nCurrency of online resources.",
+            "page": 31,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive Emissions Reduction Action Plan, which is based on extensive consultation and research. The plan includes a community action plan that outlines 33 actions aimed at reducing emissions. The actions are based on the community's recommendations and scientific evidence. The plan also includes a strategic framework that aligns with the City of Canada Bay Community Strategic Plan YOUR future 2030. The framework includes several goals and strategies leading to more sustainable outcomes and lower carbon emissions. The local government has also committed to providing up-to-date online information resources and running regular workshops on solar energy generation. This shows that the local government is planning to conduct research and gather information to inform its climate actions.",
+          "quote": {
+            "content": "In developing this plan, we were committed to setting targets which considered Australia\u2019s global emissions reduction obligations, precedents set by other councils in NSW, as well as input from the community and Council staff.",
+            "page": 1,
+            "source": "CanadaBay-NSW-258.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. While the documents do outline a strategic framework for emissions reduction and climate change mitigation, they do not mention any specific initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents discuss the impacts of climate change, the need for emissions reduction, and the council's role in leading and influencing the community in implementing the action plan. However, they do not provide details about any pilot projects, initiatives, test beds, demonstration projects, or urban laboratories that would constitute policy experimentation."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the policy's strategy and collaboration section, where it mentions the development of local energy sharing trials or projects from 2020-21. Furthermore, the policy outlines an advocacy or lobbying role, where the local government will engage with state or commonwealth governments regarding clean energy policies and regulatory changes. This is aimed at making renewable energy more accessible to the community. The policy also mentions submissions to the state and federal governments, indicating a clear intent to communicate and advocate for climate action at higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government is taking steps to build local capacity across council, their local communities, and neighbouring local councils for climate action. The council has outlined a series of actions in its Emissions Reduction Action Plan that demonstrate its commitment to leading by example, collaborating with others, and advocating for sustainable practices. For instance, the council plans to allocate staff resources to manage and implement the actions listed within the Emissions Reduction Action Plan, provide regular staff education events and newsletters that focus on climate change actions in the community, and work with neighbouring councils and Bike Share proponents to provide cycling opportunities in the community. These actions indicate a concerted effort to build local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the policy does mention the council's intention to review the benefits of joining local government-focused leadership initiatives such as the Cities Power Partnership, it does not provide any specific details about regional associations or alliances. The policy also outlines plans for collaboration with state government and suppliers of innovative solutions, but again, no specific partnerships are mentioned. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do acknowledge the general impacts of climate change on the local environment, such as increased frequency and intensity of heatwaves, heavy precipitation, and rising sea levels, they do not specifically address how these changes might disproportionately affect vulnerable communities. The documents focus more on the strategic context of climate change, the local government's commitment to emissions reduction, and the actions planned to achieve this goal. Therefore, without explicit mention or discussion of the impact on vulnerable communities, the question cannot be answered positively based on the provided context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's plans and actions to reduce emissions and tackle climate change. They mention the establishment of ambitious emissions reduction targets, the impacts of climate change on the local environment, and the strategic framework for mitigating climate change. However, they do not provide specific details on how the benefits and opportunities resulting from these actions will be shared equitably among different social groups or how social justice will be ensured in the process."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 59.2
+  }
+}

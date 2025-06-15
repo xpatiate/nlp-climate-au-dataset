@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Torres-QLD-67.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T00:32:51.978837", "lga": "Torres"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as its core purpose. The policy is designed to address the challenges of climate change and build resilience within the local community. It outlines a proactive response to climate change impacts, with a focus on adaptation measures that are effective, efficient, and equitable. The policy also emphasizes the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. It further highlights the need for actions to be evidence-based, making full use of the latest research, data, and practical experience. The policy also underscores the importance of community involvement in climate adaptation and resilience planning and actions. It is clear from the policy that climate action is not just a component, but the central goal of the policy.", "quote": {"content": "Integration: climate adaptation and resilience must be fully integrated into all levels of policy, planning and action to be most effective. Adaptation measures need to be effective (reducing the risks from climate change without introducing perverse effects), efficient (the long-term benefits of adaptation actions should outweigh the costs), and equitable (the effects of the activity on different groups and where the costs should fall should be taken into account...", "page": 35, "source": "Torres-QLD-67.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the escalating rate of climate change and non-climate risks to the environment and human endeavors. The documents emphasize that responding to these challenges is essentially good risk management. They also underscore the increasing expectation for local governments to develop appropriate adaptation planning as a risk management tool to reduce exposure to costs, impacts on health and productivity, and possible future litigation. The documents further stress that the decisions and investments made today will largely determine the region's ability to respond to climate change in the future. They also note that the challenges are great, but so is the resolve to meet them to ensure a strong and vibrant future for the communities. The documents also mention that the actions in the plan will require unprecedented cooperation between all organizations and people who live in, or have influence over, the region.", "quote": {"content": "Responding to this challenge is essentially good risk management. The rate of change of non-climate risks to the environment and human endeavours is also escalating (Figure 2). From a risk management perspective we would be prudent to assume the rate and scale of climate-driven change will escalate for the foreseeable future.", "page": 20, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does indeed call for urgent action on climate change. It emphasizes the escalating rate of climate change and non-climate risks to the environment and human endeavors. The document also highlights the increasing expectation for local governments to develop appropriate adaptation planning as a risk management tool to reduce exposure to costs, impacts on health, and possible future litigation. The document further underscores the need for flexibility in actions, prioritization of responses to climate impacts, and the effectiveness, efficiency, and equity of adaptation measures. It also stresses the need for a dynamic planning process that is adaptive and innovative to move communities closer to greater resilience and self-determination. The document also recognizes the need for unprecedented cooperation between all organizations and people who live in, or have influence over, the region.", "quote": {"content": "Responding to this challenge is essentially good risk management. From a risk management perspective we would be prudent to assume the rate and scale of climate-driven change will escalate for the foreseeable future.", "page": 20, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss the importance of adaptation and resilience in response to climate change, and mention the need for prioritisation and investment strategies, they do not provide concrete timelines for these actions. The documents also mention the need for flexibility in response to future climate uncertainties, which could potentially complicate the establishment of specific timeframes. Furthermore, the documents highlight the ongoing nature of climate change adaptation, suggesting that it is a continuous process rather than one with a definitive end point. Therefore, based on the provided documents, it cannot be affirmed that the local government has set specific timeframes for its climate actions."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of climate change adaptation and resilience, they do not explicitly rank these actions above other policies. The documents highlight the need for flexibility, prioritization, and effectiveness in response to climate impacts. They also stress the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. However, they do not specifically state that these actions should take precedence over other policies. The documents also mention the use of a multi-criteria analysis process to prioritize actions, but they do not specify that climate emergency response should be the highest priority."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. The documents also mention the need for actions to be prioritized, with a focus on those most affected by weather and climate, those with long-term implications, those involving significant investment, or those supporting critical infrastructure. Furthermore, the documents highlight the need for a dynamic planning process that is adaptive and innovative in response to climate change. However, there is no specific directive stating that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy does outline various strategies and actions to address climate change, such as involving women and youth in decision making, decentralising services, and reviewing infrastructure policy, there is no clear mention of specific funding or budget allocation for these actions. The policy does acknowledge the need for 'unprecedented cooperation' and the importance of 'investment strategies', but it does not provide concrete details about the source or amount of funding. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents do outline various actions and strategies related to climate change adaptation and resilience, such as facilitating information sessions, supporting communities to interpret environmental research, and investigating the impacts of climate change on critical infrastructure, they do not specify the allocation of staff or other non-monetary institutional resources to these tasks. The documents mention the need for cooperation between all organizations and people who live in or have influence over the region, but this is a general statement and does not provide specific details about resource allocation."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government policy is designed to empower and educate the community to work together to address climate change. The policy outlines plans to facilitate information sessions and resilience workshops for each community to build their understanding of climate change and identify appropriate community-based adaptation options and actions to enhance local resilience. The policy also supports communities to access and interpret environmental research and monitoring data, including modelling and mapping of projected climate change and sea-level rise scenarios. This approach is designed to empower the community by providing them with the knowledge and tools they need to take action on climate change. Furthermore, the policy includes plans to develop a dynamic planning process that is adaptive and innovative, reflecting the approach needed to move communities closer to greater resilience and self-determination. This suggests a commitment to social mobilisation, as it involves actively involving the community in the planning and implementation of climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The focus of the policy appears to be on adaptation to climate change rather than mitigation. The policy includes actions such as increasing passive cooling in buildings, assessing the impacts of climate change on health and the environment, and implementing strategies for sustainable fishing and hunting. However, these actions are aimed at adapting to the effects of climate change rather than reducing greenhouse gas emissions. Therefore, the policy does not meet the criteria for a positive response to the question."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan recognizes the need to adapt to emerging climate impacts and strengthen regional and community resilience to reduce vulnerabilities. It addresses how climate change will impact the region and what measures can be taken to reduce or eliminate those risks. The plan provides an initial list of actions under the themes of Adaptation and Resilience. These actions have been sorted by their contribution to the management cycle - information & knowledge gathering, policy & planning, implementation, building education & awareness, and monitoring. The actions have also been sorted by priority for implementation. The plan also acknowledges that adaptation to climate change is an ongoing learning process and aims to develop a dynamic planning process that is truly adaptive and innovative.", "quote": {"content": "The actions assembled under each Outcome were captured from a range of sources, particularly from a regional workshop held as part of the planning process. This Plan provides an initial list of actions under the themes of Adaptation (3 Outcomes) and Resilience (6 Outcomes).", "page": 32, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a comprehensive approach to climate change adaptation and resilience, which is based on evidence and research. The policy emphasizes the use of the latest research, data, and practical experience to support decision-making and identify knowledge gaps. It also highlights the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. The policy outlines a dynamic planning process that is adaptive and innovative, reflecting the approach needed to prepare communities for the challenges of climate change. The policy also adopts an integrated climate change risk and vulnerability assessment approach, focusing on the vulnerability of key indicators across various sectors. The policy also outlines specific actions, such as facilitating information sessions and adaptation and resilience workshops for each community, and supporting communities to access and interpret environmental research and monitoring data. Therefore, the policy provides well-sourced evidence to justify its climate targets and actions.", "quote": {"content": "It should also identify knowledge gaps and drive research where necessary. Evidence-based: adaptation options should make full use of the latest research, data and practical experience so that decision-making is well supported and informed.", "page": 35, "source": "Torres-QLD-67.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a commitment to report each year on the implementation of the actions, with the report stating the current status of each action, whether it is completed, partly completed, or yet to be commenced. The plan also includes a detailed explanation of the extent and reasons for partial completion or the reasons for delayed commencement. Furthermore, the plan includes an evaluation of the extent to which outcomes are being achieved, which is used to assess the progress made in moving from the original situation to the desired situation. This evaluation process uses the same indicators to describe both the original situation and the desired outcome, allowing for a clear measurement of progress. The plan also includes a monitoring program to inform the annual report, which provides an important input into ongoing adaptive management.", "quote": {"content": "Appropriate detail explaining the extent and reasons for partial completion or the reasons for delayed commencement are needed to support understanding of any barrier to, or constraint on each action. The commitment to report each year on the implementation of the actions drives a monitoring program to inform that report. The report simply states the current status of each action \u2013 that is, is it completed, partly completed or yet to be commenced?", "page": 96, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a dynamic planning process that is adaptive and innovative, aiming to prepare communities for the challenges that climate change is already bringing. The policy also mentions facilitating information sessions and adaptation and resilience workshops for each community to build their understanding of climate change and to identify appropriate community-based adaptation options and actions to enhance local resilience. Furthermore, the policy details a community-based planning process that includes building awareness and understanding of key drivers of change for the community, understanding climate change challenges, and identifying adaptation strategies and actions to build community resilience. This process is based on a participatory action research approach, indicating that research will be conducted in the local community to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's approach to climate change adaptation is described as a dynamic planning process that is adaptive and innovative. The policy emphasizes the need for a learning process, acknowledging that new knowledge and conditions are constantly emerging and evolving. The policy also highlights the importance of evidence-based decision-making, using the latest research, data, and practical experience to inform actions. The policy further emphasizes the need for flexibility in actions, prioritizing responses to climate impacts, and ensuring that adaptation measures are effective, efficient, and equitable. The policy also outlines a multi-criteria analysis process used to prioritize actions, indicating a systematic and innovative approach to policy implementation.", "quote": {"content": "As such, adaptation to climate change is an ongoing learning process and the intention is to develop a dynamic planning process that is truly adaptive and innovative to reflect the approach needed to move communities even closer to greater resilience and self- determination, and to prepare them for the challenges that climate change is already bringing to this unique and special region.", "page": 21, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the documents do discuss the importance of climate change adaptation and the need for a dynamic planning process, they do not specifically mention advocacy towards higher levels of government. The documents focus more on the local community's role in climate change adaptation, including facilitating information sessions and resilience workshops, supporting communities to access and interpret environmental research, and implementing innovative and collaborative strategies. The documents also mention the need for unprecedented cooperation between all organizations and people who live in, or have influence in the region, but this does not necessarily imply advocacy to state and national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy emphasizes the importance of community engagement and communication in responding to climate change, and identifies capacity and resource constraints as key barriers to successful development and implementation of adaptation options. The policy also outlines plans to facilitate information sessions and adaptation and resilience workshops for each community to build their understanding of climate change and to identify appropriate community-based adaptation options and actions to enhance local resilience. Furthermore, the policy encourages individuals to support climate adaptation and resilience action in the region by reading the plan, telling others about it, and contributing to the actions in the plan where they can."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of community involvement, adaptation to climate change, and the need for cooperation and planning, they do not provide specific details about any particular organizations or partnerships involved in these efforts. The documents emphasize the need for a dynamic planning process, the importance of building resilience, and the necessity of adapting to the challenges of climate change. However, without specific mention or details about regional associations, alliances, or partnerships related to climate change, it is not possible to affirmatively answer the question."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that communities with fewer resources and higher levels of vulnerability will be more severely impacted by climate change. The policy recognizes the need to adapt to emerging climate impacts and to strengthen regional and community resilience to reduce vulnerabilities. It also highlights the importance of current and future development projects aligning with these objectives. The document further identifies key climate impacts on social capital, including increased financial stress, increased demand for emergency services, and potential decline in access to key marine food resources. The policy also proposes working with Queensland Health to develop socioeconomic programs to address climate risks.", "quote": {"content": "As such this Plan recognises both the need to adapt to emerging climate impacts and the need to strengthen regional and community resilience to reduce vulnerabilities. It is well recognised that communities that are less resourced with higher levels of vulnerability will be impacted harder by climate change.", "page": 21, "source": "Torres-QLD-67.pdf", "search_score": 1.0}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While there are mentions of developing socioeconomic programs to address climate risks, working with Queensland Health to identify specific future health risks associated with climate change, and developing community stress management and support strategies, these do not directly address the equitable distribution of benefits and opportunities. The documents focus more on the mitigation of risks and the development of resilience strategies rather than the sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 53.3}}
+{
+  "settings": {
+    "source_files": [
+      "Torres-QLD-67.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T00:32:51.978837",
+    "lga": "Torres"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy is designed to address the challenges of climate change and build resilience within the local community. It outlines a proactive response to climate change impacts, with a focus on adaptation measures that are effective, efficient, and equitable. The policy also emphasizes the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. It further highlights the need for actions to be evidence-based, making full use of the latest research, data, and practical experience. The policy also underscores the importance of community involvement in climate adaptation and resilience planning and actions. It is clear from the policy that climate action is not just a component, but the central goal of the policy.",
+          "quote": {
+            "content": "Integration: climate adaptation and resilience must be fully integrated into all levels of policy, planning and action to be most effective. Adaptation measures need to be effective (reducing the risks from climate change without introducing perverse effects), efficient (the long-term benefits of adaptation actions should outweigh the costs), and equitable (the effects of the activity on different groups and where the costs should fall should be taken into account...",
+            "page": 35,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the escalating rate of climate change and non-climate risks to the environment and human endeavors. The documents emphasize that responding to these challenges is essentially good risk management. They also underscore the increasing expectation for local governments to develop appropriate adaptation planning as a risk management tool to reduce exposure to costs, impacts on health and productivity, and possible future litigation. The documents further stress that the decisions and investments made today will largely determine the region's ability to respond to climate change in the future. They also note that the challenges are great, but so is the resolve to meet them to ensure a strong and vibrant future for the communities. The documents also mention that the actions in the plan will require unprecedented cooperation between all organizations and people who live in, or have influence over, the region.",
+          "quote": {
+            "content": "Responding to this challenge is essentially good risk management. The rate of change of non-climate risks to the environment and human endeavours is also escalating (Figure 2). From a risk management perspective we would be prudent to assume the rate and scale of climate-driven change will escalate for the foreseeable future.",
+            "page": 20,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It emphasizes the escalating rate of climate change and non-climate risks to the environment and human endeavors. The document also highlights the increasing expectation for local governments to develop appropriate adaptation planning as a risk management tool to reduce exposure to costs, impacts on health, and possible future litigation. The document further underscores the need for flexibility in actions, prioritization of responses to climate impacts, and the effectiveness, efficiency, and equity of adaptation measures. It also stresses the need for a dynamic planning process that is adaptive and innovative to move communities closer to greater resilience and self-determination. The document also recognizes the need for unprecedented cooperation between all organizations and people who live in, or have influence over, the region.",
+          "quote": {
+            "content": "Responding to this challenge is essentially good risk management. From a risk management perspective we would be prudent to assume the rate and scale of climate-driven change will escalate for the foreseeable future.",
+            "page": 20,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss the importance of adaptation and resilience in response to climate change, and mention the need for prioritisation and investment strategies, they do not provide concrete timelines for these actions. The documents also mention the need for flexibility in response to future climate uncertainties, which could potentially complicate the establishment of specific timeframes. Furthermore, the documents highlight the ongoing nature of climate change adaptation, suggesting that it is a continuous process rather than one with a definitive end point. Therefore, based on the provided documents, it cannot be affirmed that the local government has set specific timeframes for its climate actions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of climate change adaptation and resilience, they do not explicitly rank these actions above other policies. The documents highlight the need for flexibility, prioritization, and effectiveness in response to climate impacts. They also stress the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. However, they do not specifically state that these actions should take precedence over other policies. The documents also mention the use of a multi-criteria analysis process to prioritize actions, but they do not specify that climate emergency response should be the highest priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, emphasize the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. The documents also mention the need for actions to be prioritized, with a focus on those most affected by weather and climate, those with long-term implications, those involving significant investment, or those supporting critical infrastructure. Furthermore, the documents highlight the need for a dynamic planning process that is adaptive and innovative in response to climate change. However, there is no specific directive stating that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy does outline various strategies and actions to address climate change, such as involving women and youth in decision making, decentralising services, and reviewing infrastructure policy, there is no clear mention of specific funding or budget allocation for these actions. The policy does acknowledge the need for 'unprecedented cooperation' and the importance of 'investment strategies', but it does not provide concrete details about the source or amount of funding. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents do outline various actions and strategies related to climate change adaptation and resilience, such as facilitating information sessions, supporting communities to interpret environmental research, and investigating the impacts of climate change on critical infrastructure, they do not specify the allocation of staff or other non-monetary institutional resources to these tasks. The documents mention the need for cooperation between all organizations and people who live in or have influence over the region, but this is a general statement and does not provide specific details about resource allocation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government policy is designed to empower and educate the community to work together to address climate change. The policy outlines plans to facilitate information sessions and resilience workshops for each community to build their understanding of climate change and identify appropriate community-based adaptation options and actions to enhance local resilience. The policy also supports communities to access and interpret environmental research and monitoring data, including modelling and mapping of projected climate change and sea-level rise scenarios. This approach is designed to empower the community by providing them with the knowledge and tools they need to take action on climate change. Furthermore, the policy includes plans to develop a dynamic planning process that is adaptive and innovative, reflecting the approach needed to move communities closer to greater resilience and self-determination. This suggests a commitment to social mobilisation, as it involves actively involving the community in the planning and implementation of climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The focus of the policy appears to be on adaptation to climate change rather than mitigation. The policy includes actions such as increasing passive cooling in buildings, assessing the impacts of climate change on health and the environment, and implementing strategies for sustainable fishing and hunting. However, these actions are aimed at adapting to the effects of climate change rather than reducing greenhouse gas emissions. Therefore, the policy does not meet the criteria for a positive response to the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan recognizes the need to adapt to emerging climate impacts and strengthen regional and community resilience to reduce vulnerabilities. It addresses how climate change will impact the region and what measures can be taken to reduce or eliminate those risks. The plan provides an initial list of actions under the themes of Adaptation and Resilience. These actions have been sorted by their contribution to the management cycle - information & knowledge gathering, policy & planning, implementation, building education & awareness, and monitoring. The actions have also been sorted by priority for implementation. The plan also acknowledges that adaptation to climate change is an ongoing learning process and aims to develop a dynamic planning process that is truly adaptive and innovative.",
+          "quote": {
+            "content": "The actions assembled under each Outcome were captured from a range of sources, particularly from a regional workshop held as part of the planning process. This Plan provides an initial list of actions under the themes of Adaptation (3 Outcomes) and Resilience (6 Outcomes).",
+            "page": 32,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a comprehensive approach to climate change adaptation and resilience, which is based on evidence and research. The policy emphasizes the use of the latest research, data, and practical experience to support decision-making and identify knowledge gaps. It also highlights the importance of integrating climate adaptation and resilience into all levels of policy, planning, and action. The policy outlines a dynamic planning process that is adaptive and innovative, reflecting the approach needed to prepare communities for the challenges of climate change. The policy also adopts an integrated climate change risk and vulnerability assessment approach, focusing on the vulnerability of key indicators across various sectors. The policy also outlines specific actions, such as facilitating information sessions and adaptation and resilience workshops for each community, and supporting communities to access and interpret environmental research and monitoring data. Therefore, the policy provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "It should also identify knowledge gaps and drive research where necessary. Evidence-based: adaptation options should make full use of the latest research, data and practical experience so that decision-making is well supported and informed.",
+            "page": 35,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a commitment to report each year on the implementation of the actions, with the report stating the current status of each action, whether it is completed, partly completed, or yet to be commenced. The plan also includes a detailed explanation of the extent and reasons for partial completion or the reasons for delayed commencement. Furthermore, the plan includes an evaluation of the extent to which outcomes are being achieved, which is used to assess the progress made in moving from the original situation to the desired situation. This evaluation process uses the same indicators to describe both the original situation and the desired outcome, allowing for a clear measurement of progress. The plan also includes a monitoring program to inform the annual report, which provides an important input into ongoing adaptive management.",
+          "quote": {
+            "content": "Appropriate detail explaining the extent and reasons for partial completion or the reasons for delayed commencement are needed to support understanding of any barrier to, or constraint on each action. The commitment to report each year on the implementation of the actions drives a monitoring program to inform that report. The report simply states the current status of each action \u2013 that is, is it completed, partly completed or yet to be commenced?",
+            "page": 96,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The policy outlines a dynamic planning process that is adaptive and innovative, aiming to prepare communities for the challenges that climate change is already bringing. The policy also mentions facilitating information sessions and adaptation and resilience workshops for each community to build their understanding of climate change and to identify appropriate community-based adaptation options and actions to enhance local resilience. Furthermore, the policy details a community-based planning process that includes building awareness and understanding of key drivers of change for the community, understanding climate change challenges, and identifying adaptation strategies and actions to build community resilience. This process is based on a participatory action research approach, indicating that research will be conducted in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents discuss the need for adaptation to climate change, prioritisation of responses, and the development of a dynamic planning process, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do mention the development and assessment of actions, but it is not clear if these are experimental or pilot initiatives. Therefore, based on the provided documents, it cannot be affirmed that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the documents do discuss the importance of climate change adaptation and the need for a dynamic planning process, they do not specifically mention advocacy towards higher levels of government. The documents focus more on the local community's role in climate change adaptation, including facilitating information sessions and resilience workshops, supporting communities to access and interpret environmental research, and implementing innovative and collaborative strategies. The documents also mention the need for unprecedented cooperation between all organizations and people who live in, or have influence in the region, but this does not necessarily imply advocacy to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy emphasizes the importance of community engagement and communication in responding to climate change, and identifies capacity and resource constraints as key barriers to successful development and implementation of adaptation options. The policy also outlines plans to facilitate information sessions and adaptation and resilience workshops for each community to build their understanding of climate change and to identify appropriate community-based adaptation options and actions to enhance local resilience. Furthermore, the policy encourages individuals to support climate adaptation and resilience action in the region by reading the plan, telling others about it, and contributing to the actions in the plan where they can."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of community involvement, adaptation to climate change, and the need for cooperation and planning, they do not provide specific details about any particular organizations or partnerships involved in these efforts. The documents emphasize the need for a dynamic planning process, the importance of building resilience, and the necessity of adapting to the challenges of climate change. However, without specific mention or details about regional associations, alliances, or partnerships related to climate change, it is not possible to affirmatively answer the question."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that communities with fewer resources and higher levels of vulnerability will be more severely impacted by climate change. The policy recognizes the need to adapt to emerging climate impacts and to strengthen regional and community resilience to reduce vulnerabilities. It also highlights the importance of current and future development projects aligning with these objectives. The document further identifies key climate impacts on social capital, including increased financial stress, increased demand for emergency services, and potential decline in access to key marine food resources. The policy also proposes working with Queensland Health to develop socioeconomic programs to address climate risks.",
+          "quote": {
+            "content": "As such this Plan recognises both the need to adapt to emerging climate impacts and the need to strengthen regional and community resilience to reduce vulnerabilities. It is well recognised that communities that are less resourced with higher levels of vulnerability will be impacted harder by climate change.",
+            "page": 21,
+            "source": "Torres-QLD-67.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While there are mentions of developing socioeconomic programs to address climate risks, working with Queensland Health to identify specific future health risks associated with climate change, and developing community stress management and support strategies, these do not directly address the equitable distribution of benefits and opportunities. The documents focus more on the mitigation of risks and the development of resilience strategies rather than the sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 53.3
+  }
+}

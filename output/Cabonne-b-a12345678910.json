@@ -1,1 +1,262 @@
-{"settings": {"source_files": ["Cabonne-NSW-7.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T14:05:51.997324", "lga": "Cabonne"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The core purpose or goal of the policy, as stated in the documents, does not explicitly revolve around climate action. The policy's primary objectives are to reduce the cost and uncertainty of future energy supply to Council infrastructure, support local businesses and residents suffering financial stress or discomfort due to energy affordability, and to attract and retain people and businesses to Cabonne country living. While the policy does involve actions that could indirectly contribute to climate action, such as monitoring energy consumption, considering energy consumption rates in procurement, and exploring renewable energy options, these actions are framed in terms of their potential to provide financial benefits, demonstrate leadership, and support the local community, rather than as part of a direct effort to combat climate change."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": false, "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's Renewable Energy Action Plan, which includes measures for energy efficiency, monitoring energy consumption, and procurement policies that consider energy consumption rates. The purpose of the plan is stated as engaging with renewable energy, identifying project options that benefit the council and community, supporting innovation in energy use, and preparing for any future carbon price. However, these actions are framed in terms of cost control, leadership, and community support, rather than directly addressing the need to combat climate change. The documents also mention the potential for positive financial impact, community benefit, and ethical considerations, but these are not explicitly linked to climate change action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Cabonne Shire Council's Renewable Energy Action Plan, which includes measures to monitor energy consumption, consider energy consumption rates in procurement, and implement energy efficiency measures. The documents also mention the potential for projects that benefit the council and the community, and the desire to prepare for any future carbon price. However, these actions are framed in terms of cost control, leadership, and community benefit, rather than urgency in response to climate change. The documents do not provide a timeline for these actions, nor do they express a sense of urgency or immediacy in their implementation. Therefore, based on the provided documents, it cannot be concluded that there is an explicit call for rapid and urgent action on climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate. While the Renewable Energy Action Plan by the Cabonne Shire Council outlines various strategies and objectives related to energy efficiency, renewable energy procurement, and community benefits, it does not provide explicit deadlines or schedules for these actions. The documents mention the monitoring of energy consumption, the consideration of energy consumption rates in procurement, and the potential for projects like bioenergy and electric vehicles. However, these are discussed in general terms without associated timelines. The only mention of a specific year is in the context of the service offering of Constructive Energy Pty Ltd, which states a goal for 2030, but this is not directly tied to the local government's policy actions."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the local government's Renewable Energy Action Plan, which includes measures to monitor energy consumption, consider energy consumption rates in procurement, and implement energy efficiency measures across council locations. The documents also mention the council's objectives, which include reducing the cost and uncertainty of future energy supply, supporting local businesses and residents, and demonstrating leadership in the renewable energy sector. However, these documents do not explicitly prioritize these actions over other policies, nor do they declare a climate emergency."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The Renewable Energy Action Plan reflects the Cabonne Shire Council's (CSC) desire to engage with renewable energy and identify options for projects that benefit the Council and the Cabonne Shire community. The plan includes a focus on energy efficiency, with the Engineering department responsible for reviewing energy usage at all sites and key equipment/assets. Energy consumption rates are considered in the procurement of any new equipment or servicing and maintenance of existing items. However, there is no explicit requirement stated that all council activities must align with climate policy. The documents do indicate that the council is taking steps to reduce energy consumption and consider energy efficiency in its operations, but this does not necessarily equate to a comprehensive alignment with climate policy across all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the local government's Renewable Energy Action Plan, including objectives to reduce energy costs, support local businesses and residents, and monitor energy consumption, there is no clear mention of specific funding allocation for these actions. The documents mention the potential for financial impact and the need for detailed financial modelling, but they do not provide concrete evidence of allocated funds for climate action. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Renewable Energy Action Plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The plan outlines that the Engineering department is responsible for reviewing energy usage at all sites and of key equipment/assets. Furthermore, energy use for sites/assets is reported in regular section meetings and efficiency forms a component of staff Position Descriptions. This suggests that staff time and expertise are being allocated to monitor and report on energy usage, which is a key aspect of the plan's climate action. However, the plan does not provide specific details on the number of staff involved, the time commitment required, or how these responsibilities are integrated into their existing roles."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to empower and educate the community to support climate action. The Renewable Energy Action Plan reflects the local government's desire to engage with renewable energy and identify projects that benefit both the Council and the wider community. The Council is shown to support innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community, and preparing for any future carbon price. The Council also aims to lead and support the community through education, demonstration, partnership, and projects. However, the document does not provide specific details on how the community is being educated or mobilized to work together to deliver climate action.", "quote": {"content": "CSC leads and supports the community through education, demonstration, partnership and projects. CSC supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community and preparing for any future carbon price.", "page": 5, "source": "Cabonne-NSW-7.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Cabonne Shire Council's Renewable Energy Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to energy efficiency measures and the integration of new technologies to reduce electricity consumption, which would in turn lower the carbon footprint. The plan also mentions the implementation of energy saving initiatives such as retrofits and behaviour change programs. Furthermore, the plan discusses the procurement policy where energy consumption rates are considered in the procurement of any new equipment or servicing and maintenance of existing items. This includes new buildings and vehicles. The plan also mentions the transition to electric vehicles, plant, and machinery, which would contribute to the reduction of greenhouse gas emissions. However, the plan does not provide specific details on the technological solutions to be used or the specific behaviour changes to be implemented.", "quote": {"content": "Simple behavioural/operational changes as well as integration of new technologies can be combined to achieve significant cost reduction, increased efficiency and a lowered carbon footprint.", "page": 31, "source": "Cabonne-NSW-7.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents from the Cabonne Shire Council's Renewable Energy Action Plan do not contain specific actions for climate adaptation and resilience in the context of adapting to a changing climate. The plan primarily focuses on energy efficiency, renewable energy projects, and cost control. It mentions objectives such as reducing the cost and uncertainty of future energy supply, supporting local businesses and residents suffering from energy affordability, and creating a new and enduring revenue stream for the council. However, these objectives and the associated actions are more related to mitigation strategies and economic benefits rather than adaptation to climate change or enhancing resilience. Therefore, based on the provided documents, the plan does not include specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Cabonne Shire Council's Renewable Energy Action Plan. While the documents outline the council's desire to engage with renewable energy and identify options for projects that benefit the council and community, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the council's objectives, such as reducing the cost and uncertainty of future energy supply and supporting local businesses and residents suffering from financial stress due to energy affordability. However, these objectives are not backed by specific evidence or data. Furthermore, the documents mention potential projects and areas of inquiry, but they do not provide detailed, well-sourced evidence to justify these projects. Therefore, based on the provided documents, the council's climate targets and actions are not justified by well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government policy documents provided do not explicitly outline specific measurable criteria to evaluate the success of its proposed actions. While the policy does mention a project ranking framework, which includes considerations such as benefit/cost, community benefit, logic, and leadership, it does not provide clear, quantifiable metrics for these considerations. The policy also discusses energy efficiency measures and monitoring energy consumption, but again, it does not provide specific targets or benchmarks for success. Therefore, it is not possible to affirm that the plan includes specific measurable criteria to evaluate the success of its proposed actions based on the provided documents."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy documents primarily focus on the local government's Renewable Energy Action Plan, which includes measures for energy efficiency, monitoring energy consumption, and procurement policies that consider energy consumption rates. The documents also outline the objectives of the plan, such as reducing the cost and uncertainty of future energy supply to Council infrastructure, supporting local businesses and residents, and demonstrating leadership within the community. However, these documents do not explicitly mention conducting research in the local community to inform these actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The Cabonne Shire Council's Renewable Energy Action Plan does show evidence of innovation and policy experimentation in climate action. The plan reflects the council's desire to engage with renewable energy and identify options for projects that benefit the council and the community. The council supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community, and preparing for any future carbon price. The council has developed a decision-making framework to evaluate the relative importance of projects identified through the Renewable Energy Action Plan. This framework includes considerations of benefit/cost, community benefit, logic, and leadership. The council also monitors energy consumption and considers energy consumption rates in the procurement of new equipment, servicing, and maintenance of existing items. This includes new buildings and vehicles. These actions demonstrate a commitment to innovation and policy experimentation in climate action.", "quote": {"content": "CSC supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community and preparing for any future carbon price.", "page": 5, "source": "Cabonne-NSW-7.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent by the Cabonne Shire Council to advocate upward to state and national governments to support climate action. The Renewable Energy Action Plan primarily focuses on the council's internal strategies and actions to engage with renewable energy and reduce energy consumption. The plan outlines objectives such as reducing the cost and uncertainty of future energy supply to Council infrastructure, supporting local businesses and residents suffering financial stress due to energy affordability, and demonstrating leadership within the community. However, these objectives and actions are focused on the local level and do not explicitly mention advocacy to higher levels of government for climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the council's desire to engage with renewable energy and identify options for projects that benefit the council and the Cabonne Shire community, it does not specifically mention building local capacity for climate action. The policy also discusses the council's objectives, which include reducing the cost and uncertainty of future energy supply to council infrastructure and supporting local businesses and residents suffering financial stress or discomfort due to energy affordability. However, these objectives do not explicitly involve building local capacity for climate action. Therefore, based on the provided documents, the answer to the question is negative."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate. While the documents do mention the concept of partnerships and community benefits, they do not specify any particular entities or organizations that the local government is partnering with in relation to climate action. The documents primarily focus on the local government's Renewable Energy Action Plan, its objectives, and the potential benefits to the community. However, they do not provide specific details about any collaborative efforts with external organizations or alliances to address climate change."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of 'equity and social justice'. While the policy does mention the benefits to the community in terms of energy efficiency, renewable energy projects, and potential economic growth, it does not specifically address the impact of climate change on vulnerable communities. The policy focuses on energy consumption, procurement policies, and potential projects related to renewable energy. It also outlines the benefits of these initiatives to the community, such as more reliable energy supply and reduced energy costs. However, these benefits are not specifically linked to the impacts of climate change on vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention community benefits, such as redirecting energy spend to other capital works beneficial to the community and reducing the council's carbon footprint, it does not delve into the specifics of how these benefits will be equitably distributed among different social groups. The policy also does not address how it will ensure that opportunities arising from a safe climate, such as jobs in the renewable energy sector, will be accessible to all, regardless of their social or economic status. Therefore, the policy does not meet the high standard of evidence required to affirm that it explicitly discusses how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 4, "num_questions": 20, "attribute_score": 27.5}}
+{
+  "settings": {
+    "source_files": [
+      "Cabonne-NSW-7.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T14:05:51.997324",
+    "lga": "Cabonne"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The core purpose or goal of the policy, as stated in the documents, does not explicitly revolve around climate action. The policy's primary objectives are to reduce the cost and uncertainty of future energy supply to Council infrastructure, support local businesses and residents suffering financial stress or discomfort due to energy affordability, and to attract and retain people and businesses to Cabonne country living. While the policy does involve actions that could indirectly contribute to climate action, such as monitoring energy consumption, considering energy consumption rates in procurement, and exploring renewable energy options, these actions are framed in terms of their potential to provide financial benefits, demonstrate leadership, and support the local community, rather than as part of a direct effort to combat climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the local government's Renewable Energy Action Plan, which includes measures for energy efficiency, monitoring energy consumption, and procurement policies that consider energy consumption rates. The purpose of the plan is stated as engaging with renewable energy, identifying project options that benefit the council and community, supporting innovation in energy use, and preparing for any future carbon price. However, these actions are framed in terms of cost control, leadership, and community support, rather than directly addressing the need to combat climate change. The documents also mention the potential for positive financial impact, community benefit, and ethical considerations, but these are not explicitly linked to climate change action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Cabonne Shire Council's Renewable Energy Action Plan, which includes measures to monitor energy consumption, consider energy consumption rates in procurement, and implement energy efficiency measures. The documents also mention the potential for projects that benefit the council and the community, and the desire to prepare for any future carbon price. However, these actions are framed in terms of cost control, leadership, and community benefit, rather than urgency in response to climate change. The documents do not provide a timeline for these actions, nor do they express a sense of urgency or immediacy in their implementation. Therefore, based on the provided documents, it cannot be concluded that there is an explicit call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate. While the Renewable Energy Action Plan by the Cabonne Shire Council outlines various strategies and objectives related to energy efficiency, renewable energy procurement, and community benefits, it does not provide explicit deadlines or schedules for these actions. The documents mention the monitoring of energy consumption, the consideration of energy consumption rates in procurement, and the potential for projects like bioenergy and electric vehicles. However, these are discussed in general terms without associated timelines. The only mention of a specific year is in the context of the service offering of Constructive Energy Pty Ltd, which states a goal for 2030, but this is not directly tied to the local government's policy actions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the local government's Renewable Energy Action Plan, which includes measures to monitor energy consumption, consider energy consumption rates in procurement, and implement energy efficiency measures across council locations. The documents also mention the council's objectives, which include reducing the cost and uncertainty of future energy supply, supporting local businesses and residents, and demonstrating leadership in the renewable energy sector. However, these documents do not explicitly prioritize these actions over other policies, nor do they declare a climate emergency."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The Renewable Energy Action Plan reflects the Cabonne Shire Council's (CSC) desire to engage with renewable energy and identify options for projects that benefit the Council and the Cabonne Shire community. The plan includes a focus on energy efficiency, with the Engineering department responsible for reviewing energy usage at all sites and key equipment/assets. Energy consumption rates are considered in the procurement of any new equipment or servicing and maintenance of existing items. However, there is no explicit requirement stated that all council activities must align with climate policy. The documents do indicate that the council is taking steps to reduce energy consumption and consider energy efficiency in its operations, but this does not necessarily equate to a comprehensive alignment with climate policy across all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the local government's Renewable Energy Action Plan, including objectives to reduce energy costs, support local businesses and residents, and monitor energy consumption, there is no clear mention of specific funding allocation for these actions. The documents mention the potential for financial impact and the need for detailed financial modelling, but they do not provide concrete evidence of allocated funds for climate action. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Renewable Energy Action Plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The plan outlines that the Engineering department is responsible for reviewing energy usage at all sites and of key equipment/assets. Furthermore, energy use for sites/assets is reported in regular section meetings and efficiency forms a component of staff Position Descriptions. This suggests that staff time and expertise are being allocated to monitor and report on energy usage, which is a key aspect of the plan's climate action. However, the plan does not provide specific details on the number of staff involved, the time commitment required, or how these responsibilities are integrated into their existing roles."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to empower and educate the community to support climate action. The Renewable Energy Action Plan reflects the local government's desire to engage with renewable energy and identify projects that benefit both the Council and the wider community. The Council is shown to support innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community, and preparing for any future carbon price. The Council also aims to lead and support the community through education, demonstration, partnership, and projects. However, the document does not provide specific details on how the community is being educated or mobilized to work together to deliver climate action.",
+          "quote": {
+            "content": "CSC leads and supports the community through education, demonstration, partnership and projects. CSC supports innovation in energy use and delivery for the purpose of improved cost control, demonstrating leadership within the community and preparing for any future carbon price.",
+            "page": 5,
+            "source": "Cabonne-NSW-7.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Cabonne Shire Council's Renewable Energy Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to energy efficiency measures and the integration of new technologies to reduce electricity consumption, which would in turn lower the carbon footprint. The plan also mentions the implementation of energy saving initiatives such as retrofits and behaviour change programs. Furthermore, the plan discusses the procurement policy where energy consumption rates are considered in the procurement of any new equipment or servicing and maintenance of existing items. This includes new buildings and vehicles. The plan also mentions the transition to electric vehicles, plant, and machinery, which would contribute to the reduction of greenhouse gas emissions. However, the plan does not provide specific details on the technological solutions to be used or the specific behaviour changes to be implemented.",
+          "quote": {
+            "content": "Simple behavioural/operational changes as well as integration of new technologies can be combined to achieve significant cost reduction, increased efficiency and a lowered carbon footprint.",
+            "page": 31,
+            "source": "Cabonne-NSW-7.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents from the Cabonne Shire Council's Renewable Energy Action Plan do not contain specific actions for climate adaptation and resilience in the context of adapting to a changing climate. The plan primarily focuses on energy efficiency, renewable energy projects, and cost control. It mentions objectives such as reducing the cost and uncertainty of future energy supply, supporting local businesses and residents suffering from energy affordability, and creating a new and enduring revenue stream for the council. However, these objectives and the associated actions are more related to mitigation strategies and economic benefits rather than adaptation to climate change or enhancing resilience. Therefore, based on the provided documents, the plan does not include specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Cabonne Shire Council's Renewable Energy Action Plan. While the documents outline the council's desire to engage with renewable energy and identify options for projects that benefit the council and community, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the council's objectives, such as reducing the cost and uncertainty of future energy supply and supporting local businesses and residents suffering from financial stress due to energy affordability. However, these objectives are not backed by specific evidence or data. Furthermore, the documents mention potential projects and areas of inquiry, but they do not provide detailed, well-sourced evidence to justify these projects. Therefore, based on the provided documents, the council's climate targets and actions are not justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government policy documents provided do not explicitly outline specific measurable criteria to evaluate the success of its proposed actions. While the policy does mention a project ranking framework, which includes considerations such as benefit/cost, community benefit, logic, and leadership, it does not provide clear, quantifiable metrics for these considerations. The policy also discusses energy efficiency measures and monitoring energy consumption, but again, it does not provide specific targets or benchmarks for success. Therefore, it is not possible to affirm that the plan includes specific measurable criteria to evaluate the success of its proposed actions based on the provided documents."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy documents primarily focus on the local government's Renewable Energy Action Plan, which includes measures for energy efficiency, monitoring energy consumption, and procurement policies that consider energy consumption rates. The documents also outline the objectives of the plan, such as reducing the cost and uncertainty of future energy supply to Council infrastructure, supporting local businesses and residents, and demonstrating leadership within the community. However, these documents do not explicitly mention conducting research in the local community to inform these actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the Cabonne Shire Council's Renewable Energy Action Plan does outline a number of strategies and initiatives related to renewable energy and energy efficiency, these are not explicitly described as experiments, pilots, test beds, demonstration projects, or urban laboratories. The plan does mention the development of a mid-scale solar array and the implementation of energy efficiency measures across Council locations, but these are presented as planned actions rather than experimental initiatives. Furthermore, there is no explicit mention of testing these initiatives on a small scale and under real-world conditions before wider implementation. Therefore, based on the provided documents, it cannot be conclusively stated that the policy includes elements of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the Cabonne Shire Council to advocate upward to state and national governments to support climate action. The Renewable Energy Action Plan primarily focuses on the council's internal strategies and actions to engage with renewable energy and reduce energy consumption. The plan outlines objectives such as reducing the cost and uncertainty of future energy supply to Council infrastructure, supporting local businesses and residents suffering financial stress due to energy affordability, and demonstrating leadership within the community. However, these objectives and actions are focused on the local level and do not explicitly mention advocacy to higher levels of government for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the council's desire to engage with renewable energy and identify options for projects that benefit the council and the Cabonne Shire community, it does not specifically mention building local capacity for climate action. The policy also discusses the council's objectives, which include reducing the cost and uncertainty of future energy supply to council infrastructure and supporting local businesses and residents suffering financial stress or discomfort due to energy affordability. However, these objectives do not explicitly involve building local capacity for climate action. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate. While the documents do mention the concept of partnerships and community benefits, they do not specify any particular entities or organizations that the local government is partnering with in relation to climate action. The documents primarily focus on the local government's Renewable Energy Action Plan, its objectives, and the potential benefits to the community. However, they do not provide specific details about any collaborative efforts with external organizations or alliances to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of 'equity and social justice'. While the policy does mention the benefits to the community in terms of energy efficiency, renewable energy projects, and potential economic growth, it does not specifically address the impact of climate change on vulnerable communities. The policy focuses on energy consumption, procurement policies, and potential projects related to renewable energy. It also outlines the benefits of these initiatives to the community, such as more reliable energy supply and reduced energy costs. However, these benefits are not specifically linked to the impacts of climate change on vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention community benefits, such as redirecting energy spend to other capital works beneficial to the community and reducing the council's carbon footprint, it does not delve into the specifics of how these benefits will be equitably distributed among different social groups. The policy also does not address how it will ensure that opportunities arising from a safe climate, such as jobs in the renewable energy sector, will be accessible to all, regardless of their social or economic status. Therefore, the policy does not meet the high standard of evidence required to affirm that it explicitly discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 4,
+    "num_questions": 20,
+    "attribute_score": 27.5
+  }
+}

@@ -1,1 +1,317 @@
-{"settings": {"source_files": ["Augusta-WA-235.pdf", "Augusta-WA-236.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T12:13:35.742326", "lga": "Augusta"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as its core purpose. The policy is centered around the development and implementation of a Climate Action Plan, which is aimed at addressing climate change impacts at the local level. The policy outlines a process for community engagement and prioritization of projects related to climate action, with a focus on reducing emissions and promoting sustainability. The policy also includes provisions for monitoring and reviewing progress towards climate action goals, indicating a commitment to ongoing improvement and adaptation in response to changing circumstances. The policy's emphasis on community involvement and collaboration suggests a recognition of the need for collective action and shared responsibility in addressing climate change. The policy's focus on climate action is further underscored by its commitment to achieving net zero emissions by 2030, a target that aligns with global efforts to mitigate climate change.", "quote": {"content": "The Shire\u2019s Climate Action Plan sets out practical, economically responsible and inclusive measures, which the Shire will put into place over the next 10 years in order to make a meaningful contribution to the worldwide mitigation task.", "page": 5, "source": "Augusta-WA-235.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the global consensus on the urgency of climate change mitigation, and the necessity of swift and decisive action to avoid the worst impacts of climate change. The documents also emphasize the role of local governments and communities in driving this change. They note that strong action at the local level can influence larger scale changes and that early and sustained action will provide the smoothest transition to a carbon-constrained environment. The documents also underscore the importance of community involvement and ownership in achieving emissions reduction targets. They propose a range of practical measures, including policy changes, education initiatives, and specific projects, to be implemented over the next decade to make a meaningful contribution to the global mitigation effort.", "quote": {"content": "The Shire\u2019s Climate Action Plan sets out practical, economically responsible and inclusive measures, which the Shire will put into place over the next 10 years in order to make a meaningful contribution to the worldwide mitigation task. The world\u2019s leading scientists warn that the worst impacts of climate change can still be avoided, but change must occur quickly.", "page": 5, "source": "Augusta-WA-235.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. They highlight the severity of the climate crisis, citing the Intergovernmental Panel on Climate Change (IPCC) report that warns of the catastrophic impacts if global warming exceeds 1.5 degrees above pre-industrial levels. The documents also emphasize the need for immediate and drastic cuts in global emissions. The local government's Climate Action Plan sets out practical measures to be implemented over the next 10 years, indicating a sense of urgency. The plan includes accelerating the transition to renewables and ramping up climate solutions across all sectors of the economy. The documents also mention that the window of opportunity to limit the effects of climate change is rapidly closing, further underscoring the urgency of the situation.", "quote": {"content": "We need to accelerate the transition to renewables and storage technologies and ramp up other climate solutions across all sectors of the economy. The IPCC report found that current national pledges are not enough to limit warming to 1.5degrees. The window of opportunity to limit the effects of climate change is rapidly closing. The solutions are available.", "page": 5, "source": "Augusta-WA-236.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for intended actions on climate. The 'Climate Action Plan' is set to be implemented over the next 10 years, as stated in the document. The plan includes actions grouped under various themes, and progress against adopted emission reduction targets will be evaluated at the end of each financial year. The document also mentions a 'Climate Action Summit' planned for 2019, which is intended to develop comprehensive and ambitious actions on climate change. Furthermore, the document mentions a timeline for the Shire's climate action, including the finalization of the Climate Action Plan and updated targets in 2021. However, the documents do not provide detailed timelines for each specific action within the plan."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive Climate Action Plan, including mitigation strategies, adaptation responses, and community workshops, they do not explicitly prioritize these actions over other policies. The documents mention the declaration of a climate emergency and the development of a Climate Action Plan, but they do not explicitly state that this should take precedence over other policies. The documents also mention the integration of climate considerations into the local planning scheme and the development of a complementary climate change adaptation plan, but again, these are not explicitly prioritized over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including mitigation and adaptation strategies, community workshops, and specific projects, they do not explicitly require all council activities to align with this policy. The documents mention the integration of climate considerations into various aspects of the Shire's functions, including bushfire planning, health and well-being, biodiversity, built form, and infrastructure. However, this does not necessarily mean that all council activities must align with the climate policy. It is also worth noting that the documents emphasize community involvement and partnerships, suggesting a collaborative approach to climate action rather than a top-down mandate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions and strategies related to climate change, such as promoting energy efficiency, increasing the use of alternative energies, and advocating for change at the state and federal level, there is no clear mention of specific funding allocations for these initiatives. The documents mention the involvement of various stakeholders, including the Shire, community groups, and businesses, in implementing the climate action plan. However, the specifics of how these entities will financially contribute to the plan are not detailed. The documents also mention potential costs associated with certain actions, but these are often listed as 'to be determined' or 'undefined', indicating a lack of concrete financial planning. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does explicitly allocate staff resources to climate action. The policy outlines several initiatives and projects related to climate change, and in many of these, 'Staff resources' are listed as a key component for their implementation. For instance, in the action to 'Review the Shire\u2019s Sustainable Design Policy to include sustainable design and/or solar PV installations for commercial buildings and residential subdivisions', 'Staff resources' are mentioned as a necessary input. Similarly, in the action to 'Encourage carbon offsetting initiatives', 'Staff resources' are again listed as a requirement. This suggests that the local government is committing its staff to work on these climate action initiatives, indicating an allocation of non-monetary institutional resources towards climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document indeed outlines a comprehensive approach to social mobilisation for climate action. It details a variety of strategies aimed at empowering and educating the community to take collective action on climate change. The policy outlines plans to support traditional owners and local climate champions to lead and inspire community action. It also plans to make annual grant funding available for local community groups to promote sustainability. The policy also includes a commitment to fund an annual community sustainability education course and deliver low impact living workshops. Furthermore, the policy outlines a project to build an integrated social movement led by young people for climate justice, which includes activist skills training, communications across different platforms, and partnerships with the Shire and other organisations. This project aims to create a strong intergenerational movement and ongoing relationships between the youth population, community, and politicians.", "quote": {"content": "Fund an annual community sustainability education course. Fund an annual community sustainability education course.", "page": 14, "source": "Augusta-WA-235.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Climate Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include promoting energy efficiency, increasing the use of alternative energies, and transitioning to electric vehicles. For instance, the plan proposes engaging eco-focused building companies to promote energy-efficient technologies and amending the Shire\u2019s Sustainable Design Policy to require solar PV\u2019s on all new commercial buildings. Behaviour change strategies include setting the right culture through community partnerships, lobbying, and education. The plan also includes actions to monitor and review the Shire\u2019s energy, water, and fuel data, and provide an annual update to Council and community on progress against the Climate Action Plan and emissions reduction targets. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a framework for adaptation, which is aimed at reducing the vulnerability of the Shire organization and the community to the harmful effects of climate change. This includes potential impacts such as sea-level encroachment, more intense extreme weather events, and food insecurity. The adaptation phase involves conducting a risk assessment of the potential impacts of climate change on both Council and community activities. Furthermore, the plan emphasizes the importance of embedding 'planning for climate change' into all Shire functions, including bushfire planning, health and well-being, biodiversity, built form, and infrastructure. However, the documents do not provide specific details on the individual actions or strategies that will be implemented as part of this adaptation plan.", "quote": {"content": "The adaptation phase will involve conducting a risk assessment of the potential impacts of climate change, to both Council and community activities. The goal of the adaptation phase will be to reduce the Shire organisation and community\u2019s vulnerability to the harmful effects of climate change (including sea-level encroachment, more intense extreme weather events or food insecurity).", "page": 25, "source": "Augusta-WA-235.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a Climate Action Plan, including targets for net zero emissions by 2030 and actions grouped into themes such as policy and education, energy and emissions, transport, and waste, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention community consultation and a Climate Action Summit, which identified potential projects and priority actions. However, the documents do not provide detailed information about the evidence or data used to inform these decisions. The documents also mention monitoring progress towards targets and providing annual updates, but again, they do not provide specific evidence or data sources to justify the targets and actions outlined in the Climate Action Plan."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's climate action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to implementation and review, with a focus on quantifiable outcomes. For instance, the plan includes an annual inventory of progress against adopted emission reduction targets, which will be undertaken at the end of each financial year. This will help determine how the Shire and community are tracking towards these targets. The plan also includes a review following each financial year, which will identify the level of progress in achieving actions, determine the level of emissions reductions and abatement, and assess progress towards carbon emission reduction targets. Furthermore, before each action is implemented, four components are considered: project costs, payback period, time scale of the project, and estimated reduction in carbon emissions. This approach ensures that each action is quantifiable and can be measured against set carbon reduction goals.", "quote": {"content": "This will ensure that each action is quantifiable and can be measured against set carbon reduction goals. An inventory of progress against adopted emission reduction targets will be undertaken at the end of each financial year.", "page": 29, "source": "Augusta-WA-236.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Action Plan outlines a grassroots community-led initiative, which includes extensive community consultation and a Climate Action Summit. The Summit was designed to identify potential projects for climate action, with 50 potential projects identified and 11 Priority Actions agreed upon for development. This process clearly involved research within the local community to inform the actions to be taken. Furthermore, the policy outlines plans to host a PhD student to explore effective climate responses in a local government context using the Shire as a case study. This is a clear indication of a research-oriented approach to inform climate actions. The outcomes of the research will be implemented to mainstream climate considerations within the organisation.", "quote": {"content": "The foundations of this new plan stem from a grassroots community-led initiative supported by the Shire, which culminated in a \u2018Climate Action Summit\u2019.", "page": 5, "source": "Augusta-WA-235.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has implemented a Climate Action Plan that includes a variety of innovative strategies and actions. For instance, the plan includes a grassroots community-led initiative, which culminated in a 'Climate Action Summit'. This summit involved extensive community consultation and identified 50 potential projects. The attendees agreed on 11 Priority Actions to be developed into collaborative projects through partnerships between government, local business, and community. This approach is innovative as it involves the community directly in the decision-making process and encourages collaboration between different sectors. Additionally, the plan includes the development of a community renewable energy power sharing system, which is an innovative solution to reduce emissions. The plan also includes policy experimentation, such as incorporating sustainability planning regulations into the Local Planning Scheme and developing a style guide for developments to increase urban greening.", "quote": {"content": "Attendees agreed on 11 Priority Actions to be developed into collaborative projects developed through partnerships between government, local business and community. The foundations of this new plan stem from a grassroots community-led initiative supported by the Shire, which culminated in a \u2018Climate Action Summit\u2019. Extensive community consultation identified 50 potential projects, which were presented to Summit attendees.", "page": 5, "source": "Augusta-WA-235.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. The local government's Climate Action Plan (CAP) includes a project titled 'Lobby for Change at the State and Federal Political Level'. This project aims to build an integrated social movement led by young people for climate justice, with the intended outcome of achieving legislation change and ongoing relationships between the youth population, community, and politicians. The project also involves strategising to perform effective actions at key moments, in partnership with the Shire and other organisations. This includes taking action such as school strikes, meeting with politicians, and petitions. The documents also mention that the Shire and community will work together to deliver the priority projects from the Climate Action Summit, which includes this lobbying project.", "quote": {"content": "Project 11: Lobby for Change at the State and Federal Political Level\nProject Description \n\u2022  Build an integrated social movement led by young people for climate justice, Democracy school with ongoing \nactivist skills training\n\u2022 Communications across different platforms \n\u2022 Strategising to perform effective actions at key moments \u2013 in partnership with Shire and other organisations \n\u2022 Taking action \u2013 school strikes, meeting with politicians, arts-based activist, petitions, litigation \n\u2022 Partnerships and support from Shire, organisations and businesses.", "page": 62, "source": "Augusta-WA-235.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate action, which includes a focus on coordination, partnerships, and advocacy. The policy emphasizes the importance of a diverse group working together to implement the Climate Action Plan, with the aim of integrating diverse elements of the plan and ensuring seamless integration and holistic communication. The policy also highlights the role of the council in supporting community groups to lead action on climate, making annual grant funding available for local community groups to promote sustainability, and monitoring the progress of Climate Summit projects. Furthermore, the policy encourages other local governments to take action on climate change, indicating an advocacy role towards neighbouring local councils.", "quote": {"content": "Encourage other local governments", "page": 15, "source": "Augusta-WA-235.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific partnerships related to climate action, although they do not explicitly mention regional associations or alliances. The local government has partnered with the 'Climate Action Augusta Margaret River' group to host a Climate Action Summit, which was also in partnership with Surfing Western Australia and the World Surf League. This summit was a community-led initiative supported by the Shire, and it involved extensive community consultation to identify potential projects for climate action. The documents also mention the establishment of a working group to direct solutions and establish a clear pathway for creating positive change. This working group undertook pre-summit consultation through an online survey and several face-to-face workshops. However, the documents do not provide specific details about the nature of these partnerships or how they function in practice.", "quote": {"content": "On 28 May 2019, the Shire of Augusta Margaret allied with \u2018Climate Action Augusta Margaret River\u2019 to host a one-day Climate Action Summit, in partnership with Surfing Western Australia and the World Surf League.", "page": 27, "source": "Augusta-WA-235.pdf", "search_score": 0.94}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline a Climate Action Plan, including mitigation strategies, adaptation responses, and community involvement, they do not specifically address how climate change might disproportionately affect certain communities or groups. The documents focus more on general community responses, emissions reduction, and environmental sustainability. Therefore, without explicit mention or discussion of the impacts on vulnerable communities, the question cannot be answered positively based on the provided context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, such as promoting energy efficiency, encouraging carbon offsetting initiatives, and transitioning to all-electric buildings, they do not specifically address the distribution of these benefits and opportunities in an equitable manner. The documents focus more on the technical and operational aspects of climate action, rather than the social justice implications. Therefore, without explicit evidence in the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 72.5}}
+{
+  "settings": {
+    "source_files": [
+      "Augusta-WA-235.pdf",
+      "Augusta-WA-236.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T12:13:35.742326",
+    "lga": "Augusta"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy is centered around the development and implementation of a Climate Action Plan, which is aimed at addressing climate change impacts at the local level. The policy outlines a process for community engagement and prioritization of projects related to climate action, with a focus on reducing emissions and promoting sustainability. The policy also includes provisions for monitoring and reviewing progress towards climate action goals, indicating a commitment to ongoing improvement and adaptation in response to changing circumstances. The policy's emphasis on community involvement and collaboration suggests a recognition of the need for collective action and shared responsibility in addressing climate change. The policy's focus on climate action is further underscored by its commitment to achieving net zero emissions by 2030, a target that aligns with global efforts to mitigate climate change.",
+          "quote": {
+            "content": "The Shire\u2019s Climate Action Plan sets out practical, economically responsible and inclusive measures, which the Shire will put into place over the next 10 years in order to make a meaningful contribution to the worldwide mitigation task.",
+            "page": 5,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the global consensus on the urgency of climate change mitigation, and the necessity of swift and decisive action to avoid the worst impacts of climate change. The documents also emphasize the role of local governments and communities in driving this change. They note that strong action at the local level can influence larger scale changes and that early and sustained action will provide the smoothest transition to a carbon-constrained environment. The documents also underscore the importance of community involvement and ownership in achieving emissions reduction targets. They propose a range of practical measures, including policy changes, education initiatives, and specific projects, to be implemented over the next decade to make a meaningful contribution to the global mitigation effort.",
+          "quote": {
+            "content": "The Shire\u2019s Climate Action Plan sets out practical, economically responsible and inclusive measures, which the Shire will put into place over the next 10 years in order to make a meaningful contribution to the worldwide mitigation task. The world\u2019s leading scientists warn that the worst impacts of climate change can still be avoided, but change must occur quickly.",
+            "page": 5,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. They highlight the severity of the climate crisis, citing the Intergovernmental Panel on Climate Change (IPCC) report that warns of the catastrophic impacts if global warming exceeds 1.5 degrees above pre-industrial levels. The documents also emphasize the need for immediate and drastic cuts in global emissions. The local government's Climate Action Plan sets out practical measures to be implemented over the next 10 years, indicating a sense of urgency. The plan includes accelerating the transition to renewables and ramping up climate solutions across all sectors of the economy. The documents also mention that the window of opportunity to limit the effects of climate change is rapidly closing, further underscoring the urgency of the situation.",
+          "quote": {
+            "content": "We need to accelerate the transition to renewables and storage technologies and ramp up other climate solutions across all sectors of the economy. The IPCC report found that current national pledges are not enough to limit warming to 1.5degrees. The window of opportunity to limit the effects of climate change is rapidly closing. The solutions are available.",
+            "page": 5,
+            "source": "Augusta-WA-236.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for intended actions on climate. The 'Climate Action Plan' is set to be implemented over the next 10 years, as stated in the document. The plan includes actions grouped under various themes, and progress against adopted emission reduction targets will be evaluated at the end of each financial year. The document also mentions a 'Climate Action Summit' planned for 2019, which is intended to develop comprehensive and ambitious actions on climate change. Furthermore, the document mentions a timeline for the Shire's climate action, including the finalization of the Climate Action Plan and updated targets in 2021. However, the documents do not provide detailed timelines for each specific action within the plan."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive Climate Action Plan, including mitigation strategies, adaptation responses, and community workshops, they do not explicitly prioritize these actions over other policies. The documents mention the declaration of a climate emergency and the development of a Climate Action Plan, but they do not explicitly state that this should take precedence over other policies. The documents also mention the integration of climate considerations into the local planning scheme and the development of a complementary climate change adaptation plan, but again, these are not explicitly prioritized over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including mitigation and adaptation strategies, community workshops, and specific projects, they do not explicitly require all council activities to align with this policy. The documents mention the integration of climate considerations into various aspects of the Shire's functions, including bushfire planning, health and well-being, biodiversity, built form, and infrastructure. However, this does not necessarily mean that all council activities must align with the climate policy. It is also worth noting that the documents emphasize community involvement and partnerships, suggesting a collaborative approach to climate action rather than a top-down mandate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions and strategies related to climate change, such as promoting energy efficiency, increasing the use of alternative energies, and advocating for change at the state and federal level, there is no clear mention of specific funding allocations for these initiatives. The documents mention the involvement of various stakeholders, including the Shire, community groups, and businesses, in implementing the climate action plan. However, the specifics of how these entities will financially contribute to the plan are not detailed. The documents also mention potential costs associated with certain actions, but these are often listed as 'to be determined' or 'undefined', indicating a lack of concrete financial planning. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff resources to climate action. The policy outlines several initiatives and projects related to climate change, and in many of these, 'Staff resources' are listed as a key component for their implementation. For instance, in the action to 'Review the Shire\u2019s Sustainable Design Policy to include sustainable design and/or solar PV installations for commercial buildings and residential subdivisions', 'Staff resources' are mentioned as a necessary input. Similarly, in the action to 'Encourage carbon offsetting initiatives', 'Staff resources' are again listed as a requirement. This suggests that the local government is committing its staff to work on these climate action initiatives, indicating an allocation of non-monetary institutional resources towards climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document indeed outlines a comprehensive approach to social mobilisation for climate action. It details a variety of strategies aimed at empowering and educating the community to take collective action on climate change. The policy outlines plans to support traditional owners and local climate champions to lead and inspire community action. It also plans to make annual grant funding available for local community groups to promote sustainability. The policy also includes a commitment to fund an annual community sustainability education course and deliver low impact living workshops. Furthermore, the policy outlines a project to build an integrated social movement led by young people for climate justice, which includes activist skills training, communications across different platforms, and partnerships with the Shire and other organisations. This project aims to create a strong intergenerational movement and ongoing relationships between the youth population, community, and politicians.",
+          "quote": {
+            "content": "Fund an annual community sustainability education course. Fund an annual community sustainability education course.",
+            "page": 14,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include promoting energy efficiency, increasing the use of alternative energies, and transitioning to electric vehicles. For instance, the plan proposes engaging eco-focused building companies to promote energy-efficient technologies and amending the Shire\u2019s Sustainable Design Policy to require solar PV\u2019s on all new commercial buildings. Behaviour change strategies include setting the right culture through community partnerships, lobbying, and education. The plan also includes actions to monitor and review the Shire\u2019s energy, water, and fuel data, and provide an annual update to Council and community on progress against the Climate Action Plan and emissions reduction targets. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a framework for adaptation, which is aimed at reducing the vulnerability of the Shire organization and the community to the harmful effects of climate change. This includes potential impacts such as sea-level encroachment, more intense extreme weather events, and food insecurity. The adaptation phase involves conducting a risk assessment of the potential impacts of climate change on both Council and community activities. Furthermore, the plan emphasizes the importance of embedding 'planning for climate change' into all Shire functions, including bushfire planning, health and well-being, biodiversity, built form, and infrastructure. However, the documents do not provide specific details on the individual actions or strategies that will be implemented as part of this adaptation plan.",
+          "quote": {
+            "content": "The adaptation phase will involve conducting a risk assessment of the potential impacts of climate change, to both Council and community activities. The goal of the adaptation phase will be to reduce the Shire organisation and community\u2019s vulnerability to the harmful effects of climate change (including sea-level encroachment, more intense extreme weather events or food insecurity).",
+            "page": 25,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a Climate Action Plan, including targets for net zero emissions by 2030 and actions grouped into themes such as policy and education, energy and emissions, transport, and waste, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention community consultation and a Climate Action Summit, which identified potential projects and priority actions. However, the documents do not provide detailed information about the evidence or data used to inform these decisions. The documents also mention monitoring progress towards targets and providing annual updates, but again, they do not provide specific evidence or data sources to justify the targets and actions outlined in the Climate Action Plan."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to implementation and review, with a focus on quantifiable outcomes. For instance, the plan includes an annual inventory of progress against adopted emission reduction targets, which will be undertaken at the end of each financial year. This will help determine how the Shire and community are tracking towards these targets. The plan also includes a review following each financial year, which will identify the level of progress in achieving actions, determine the level of emissions reductions and abatement, and assess progress towards carbon emission reduction targets. Furthermore, before each action is implemented, four components are considered: project costs, payback period, time scale of the project, and estimated reduction in carbon emissions. This approach ensures that each action is quantifiable and can be measured against set carbon reduction goals.",
+          "quote": {
+            "content": "This will ensure that each action is quantifiable and can be measured against set carbon reduction goals. An inventory of progress against adopted emission reduction targets will be undertaken at the end of each financial year.",
+            "page": 29,
+            "source": "Augusta-WA-236.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Action Plan outlines a grassroots community-led initiative, which includes extensive community consultation and a Climate Action Summit. The Summit was designed to identify potential projects for climate action, with 50 potential projects identified and 11 Priority Actions agreed upon for development. This process clearly involved research within the local community to inform the actions to be taken. Furthermore, the policy outlines plans to host a PhD student to explore effective climate responses in a local government context using the Shire as a case study. This is a clear indication of a research-oriented approach to inform climate actions. The outcomes of the research will be implemented to mainstream climate considerations within the organisation.",
+          "quote": {
+            "content": "The foundations of this new plan stem from a grassroots community-led initiative supported by the Shire, which culminated in a \u2018Climate Action Summit\u2019.",
+            "page": 5,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's Climate Action Plan includes a variety of initiatives aimed at mitigating climate change impacts. These initiatives are designed to test different approaches to climate action under real-world conditions. For instance, the plan includes the development of a community renewable energy project and a power sharing system. These projects are examples of policy experimentation as they involve testing new technologies and governance approaches on a small scale. The plan also includes the development of a complementary climate change adaptation plan, which could involve testing different strategies for adapting to climate change. Furthermore, the plan includes a commitment to monitor the progress of these projects, which suggests an experimental approach involving testing, monitoring, and adjusting policies based on their outcomes.",
+          "quote": {
+            "content": "Attendees agreed on 11 Priority Actions to be developed into collaborative projects developed through partnerships between government, local business and community. The foundations of this new plan stem from a grassroots community-led initiative supported by the Shire, which culminated in a \u2018Climate Action Summit\u2019. Extensive community consultation identified 50 potential projects, which were presented to Summit attendees.",
+            "page": 5,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. The local government's Climate Action Plan (CAP) includes a project titled 'Lobby for Change at the State and Federal Political Level'. This project aims to build an integrated social movement led by young people for climate justice, with the intended outcome of achieving legislation change and ongoing relationships between the youth population, community, and politicians. The project also involves strategising to perform effective actions at key moments, in partnership with the Shire and other organisations. This includes taking action such as school strikes, meeting with politicians, and petitions. The documents also mention that the Shire and community will work together to deliver the priority projects from the Climate Action Summit, which includes this lobbying project.",
+          "quote": {
+            "content": "Project 11: Lobby for Change at the State and Federal Political Level\nProject Description \n\u2022  Build an integrated social movement led by young people for climate justice, Democracy school with ongoing \nactivist skills training\n\u2022 Communications across different platforms \n\u2022 Strategising to perform effective actions at key moments \u2013 in partnership with Shire and other organisations \n\u2022 Taking action \u2013 school strikes, meeting with politicians, arts-based activist, petitions, litigation \n\u2022 Partnerships and support from Shire, organisations and businesses.",
+            "page": 62,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a comprehensive approach to climate action, which includes a focus on coordination, partnerships, and advocacy. The policy emphasizes the importance of a diverse group working together to implement the Climate Action Plan, with the aim of integrating diverse elements of the plan and ensuring seamless integration and holistic communication. The policy also highlights the role of the council in supporting community groups to lead action on climate, making annual grant funding available for local community groups to promote sustainability, and monitoring the progress of Climate Summit projects. Furthermore, the policy encourages other local governments to take action on climate change, indicating an advocacy role towards neighbouring local councils.",
+          "quote": {
+            "content": "Encourage other local governments",
+            "page": 15,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific partnerships related to climate action, although they do not explicitly mention regional associations or alliances. The local government has partnered with the 'Climate Action Augusta Margaret River' group to host a Climate Action Summit, which was also in partnership with Surfing Western Australia and the World Surf League. This summit was a community-led initiative supported by the Shire, and it involved extensive community consultation to identify potential projects for climate action. The documents also mention the establishment of a working group to direct solutions and establish a clear pathway for creating positive change. This working group undertook pre-summit consultation through an online survey and several face-to-face workshops. However, the documents do not provide specific details about the nature of these partnerships or how they function in practice.",
+          "quote": {
+            "content": "On 28 May 2019, the Shire of Augusta Margaret allied with \u2018Climate Action Augusta Margaret River\u2019 to host a one-day Climate Action Summit, in partnership with Surfing Western Australia and the World Surf League.",
+            "page": 27,
+            "source": "Augusta-WA-235.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline a Climate Action Plan, including mitigation strategies, adaptation responses, and community involvement, they do not specifically address how climate change might disproportionately affect certain communities or groups. The documents focus more on general community responses, emissions reduction, and environmental sustainability. Therefore, without explicit mention or discussion of the impacts on vulnerable communities, the question cannot be answered positively based on the provided context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, such as promoting energy efficiency, encouraging carbon offsetting initiatives, and transitioning to all-electric buildings, they do not specifically address the distribution of these benefits and opportunities in an equitable manner. The documents focus more on the technical and operational aspects of climate action, rather than the social justice implications. Therefore, without explicit evidence in the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 72.5
+  }
+}

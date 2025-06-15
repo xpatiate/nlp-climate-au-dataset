@@ -1,1 +1,287 @@
-{"settings": {"source_files": ["HoldfastBay-SA-73.pdf", "HoldfastBay-SA-74.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:35:27.883463", "lga": "HoldfastBay"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose. The policy outlines a commitment to environmental responsibility, carbon neutrality, and sustainability. It acknowledges climate change as the most complex problem of this generation and recognizes the urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation. The policy also outlines specific actions to reduce carbon emissions from Council operations and the wider community, and to increase the community's adaptability and resilience to a changing climate. These actions include implementing a Resilient South Local Action Plan, undertaking a climate adaptation risk assessment, investigating opportunities for urban cooling, and increasing tree canopy. The policy also includes actions to reduce waste to landfill, improve water efficiency, and support sustainable living. These actions are all aimed at mitigating the impacts of climate change and adapting to its effects.", "quote": {"content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency,8 we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.", "page": 13, "source": "HoldfastBay-SA-74.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, recognizing climate change as the most complex problem of this generation. The City of Holdfast Bay is identified as the first coastal council in South Australia to acknowledge the world is in a climate emergency, emphasizing the urgency of the situation. The documents also outline the potential long-term impacts of climate change on the environment, community, and economy, including increased temperatures, more frequent and intense heatwaves, reduced rainfall, and increased drought conditions. The documents further note that even if greenhouse gas emissions are substantially reduced, some changes to the climate are already locked in, necessitating both mitigation and adaptation strategies. The documents also highlight the community's desire for action, with 88% of survey respondents indicating they are personally willing to take action on climate change.", "quote": {"content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency,8 we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.", "page": 13, "source": "HoldfastBay-SA-74.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents do explicitly call for urgent action on climate change. The City of Holdfast Bay recognizes that climate change is the most complex problem of this generation and that they have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation. They have set a target to become carbon neutral by 2030, which is detailed in their 2020-2025 Environment Strategy. The documents also mention the implementation of actions to reduce carbon emissions from both Council operations and the wider community. The urgency is further emphasized by the recognition of the world being in a state of climate emergency and the need for all levels of Government to act. The documents also highlight the need for immediate action in response to the impacts of climate change, such as sea level rise, increased temperatures, and greater frequency and duration of heatwaves.", "quote": {"content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency, we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.", "page": 13, "source": "HoldfastBay-SA-74.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategies and actions to address climate change, such as reducing carbon emissions from council operations, developing a fleet transition plan, and implementing the Resilient South Local Action Plan, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the urgency of addressing climate change and the local government's commitment to taking action, but without specific timeframes, it is difficult to assess the immediacy of these actions and hold the local government accountable for their implementation."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change action and outline various strategies and actions to address climate change, they do not explicitly prioritize these actions over other policies. The documents discuss a range of actions, including reducing carbon emissions, improving water efficiency, managing risks of sea level rise, and supporting sustainable living. However, these actions are presented as part of a comprehensive approach to environmental management, rather than as a higher priority than other policies. The documents also emphasize the importance of collaboration and community engagement in addressing environmental challenges, suggesting a balanced approach to policy implementation."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of strategies and actions related to climate change, such as reducing carbon emissions, improving water efficiency, and managing risks and impacts of future sea level rise, they do not explicitly require all council activities to align with these strategies. The documents do indicate that the council has a role in implementing these strategies, often in partnership with other stakeholders, and that these actions are prioritized. However, the documents do not provide clear evidence that all council activities, regardless of their nature or purpose, must be aligned with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions to address climate change, such as implementing the Resilient South Local Action Plan, conducting a climate adaptation risk assessment, and investigating greenhouse gas reduction options, there is no clear mention of specific funding allocations for these initiatives. The documents mention the roles of various stakeholders, including the council, in implementing these actions, but they do not provide details on the financial resources that will be mobilized for these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not provide explicit evidence of the allocation of staff or other non-monetary institutional resources to climate action. While the documents outline various strategies and actions related to climate change, such as implementing the Resilient South Local Action Plan, conducting a climate adaptation risk assessment, and investigating greenhouse gas reduction options, they do not specify the allocation of institutional resources such as staff time or expertise to these actions. The documents mention various roles for the council, such as 'provider' and 'facilitator', and mention partners and stakeholders, but they do not detail how staff or other resources will be mobilised to fulfil these roles or implement these actions. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is actively working to empower and educate the community to rally, support, and work together to deliver climate action. The government has implemented a variety of initiatives to engage the community in climate action. These include the Climate Ready Communities project, which provides training and support to communities on how to prepare for the impacts of climate change. The government also offers Green Living Workshops, which provide environmental education and engagement to the community. Furthermore, the government has developed an Environment Strategy through a broad and inclusive consultative process with the community, key stakeholders, and the Kaurna Nation. This strategy was guided by community feedback and aims to address the community's environmental concerns and priorities. Therefore, it can be concluded that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "Environmental education and engagement with our community is a crucial part of what we do and value as a council.", "page": 22, "source": "HoldfastBay-SA-73.pdf", "search_score": 0.9}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include investigating greenhouse gas reduction options such as carbon offsets and increased renewable energy, implementing energy reduction recommendations from an energy audit of Council buildings and infrastructure, and developing a fleet transition plan to transition Council's vehicle fleet to non-fossil fuel vehicles. Behavioural changes are also addressed, with the plan outlining the delivery of a community education and behaviour change program to support carbon mitigation. The plan also encourages major events to be carbon neutral and promotes the state government's home battery scheme. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.", "quote": {"content": "), \nthen develop, implement and monitor an emissions \nreduction strategy for urgent carbon neutrality. carbon offsets, increased renewable energy, etc.", "page": 15, "source": "HoldfastBay-SA-74.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address climate change impacts. For instance, it mentions the implementation of the Resilient South Local Action Plan, which is a regional initiative aimed at building resilience in southern Adelaide. The plan also includes a climate adaptation risk assessment of Council governance systems and infrastructure, which is a crucial step in understanding and preparing for potential climate risks. Furthermore, the plan discusses the investigation of opportunities for urban cooling as part of all major Council place-making, urban development, and infrastructure upgrade projects. This is a clear adaptation strategy aimed at mitigating the urban heat island effect, which is expected to worsen with climate change. Lastly, the plan mentions the continuation of the Council's program to increase tree canopy, which can provide cooling benefits, enhance biodiversity, and improve air quality."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change, such as implementing a Resilient South Local Action Plan, investigating greenhouse gas reduction options, and increasing tree canopy, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the involvement of various stakeholders and partners, but they do not provide clear evidence or data to support the effectiveness or necessity of these actions. Furthermore, the documents do not provide clear, measurable targets related to these actions, making it difficult to assess their potential impact or success. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their specific climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the plan outlines various strategies and actions related to environmental improvement, climate change, and community capacity building, it does not explicitly mention any measurable criteria or indicators that would be used to assess the effectiveness or success of these actions. The plan does mention the potential for positive outcomes, partnerships, and benefits, but these are not tied to specific, measurable outcomes or targets. Therefore, it is unclear how the success of the actions would be evaluated and measured over time."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government has conducted a public survey to understand community attitudes, knowledge, and behaviours relating to climate change. This survey is designed to help the local government deliver services aligned with community needs. The survey questions were adapted from the CSIRO Attitudes to Climate Change Survey, which allows the local government to benchmark results against national averages and track changes within the City of Holdfast Bay over time. This research is critical in informing the local government's climate actions as it provides insights into the community's perceptions and attitudes towards climate change, which can guide the development and implementation of climate policies and initiatives.", "quote": {"content": "In late 2017, we developed a public survey to understand community attitudes, knowledge and behaviours relating to climate change so that we can deliver services aligned with community needs.", "page": 5, "source": "HoldfastBay-SA-73.pdf", "search_score": 0.93}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government has outlined various strategies and actions to address climate change, such as implementing the Resilient South Local Action Plan, undertaking a climate adaptation risk assessment, and investigating opportunities for urban cooling, these actions appear to be standard responses to climate change rather than innovative or experimental policies. The documents also mention the development of a corporate water savings plan and the implementation of a Water Sensitive Urban Design Master Plan, but again, these are common strategies in climate action and do not necessarily indicate innovation or experimentation. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in innovative or experimental climate action policies."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various strategies and actions outlined in the policy documents. For instance, the local government plans to lobby state and federal governments for funding and/or programs for coastal protection and adaptation. This is a clear indication of the local government's intent to advocate for climate action at higher levels of government. Additionally, the local government also plans to continue liaising with the state government and Local Government Association (LGA) on climate adaptation standards. This further underscores the local government's commitment to advocating for climate action at the state and national levels."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that involve collaboration and partnership with various stakeholders. For instance, the 'Resilient South Local Action Plan' is mentioned as a priority action, indicating a collaborative approach with other councils in the region. The policy also mentions the role of the council as a 'Provider and Partner' in implementing various climate actions, suggesting a commitment to building capacity within the council and with external partners. Furthermore, the policy outlines the council's role in continuing to support the Red Cross Climate Ready Communities Program, which is a community-based initiative aimed at preparing for the impacts of climate change. This indicates an effort to build capacity within local communities. Therefore, the policy does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined several actions in its policy where it acts as a provider, partner, advocate, or facilitator in collaboration with various stakeholders. For instance, it mentions implementing the Resilient South Local Action Plan in partnership with Resilient South councils. It also refers to the Red Cross Climate Ready Communities Program, where the local government plays a role as a partner and facilitator. Furthermore, the local government is involved in lobbying state and federal governments for funding and/or programs for coastal protection and adaptation. It also continues participation in the Metropolitan Seaside Councils Committee and the SA Coastal Councils Alliance. These partnerships and collaborations indicate a concerted effort to address climate change issues at multiple levels, from local to state and federal."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need for community engagement, preparation, and adaptation to climate change, they do not specifically address how these changes might disproportionately affect vulnerable populations. The documents focus more on the general impacts of climate change, such as increased temperatures, extreme fire danger days, and sea-level rise, and the actions the local government is taking or plans to take to mitigate these impacts. These actions include providing training and support to communities, reducing emissions, and increasing resilience. However, the documents do not delve into the social justice aspects of these impacts or actions."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do mention various actions and strategies related to climate change, such as reducing carbon emissions, promoting sustainable living, and preparing for the impacts of climate change, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents also do not provide specific details on how social justice would be ensured in the implementation of these climate actions. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit discussion on how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 57.5}}
+{
+  "settings": {
+    "source_files": [
+      "HoldfastBay-SA-73.pdf",
+      "HoldfastBay-SA-74.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:35:27.883463",
+    "lga": "HoldfastBay"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. The policy outlines a commitment to environmental responsibility, carbon neutrality, and sustainability. It acknowledges climate change as the most complex problem of this generation and recognizes the urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation. The policy also outlines specific actions to reduce carbon emissions from Council operations and the wider community, and to increase the community's adaptability and resilience to a changing climate. These actions include implementing a Resilient South Local Action Plan, undertaking a climate adaptation risk assessment, investigating opportunities for urban cooling, and increasing tree canopy. The policy also includes actions to reduce waste to landfill, improve water efficiency, and support sustainable living. These actions are all aimed at mitigating the impacts of climate change and adapting to its effects.",
+          "quote": {
+            "content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency,8 we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.",
+            "page": 13,
+            "source": "HoldfastBay-SA-74.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, recognizing climate change as the most complex problem of this generation. The City of Holdfast Bay is identified as the first coastal council in South Australia to acknowledge the world is in a climate emergency, emphasizing the urgency of the situation. The documents also outline the potential long-term impacts of climate change on the environment, community, and economy, including increased temperatures, more frequent and intense heatwaves, reduced rainfall, and increased drought conditions. The documents further note that even if greenhouse gas emissions are substantially reduced, some changes to the climate are already locked in, necessitating both mitigation and adaptation strategies. The documents also highlight the community's desire for action, with 88% of survey respondents indicating they are personally willing to take action on climate change.",
+          "quote": {
+            "content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency,8 we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.",
+            "page": 13,
+            "source": "HoldfastBay-SA-74.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly call for urgent action on climate change. The City of Holdfast Bay recognizes that climate change is the most complex problem of this generation and that they have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation. They have set a target to become carbon neutral by 2030, which is detailed in their 2020-2025 Environment Strategy. The documents also mention the implementation of actions to reduce carbon emissions from both Council operations and the wider community. The urgency is further emphasized by the recognition of the world being in a state of climate emergency and the need for all levels of Government to act. The documents also highlight the need for immediate action in response to the impacts of climate change, such as sea level rise, increased temperatures, and greater frequency and duration of heatwaves.",
+          "quote": {
+            "content": "As the first coastal council in South Australia to recognise that the world is in a climate emergency, we believe that we have an urgent responsibility to act by becoming a community leader in climate change adaptation and mitigation.",
+            "page": 13,
+            "source": "HoldfastBay-SA-74.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategies and actions to address climate change, such as reducing carbon emissions from council operations, developing a fleet transition plan, and implementing the Resilient South Local Action Plan, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the urgency of addressing climate change and the local government's commitment to taking action, but without specific timeframes, it is difficult to assess the immediacy of these actions and hold the local government accountable for their implementation."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of climate change action and outline various strategies and actions to address climate change, they do not explicitly prioritize these actions over other policies. The documents discuss a range of actions, including reducing carbon emissions, improving water efficiency, managing risks of sea level rise, and supporting sustainable living. However, these actions are presented as part of a comprehensive approach to environmental management, rather than as a higher priority than other policies. The documents also emphasize the importance of collaboration and community engagement in addressing environmental challenges, suggesting a balanced approach to policy implementation."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of strategies and actions related to climate change, such as reducing carbon emissions, improving water efficiency, and managing risks and impacts of future sea level rise, they do not explicitly require all council activities to align with these strategies. The documents do indicate that the council has a role in implementing these strategies, often in partnership with other stakeholders, and that these actions are prioritized. However, the documents do not provide clear evidence that all council activities, regardless of their nature or purpose, must be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions to address climate change, such as implementing the Resilient South Local Action Plan, conducting a climate adaptation risk assessment, and investigating greenhouse gas reduction options, there is no clear mention of specific funding allocations for these initiatives. The documents mention the roles of various stakeholders, including the council, in implementing these actions, but they do not provide details on the financial resources that will be mobilized for these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide explicit evidence of the allocation of staff or other non-monetary institutional resources to climate action. While the documents outline various strategies and actions related to climate change, such as implementing the Resilient South Local Action Plan, conducting a climate adaptation risk assessment, and investigating greenhouse gas reduction options, they do not specify the allocation of institutional resources such as staff time or expertise to these actions. The documents mention various roles for the council, such as 'provider' and 'facilitator', and mention partners and stakeholders, but they do not detail how staff or other resources will be mobilised to fulfil these roles or implement these actions. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to rally, support, and work together to deliver climate action. The government has implemented a variety of initiatives to engage the community in climate action. These include the Climate Ready Communities project, which provides training and support to communities on how to prepare for the impacts of climate change. The government also offers Green Living Workshops, which provide environmental education and engagement to the community. Furthermore, the government has developed an Environment Strategy through a broad and inclusive consultative process with the community, key stakeholders, and the Kaurna Nation. This strategy was guided by community feedback and aims to address the community's environmental concerns and priorities. Therefore, it can be concluded that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Environmental education and engagement with our community is a crucial part of what we do and value as a council.",
+            "page": 22,
+            "source": "HoldfastBay-SA-73.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies, both technological and behavioural, to address climate change. Technological solutions include investigating greenhouse gas reduction options such as carbon offsets and increased renewable energy, implementing energy reduction recommendations from an energy audit of Council buildings and infrastructure, and developing a fleet transition plan to transition Council's vehicle fleet to non-fossil fuel vehicles. Behavioural changes are also addressed, with the plan outlining the delivery of a community education and behaviour change program to support carbon mitigation. The plan also encourages major events to be carbon neutral and promotes the state government's home battery scheme. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.",
+          "quote": {
+            "content": "), \nthen develop, implement and monitor an emissions \nreduction strategy for urgent carbon neutrality. carbon offsets, increased renewable energy, etc.",
+            "page": 15,
+            "source": "HoldfastBay-SA-74.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address climate change impacts. For instance, it mentions the implementation of the Resilient South Local Action Plan, which is a regional initiative aimed at building resilience in southern Adelaide. The plan also includes a climate adaptation risk assessment of Council governance systems and infrastructure, which is a crucial step in understanding and preparing for potential climate risks. Furthermore, the plan discusses the investigation of opportunities for urban cooling as part of all major Council place-making, urban development, and infrastructure upgrade projects. This is a clear adaptation strategy aimed at mitigating the urban heat island effect, which is expected to worsen with climate change. Lastly, the plan mentions the continuation of the Council's program to increase tree canopy, which can provide cooling benefits, enhance biodiversity, and improve air quality."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change, such as implementing a Resilient South Local Action Plan, investigating greenhouse gas reduction options, and increasing tree canopy, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the involvement of various stakeholders and partners, but they do not provide clear evidence or data to support the effectiveness or necessity of these actions. Furthermore, the documents do not provide clear, measurable targets related to these actions, making it difficult to assess their potential impact or success. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their specific climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the plan outlines various strategies and actions related to environmental improvement, climate change, and community capacity building, it does not explicitly mention any measurable criteria or indicators that would be used to assess the effectiveness or success of these actions. The plan does mention the potential for positive outcomes, partnerships, and benefits, but these are not tied to specific, measurable outcomes or targets. Therefore, it is unclear how the success of the actions would be evaluated and measured over time."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government has conducted a public survey to understand community attitudes, knowledge, and behaviours relating to climate change. This survey is designed to help the local government deliver services aligned with community needs. The survey questions were adapted from the CSIRO Attitudes to Climate Change Survey, which allows the local government to benchmark results against national averages and track changes within the City of Holdfast Bay over time. This research is critical in informing the local government's climate actions as it provides insights into the community's perceptions and attitudes towards climate change, which can guide the development and implementation of climate policies and initiatives.",
+          "quote": {
+            "content": "In late 2017, we developed a public survey to understand community attitudes, knowledge and behaviours relating to climate change so that we can deliver services aligned with community needs.",
+            "page": 5,
+            "source": "HoldfastBay-SA-73.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the local government's climate action plan outlines various strategies and actions to address climate change, such as implementing the Resilient South Local Action Plan, undertaking a climate adaptation risk assessment, and investigating opportunities for urban cooling, these actions are not explicitly described as experiments, pilots, initiatives, test beds, demonstration projects, or urban laboratories. They appear to be part of a broader strategic approach rather than small-scale, real-world tests of specific technologies, policies, or governance approaches. Therefore, based on the provided documents, it cannot be conclusively stated that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various strategies and actions outlined in the policy documents. For instance, the local government plans to lobby state and federal governments for funding and/or programs for coastal protection and adaptation. This is a clear indication of the local government's intent to advocate for climate action at higher levels of government. Additionally, the local government also plans to continue liaising with the state government and Local Government Association (LGA) on climate adaptation standards. This further underscores the local government's commitment to advocating for climate action at the state and national levels."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a number of strategies and actions that involve collaboration and partnership with various stakeholders. For instance, the 'Resilient South Local Action Plan' is mentioned as a priority action, indicating a collaborative approach with other councils in the region. The policy also mentions the role of the council as a 'Provider and Partner' in implementing various climate actions, suggesting a commitment to building capacity within the council and with external partners. Furthermore, the policy outlines the council's role in continuing to support the Red Cross Climate Ready Communities Program, which is a community-based initiative aimed at preparing for the impacts of climate change. This indicates an effort to build capacity within local communities. Therefore, the policy does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate. The local government has outlined several actions in its policy where it acts as a provider, partner, advocate, or facilitator in collaboration with various stakeholders. For instance, it mentions implementing the Resilient South Local Action Plan in partnership with Resilient South councils. It also refers to the Red Cross Climate Ready Communities Program, where the local government plays a role as a partner and facilitator. Furthermore, the local government is involved in lobbying state and federal governments for funding and/or programs for coastal protection and adaptation. It also continues participation in the Metropolitan Seaside Councils Committee and the SA Coastal Councils Alliance. These partnerships and collaborations indicate a concerted effort to address climate change issues at multiple levels, from local to state and federal."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need for community engagement, preparation, and adaptation to climate change, they do not specifically address how these changes might disproportionately affect vulnerable populations. The documents focus more on the general impacts of climate change, such as increased temperatures, extreme fire danger days, and sea-level rise, and the actions the local government is taking or plans to take to mitigate these impacts. These actions include providing training and support to communities, reducing emissions, and increasing resilience. However, the documents do not delve into the social justice aspects of these impacts or actions."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do mention various actions and strategies related to climate change, such as reducing carbon emissions, promoting sustainable living, and preparing for the impacts of climate change, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents also do not provide specific details on how social justice would be ensured in the implementation of these climate actions. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 57.5
+  }
+}

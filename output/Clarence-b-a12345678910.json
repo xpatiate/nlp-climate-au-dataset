@@ -1,1 +1,290 @@
-{"settings": {"source_files": ["Clarence-NSW-11.pdf", "Clarence-NSW-12.pdf", "Clarence-NSW-13.pdf", "Clarence-TAS-102.pdf", "Clarence-TAS-103.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T16:49:15.755681", "lga": "Clarence"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy documents indicate that climate action is indeed a core purpose or goal of the policy. The policy framework identifies eight priority areas for action, with 'Government leadership' listed as the first, implying a commitment to leading climate action. The policy also acknowledges the need for the state's response to climate change to evolve over time as new actions come online and as new advances in science and policy emerge. The policy also recognizes the importance of community involvement in decision-making on adapting to climate change, suggesting a commitment to a participatory approach to climate action. Furthermore, the policy refers to international drivers for climate action, including the Sustainable Development Goals and the Paris Agreement, indicating alignment with global climate action efforts. The policy also outlines specific roles and responsibilities for different levels of government in responding to climate change, further emphasizing the centrality of climate action to the policy.", "quote": {"content": "Government leadership As part of the framework, eight priority areas for action have been identified: \n1.", "page": 38, "source": "Clarence-TAS-102.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents provide explicit reasons for the need for action on climate change. They highlight the importance of climate change as an issue that is already impacting the community. The documents also emphasize the need for the community to aim for decarbonization in line with scientific recommendations. The documents further outline the roles and responsibilities of different levels of government in responding to climate change-induced risks and natural disaster management. They also underscore the need for councils to be aware of and take into account the future effects of climate change across a range of activities, and make at least a genuine and serious attempt to alleviate potential risks. The documents also highlight the need for funding dedicated to climate change adaptation.", "quote": {"content": "Whatever the source of funds, arguably some dedicated climate change adaptation funding will be required.", "page": 49, "source": "Clarence-TAS-102.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's roles and responsibilities in relation to climate change, including planning and development, coordination of emergency management planning, and public health. They also mention the importance of community consultation and the need for policies to respond to climate change and sea-level rise. However, these documents do not express a sense of urgency or immediacy in their approach to climate change. Instead, they focus on long-term strategies, such as the development of policies, the implementation of adaptive management options, and the importance of community involvement and support. Therefore, while the documents acknowledge the importance of addressing climate change, they do not explicitly call for rapid and urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss various aspects of climate change, including the importance of government leadership, the need for community consultation, and the roles and responsibilities of different levels of government, they do not provide clear, specific deadlines or schedules for these actions. The documents mention the need for ongoing studies, changes to planning and development controls, and the development of long-term responses to climate risks. However, these are broad strategies and do not come with explicit timeframes. Therefore, based on the provided documents, it cannot be affirmed that the local government policy includes specific timeframes for its intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They outline the local government's roles and responsibilities in relation to climate change, including planning and development, coordination of emergency management planning, and public health. They also mention the importance of community consultation and the need for government leadership in addressing climate change. However, they do not specifically state that these climate change-related actions should take precedence over other policies. The documents also discuss the need for risk management and adaptation in response to climate change, but again, they do not explicitly prioritize these actions over other policy areas."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the council's roles and responsibilities in relation to climate change, such as planning and development, coordination of emergency management planning, and public health. The documents also mention the council's strategies relevant to carbon sequestration, which include Urban Tree Management Strategy, Biodiversity Management Strategy, estuary and coastal management plans, and Tree Management policies. These strategies recognise the impacts of climate change and include actions to respond to climate risks. However, there is no explicit requirement stated that all council activities must align with these strategies or a broader climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the importance of climate change adaptation and the need for action, they do not provide specific details about the allocation of funds for these actions. The documents mention the need for 'dedicated climate change adaptation funding' and the expectation of 'funding support from the State and Australian governments', but they do not specify the amount of funding, the source of the funding, or how the funding will be allocated. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents discuss various aspects of climate change adaptation, including the need for adaptation measures, scenario-based planning, and the roles and responsibilities of different levels of government, they do not specifically mention the allocation of staff or other non-monetary resources. The documents emphasize the importance of planning, coordination, and community consultation in addressing climate change impacts. However, they do not provide specific details about the institutional resources that will be mobilized for these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to community engagement, including surveys, direct engagement with key groups, and feedback on draft strategies. The community is seen as a key stakeholder in the development of the Energy and Emissions Reduction Strategy. The policy also outlines specific actions that community groups can take, such as running workshops to educate and mobilize local efforts. Furthermore, the policy suggests the appointment of a dedicated climate change community liaison officer in the Council to support and enable community action on climate change. This indicates a commitment to fostering a productive relationship between the local government and the community in addressing climate change."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not provide clear evidence of a comprehensive plan that includes specific actions for the mitigation of greenhouse gas emissions. While there are mentions of the need for climate change adaptation funding, the identification of risk management triggers, and the importance of community consultation, these do not directly address the question of specific mitigation actions. The documents also mention the need for 'planning and development' and 'coordination of emergency management planning' by the council, but these are broad responsibilities and do not specify actions related to greenhouse gas mitigation. Furthermore, while there is a mention of 'reducing greenhouse gas emissions' as part of the roles and responsibilities of different levels of government, this is a general statement and does not detail specific actions or strategies for achieving this goal."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to climate change adaptation, which includes a variety of strategies such as passive, reactive, anticipatory, spontaneous, planned, autonomous, technological, institutional, and behavioural adaptation options. The plan emphasizes the importance of optimal timing for adaptation measures, especially when the benefits of adaptation are uncertain. It also suggests that adaptations will be more beneficial if they are incorporated into existing strategies such as coastal zone management, disaster mitigation, land use planning, and sustainable development programs. The plan also highlights the importance of monitoring and evaluation planning mechanisms, and the need to avoid mal-adaptive measures. Furthermore, the plan suggests that adaptation measures should not be impractical or prohibitively expensive, and that uncertainty can be addressed by scenario-based planning and robust adaptation policy.", "quote": {"content": "because of uncertainty about impacts), it may in fact be optimal to postpone irreversible investments until more information is obtained. Adaptation takes time and therefore clearly beneficial responses should not be postponed. However, it is important to achieve optimal timing for adaptation measures, demonstrating that when the benefits of adaptation are uncertain (e.g.", "page": 30, "source": "Clarence-TAS-102.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention various aspects of climate change policy, such as the responsibilities of homeowners and developers, liability issues for developments, and the council's policy on greenhouse gas mitigation, they do not provide specific, well-sourced evidence to justify the climate targets and actions. The documents mention the need for ongoing monitoring of credible climate change projections and the need for the findings of the report to be revised within 10 years or following major revisions to climate change projections. However, these statements are not backed up with specific evidence or sources. Furthermore, while the documents mention the community's views on climate change and responses, they do not provide specific evidence to justify the climate targets and actions based on these views."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government policy does include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a clear set of criteria for acceptable responses to climate change risks. These criteria include reducing risk to defined acceptable levels for an estimated time period, designing responses to be durable and effective for the estimated time period, and having reasonably well-known maintenance and operating costs. The policy also requires that responses should not adversely affect other properties, allow practical emergency response to events that exceed design risk, and identify the financial and operational capacity to meet any ongoing maintenance or operating costs. Furthermore, the policy stipulates that responses should allow for the continued viability of valued coastal ecosystems where these have been identified and where their continued viability is achievable at a cost acceptable to the wider community. These criteria provide a clear and measurable framework for evaluating the success of the policy's proposed actions.", "quote": {"content": "Indicate the anticipated response at the end of the estimated extended period when risks \nagain approach unacceptable levels Be designed to be durable and effective for the estimated time period and/or have \nreasonably well known maintenance and operating costs for the design period  \n3.", "page": 144, "source": "Clarence-TAS-102.pdf", "search_score": 0.97}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has initiated a project to assess climate change risks on coastal areas. This project includes an investigation of community attitudes at the beginning, consultation with community groups, institutions, and state government agencies on their awareness and response to climate change issues. The project also includes a review of the literature covering experience with similar issues elsewhere, and an assessment of localities and infrastructure within the city which may be vulnerable to coastal hazards due to climate change. The project also plans to investigate adaptive management options in response to present and future coastal hazards. Finally, the project includes the preparation and execution of a communication plan to inform the community of the findings and initiate discussion about the preferred response.", "quote": {"content": "\u2022 \nConsultation with community groups, institutions, and state government agencies on their \nawareness and response to climate change issues. The purpose of this study is to provide an integrated assessment of climate change risks on coastal areas which includes: \n\u2022 \nAn investigation of community attitudes at the beginning of the project. \u2022 \nConsultation with community groups, institutions, and state government agencies on their \nawareness and response to climate change issues.", "page": 16, "source": "Clarence-TAS-102.pdf", "search_score": 0.96}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has undertaken a comprehensive approach to addressing climate change, including conducting extensive literature reviews, assessing localities and infrastructure for vulnerability to coastal hazards, investigating adaptive management options, and executing a communication plan to inform the community of the findings. The policy also emphasizes the importance of 'mainstreaming' adaptations into existing strategies such as coastal zone management, disaster mitigation, land use planning, and sustainable development programs. This approach demonstrates a willingness to innovate and experiment with different strategies to address climate change. Furthermore, the policy outlines a framework for responding to developing risks from climate change, which includes changes to planning and development controls, short-term works, studies to specify options, consultation with the public, implementation of cost-effective works, ongoing studies of change and effectiveness of initial responses, and development of long-term responses based on evidence of actual climate and sea level changes.", "quote": {"content": "Preparation and execution of a communication plan to inform the community of the findings, initiate discussion about the preferred response and report on community response. Investigation of adaptive management options in response to present and future coastal hazards.", "page": 16, "source": "Clarence-TAS-102.pdf", "search_score": 0.98}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents do not provide explicit evidence of an intent to advocate upward to state and national governments to support climate action. While the documents do outline various roles and responsibilities of different levels of government in relation to climate change, they do not explicitly state an intention to advocate for more action from higher levels of government. The documents discuss the need for cooperation and coordination among different levels of government, the importance of scientific research, and the need for community engagement and education. However, these are general statements about the approach to climate change, rather than specific advocacy efforts directed towards state and national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the roles and responsibilities of the council in relation to climate change, including planning and development, coordination of emergency management planning, and public health impacts arising from climate change, they do not specifically mention building local capacity or fostering partnerships and advocacy for action with neighbouring councils. The documents do mention community consultation and awareness, but this is not the same as building capacity. Therefore, based on the provided documents, the answer to the question is negative."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the roles and responsibilities of different levels of government, community groups, and individuals in addressing climate change, they do not specify any particular partnerships or alliances. The documents mention the need for collaboration and coordination among various stakeholders, including local and state government agencies, community groups, and individuals, but they do not provide details about specific regional associations or alliances involved in these efforts. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the roles of various government departments in supporting individuals and families adversely affected by climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus more on the general impacts of climate change on the community as a whole, the roles of different levels of government in responding to these impacts, and the community's perceptions and responses to climate change. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities in terms of equity and social justice, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The documents do discuss the concept of equity in relation to climate change, although they do not explicitly mention the equitable sharing of benefits and opportunities of a safe climate. The documents highlight the importance of introducing policies that spread the impact burden in an equitable way in society and do not indiscriminately impose heavier burdens on some sectors of society and economy than on others. This suggests a recognition of the need for fairness and justice in the implementation of climate change policies. Furthermore, the documents emphasize the importance of community involvement in decision-making on adapting to climate change, which could be interpreted as a commitment to ensuring that all members of the community have a say in how the benefits and opportunities of a safe climate are distributed.", "quote": {"content": "Equity issues and the need to manage distributional effects can be addressed by introducing policies that spread the impact burden in an equitable way in the society and do not indiscriminately impose heavier burdens on some sectors of society and economy than on others.", "page": 30, "source": "Clarence-TAS-102.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 42.5}}
+{
+  "settings": {
+    "source_files": [
+      "Clarence-NSW-11.pdf",
+      "Clarence-NSW-12.pdf",
+      "Clarence-NSW-13.pdf",
+      "Clarence-TAS-102.pdf",
+      "Clarence-TAS-103.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T16:49:15.755681",
+    "lga": "Clarence"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents indicate that climate action is indeed a core purpose or goal of the policy. The policy framework identifies eight priority areas for action, with 'Government leadership' listed as the first, implying a commitment to leading climate action. The policy also acknowledges the need for the state's response to climate change to evolve over time as new actions come online and as new advances in science and policy emerge. The policy also recognizes the importance of community involvement in decision-making on adapting to climate change, suggesting a commitment to a participatory approach to climate action. Furthermore, the policy refers to international drivers for climate action, including the Sustainable Development Goals and the Paris Agreement, indicating alignment with global climate action efforts. The policy also outlines specific roles and responsibilities for different levels of government in responding to climate change, further emphasizing the centrality of climate action to the policy.",
+          "quote": {
+            "content": "Government leadership As part of the framework, eight priority areas for action have been identified: \n1.",
+            "page": 38,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide explicit reasons for the need for action on climate change. They highlight the importance of climate change as an issue that is already impacting the community. The documents also emphasize the need for the community to aim for decarbonization in line with scientific recommendations. The documents further outline the roles and responsibilities of different levels of government in responding to climate change-induced risks and natural disaster management. They also underscore the need for councils to be aware of and take into account the future effects of climate change across a range of activities, and make at least a genuine and serious attempt to alleviate potential risks. The documents also highlight the need for funding dedicated to climate change adaptation.",
+          "quote": {
+            "content": "Whatever the source of funds, arguably some dedicated climate change adaptation funding will be required.",
+            "page": 49,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's roles and responsibilities in relation to climate change, including planning and development, coordination of emergency management planning, and public health. They also mention the importance of community consultation and the need for policies to respond to climate change and sea-level rise. However, these documents do not express a sense of urgency or immediacy in their approach to climate change. Instead, they focus on long-term strategies, such as the development of policies, the implementation of adaptive management options, and the importance of community involvement and support. Therefore, while the documents acknowledge the importance of addressing climate change, they do not explicitly call for rapid and urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents discuss various aspects of climate change, including the importance of government leadership, the need for community consultation, and the roles and responsibilities of different levels of government, they do not provide clear, specific deadlines or schedules for these actions. The documents mention the need for ongoing studies, changes to planning and development controls, and the development of long-term responses to climate risks. However, these are broad strategies and do not come with explicit timeframes. Therefore, based on the provided documents, it cannot be affirmed that the local government policy includes specific timeframes for its intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. They outline the local government's roles and responsibilities in relation to climate change, including planning and development, coordination of emergency management planning, and public health. They also mention the importance of community consultation and the need for government leadership in addressing climate change. However, they do not specifically state that these climate change-related actions should take precedence over other policies. The documents also discuss the need for risk management and adaptation in response to climate change, but again, they do not explicitly prioritize these actions over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the council's roles and responsibilities in relation to climate change, such as planning and development, coordination of emergency management planning, and public health. The documents also mention the council's strategies relevant to carbon sequestration, which include Urban Tree Management Strategy, Biodiversity Management Strategy, estuary and coastal management plans, and Tree Management policies. These strategies recognise the impacts of climate change and include actions to respond to climate risks. However, there is no explicit requirement stated that all council activities must align with these strategies or a broader climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents discuss the importance of climate change adaptation and the need for action, they do not provide specific details about the allocation of funds for these actions. The documents mention the need for 'dedicated climate change adaptation funding' and the expectation of 'funding support from the State and Australian governments', but they do not specify the amount of funding, the source of the funding, or how the funding will be allocated. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents discuss various aspects of climate change adaptation, including the need for adaptation measures, scenario-based planning, and the roles and responsibilities of different levels of government, they do not specifically mention the allocation of staff or other non-monetary resources. The documents emphasize the importance of planning, coordination, and community consultation in addressing climate change impacts. However, they do not provide specific details about the institutional resources that will be mobilized for these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to community engagement, including surveys, direct engagement with key groups, and feedback on draft strategies. The community is seen as a key stakeholder in the development of the Energy and Emissions Reduction Strategy. The policy also outlines specific actions that community groups can take, such as running workshops to educate and mobilize local efforts. Furthermore, the policy suggests the appointment of a dedicated climate change community liaison officer in the Council to support and enable community action on climate change. This indicates a commitment to fostering a productive relationship between the local government and the community in addressing climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of a comprehensive plan that includes specific actions for the mitigation of greenhouse gas emissions. While there are mentions of the need for climate change adaptation funding, the identification of risk management triggers, and the importance of community consultation, these do not directly address the question of specific mitigation actions. The documents also mention the need for 'planning and development' and 'coordination of emergency management planning' by the council, but these are broad responsibilities and do not specify actions related to greenhouse gas mitigation. Furthermore, while there is a mention of 'reducing greenhouse gas emissions' as part of the roles and responsibilities of different levels of government, this is a general statement and does not detail specific actions or strategies for achieving this goal."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to climate change adaptation, which includes a variety of strategies such as passive, reactive, anticipatory, spontaneous, planned, autonomous, technological, institutional, and behavioural adaptation options. The plan emphasizes the importance of optimal timing for adaptation measures, especially when the benefits of adaptation are uncertain. It also suggests that adaptations will be more beneficial if they are incorporated into existing strategies such as coastal zone management, disaster mitigation, land use planning, and sustainable development programs. The plan also highlights the importance of monitoring and evaluation planning mechanisms, and the need to avoid mal-adaptive measures. Furthermore, the plan suggests that adaptation measures should not be impractical or prohibitively expensive, and that uncertainty can be addressed by scenario-based planning and robust adaptation policy.",
+          "quote": {
+            "content": "because of uncertainty about impacts), it may in fact be optimal to postpone irreversible investments until more information is obtained. Adaptation takes time and therefore clearly beneficial responses should not be postponed. However, it is important to achieve optimal timing for adaptation measures, demonstrating that when the benefits of adaptation are uncertain (e.g.",
+            "page": 30,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention various aspects of climate change policy, such as the responsibilities of homeowners and developers, liability issues for developments, and the council's policy on greenhouse gas mitigation, they do not provide specific, well-sourced evidence to justify the climate targets and actions. The documents mention the need for ongoing monitoring of credible climate change projections and the need for the findings of the report to be revised within 10 years or following major revisions to climate change projections. However, these statements are not backed up with specific evidence or sources. Furthermore, while the documents mention the community's views on climate change and responses, they do not provide specific evidence to justify the climate targets and actions based on these views."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government policy does include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a clear set of criteria for acceptable responses to climate change risks. These criteria include reducing risk to defined acceptable levels for an estimated time period, designing responses to be durable and effective for the estimated time period, and having reasonably well-known maintenance and operating costs. The policy also requires that responses should not adversely affect other properties, allow practical emergency response to events that exceed design risk, and identify the financial and operational capacity to meet any ongoing maintenance or operating costs. Furthermore, the policy stipulates that responses should allow for the continued viability of valued coastal ecosystems where these have been identified and where their continued viability is achievable at a cost acceptable to the wider community. These criteria provide a clear and measurable framework for evaluating the success of the policy's proposed actions.",
+          "quote": {
+            "content": "Indicate the anticipated response at the end of the estimated extended period when risks \nagain approach unacceptable levels Be designed to be durable and effective for the estimated time period and/or have \nreasonably well known maintenance and operating costs for the design period  \n3.",
+            "page": 144,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has initiated a project to assess climate change risks on coastal areas. This project includes an investigation of community attitudes at the beginning, consultation with community groups, institutions, and state government agencies on their awareness and response to climate change issues. The project also includes a review of the literature covering experience with similar issues elsewhere, and an assessment of localities and infrastructure within the city which may be vulnerable to coastal hazards due to climate change. The project also plans to investigate adaptive management options in response to present and future coastal hazards. Finally, the project includes the preparation and execution of a communication plan to inform the community of the findings and initiate discussion about the preferred response.",
+          "quote": {
+            "content": "\u2022 \nConsultation with community groups, institutions, and state government agencies on their \nawareness and response to climate change issues. The purpose of this study is to provide an integrated assessment of climate change risks on coastal areas which includes: \n\u2022 \nAn investigation of community attitudes at the beginning of the project. \u2022 \nConsultation with community groups, institutions, and state government agencies on their \nawareness and response to climate change issues.",
+            "page": 16,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents do discuss various strategies and approaches to climate change adaptation, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents focus more on the need for planning, risk assessment, community involvement, and adaptation measures. They also emphasize the importance of ongoing studies to monitor changes and the effectiveness of responses. However, these are broad strategies and do not constitute 'experiments' as defined in the question. Therefore, based on the provided documents, it cannot be affirmed that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide explicit evidence of an intent to advocate upward to state and national governments to support climate action. While the documents do outline various roles and responsibilities of different levels of government in relation to climate change, they do not explicitly state an intention to advocate for more action from higher levels of government. The documents discuss the need for cooperation and coordination among different levels of government, the importance of scientific research, and the need for community engagement and education. However, these are general statements about the approach to climate change, rather than specific advocacy efforts directed towards state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the roles and responsibilities of the council in relation to climate change, including planning and development, coordination of emergency management planning, and public health impacts arising from climate change, they do not specifically mention building local capacity or fostering partnerships and advocacy for action with neighbouring councils. The documents do mention community consultation and awareness, but this is not the same as building capacity. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the roles and responsibilities of different levels of government, community groups, and individuals in addressing climate change, they do not specify any particular partnerships or alliances. The documents mention the need for collaboration and coordination among various stakeholders, including local and state government agencies, community groups, and individuals, but they do not provide details about specific regional associations or alliances involved in these efforts. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the roles of various government departments in supporting individuals and families adversely affected by climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus more on the general impacts of climate change on the community as a whole, the roles of different levels of government in responding to these impacts, and the community's perceptions and responses to climate change. Therefore, without explicit mention or discussion of the impact of climate change on vulnerable communities in terms of equity and social justice, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss the concept of equity in relation to climate change, although they do not explicitly mention the equitable sharing of benefits and opportunities of a safe climate. The documents highlight the importance of introducing policies that spread the impact burden in an equitable way in society and do not indiscriminately impose heavier burdens on some sectors of society and economy than on others. This suggests a recognition of the need for fairness and justice in the implementation of climate change policies. Furthermore, the documents emphasize the importance of community involvement in decision-making on adapting to climate change, which could be interpreted as a commitment to ensuring that all members of the community have a say in how the benefits and opportunities of a safe climate are distributed.",
+          "quote": {
+            "content": "Equity issues and the need to manage distributional effects can be addressed by introducing policies that spread the impact burden in an equitable way in the society and do not indiscriminately impose heavier burdens on some sectors of society and economy than on others.",
+            "page": 30,
+            "source": "Clarence-TAS-102.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 42.5
+  }
+}

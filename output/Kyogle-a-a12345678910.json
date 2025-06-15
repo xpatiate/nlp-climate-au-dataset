@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Kyogle-NSW-32.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T21:03:34.243585", "lga": "Kyogle"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review does indeed identify climate action as a core purpose. The policy outlines the local government's planned actions, with a significant focus on aspects related to climate change. It highlights the importance of setting targets for renewable energy and carbon emissions, reflecting global concerns about climate change. The policy also acknowledges the role of local councils in providing leadership and acting as examples to their communities in the fight against climate change. Furthermore, the policy recognizes the importance of global, national, and local government targets, such as the Sustainable Development Goals and the Paris Agreement, in guiding its climate action efforts. The policy also discusses the challenges faced by councils that have set ambitious climate action goals, indicating a commitment to overcoming these challenges and achieving its climate action objectives.", "quote": {"content": "An increasing number of local councils around Australia are also setting ambitious targets and seeking to provide leadership and act as examples to their communities. Global bodies, countries and states are setting targets that reflect global concerns about climate change.", "page": 5, "source": "Kyogle-NSW-32.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents do explicitly explain the need for action on climate change. They highlight the urgency of addressing climate change, driven by three primary international factors: the Sustainable Development Goals (SDGs), the 2030 Agenda for Sustainable Development, and the Paris Agreement. The SDGs, which came into force in 2016, call for action from all countries to end poverty and promote prosperity while protecting the planet. The Paris Agreement, adopted in 2015, is a global effort to address climate change. The documents also mention the growing accessibility of information on community emissions and the desire to ensure that communities and local businesses are part of and benefit from the technology changes that are occurring. This indicates a recognition of the need for collective action and the potential benefits of transitioning to renewable energy.", "quote": {"content": "This is being informed by greater awareness of the need to act on climate, growing accessibility of information on community emissions, and the desire to ensure that communities and local business are part of and benefit from the technology changes that are occurring.", "page": 10, "source": "Kyogle-NSW-32.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does explicitly call for rapid and urgent action on climate change. It refers to three primary international drivers for urgent action on climate change: the Sustainable Development Goals (SDGs), the Paris Agreement, and the Special IPCC report on 1.5\u00b0C warming. The SDGs, adopted in 2015, call for action from all countries to end poverty and promote prosperity while protecting the planet. The Paris Agreement, adopted the same year, calls for signatory countries to work to limit global temperature rise to well below 2\u00b0C Celsius, and strive for 1.5\u00b0C Celsius. The Special IPCC report on 1.5\u00b0C warming, approved in 2018, indicates that achieving this would require rapid, far-reaching and unprecedented changes in all aspects of society. These references clearly indicate a call for rapid and urgent action on climate change.", "quote": {"content": "The report indicates that achieving this would require rapid, far-reaching and unprecedented changes in all aspects of society. 1.", "page": 5, "source": "Kyogle-NSW-32.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents mention global, national, and local government targets that the council should be aware of, such as the Sustainable Development Goals (SDGs) and the Paris Agreement, these are not specific to the local government's own policy or actions. The documents also discuss the challenges faced by councils that have set ambitious goals, but again, these do not include specific timeframes for the local government's own intended actions. Therefore, based on the provided documents, it cannot be affirmed that the local government has set specific timeframes for its intended actions on climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change action, referencing global initiatives such as the Sustainable Development Goals and the Paris Agreement, and highlight the challenges faced by councils in setting ambitious climate goals. However, they do not make a clear statement about the prioritisation of climate action over other policies. The documents suggest that climate action is a significant concern and that councils should be aware of global, national, and local targets. They also mention the challenges of securing ongoing internal support, resources, and funding for climate initiatives, indicating that these are often competing with other priorities. However, this does not equate to a directive that climate action should supersede all other policy areas."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do discuss the importance of setting targets for renewable energy and carbon emissions, and they outline some of the challenges faced by councils that have set ambitious goals. However, they do not make a clear statement about the need for all council activities to be aligned with climate policy. The documents do mention the need for internal support and resources, and they highlight the role of key staff and managers in driving action on renewables and emissions reduction. But these points are made in the context of discussing the challenges of implementing ambitious goals, rather than as a directive for all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The documents do not provide clear evidence of explicit allocation of funding for climate action in the local government's plan. While the documents mention the existence of challenges related to gaining and sustaining internal support and funds for efficiency and renewable energy initiatives, they do not specify how the local government plans to allocate its budget for these initiatives. The documents also mention the existence of clear financing strategies for renewables, efficiency, and other emissions reduction measures, including grant identification and application processes, but again, these do not constitute explicit allocation of funding. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy document does indicate that the local government has allocated staff and other non-monetary institutional resources to climate action. It mentions the importance of ongoing internal support, resources, and funding as a common challenge faced by councils in implementing renewable energy initiatives. The document highlights the role of key staff and managers who prioritize action on renewables and emissions reduction. These individuals are responsible for developing business cases and implementing projects. Without their support at a senior level, most programs do not succeed. This suggests that the local government has allocated human resources to climate action. However, the document does not provide specific details on the number of staff allocated or the exact nature of their roles.", "quote": {"content": "Without internal support at senior level as well as people to develop business cases and implement projects, most programs do not last or succeed. One or a few key staff and managers who want to see continued action on renewables and emissions reduction, and make it a priority on an ongoing basis.", "page": 12, "source": "Kyogle-NSW-32.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate an effort to empower and educate the community to support and participate in climate action, particularly in the shift towards renewable energy. It emphasizes the importance of community participation in the transition to renewable energy at scale, and the need for local businesses and communities to benefit from the technological changes that are occurring. The document also encourages and supports the use of renewable energy by the community, particularly in new developments. However, it does not provide specific strategies or programs for social mobilisation, nor does it detail how the community will be educated or empowered to rally and work together. The document's focus is more on the policy and planning aspects of climate action, rather than on the social mobilisation aspect.", "quote": {"content": "Encourage and support the use of renewable energy by the community, particularly in new developments.", "page": 2, "source": "Kyogle-NSW-32.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The policy document does outline specific actions for the mitigation of greenhouse gas emissions, with a focus on technological solutions and some mention of behaviour change. The policy sets a target of reaching net-zero emissions by 2050, and outlines a number of initiatives to be progressed over a four-year period, funded by the Government\u2019s Climate Change Fund. These initiatives are led by the Division of Energy, Water and Portfolio Strategy within the Department of Planning and Environment. The policy also mentions the Renewable Energy Target, which commits Australia to source 20% of its electricity from renewable energy sources by 2020. The policy suggests that any targets adopted by the Council should be limited to renewable energy and carbon emissions associated with electricity, as solutions to reduce electricity consumption and install or procure renewable electricity are commercially available and cost-effective. The policy also acknowledges the role of behaviour change, such as driver practices, in reducing emissions from transport.", "quote": {"content": "Implementation of programs is being led by the Division of Energy, Water and Portfolio Strategy (DEWPS) within the Department of Planning and Environment. Through the Government\u2019s Climate Change Fund (CCF) 2018-2022 Strategic Plan a number of initiatives will be progressed in the next four year period with a total funding allocation of $170 million.", "page": 8, "source": "Kyogle-NSW-32.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific information about actions for climate adaptation and resilience. The documents primarily focus on renewable energy initiatives, emissions targets, and the global context for action on climate change. They mention the importance of action on climate change and the shift towards renewable energy, but they do not provide specific actions or strategies for climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention the importance of setting targets and the challenges faced by councils in achieving ambitious goals, they do not provide specific evidence or sources to justify these targets or actions. The documents mention global initiatives such as the Sustainable Development Goals and the Paris Agreement, but they do not link these initiatives directly to the local government's targets or actions. The documents also discuss the trend towards evidence-based target setting, but they do not provide specific examples of this evidence or explain how it is used to inform the local government's targets or actions. Therefore, the documents do not meet the high standard of evidence and specific detail required to answer the question in the affirmative."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents do not provide clear evidence that the local government's plan includes specific measurable criteria to evaluate the success of its proposed actions. While the documents discuss the challenges faced by councils in setting ambitious goals and the importance of internal support, financing strategies, and understanding electricity markets, they do not explicitly mention any specific measurable criteria for evaluating the success of these actions. The documents also discuss the global, national, and local government targets that councils should be aware of, but again, no specific criteria for evaluating success are mentioned."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents discuss the importance of renewable energy, emissions targets, and the role of local councils in addressing climate change, they do not explicitly mention conducting research in the local community. The documents do mention the importance of community participation in the shift to renewable energy and the desire to ensure that communities and local businesses benefit from technology changes. However, these references do not specifically indicate plans for research in the local community to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. They primarily discuss the importance of renewable energy and the need for action plans, as well as the challenges faced by councils in setting ambitious goals. They also mention the global, national, and local government targets that the council should be aware of. However, they do not detail any innovative or experimental policies or actions being taken or planned by the local government. The documents do mention a trend towards evidence-based target setting and the potential for community participation in the shift to renewable energy, but these are general strategies rather than innovative or experimental policies."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on outlining the global, national, and local government targets that councils should be aware of, such as the Sustainable Development Goals and the Paris Agreement. They also discuss the trend towards evidence-based target setting and the increasing trend towards examining the scope for renewables and abatement in communities. However, there is no explicit mention or evidence of an intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus primarily on the context and experience of local government in setting renewable energy and emissions targets. They discuss global, national, and local government targets that the council should be aware of, the scope of these targets, and the challenges faced by councils that have set ambitious goals. The documents also mention the trend towards evidence-based target setting and the potential for community participation in the shift to renewable energy. However, they do not explicitly advocate for capacity building across different local entities for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the Climate Council, which represents Australia\u2019s largest local government climate action network with more than 100 participating councils. This network does not involve setting specific targets per se, but the commitment to key actions can either serve as a set of de facto targets or can provide a basis from which to set targets in the future. The Climate Council's partnership program includes five action pledges in either renewable energy, efficiency, transport, or working in partnership to tackle climate change. The partnership also facilitates connection and sharing between participants, allowing councils to learn from each other's experiences and initiatives.", "quote": {"content": "While this doesn\u2019t involve setting specific targets per se, the commitment to key actions can either serve as a set of de facto targets or can provide a basis from which to set targets in future. an initiative of the Climate Council and it represents Australia\u2019s largest local government climate action network with more than 100 participating councils.", "page": 9, "source": "Kyogle-NSW-32.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The documents primarily focus on the global, national, and local government targets for climate action, the challenges faced by councils in setting ambitious goals, and the potential for renewable energy and energy efficiency. They also mention the Sustainable Development Goals and the Paris Agreement as international drivers for climate action. However, they do not delve into the specific impacts of climate change on vulnerable communities or discuss these impacts in relation to equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of action on climate change and the role of local councils in setting ambitious targets, they do not provide specific details on how these actions would ensure equitable distribution of benefits and opportunities. The documents also mention the Sustainable Development Goals and the Paris Agreement, which have equity considerations, but they do not elaborate on how these considerations would be implemented at the local level. Therefore, without explicit discussion or detailed plans on equitable sharing of benefits and opportunities, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 7, "num_questions": 20, "attribute_score": 43.3}}
+{
+  "settings": {
+    "source_files": [
+      "Kyogle-NSW-32.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T21:03:34.243585",
+    "lga": "Kyogle"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review does indeed identify climate action as a core purpose. The policy outlines the local government's planned actions, with a significant focus on aspects related to climate change. It highlights the importance of setting targets for renewable energy and carbon emissions, reflecting global concerns about climate change. The policy also acknowledges the role of local councils in providing leadership and acting as examples to their communities in the fight against climate change. Furthermore, the policy recognizes the importance of global, national, and local government targets, such as the Sustainable Development Goals and the Paris Agreement, in guiding its climate action efforts. The policy also discusses the challenges faced by councils that have set ambitious climate action goals, indicating a commitment to overcoming these challenges and achieving its climate action objectives.",
+          "quote": {
+            "content": "An increasing number of local councils around Australia are also setting ambitious targets and seeking to provide leadership and act as examples to their communities. Global bodies, countries and states are setting targets that reflect global concerns about climate change.",
+            "page": 5,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly explain the need for action on climate change. They highlight the urgency of addressing climate change, driven by three primary international factors: the Sustainable Development Goals (SDGs), the 2030 Agenda for Sustainable Development, and the Paris Agreement. The SDGs, which came into force in 2016, call for action from all countries to end poverty and promote prosperity while protecting the planet. The Paris Agreement, adopted in 2015, is a global effort to address climate change. The documents also mention the growing accessibility of information on community emissions and the desire to ensure that communities and local businesses are part of and benefit from the technology changes that are occurring. This indicates a recognition of the need for collective action and the potential benefits of transitioning to renewable energy.",
+          "quote": {
+            "content": "This is being informed by greater awareness of the need to act on climate, growing accessibility of information on community emissions, and the desire to ensure that communities and local business are part of and benefit from the technology changes that are occurring.",
+            "page": 10,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly call for rapid and urgent action on climate change. It refers to three primary international drivers for urgent action on climate change: the Sustainable Development Goals (SDGs), the Paris Agreement, and the Special IPCC report on 1.5\u00b0C warming. The SDGs, adopted in 2015, call for action from all countries to end poverty and promote prosperity while protecting the planet. The Paris Agreement, adopted the same year, calls for signatory countries to work to limit global temperature rise to well below 2\u00b0C Celsius, and strive for 1.5\u00b0C Celsius. The Special IPCC report on 1.5\u00b0C warming, approved in 2018, indicates that achieving this would require rapid, far-reaching and unprecedented changes in all aspects of society. These references clearly indicate a call for rapid and urgent action on climate change.",
+          "quote": {
+            "content": "The report indicates that achieving this would require rapid, far-reaching and unprecedented changes in all aspects of society. 1.",
+            "page": 5,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the documents mention global, national, and local government targets that the council should be aware of, such as the Sustainable Development Goals (SDGs) and the Paris Agreement, these are not specific to the local government's own policy or actions. The documents also discuss the challenges faced by councils that have set ambitious goals, but again, these do not include specific timeframes for the local government's own intended actions. Therefore, based on the provided documents, it cannot be affirmed that the local government has set specific timeframes for its intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the importance of climate change action, referencing global initiatives such as the Sustainable Development Goals and the Paris Agreement, and highlight the challenges faced by councils in setting ambitious climate goals. However, they do not make a clear statement about the prioritisation of climate action over other policies. The documents suggest that climate action is a significant concern and that councils should be aware of global, national, and local targets. They also mention the challenges of securing ongoing internal support, resources, and funding for climate initiatives, indicating that these are often competing with other priorities. However, this does not equate to a directive that climate action should supersede all other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do discuss the importance of setting targets for renewable energy and carbon emissions, and they outline some of the challenges faced by councils that have set ambitious goals. However, they do not make a clear statement about the need for all council activities to be aligned with climate policy. The documents do mention the need for internal support and resources, and they highlight the role of key staff and managers in driving action on renewables and emissions reduction. But these points are made in the context of discussing the challenges of implementing ambitious goals, rather than as a directive for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of explicit allocation of funding for climate action in the local government's plan. While the documents mention the existence of challenges related to gaining and sustaining internal support and funds for efficiency and renewable energy initiatives, they do not specify how the local government plans to allocate its budget for these initiatives. The documents also mention the existence of clear financing strategies for renewables, efficiency, and other emissions reduction measures, including grant identification and application processes, but again, these do not constitute explicit allocation of funding. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy document does indicate that the local government has allocated staff and other non-monetary institutional resources to climate action. It mentions the importance of ongoing internal support, resources, and funding as a common challenge faced by councils in implementing renewable energy initiatives. The document highlights the role of key staff and managers who prioritize action on renewables and emissions reduction. These individuals are responsible for developing business cases and implementing projects. Without their support at a senior level, most programs do not succeed. This suggests that the local government has allocated human resources to climate action. However, the document does not provide specific details on the number of staff allocated or the exact nature of their roles.",
+          "quote": {
+            "content": "Without internal support at senior level as well as people to develop business cases and implement projects, most programs do not last or succeed. One or a few key staff and managers who want to see continued action on renewables and emissions reduction, and make it a priority on an ongoing basis.",
+            "page": 12,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate an effort to empower and educate the community to support and participate in climate action, particularly in the shift towards renewable energy. It emphasizes the importance of community participation in the transition to renewable energy at scale, and the need for local businesses and communities to benefit from the technological changes that are occurring. The document also encourages and supports the use of renewable energy by the community, particularly in new developments. However, it does not provide specific strategies or programs for social mobilisation, nor does it detail how the community will be educated or empowered to rally and work together. The document's focus is more on the policy and planning aspects of climate action, rather than on the social mobilisation aspect.",
+          "quote": {
+            "content": "Encourage and support the use of renewable energy by the community, particularly in new developments.",
+            "page": 2,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The policy document does outline specific actions for the mitigation of greenhouse gas emissions, with a focus on technological solutions and some mention of behaviour change. The policy sets a target of reaching net-zero emissions by 2050, and outlines a number of initiatives to be progressed over a four-year period, funded by the Government\u2019s Climate Change Fund. These initiatives are led by the Division of Energy, Water and Portfolio Strategy within the Department of Planning and Environment. The policy also mentions the Renewable Energy Target, which commits Australia to source 20% of its electricity from renewable energy sources by 2020. The policy suggests that any targets adopted by the Council should be limited to renewable energy and carbon emissions associated with electricity, as solutions to reduce electricity consumption and install or procure renewable electricity are commercially available and cost-effective. The policy also acknowledges the role of behaviour change, such as driver practices, in reducing emissions from transport.",
+          "quote": {
+            "content": "Implementation of programs is being led by the Division of Energy, Water and Portfolio Strategy (DEWPS) within the Department of Planning and Environment. Through the Government\u2019s Climate Change Fund (CCF) 2018-2022 Strategic Plan a number of initiatives will be progressed in the next four year period with a total funding allocation of $170 million.",
+            "page": 8,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific information about actions for climate adaptation and resilience. The documents primarily focus on renewable energy initiatives, emissions targets, and the global context for action on climate change. They mention the importance of action on climate change and the shift towards renewable energy, but they do not provide specific actions or strategies for climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention the importance of setting targets and the challenges faced by councils in achieving ambitious goals, they do not provide specific evidence or sources to justify these targets or actions. The documents mention global initiatives such as the Sustainable Development Goals and the Paris Agreement, but they do not link these initiatives directly to the local government's targets or actions. The documents also discuss the trend towards evidence-based target setting, but they do not provide specific examples of this evidence or explain how it is used to inform the local government's targets or actions. Therefore, the documents do not meet the high standard of evidence and specific detail required to answer the question in the affirmative."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence that the local government's plan includes specific measurable criteria to evaluate the success of its proposed actions. While the documents discuss the challenges faced by councils in setting ambitious goals and the importance of internal support, financing strategies, and understanding electricity markets, they do not explicitly mention any specific measurable criteria for evaluating the success of these actions. The documents also discuss the global, national, and local government targets that councils should be aware of, but again, no specific criteria for evaluating success are mentioned."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents discuss the importance of renewable energy, emissions targets, and the role of local councils in addressing climate change, they do not explicitly mention conducting research in the local community. The documents do mention the importance of community participation in the shift to renewable energy and the desire to ensure that communities and local businesses benefit from technology changes. However, these references do not specifically indicate plans for research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents discuss various strategies and challenges related to climate action, such as setting renewable energy and carbon emissions targets, understanding electricity markets, and gaining internal support and funding, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. Therefore, it cannot be conclusively stated that the local government policy includes elements of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on outlining the global, national, and local government targets that councils should be aware of, such as the Sustainable Development Goals and the Paris Agreement. They also discuss the trend towards evidence-based target setting and the increasing trend towards examining the scope for renewables and abatement in communities. However, there is no explicit mention or evidence of an intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus primarily on the context and experience of local government in setting renewable energy and emissions targets. They discuss global, national, and local government targets that the council should be aware of, the scope of these targets, and the challenges faced by councils that have set ambitious goals. The documents also mention the trend towards evidence-based target setting and the potential for community participation in the shift to renewable energy. However, they do not explicitly advocate for capacity building across different local entities for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does refer to specific regional associations, alliances, or other partnerships related to climate. It mentions the Climate Council, which represents Australia\u2019s largest local government climate action network with more than 100 participating councils. This network does not involve setting specific targets per se, but the commitment to key actions can either serve as a set of de facto targets or can provide a basis from which to set targets in the future. The Climate Council's partnership program includes five action pledges in either renewable energy, efficiency, transport, or working in partnership to tackle climate change. The partnership also facilitates connection and sharing between participants, allowing councils to learn from each other's experiences and initiatives.",
+          "quote": {
+            "content": "While this doesn\u2019t involve setting specific targets per se, the commitment to key actions can either serve as a set of de facto targets or can provide a basis from which to set targets in future. an initiative of the Climate Council and it represents Australia\u2019s largest local government climate action network with more than 100 participating councils.",
+            "page": 9,
+            "source": "Kyogle-NSW-32.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The documents primarily focus on the global, national, and local government targets for climate action, the challenges faced by councils in setting ambitious goals, and the potential for renewable energy and energy efficiency. They also mention the Sustainable Development Goals and the Paris Agreement as international drivers for climate action. However, they do not delve into the specific impacts of climate change on vulnerable communities or discuss these impacts in relation to equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the importance of action on climate change and the role of local councils in setting ambitious targets, they do not provide specific details on how these actions would ensure equitable distribution of benefits and opportunities. The documents also mention the Sustainable Development Goals and the Paris Agreement, which have equity considerations, but they do not elaborate on how these considerations would be implemented at the local level. Therefore, without explicit discussion or detailed plans on equitable sharing of benefits and opportunities, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 7,
+    "num_questions": 20,
+    "attribute_score": 43.3
+  }
+}

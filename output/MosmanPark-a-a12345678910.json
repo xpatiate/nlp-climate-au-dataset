@@ -1,1 +1,317 @@
-{"settings": {"source_files": ["MosmanPark-WA-249.pdf", "MosmanPark-WA-250.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T22:09:27.651552", "lga": "MosmanPark"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly states that the core purpose or goal is to address climate change impacts. The policy aims to understand and address these impacts in a local, regional, and international context, and to evaluate the climate change implications of operational decisions and policy positions. The policy is committed to greenhouse emissions reductions and risk management through appropriate mitigation and adaptation strategies. The policy acknowledges the need to set internal targets for greenhouse gas emissions reduction and to work towards these targets. It also recognizes the need to coordinate cooperative regional climate change management across the political and operational areas under their jurisdiction. The policy also acknowledges the need to establish clear roles and responsibilities for climate change management, and that this is the responsibility of all of the Town's Officers and Elected Members."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They acknowledge that climate change is a serious current threat to the community's way of life and the Earth's ecosystems. The documents also recognize that human-induced climate change is already having an impact on human and natural communities and that further climate change will occur as a result of past, present, and future emissions. The Town of Mosman Park is committed to addressing climate change impacts on its community and understands that a range of mitigation and adaptation strategies must be applied to ensure that both social and legal obligations are met and future costs are reduced. The documents also highlight the need for immediate action, stating that delayed action on climate change mitigation and adaptation strategies will increase costs and potential liabilities to the Town in a range of areas, particularly in planning and infrastructure.", "quote": {"content": "Climate change poses a growing threat to the community and the Town, environmentally, socially and financially, and a range of mitigation and adaptation strategies must be applied to ensure that both social and legal obligations are met and risks and future costs are reduced. In order to \u201emeet the needs of current and future generations\u201f, the Town must address climate change impacts on its community.", "page": 3, "source": "MosmanPark-WA-249.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for urgent action on climate change. They emphasize the need for immediate response to climate change impacts, highlighting the importance of cross-sectoral action and the establishment of effective institutions and regulations. The documents also stress the need for high priority climate change risks to be directly resourced or externally funded to ameliorate and adapt to impacts. The Town acknowledges the magnitude of the mitigation and adaptation tasks ahead and asserts that planning, investment, and infrastructure decisions made today will shape the future. The documents also highlight the potential increase in costs and liabilities if action on climate change mitigation and adaptation strategies is delayed. Therefore, the documents clearly express a sense of urgency in addressing climate change.", "quote": {"content": "It therefore considers that a successful response to the challenge of meeting appropriate emission reduction targets should begin immediately and will require cross-sectoral action by government, business and broader community at all levels. The Town acknowledges that the magnitude of the mitigation task ahead is substantial, and that planning, investment and infrastructure decisions made today will shape the carbon intensity of our future.", "page": 1, "source": "MosmanPark-WA-249.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy acknowledges the urgency of addressing climate change and the need for immediate action, it does not provide concrete deadlines or timelines for achieving its goals. The policy emphasizes the importance of addressing climate change at all levels of government and within its own operations, and it acknowledges the financial implications of climate change management. However, the policy does not specify when certain actions or objectives should be completed. The policy also discusses the need for cross-sectoral action and the establishment of institutions and regulations for effective climate change management, but again, no specific timeframes are given. Therefore, the policy does not meet the high standard of evidence required to affirmatively answer the question."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance and urgency of addressing climate change, they do not explicitly rank it above other policies. The documents discuss the need for climate change management, the development of strategies to identify and reduce climate change risks, and the allocation of resources for adaptation and resilience building. They also mention the need for greenhouse gas emissions reduction and risk management through appropriate mitigation and adaptation strategies. However, these are presented as important actions to be taken, not as actions that should supersede all other policies. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is prioritized above all other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do indicate that all council activities must be aligned with climate policy. The Town of Mosman Park's policy statement asserts that the town must understand and address climate change impacts in a local, regional, and international context, and evaluate the climate change implications of operational decisions and policy positions. This suggests that all council activities, including operational decisions, should be in line with the climate policy. The documents also mention that climate change management is the responsibility of all of the Town's Officers and Elected Members, further implying that all council activities should be aligned with the climate policy. However, the documents do not provide specific details on how this alignment will be achieved or monitored."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The policy documents do indicate that the local government has plans to allocate funding for climate action. The documents highlight the importance of climate change management and the need for immediate and cross-sectoral action. They acknowledge that while the costs of climate change management may represent a larger proportion of the Town's spending, these are necessary for effective climate change management. The policy also mentions that high priority climate change risks should be directly resourced or externally funded. Furthermore, the documents discuss various potential sources of funding for coastal adaptation options, including state, local, and federal government budgets, special area rates within the coastal risk area, developer contributions plans, and various grants. However, the documents do not provide specific figures or percentages of the budget that will be allocated to these actions.", "quote": {"content": "This should decrease legal liability issues for Local Government in the long term. The Town, in acknowledging the immediacy and importance of climate change management, must ensure that high priority climate change risks are directly resourced or externally funded so that impacts can be ameliorated and/or adapted to.", "page": 2, "source": "MosmanPark-WA-249.pdf", "search_score": 0.97}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The policy emphasizes that climate change management is the responsibility of all of the Town's Officers and Elected Members. This indicates that the policy assigns institutional resources, in the form of staff time and responsibilities, to address climate change. However, the policy does not provide specific details on the roles and responsibilities of these staff members, nor does it outline any specific tasks or actions that these staff members are expected to undertake. Therefore, while the policy does allocate institutional resources to climate change action, the lack of specificity may limit the effectiveness of this allocation."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents do indicate that the local government is taking steps to educate and involve the community in climate action. The Town of Mosman Park acknowledges the importance of community engagement in addressing climate change impacts. It recognises the need for cross-sectoral action, involving government, business, and the broader community at all levels. The Town also acknowledges the importance of identifying the climate change risks and vulnerabilities of disadvantaged communities and allocating resources to enable adaptation and resilience building in these communities. Furthermore, the Town acknowledges the need to set and work towards internal targets for greenhouse gas emissions reduction and to publicise these targets to achieve stakeholder and community support. The documents also mention the importance of ongoing community engagement to inform future decision-making as sea level rise occurs and changes in the Western Australian coast are observed.", "quote": {"content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.", "page": 2, "source": "MosmanPark-WA-249.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government policy does include specific actions for mitigation of greenhouse gas emissions. The policy acknowledges that the Town of Mosman Park has a responsibility to address climate change impacts and is committed to greenhouse emissions reductions through appropriate mitigation and adaptation strategies. The policy also emphasizes the need for the Town to set and work towards internal targets for greenhouse gas emissions reduction. However, the policy does not provide specific details on the technological solutions or behaviour changes that will be implemented to achieve these targets. The policy does mention the need for cross-sectoral action by government, business, and the broader community at all levels, suggesting that a range of strategies, potentially including technological solutions and behaviour change, will be employed.", "quote": {"content": "In order to achieve outcomes and engage in \u201ebest practice\u201f climate change management processes it is essential for the Town to set and work towards a set of internal targets for greenhouse gas emissions reduction.", "page": 2, "source": "MosmanPark-WA-249.pdf", "search_score": 0.91}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to climate change adaptation, focusing on cross-sectoral action, the establishment of effective institutions and regulations, and the importance of integrated action by stakeholders. The plan also emphasizes the need for building resilience and flexibility into coastal planning frameworks to enable long-term retreat and facilitate land use change when required. The plan also outlines a 'trigger-based' adaptation pathway, which combines decision-making at trigger points on specific adaptation measures with an ongoing strategic planning process that plans for, and therefore maintains, all adaptation options for subsequent trigger points over time. This approach ensures that future communities are not bound to the long-term cost of a decision beyond the design life of the infrastructure or asset.", "quote": {"content": "The recommended flexible adaptation pathway combines decision-making at trigger points on specific adaptation measures (avoid, retreat, accommodate, interim protection) with an ongoing strategic planning process that plans for, and therefore maintains, all adaptation options for subsequent trigger points over time.", "page": 66, "source": "MosmanPark-WA-250.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy acknowledges the need to address climate change impacts and outlines a commitment to greenhouse emissions reductions and risk management through mitigation and adaptation strategies, it does not provide specific, measurable targets or actions. The policy also lacks clear, well-sourced evidence to support its strategies. It mentions the need for cross-sectoral action, the establishment of institutions and regulations, and the allocation of resources to high priority climate change risks. However, these are broad strategies and do not provide specific, actionable steps. Furthermore, the policy does not cite any scientific studies, data, or other sources of evidence to support its claims about the impacts of climate change or the effectiveness of its proposed strategies. Therefore, the policy does not meet the high standard of evidence and specific detail required to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The policy does include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a flexible adaptation pathway that combines decision-making at trigger points on specific adaptation measures with an ongoing strategic planning process. This process includes the identification of new or alternative adaptation options based on greater information and new technology, review of criteria used in the multi-criteria assessment, community, stakeholder and industry consultation on the weighting of criteria, review of the weighted scoring of adaptation options, and confirmation of adaptation options for a 15-year planning horizon. The policy also mentions the use of hazard mapping to reflect actual sea level rise, updated projections of future sea level rise and the response of the coast. This suggests that the policy has a clear framework for evaluating the success of its proposed actions.", "quote": {"content": "The regular testing of values and adaptation measures will involve the following actions incorporated into the review of future strategic plans, for land and assets identified as being at risk within 15-years of the strategic plan review: Identification of any new or alternative adaptation options based on greater information and new technology; Review of criteria used in the multi-criteria assessment; Community, stakeholder and industry consultation on the weighting of criteria; Review of the weighted scoring of adaptation options; Confirmation of adaptation options for a 15-year planning horizon.", "page": 104, "source": "MosmanPark-WA-250.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do mention the importance of community values and the dynamic nature of these values, they do not explicitly state that research will be conducted within the local community to inform climate actions. The documents focus more on the need for the local government to address climate change impacts through mitigation and adaptation strategies, the importance of setting clear objectives and targets, and the need for cross-sectoral action. They also highlight the need for flexibility in adaptation planning to accommodate changes in community values and new technologies. However, the specifics of how these community values will be determined or how they will inform climate actions are not detailed."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government acknowledges the importance of climate change and the need for immediate action, the documents primarily discuss the establishment of institutions and regulations for effective climate change management, the need for cross-sectoral action, and the importance of mitigation and adaptation strategies. The documents also mention the need for planning and infrastructure decisions to consider climate change impacts. However, these actions are largely standard responses to climate change and do not indicate specific innovative or experimental policies. The documents also mention the development of local and regional climate change strategies, but do not provide details on what these strategies entail or how they might represent innovative approaches to climate action."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Town acknowledges the need for cross-sectoral action involving government, business, and the broader community at all levels. It also recognizes the importance of establishing institutions and regulations that ensure effective, integrated action by these stakeholders. The Town also acknowledges the need for immediate action on climate change management, and the importance of ensuring that high priority climate change risks are directly resourced or externally funded. Furthermore, the Town acknowledges Australia's responsibility for current climate change and an ethical obligation to play a leadership role in contributing to the national and global greenhouse gas reductions. The documents also mention the need for the Town to lobby the state government, including relevant senior staff and Ministers, to include coastal hazard risk management and adaptation into regional plans.", "quote": {"content": "The City of Fremantle and Town of Mosman Park should lobby the state government, including relevant senior staff and Ministers, to include coastal hazard risk management and adaptation into regional plans.", "page": 91, "source": "MosmanPark-WA-250.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy acknowledges the need for cross-sectoral action and the establishment of institutions and regulations for effective climate change management. It also recognizes that climate change management is the responsibility of all of the Town's Officers and Elected Members. The policy further acknowledges the need to identify regionally specific priorities and impacts, and the associated need to coordinate cooperative regional climate change management across the political and operational areas under their jurisdiction. This suggests a commitment to building capacity and fostering partnerships for climate action at multiple levels, including within the council, in local communities, and with neighbouring councils.", "quote": {"content": "Climate change poses a growing \nthreat to the community and the Town, environmentally, \nsocially and financially, and a range of mitigation and \nadaptation strategies must be applied to ensure that both \nsocial and legal obligations are met and risks and future \ncosts are reduced. In order to \u201emeet the needs of current and future \ngenerations\u201f, the Town must address climate change \nimpacts on its community.", "page": 3, "source": "MosmanPark-WA-249.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not specifically mention any regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of cross-sectoral action, coordinated regional climate change management, and the establishment of institutions and regulations for effective climate change management, they do not provide specific details about which regional associations or alliances are involved in these efforts. The documents also mention the need for cooperation and collaboration at various levels of government and within the community, but again, no specific partnerships are named. Therefore, based on the provided documents, it cannot be affirmed that there are specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Town acknowledges that both the impacts of climate change and the policy responses required to contribute to the avoidance of climate change have significant equity implications. These implications have domestic and international dimensions, and implications for both present and future human generations, and for the survival of other species. The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities. This shows a clear recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities.", "quote": {"content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.", "page": 2, "source": "MosmanPark-WA-249.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The Town acknowledges that both the impacts of climate change and the policy responses required to contribute to the avoidance of climate change have significant equity implications. These implications are recognized to have both domestic and international dimensions, and implications for both present and future human generations, and for the survival of other species. The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities. This suggests a commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably, with a particular focus on disadvantaged communities.", "quote": {"content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.", "page": 2, "source": "MosmanPark-WA-249.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 79.2}}
+{
+  "settings": {
+    "source_files": [
+      "MosmanPark-WA-249.pdf",
+      "MosmanPark-WA-250.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T22:09:27.651552",
+    "lga": "MosmanPark"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly states that the core purpose or goal is to address climate change impacts. The policy aims to understand and address these impacts in a local, regional, and international context, and to evaluate the climate change implications of operational decisions and policy positions. The policy is committed to greenhouse emissions reductions and risk management through appropriate mitigation and adaptation strategies. The policy acknowledges the need to set internal targets for greenhouse gas emissions reduction and to work towards these targets. It also recognizes the need to coordinate cooperative regional climate change management across the political and operational areas under their jurisdiction. The policy also acknowledges the need to establish clear roles and responsibilities for climate change management, and that this is the responsibility of all of the Town's Officers and Elected Members."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They acknowledge that climate change is a serious current threat to the community's way of life and the Earth's ecosystems. The documents also recognize that human-induced climate change is already having an impact on human and natural communities and that further climate change will occur as a result of past, present, and future emissions. The Town of Mosman Park is committed to addressing climate change impacts on its community and understands that a range of mitigation and adaptation strategies must be applied to ensure that both social and legal obligations are met and future costs are reduced. The documents also highlight the need for immediate action, stating that delayed action on climate change mitigation and adaptation strategies will increase costs and potential liabilities to the Town in a range of areas, particularly in planning and infrastructure.",
+          "quote": {
+            "content": "Climate change poses a growing threat to the community and the Town, environmentally, socially and financially, and a range of mitigation and adaptation strategies must be applied to ensure that both social and legal obligations are met and risks and future costs are reduced. In order to \u201emeet the needs of current and future generations\u201f, the Town must address climate change impacts on its community.",
+            "page": 3,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. They emphasize the need for immediate response to climate change impacts, highlighting the importance of cross-sectoral action and the establishment of effective institutions and regulations. The documents also stress the need for high priority climate change risks to be directly resourced or externally funded to ameliorate and adapt to impacts. The Town acknowledges the magnitude of the mitigation and adaptation tasks ahead and asserts that planning, investment, and infrastructure decisions made today will shape the future. The documents also highlight the potential increase in costs and liabilities if action on climate change mitigation and adaptation strategies is delayed. Therefore, the documents clearly express a sense of urgency in addressing climate change.",
+          "quote": {
+            "content": "It therefore considers that a successful response to the challenge of meeting appropriate emission reduction targets should begin immediately and will require cross-sectoral action by government, business and broader community at all levels. The Town acknowledges that the magnitude of the mitigation task ahead is substantial, and that planning, investment and infrastructure decisions made today will shape the carbon intensity of our future.",
+            "page": 1,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy acknowledges the urgency of addressing climate change and the need for immediate action, it does not provide concrete deadlines or timelines for achieving its goals. The policy emphasizes the importance of addressing climate change at all levels of government and within its own operations, and it acknowledges the financial implications of climate change management. However, the policy does not specify when certain actions or objectives should be completed. The policy also discusses the need for cross-sectoral action and the establishment of institutions and regulations for effective climate change management, but again, no specific timeframes are given. Therefore, the policy does not meet the high standard of evidence required to affirmatively answer the question."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance and urgency of addressing climate change, they do not explicitly rank it above other policies. The documents discuss the need for climate change management, the development of strategies to identify and reduce climate change risks, and the allocation of resources for adaptation and resilience building. They also mention the need for greenhouse gas emissions reduction and risk management through appropriate mitigation and adaptation strategies. However, these are presented as important actions to be taken, not as actions that should supersede all other policies. Therefore, based on the provided documents, it cannot be definitively stated that a climate emergency response is prioritized above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do indicate that all council activities must be aligned with climate policy. The Town of Mosman Park's policy statement asserts that the town must understand and address climate change impacts in a local, regional, and international context, and evaluate the climate change implications of operational decisions and policy positions. This suggests that all council activities, including operational decisions, should be in line with the climate policy. The documents also mention that climate change management is the responsibility of all of the Town's Officers and Elected Members, further implying that all council activities should be aligned with the climate policy. However, the documents do not provide specific details on how this alignment will be achieved or monitored."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The policy documents do indicate that the local government has plans to allocate funding for climate action. The documents highlight the importance of climate change management and the need for immediate and cross-sectoral action. They acknowledge that while the costs of climate change management may represent a larger proportion of the Town's spending, these are necessary for effective climate change management. The policy also mentions that high priority climate change risks should be directly resourced or externally funded. Furthermore, the documents discuss various potential sources of funding for coastal adaptation options, including state, local, and federal government budgets, special area rates within the coastal risk area, developer contributions plans, and various grants. However, the documents do not provide specific figures or percentages of the budget that will be allocated to these actions.",
+          "quote": {
+            "content": "This should decrease legal liability issues for Local Government in the long term. The Town, in acknowledging the immediacy and importance of climate change management, must ensure that high priority climate change risks are directly resourced or externally funded so that impacts can be ameliorated and/or adapted to.",
+            "page": 2,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does allocate non-monetary institutional resources to climate action, specifically in the form of staff responsibilities. The policy emphasizes that climate change management is the responsibility of all of the Town's Officers and Elected Members. This indicates that the policy assigns institutional resources, in the form of staff time and responsibilities, to address climate change. However, the policy does not provide specific details on the roles and responsibilities of these staff members, nor does it outline any specific tasks or actions that these staff members are expected to undertake. Therefore, while the policy does allocate institutional resources to climate change action, the lack of specificity may limit the effectiveness of this allocation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government is taking steps to educate and involve the community in climate action. The Town of Mosman Park acknowledges the importance of community engagement in addressing climate change impacts. It recognises the need for cross-sectoral action, involving government, business, and the broader community at all levels. The Town also acknowledges the importance of identifying the climate change risks and vulnerabilities of disadvantaged communities and allocating resources to enable adaptation and resilience building in these communities. Furthermore, the Town acknowledges the need to set and work towards internal targets for greenhouse gas emissions reduction and to publicise these targets to achieve stakeholder and community support. The documents also mention the importance of ongoing community engagement to inform future decision-making as sea level rise occurs and changes in the Western Australian coast are observed.",
+          "quote": {
+            "content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.",
+            "page": 2,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for mitigation of greenhouse gas emissions. The policy acknowledges that the Town of Mosman Park has a responsibility to address climate change impacts and is committed to greenhouse emissions reductions through appropriate mitigation and adaptation strategies. The policy also emphasizes the need for the Town to set and work towards internal targets for greenhouse gas emissions reduction. However, the policy does not provide specific details on the technological solutions or behaviour changes that will be implemented to achieve these targets. The policy does mention the need for cross-sectoral action by government, business, and the broader community at all levels, suggesting that a range of strategies, potentially including technological solutions and behaviour change, will be employed.",
+          "quote": {
+            "content": "In order to achieve outcomes and engage in \u201ebest practice\u201f climate change management processes it is essential for the Town to set and work towards a set of internal targets for greenhouse gas emissions reduction.",
+            "page": 2,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to climate change adaptation, focusing on cross-sectoral action, the establishment of effective institutions and regulations, and the importance of integrated action by stakeholders. The plan also emphasizes the need for building resilience and flexibility into coastal planning frameworks to enable long-term retreat and facilitate land use change when required. The plan also outlines a 'trigger-based' adaptation pathway, which combines decision-making at trigger points on specific adaptation measures with an ongoing strategic planning process that plans for, and therefore maintains, all adaptation options for subsequent trigger points over time. This approach ensures that future communities are not bound to the long-term cost of a decision beyond the design life of the infrastructure or asset.",
+          "quote": {
+            "content": "The recommended flexible adaptation pathway combines decision-making at trigger points on specific adaptation measures (avoid, retreat, accommodate, interim protection) with an ongoing strategic planning process that plans for, and therefore maintains, all adaptation options for subsequent trigger points over time.",
+            "page": 66,
+            "source": "MosmanPark-WA-250.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy acknowledges the need to address climate change impacts and outlines a commitment to greenhouse emissions reductions and risk management through mitigation and adaptation strategies, it does not provide specific, measurable targets or actions. The policy also lacks clear, well-sourced evidence to support its strategies. It mentions the need for cross-sectoral action, the establishment of institutions and regulations, and the allocation of resources to high priority climate change risks. However, these are broad strategies and do not provide specific, actionable steps. Furthermore, the policy does not cite any scientific studies, data, or other sources of evidence to support its claims about the impacts of climate change or the effectiveness of its proposed strategies. Therefore, the policy does not meet the high standard of evidence and specific detail required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The policy does include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a flexible adaptation pathway that combines decision-making at trigger points on specific adaptation measures with an ongoing strategic planning process. This process includes the identification of new or alternative adaptation options based on greater information and new technology, review of criteria used in the multi-criteria assessment, community, stakeholder and industry consultation on the weighting of criteria, review of the weighted scoring of adaptation options, and confirmation of adaptation options for a 15-year planning horizon. The policy also mentions the use of hazard mapping to reflect actual sea level rise, updated projections of future sea level rise and the response of the coast. This suggests that the policy has a clear framework for evaluating the success of its proposed actions.",
+          "quote": {
+            "content": "The regular testing of values and adaptation measures will involve the following actions incorporated into the review of future strategic plans, for land and assets identified as being at risk within 15-years of the strategic plan review: Identification of any new or alternative adaptation options based on greater information and new technology; Review of criteria used in the multi-criteria assessment; Community, stakeholder and industry consultation on the weighting of criteria; Review of the weighted scoring of adaptation options; Confirmation of adaptation options for a 15-year planning horizon.",
+            "page": 104,
+            "source": "MosmanPark-WA-250.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents do mention the importance of community values and the dynamic nature of these values, they do not explicitly state that research will be conducted within the local community to inform climate actions. The documents focus more on the need for the local government to address climate change impacts through mitigation and adaptation strategies, the importance of setting clear objectives and targets, and the need for cross-sectoral action. They also highlight the need for flexibility in adaptation planning to accommodate changes in community values and new technologies. However, the specifics of how these community values will be determined or how they will inform climate actions are not detailed."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. While the documents do discuss the need for climate change mitigation and adaptation strategies, and the importance of planning and action in response to climate change, they do not mention any specific initiatives to test technologies, policies, or governance approaches on a small scale and under real-world conditions. The documents focus more on the acknowledgment of climate change as a serious issue, the need for immediate action, and the establishment of climate change management strategies. However, they do not provide details on any specific experimental initiatives, pilots, test beds, demonstration projects, or urban laboratories."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Town acknowledges the need for cross-sectoral action involving government, business, and the broader community at all levels. It also recognizes the importance of establishing institutions and regulations that ensure effective, integrated action by these stakeholders. The Town also acknowledges the need for immediate action on climate change management, and the importance of ensuring that high priority climate change risks are directly resourced or externally funded. Furthermore, the Town acknowledges Australia's responsibility for current climate change and an ethical obligation to play a leadership role in contributing to the national and global greenhouse gas reductions. The documents also mention the need for the Town to lobby the state government, including relevant senior staff and Ministers, to include coastal hazard risk management and adaptation into regional plans.",
+          "quote": {
+            "content": "The City of Fremantle and Town of Mosman Park should lobby the state government, including relevant senior staff and Ministers, to include coastal hazard risk management and adaptation into regional plans.",
+            "page": 91,
+            "source": "MosmanPark-WA-250.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy acknowledges the need for cross-sectoral action and the establishment of institutions and regulations for effective climate change management. It also recognizes that climate change management is the responsibility of all of the Town's Officers and Elected Members. The policy further acknowledges the need to identify regionally specific priorities and impacts, and the associated need to coordinate cooperative regional climate change management across the political and operational areas under their jurisdiction. This suggests a commitment to building capacity and fostering partnerships for climate action at multiple levels, including within the council, in local communities, and with neighbouring councils.",
+          "quote": {
+            "content": "Climate change poses a growing \nthreat to the community and the Town, environmentally, \nsocially and financially, and a range of mitigation and \nadaptation strategies must be applied to ensure that both \nsocial and legal obligations are met and risks and future \ncosts are reduced. In order to \u201emeet the needs of current and future \ngenerations\u201f, the Town must address climate change \nimpacts on its community.",
+            "page": 3,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not specifically mention any regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the importance of cross-sectoral action, coordinated regional climate change management, and the establishment of institutions and regulations for effective climate change management, they do not provide specific details about which regional associations or alliances are involved in these efforts. The documents also mention the need for cooperation and collaboration at various levels of government and within the community, but again, no specific partnerships are named. Therefore, based on the provided documents, it cannot be affirmed that there are specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Town acknowledges that both the impacts of climate change and the policy responses required to contribute to the avoidance of climate change have significant equity implications. These implications have domestic and international dimensions, and implications for both present and future human generations, and for the survival of other species. The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities. This shows a clear recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities.",
+          "quote": {
+            "content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.",
+            "page": 2,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss how to equitably share the benefits and opportunities of a safe climate. The Town acknowledges that both the impacts of climate change and the policy responses required to contribute to the avoidance of climate change have significant equity implications. These implications are recognized to have both domestic and international dimensions, and implications for both present and future human generations, and for the survival of other species. The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities. This suggests a commitment to ensuring that the benefits and opportunities of a safe climate are shared equitably, with a particular focus on disadvantaged communities.",
+          "quote": {
+            "content": "The Town considers it essential that strategies are developed that identify the climate change risks and vulnerabilities of disadvantaged communities, measures are developed to reduce these and resources are allocated to enable adaptation and resilience building in these communities.",
+            "page": 2,
+            "source": "MosmanPark-WA-249.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 79.2
+  }
+}

@@ -1,1 +1,250 @@
-{"settings": {"source_files": ["Wagait-NT-56.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T14:55:37.299014", "lga": "Wagait"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The core purpose of the policy, as outlined in the 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', is indeed climate action. The policy is designed to prepare, respond, recover, and adapt to issues arising from climate change within the local area. It includes objectives and action items that directly address climate change risks and impacts. These include understanding procurement practices for climate change adaptation, incorporating climate change considerations in community infrastructure, and ensuring power and water supply will not be affected by climate impacts. The policy also aims to establish a resident-based group to champion climate issues, develop community education and awareness to build resilience, and understand and mitigate sea level rise and increased storm surge impacts. Therefore, it is clear that the policy is centered around climate action."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document, titled 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', clearly outlines the need for action on climate change. It presents a series of objectives and action items aimed at mitigating the risks associated with climate change. The document identifies major and minor risks related to climate change, including damage from extreme climatic events, public health risks, and impacts on assets and infrastructure. The action plan includes objectives such as understanding the requirements for adaptation in procurement practices, including climate change considerations in the upgrade and design of community infrastructure, and ensuring power and water supply will not be affected by climate change impacts. These objectives and actions demonstrate a clear recognition of the need for action on climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of objectives and action items related to climate change, such as reviewing risks, incorporating climate change considerations into council plans, establishing a resident-based group to champion the issues, and including climate change considerations in procurement practices and infrastructure development. However, these actions are presented as part of a strategic plan rather than as urgent measures. The documents do not use language that conveys a sense of urgency or immediacy. Instead, they present a measured and planned approach to addressing the impacts of climate change. The timing for most of the actions is not specified, and where it is, it is often listed as 'as required' or 'asap', which does not necessarily imply urgency."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for some of its intended actions on climate change. For instance, under Objective 3, the action item 'Develop locally appropriate community information and communications collateral' is marked with the timing 'ASAP'. Similarly, under Objective 1, the action item 'Develop small working group to assist review of 2010 LGANT report and re affirm risks and adaption practices' is marked with the timing 'Commence asap'. However, it's worth noting that 'ASAP' is a somewhat vague term and does not provide a concrete deadline. Other objectives and action items do not have specified timeframes, which could potentially hinder the effectiveness and accountability of the policy's implementation."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's Climate Change Risk Reduction Action Plan, which includes objectives and action items related to climate change adaptation and mitigation. These include understanding procurement practices' requirements for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts. However, these actions are presented as part of a comprehensive plan, not as priorities over other policies. The documents do not provide a clear hierarchy of policy priorities, and there is no explicit statement suggesting that the climate emergency response should supersede other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a series of objectives and action items related to climate change, such as reviewing risks, developing community education, and ensuring power and water supply will not be affected by climate change. However, these are specific actions rather than a broad requirement for all council activities to align with climate policy. The documents also mention the need to incorporate climate change considerations into council plans and procurement practices, but again, this is not a blanket requirement for all activities. Therefore, while the documents clearly demonstrate a commitment to addressing climate change, they do not explicitly state that all council activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various objectives and action items related to climate change, such as understanding procurement practices for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts, there is no clear mention of specific funding allocation for these actions. The documents mention seeking funding for certain actions, such as developing communications collateral and updating the website, and seeking funding for additional cyclone shelters, but these do not constitute a clear allocation of funds. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate change policy does explicitly allocate staff resources to climate action. The policy outlines several objectives and action items, each with a designated responsible party, which is often the CEO or a community group. For instance, the CEO is responsible for reviewing and updating the Council's strategic and annual plans to incorporate climate change considerations. The CEO is also tasked with engaging with various groups and departments to establish a resident-based group to champion climate issues, to include climate change considerations in procurement practices, and to ensure the power and water supply for residents will not be affected by the impacts of climate change. The policy also mentions the formation of a small working group to assist in the review of a previous report and reaffirm risks and adaptation practices. Therefore, the policy does allocate non-monetary institutional resources, specifically staff time and effort, to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed provide evidence of social mobilisation in relation to climate action. It outlines a number of objectives and action items that are designed to engage, educate, and empower the local community to work together to address the impacts of climate change. For instance, Objective 3 focuses on developing and delivering community education and awareness to build community resilience. This includes actions such as developing locally appropriate community information, building community awareness, and corresponding with residents directly affected by sea rise and surge risks. Furthermore, Objective 2 seeks to establish a resident-based group to champion the issues, which involves engaging with various groups to identify assistance available and conducting public meetings. These actions demonstrate a clear intent to mobilise the community and involve them directly in climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's Climate Change Risk Reduction Action Plan does not provide specific actions for the mitigation of greenhouse gas emissions. The plan primarily focuses on adaptation strategies to climate change impacts rather than mitigation efforts. These strategies include understanding procurement practices for climate change adaptation, incorporating climate change considerations in infrastructure development, ensuring power and water supply are not affected by climate change impacts, and community education and awareness. The plan also includes actions to protect coastal habitats and fauna, and to understand and mitigate sea level rise and increased storm surge impacts. However, there is no mention of specific actions to reduce greenhouse gas emissions, such as technological solutions or behaviour change initiatives. Therefore, the plan does not meet the criteria for 'restoring a safe climate' in terms of greenhouse gas mitigation."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Risk Reduction Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines several objectives, each with corresponding action items, responsible parties, and intended outcomes. For instance, Objective 5 focuses on understanding the requirements for adaptation due to climate change in all procurement practices. Objective 6 includes climate change considerations in the upgrade, design, and development of key community infrastructure. Objective 7 ensures the power and water supply for residents will not be affected by the impacts of climate change. Each of these objectives includes specific actions to be taken, such as reviewing and amending policies, engaging with various groups and organizations, and seeking funding for necessary projects. These actions demonstrate a clear commitment to climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The document does not provide well-sourced evidence to justify its climate targets and actions. While the document outlines a number of objectives and action items related to climate change, it does not provide specific sources or data to support these actions. The document does not provide any references to scientific studies, data, or other forms of evidence that would justify the specific climate targets and actions outlined. The document does mention the need to 'review and amend' policies and to 'understand in all procurement practices the requirements for adaption due to climate change', but it does not provide any specific evidence or sources to support these actions. Furthermore, the document does not provide any specific targets or metrics that would allow for the measurement of progress towards achieving these objectives. Therefore, while the document does outline a number of actions related to climate change, it does not provide well-sourced evidence to justify these actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's climate change action plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various objectives and corresponding action items, it does not detail how the success of these actions will be measured. For instance, the plan mentions objectives such as understanding procurement practices' requirements for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts. However, it does not provide specific indicators or metrics that would be used to measure the success or effectiveness of these actions. The absence of such criteria makes it difficult to assess whether the plan's actions are achieving their intended outcomes and whether adjustments may be needed. Therefore, the plan could benefit from the inclusion of specific, measurable, achievable, relevant, and time-bound (SMART) criteria for each action item to facilitate effective monitoring and evaluation."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Risk Reduction Action Plan outlines several objectives and action items that involve research and data collection. For instance, under Objective 1, the plan mentions the development of a small working group to assist in the review of a 2010 LGANT report and reaffirm risks and adaptation practices. This involves seeking funding to engage a consultant to undertake scientific data collection to update the 2010 LGANT report. Additionally, under Objective 8, the plan mentions engaging with DENR to negotiate for coastal spatial mapping of the Cox Peninsula. These actions indicate a commitment to conducting research to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate change risk reduction action plan primarily focuses on traditional methods of climate change adaptation and mitigation. These include reviewing and amending procurement practices and safety policies to include climate change adaptation, incorporating climate change considerations in infrastructure development, and ensuring power and water supply are not affected by climate change. The plan also includes community education and awareness initiatives, establishing a resident-based group to champion climate change issues, and protecting coastal habitats and fauna. While these actions are important and necessary, they do not represent innovative or experimental approaches to climate change policy. They are standard practices in climate change adaptation and mitigation. Therefore, based on the provided documents, the local government's climate change policy does not show evidence of innovation and policy experimentation."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline a local government's action plan for climate change, including objectives, action items, responsible parties, and expected outcomes. The actions are primarily focused on local initiatives such as reviewing and amending procurement practices, including climate change considerations in infrastructure development, establishing a resident-based group to champion climate issues, and ensuring power and water supply will not be affected by climate change. While there are mentions of engaging with various entities such as the Department of Environment and Natural Resources (DENR), the Crown Lands Office (CLO), and the Larrakia Rangers, these engagements appear to be more about collaboration and seeking assistance rather than advocating for action at the state or national level."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. While the documents outline a number of objectives and action items related to climate change, these primarily focus on internal actions to be taken by the council and CEO, such as reviewing and amending plans, developing community education, and engaging with various groups and departments. There is mention of establishing a resident-based group to champion climate issues and developing community education and awareness, but these actions do not explicitly involve building capacity across neighbouring local councils. Therefore, based on the provided documents, it cannot be affirmed that the policy encourages building local capacity across council, their local communities and neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While there are mentions of engaging with various groups and entities such as DENR/CLO, Top end coasts, and Larrakia Rangers, these are not explicitly identified as regional associations or alliances focused on climate change. Therefore, without further specific information or context, it cannot be definitively stated that the policy refers to specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents, which comprise the 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The documents outline various objectives and action items related to climate change adaptation and risk reduction, such as understanding procurement practices, upgrading community infrastructure, ensuring power and water supply, and mitigating the impacts of sea level rise and increased storm surge. However, these objectives and actions do not specifically address the differential impacts of climate change on vulnerable communities or discuss measures to ensure equity and social justice in the face of climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's action plan to mitigate and adapt to climate change, including objectives and action items related to infrastructure, community education, health services, and environmental protection. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from these actions. The documents do not provide any strategies or measures to ensure that the benefits of a safe climate, such as improved health, access to green spaces, or economic opportunities, are shared equitably among all community members. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 7, "num_questions": 20, "attribute_score": 42.5}}
+{
+  "settings": {
+    "source_files": [
+      "Wagait-NT-56.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T14:55:37.299014",
+    "lga": "Wagait"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', is indeed climate action. The policy is designed to prepare, respond, recover, and adapt to issues arising from climate change within the local area. It includes objectives and action items that directly address climate change risks and impacts. These include understanding procurement practices for climate change adaptation, incorporating climate change considerations in community infrastructure, and ensuring power and water supply will not be affected by climate impacts. The policy also aims to establish a resident-based group to champion climate issues, develop community education and awareness to build resilience, and understand and mitigate sea level rise and increased storm surge impacts. Therefore, it is clear that the policy is centered around climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document, titled 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', clearly outlines the need for action on climate change. It presents a series of objectives and action items aimed at mitigating the risks associated with climate change. The document identifies major and minor risks related to climate change, including damage from extreme climatic events, public health risks, and impacts on assets and infrastructure. The action plan includes objectives such as understanding the requirements for adaptation in procurement practices, including climate change considerations in the upgrade and design of community infrastructure, and ensuring power and water supply will not be affected by climate change impacts. These objectives and actions demonstrate a clear recognition of the need for action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of objectives and action items related to climate change, such as reviewing risks, incorporating climate change considerations into council plans, establishing a resident-based group to champion the issues, and including climate change considerations in procurement practices and infrastructure development. However, these actions are presented as part of a strategic plan rather than as urgent measures. The documents do not use language that conveys a sense of urgency or immediacy. Instead, they present a measured and planned approach to addressing the impacts of climate change. The timing for most of the actions is not specified, and where it is, it is often listed as 'as required' or 'asap', which does not necessarily imply urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for some of its intended actions on climate change. For instance, under Objective 3, the action item 'Develop locally appropriate community information and communications collateral' is marked with the timing 'ASAP'. Similarly, under Objective 1, the action item 'Develop small working group to assist review of 2010 LGANT report and re affirm risks and adaption practices' is marked with the timing 'Commence asap'. However, it's worth noting that 'ASAP' is a somewhat vague term and does not provide a concrete deadline. Other objectives and action items do not have specified timeframes, which could potentially hinder the effectiveness and accountability of the policy's implementation."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's Climate Change Risk Reduction Action Plan, which includes objectives and action items related to climate change adaptation and mitigation. These include understanding procurement practices' requirements for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts. However, these actions are presented as part of a comprehensive plan, not as priorities over other policies. The documents do not provide a clear hierarchy of policy priorities, and there is no explicit statement suggesting that the climate emergency response should supersede other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a series of objectives and action items related to climate change, such as reviewing risks, developing community education, and ensuring power and water supply will not be affected by climate change. However, these are specific actions rather than a broad requirement for all council activities to align with climate policy. The documents also mention the need to incorporate climate change considerations into council plans and procurement practices, but again, this is not a blanket requirement for all activities. Therefore, while the documents clearly demonstrate a commitment to addressing climate change, they do not explicitly state that all council activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various objectives and action items related to climate change, such as understanding procurement practices for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts, there is no clear mention of specific funding allocation for these actions. The documents mention seeking funding for certain actions, such as developing communications collateral and updating the website, and seeking funding for additional cyclone shelters, but these do not constitute a clear allocation of funds. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change policy does explicitly allocate staff resources to climate action. The policy outlines several objectives and action items, each with a designated responsible party, which is often the CEO or a community group. For instance, the CEO is responsible for reviewing and updating the Council's strategic and annual plans to incorporate climate change considerations. The CEO is also tasked with engaging with various groups and departments to establish a resident-based group to champion climate issues, to include climate change considerations in procurement practices, and to ensure the power and water supply for residents will not be affected by the impacts of climate change. The policy also mentions the formation of a small working group to assist in the review of a previous report and reaffirm risks and adaptation practices. Therefore, the policy does allocate non-monetary institutional resources, specifically staff time and effort, to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed provide evidence of social mobilisation in relation to climate action. It outlines a number of objectives and action items that are designed to engage, educate, and empower the local community to work together to address the impacts of climate change. For instance, Objective 3 focuses on developing and delivering community education and awareness to build community resilience. This includes actions such as developing locally appropriate community information, building community awareness, and corresponding with residents directly affected by sea rise and surge risks. Furthermore, Objective 2 seeks to establish a resident-based group to champion the issues, which involves engaging with various groups to identify assistance available and conducting public meetings. These actions demonstrate a clear intent to mobilise the community and involve them directly in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's Climate Change Risk Reduction Action Plan does not provide specific actions for the mitigation of greenhouse gas emissions. The plan primarily focuses on adaptation strategies to climate change impacts rather than mitigation efforts. These strategies include understanding procurement practices for climate change adaptation, incorporating climate change considerations in infrastructure development, ensuring power and water supply are not affected by climate change impacts, and community education and awareness. The plan also includes actions to protect coastal habitats and fauna, and to understand and mitigate sea level rise and increased storm surge impacts. However, there is no mention of specific actions to reduce greenhouse gas emissions, such as technological solutions or behaviour change initiatives. Therefore, the plan does not meet the criteria for 'restoring a safe climate' in terms of greenhouse gas mitigation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Risk Reduction Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines several objectives, each with corresponding action items, responsible parties, and intended outcomes. For instance, Objective 5 focuses on understanding the requirements for adaptation due to climate change in all procurement practices. Objective 6 includes climate change considerations in the upgrade, design, and development of key community infrastructure. Objective 7 ensures the power and water supply for residents will not be affected by the impacts of climate change. Each of these objectives includes specific actions to be taken, such as reviewing and amending policies, engaging with various groups and organizations, and seeking funding for necessary projects. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The document does not provide well-sourced evidence to justify its climate targets and actions. While the document outlines a number of objectives and action items related to climate change, it does not provide specific sources or data to support these actions. The document does not provide any references to scientific studies, data, or other forms of evidence that would justify the specific climate targets and actions outlined. The document does mention the need to 'review and amend' policies and to 'understand in all procurement practices the requirements for adaption due to climate change', but it does not provide any specific evidence or sources to support these actions. Furthermore, the document does not provide any specific targets or metrics that would allow for the measurement of progress towards achieving these objectives. Therefore, while the document does outline a number of actions related to climate change, it does not provide well-sourced evidence to justify these actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's climate change action plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various objectives and corresponding action items, it does not detail how the success of these actions will be measured. For instance, the plan mentions objectives such as understanding procurement practices' requirements for climate change adaptation, including climate change considerations in infrastructure development, and ensuring power and water supply will not be affected by climate change impacts. However, it does not provide specific indicators or metrics that would be used to measure the success or effectiveness of these actions. The absence of such criteria makes it difficult to assess whether the plan's actions are achieving their intended outcomes and whether adjustments may be needed. Therefore, the plan could benefit from the inclusion of specific, measurable, achievable, relevant, and time-bound (SMART) criteria for each action item to facilitate effective monitoring and evaluation."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Risk Reduction Action Plan outlines several objectives and action items that involve research and data collection. For instance, under Objective 1, the plan mentions the development of a small working group to assist in the review of a 2010 LGANT report and reaffirm risks and adaptation practices. This involves seeking funding to engage a consultant to undertake scientific data collection to update the 2010 LGANT report. Additionally, under Objective 8, the plan mentions engaging with DENR to negotiate for coastal spatial mapping of the Cox Peninsula. These actions indicate a commitment to conducting research to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents outline a series of objectives and action items related to climate change, such as incorporating climate change considerations into council plans, establishing a resident-based group to champion climate issues, and ensuring power and water supply will not be affected by climate change. However, these actions do not involve testing technologies, policies, or governance approaches on a small scale and under real-world conditions. They are more focused on planning, risk assessment, and community engagement. Therefore, the documents do not provide evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents outline a local government's action plan for climate change, including objectives, action items, responsible parties, and expected outcomes. The actions are primarily focused on local initiatives such as reviewing and amending procurement practices, including climate change considerations in infrastructure development, establishing a resident-based group to champion climate issues, and ensuring power and water supply will not be affected by climate change. While there are mentions of engaging with various entities such as the Department of Environment and Natural Resources (DENR), the Crown Lands Office (CLO), and the Larrakia Rangers, these engagements appear to be more about collaboration and seeking assistance rather than advocating for action at the state or national level."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. While the documents outline a number of objectives and action items related to climate change, these primarily focus on internal actions to be taken by the council and CEO, such as reviewing and amending plans, developing community education, and engaging with various groups and departments. There is mention of establishing a resident-based group to champion climate issues and developing community education and awareness, but these actions do not explicitly involve building capacity across neighbouring local councils. Therefore, based on the provided documents, it cannot be affirmed that the policy encourages building local capacity across council, their local communities and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While there are mentions of engaging with various groups and entities such as DENR/CLO, Top end coasts, and Larrakia Rangers, these are not explicitly identified as regional associations or alliances focused on climate change. Therefore, without further specific information or context, it cannot be definitively stated that the policy refers to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents, which comprise the 'WSC Climate Change Risk Reduction Action Plan - 2020 v2', do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The documents outline various objectives and action items related to climate change adaptation and risk reduction, such as understanding procurement practices, upgrading community infrastructure, ensuring power and water supply, and mitigating the impacts of sea level rise and increased storm surge. However, these objectives and actions do not specifically address the differential impacts of climate change on vulnerable communities or discuss measures to ensure equity and social justice in the face of climate change. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's action plan to mitigate and adapt to climate change, including objectives and action items related to infrastructure, community education, health services, and environmental protection. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from these actions. The documents do not provide any strategies or measures to ensure that the benefits of a safe climate, such as improved health, access to green spaces, or economic opportunities, are shared equitably among all community members. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 7,
+    "num_questions": 20,
+    "attribute_score": 42.5
+  }
+}

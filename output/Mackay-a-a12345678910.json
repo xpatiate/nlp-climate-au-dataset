@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["Mackay-QLD-64.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T21:19:57.305112", "lga": "Mackay"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The core purpose of the policy is not solely climate action, but rather a broader commitment to managing climate change risks and promoting resilience within the community. The policy outlines a structured and strategic response to potential impacts and opportunities that may arise from climate change, and aims to facilitate greater awareness of its causes and effects. It also seeks to ensure that climate change adaptation is a core component of planning for a more resilient organization and regional community. While climate action is a significant aspect of the policy, it is not the sole or primary goal. The policy also emphasizes the importance of legislative compliance, financial planning, asset management, strategic planning, and emergency management in relation to climate change."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It states that the Mackay Regional Council (MRC) recognizes climate change as a material risk to its operations and to the economic, social, and environmental sustainability of the Mackay region. The MRC is committed to taking a leadership approach in managing the risks associated with climate change for their community, adopting a structured and strategic response to the potential impacts and opportunities that may eventuate from climate change, and facilitating greater awareness of the causes and effects of climate change. The purpose of the Climate Change Adaptation Policy is to demonstrate that MRC is a leader in identifying and responding to climate change risk, resulting in climate change action and community resilience planning. It also aims to support long term financial planning, asset management, strategic planning, emergency management and other key MRC processes with consistent, timely and scientifically sound information and local climate projections related to climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Mackay Regional Council's (MRC) commitment to managing climate change risks and enhancing resilience through a planned approach. The policy is based on the best available science and local climate projections. The MRC acknowledges climate change as a material risk to its operations and the economic, social, and environmental sustainability of the Mackay region. However, the documents do not express a sense of urgency or call for immediate action. Instead, they focus on the integration of climate change adaptation principles into the organization's thinking and actions, compliance with legal requirements, and the use of science-based policy approaches. The policy is to be reviewed at intervals of no more than three years or when related documents are amended or replaced."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy does state that it will be reviewed at intervals of no more than three years, this is a review schedule rather than a timeline for action. The policy also mentions various strategies and plans, such as the Environmental Sustainability Strategy 2017-2022 and the Planning Scheme 2017, but these are not specific actions within the policy itself. The policy does commit to using the best available science and sub-regional climate projections to identify, understand and respond to both short and long-term climate change risks, but again, no specific timeframes for these actions are provided."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Adaptation Policy of the Mackay Regional Council (MRC) outlines the council's commitment to managing climate risk and enhancing resilience in their communities, infrastructure, and natural areas. The policy details the principles for effective climate change adaptation, which include using the best available science to identify and respond to climate change risks, complying with legal requirements, and implementing relevant state and federal government policies. However, the policy does not explicitly prioritize climate change adaptation over other policies. Instead, it emphasizes the integration of climate change adaptation into the council's functions and activities, suggesting that it is one of many considerations in the council's operations."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents clearly state that the Mackay Regional Council (MRC) is committed to integrating climate change adaptation into all its activities and operations. The policy applies to all MRC activities and staff, indicating that all council activities must align with the climate policy. The policy outlines MRC's commitment to managing climate risk as part of the Queensland Climate Resilient Council program. It also states that climate change adaptation is a core component of planning for a more resilient organization and regional community, and is therefore mainstreamed into MRC's functions and activities. Furthermore, the policy will use the Environmental Sustainability Strategy 2017-2022 as the primary document to deliver specific climate change initiatives that align with state and federal climate change adaptation and mitigation goals."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines the Mackay Regional Council's (MRC) commitment to climate change adaptation and resilience, it does not detail any specific budgetary provisions or financial resources dedicated to these efforts. The policy does mention the integration of climate change risks into the MRC Strategic Risk Register and the management of these risks through relevant corporate strategies, plans, and programs. However, these references do not directly imply the allocation of funding. The policy also discusses the potential for economic development opportunities arising from proactive climate change adaptation and community resilience commitment, but again, this does not constitute a clear allocation of funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The policy documents provided do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy does state that it applies to all Mackay Regional Council (MRC) activities and staff, it does not specify the allocation of these resources towards climate action. The policy outlines the MRC's commitment to managing climate risk and enhancing resilience, and it mentions the integration of climate change adaptation principles across the organisation. However, it does not detail how staff or other non-monetary institutional resources will be mobilised to achieve these goals. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines the Mackay Regional Council's (MRC) commitment to implementing programs and initiatives that aim to increase community resilience and overall community wellbeing. It also mentions the advancement of case studies in climate change adaptation and community resilience for existing sites and greenfield developments. Furthermore, the policy encourages collaboration with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the community's needs. This suggests a focus on social mobilisation, as it involves the community in the process of climate change adaptation and resilience-building. However, the document does not provide specific details on how the community will be educated or empowered to rally and support climate action.", "quote": {"content": "MRC will commit to advancing case studies in climate change adaptation and community resilience for existing sites and greenfield developments. MRC will implement programs and initiatives that strive to increase community resilience and overall community wellbeing.", "page": 3, "source": "Mackay-QLD-64.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The policy primarily focuses on climate change adaptation, which involves managing risks associated with climate change and enhancing resilience. The policy does mention greenhouse gas emissions projections, but it does not outline specific mitigation strategies or actions. The policy also refers to the use of the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report and regional climate projections as sources of information. However, these references do not provide specific actions for greenhouse gas mitigation. Therefore, based on the provided documents, the policy does not include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The policy indeed includes specific actions for climate adaptation and resilience. It emphasizes the importance of managing climate change risks effectively by using the best available science and sub-regional climate projections. The policy also states that these risks will be incorporated into the MRC Strategic Risk Register and managed through relevant corporate strategies, plans, and programs. Furthermore, the policy highlights the need for legislative compliance, ensuring that MRC will adhere to applicable legal requirements and implement relevant State and Federal government policies, guidelines, and directives relating to climate change adaptation. The policy also outlines the commitment to implement programs and initiatives that strive to increase community resilience and overall community wellbeing. It also encourages collaboration and shared learning with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community.", "quote": {"content": "Climate change adaptation for MRC can be defined as an ongoing commitment to effectively managing climate risk and enhancing the resilience of MRC and the capacity of our communities, infrastructure and natural areas to recover from stresses while maintaining function and identity.", "page": 2, "source": "Mackay-QLD-64.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines a commitment to a science-based policy approach to climate change adaptation, with the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report being the primary source of climate change adaptation information. The policy also mentions the use of regional and sub-regional climate projections from reliable sources such as the CSIRO. Furthermore, the policy commits to using the top global Representative Concentration Pathway (RCP8.5) during decision making, which is a 'business as usual' trajectory where there is no effort to reduce emissions. This indicates a precautionary approach to long-term planning and risk assessments. The policy also aligns with state and federal climate change adaptation and mitigation goals, demonstrating strategic alignment with broader climate change initiatives."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The policy does include specific measurable criteria to evaluate the success of its proposed actions. It mentions the establishment and monitoring of climate change adaptation performance indicators at the executive level. This is a clear indication that the policy has a mechanism in place to measure the success of its actions. The policy also states that these indicators should be measurable and evaluated on a regular basis. This suggests that the policy has a system in place for regular review and assessment of its actions. However, the policy does not provide specific details about what these performance indicators are, how they will be measured, or how often they will be evaluated. Therefore, while the policy does include a mechanism for evaluating success, the lack of detail makes it difficult to assess how effective this mechanism will be.", "quote": {"content": "Where appropriate, indicators should be measurable and evaluated on a regular basis. Climate change adaptation performance indicators will be established and monitored at the executive level to ensure continuous improvement regardless of leadership changes or short-term political influence.", "page": 4, "source": "Mackay-QLD-64.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy does state that the Mackay Regional Council (MRC) is committed to a science-based policy approach to climate change adaptation, and that it will use the best available science and sub-regional climate projections to identify, understand, and respond to both short and long-term climate change risks. However, these statements do not specifically indicate that the MRC will conduct its own research within the local community. Instead, the policy suggests that the MRC will rely on existing scientific information and climate projections, such as those provided by the Intergovernmental Panel on Climate Change (IPCC) and the CSIRO. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The policy does outline a commitment to climate change adaptation, with a focus on managing risks associated with climate change through a planned approach that takes into consideration the best available science and local climate projections. It also mentions the use of the Environmental Sustainability Strategy 2017-2022 as the primary document to deliver specific climate change initiatives that align with state and federal climate change adaptation and mitigation goals. However, these actions seem to be more about implementing existing strategies and following established guidelines rather than experimenting with innovative new approaches. The policy does not provide specific examples of innovative or experimental actions being taken."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the policy does mention compliance with state and federal legislation and guidelines, and alignment with state and federal climate change adaptation and mitigation goals, it does not explicitly state an intent to advocate for further action from these higher levels of government. The policy primarily focuses on the local government's own actions and strategies for climate change adaptation, such as using scientific information for planning and risk management, integrating climate change adaptation into the local government's functions and activities, and taking advantage of economic development opportunities related to climate change adaptation and community resilience."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The policy document does explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines the Mackay Regional Council's (MRC) commitment to effectively managing climate risk and enhancing the resilience of the council and the capacity of their communities, infrastructure, and natural areas to recover from stresses while maintaining function and identity. The policy also emphasizes the importance of collaboration and shared learning, stating that MRC will encourage synergies with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community. This collaboration is intended to ensure that roles and responsibilities are appropriate and that duplication is avoided. Furthermore, the policy highlights the importance of productive partnerships, stating that MRC builds industrial and community partnerships to strengthen their influence at state and national levels, contributing to innovation, design, and research.", "quote": {"content": "MRC builds industrial and community partnerships to strengthen our influence at state and national levels, contributing to innovation, design and research. MRC will encourage synergies with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community. Collaboration will ensure that the respective roles and responsibilities are appropriate, and duplication is avoided.", "page": 3, "source": "Mackay-QLD-64.pdf", "search_score": 0.94}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does refer to specific regional associations and partnerships related to climate. It mentions the Mackay Regional Council's (MRC) participation in the Local Government Association of Queensland\u2019s Coastal MRC's Adaptation Taskforce (C-CAT). This indicates that the MRC is actively involved in regional collaborations focused on climate change adaptation. Furthermore, the document states that the MRC is a member of the Queensland Climate Resilient Council program, which is another regional initiative aimed at managing climate risk. The document also mentions the MRC's commitment to work collaboratively with other MRCs as well as State and Federal Governments on projects and policies that meet the needs of the community. This suggests that the MRC is part of a broader network of local governments working together to address climate change.", "quote": {"content": "This policy now outlines MRC\u2019s commitment to effectively managing climate risk as a member of the Queensland Climate Resilient Council program. The need for a climate change adaptation policy was initially identified through MRC\u2019s participation in the Local Government Association of Queensland\u2019s Coastal MRC's Adaptation Taskforce (C-CAT).", "page": 2, "source": "Mackay-QLD-64.pdf", "search_score": 0.97}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy does acknowledge that climate change presents both challenges and opportunities for the future of the region, and it could impact private and public property, infrastructure, natural systems, human health, agriculture, and the economy. However, it does not specifically address the effects on vulnerable communities or discuss these impacts in terms of equity and social justice. The policy is primarily focused on managing climate risks, enhancing resilience, and complying with relevant legal requirements."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention the importance of managing climate change risks and enhancing the resilience of the Mackay Regional Council (MRC) and the capacity of communities, infrastructure, and natural areas, it does not provide specific details on how the benefits and opportunities resulting from these actions will be equitably shared. The policy focuses on the use of best available science and sub-regional climate projections to identify, understand, and respond to both short and long-term climate change risks, and on compliance with applicable legal requirements. However, it does not address the issue of equity and social justice in the context of sharing the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 41.7}}
+{
+  "settings": {
+    "source_files": [
+      "Mackay-QLD-64.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T21:19:57.305112",
+    "lga": "Mackay"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The core purpose of the policy is not solely climate action, but rather a broader commitment to managing climate change risks and promoting resilience within the community. The policy outlines a structured and strategic response to potential impacts and opportunities that may arise from climate change, and aims to facilitate greater awareness of its causes and effects. It also seeks to ensure that climate change adaptation is a core component of planning for a more resilient organization and regional community. While climate action is a significant aspect of the policy, it is not the sole or primary goal. The policy also emphasizes the importance of legislative compliance, financial planning, asset management, strategic planning, and emergency management in relation to climate change."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It states that the Mackay Regional Council (MRC) recognizes climate change as a material risk to its operations and to the economic, social, and environmental sustainability of the Mackay region. The MRC is committed to taking a leadership approach in managing the risks associated with climate change for their community, adopting a structured and strategic response to the potential impacts and opportunities that may eventuate from climate change, and facilitating greater awareness of the causes and effects of climate change. The purpose of the Climate Change Adaptation Policy is to demonstrate that MRC is a leader in identifying and responding to climate change risk, resulting in climate change action and community resilience planning. It also aims to support long term financial planning, asset management, strategic planning, emergency management and other key MRC processes with consistent, timely and scientifically sound information and local climate projections related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Mackay Regional Council's (MRC) commitment to managing climate change risks and enhancing resilience through a planned approach. The policy is based on the best available science and local climate projections. The MRC acknowledges climate change as a material risk to its operations and the economic, social, and environmental sustainability of the Mackay region. However, the documents do not express a sense of urgency or call for immediate action. Instead, they focus on the integration of climate change adaptation principles into the organization's thinking and actions, compliance with legal requirements, and the use of science-based policy approaches. The policy is to be reviewed at intervals of no more than three years or when related documents are amended or replaced."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy does state that it will be reviewed at intervals of no more than three years, this is a review schedule rather than a timeline for action. The policy also mentions various strategies and plans, such as the Environmental Sustainability Strategy 2017-2022 and the Planning Scheme 2017, but these are not specific actions within the policy itself. The policy does commit to using the best available science and sub-regional climate projections to identify, understand and respond to both short and long-term climate change risks, but again, no specific timeframes for these actions are provided."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Adaptation Policy of the Mackay Regional Council (MRC) outlines the council's commitment to managing climate risk and enhancing resilience in their communities, infrastructure, and natural areas. The policy details the principles for effective climate change adaptation, which include using the best available science to identify and respond to climate change risks, complying with legal requirements, and implementing relevant state and federal government policies. However, the policy does not explicitly prioritize climate change adaptation over other policies. Instead, it emphasizes the integration of climate change adaptation into the council's functions and activities, suggesting that it is one of many considerations in the council's operations."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents clearly state that the Mackay Regional Council (MRC) is committed to integrating climate change adaptation into all its activities and operations. The policy applies to all MRC activities and staff, indicating that all council activities must align with the climate policy. The policy outlines MRC's commitment to managing climate risk as part of the Queensland Climate Resilient Council program. It also states that climate change adaptation is a core component of planning for a more resilient organization and regional community, and is therefore mainstreamed into MRC's functions and activities. Furthermore, the policy will use the Environmental Sustainability Strategy 2017-2022 as the primary document to deliver specific climate change initiatives that align with state and federal climate change adaptation and mitigation goals."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines the Mackay Regional Council's (MRC) commitment to climate change adaptation and resilience, it does not detail any specific budgetary provisions or financial resources dedicated to these efforts. The policy does mention the integration of climate change risks into the MRC Strategic Risk Register and the management of these risks through relevant corporate strategies, plans, and programs. However, these references do not directly imply the allocation of funding. The policy also discusses the potential for economic development opportunities arising from proactive climate change adaptation and community resilience commitment, but again, this does not constitute a clear allocation of funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy does state that it applies to all Mackay Regional Council (MRC) activities and staff, it does not specify the allocation of these resources towards climate action. The policy outlines the MRC's commitment to managing climate risk and enhancing resilience, and it mentions the integration of climate change adaptation principles across the organisation. However, it does not detail how staff or other non-monetary institutional resources will be mobilised to achieve these goals. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines the Mackay Regional Council's (MRC) commitment to implementing programs and initiatives that aim to increase community resilience and overall community wellbeing. It also mentions the advancement of case studies in climate change adaptation and community resilience for existing sites and greenfield developments. Furthermore, the policy encourages collaboration with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the community's needs. This suggests a focus on social mobilisation, as it involves the community in the process of climate change adaptation and resilience-building. However, the document does not provide specific details on how the community will be educated or empowered to rally and support climate action.",
+          "quote": {
+            "content": "MRC will commit to advancing case studies in climate change adaptation and community resilience for existing sites and greenfield developments. MRC will implement programs and initiatives that strive to increase community resilience and overall community wellbeing.",
+            "page": 3,
+            "source": "Mackay-QLD-64.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The policy primarily focuses on climate change adaptation, which involves managing risks associated with climate change and enhancing resilience. The policy does mention greenhouse gas emissions projections, but it does not outline specific mitigation strategies or actions. The policy also refers to the use of the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report and regional climate projections as sources of information. However, these references do not provide specific actions for greenhouse gas mitigation. Therefore, based on the provided documents, the policy does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The policy indeed includes specific actions for climate adaptation and resilience. It emphasizes the importance of managing climate change risks effectively by using the best available science and sub-regional climate projections. The policy also states that these risks will be incorporated into the MRC Strategic Risk Register and managed through relevant corporate strategies, plans, and programs. Furthermore, the policy highlights the need for legislative compliance, ensuring that MRC will adhere to applicable legal requirements and implement relevant State and Federal government policies, guidelines, and directives relating to climate change adaptation. The policy also outlines the commitment to implement programs and initiatives that strive to increase community resilience and overall community wellbeing. It also encourages collaboration and shared learning with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community.",
+          "quote": {
+            "content": "Climate change adaptation for MRC can be defined as an ongoing commitment to effectively managing climate risk and enhancing the resilience of MRC and the capacity of our communities, infrastructure and natural areas to recover from stresses while maintaining function and identity.",
+            "page": 2,
+            "source": "Mackay-QLD-64.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides well-sourced evidence to justify its climate targets and actions. It outlines a commitment to a science-based policy approach to climate change adaptation, with the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report being the primary source of climate change adaptation information. The policy also mentions the use of regional and sub-regional climate projections from reliable sources such as the CSIRO. Furthermore, the policy commits to using the top global Representative Concentration Pathway (RCP8.5) during decision making, which is a 'business as usual' trajectory where there is no effort to reduce emissions. This indicates a precautionary approach to long-term planning and risk assessments. The policy also aligns with state and federal climate change adaptation and mitigation goals, demonstrating strategic alignment with broader climate change initiatives."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The policy does include specific measurable criteria to evaluate the success of its proposed actions. It mentions the establishment and monitoring of climate change adaptation performance indicators at the executive level. This is a clear indication that the policy has a mechanism in place to measure the success of its actions. The policy also states that these indicators should be measurable and evaluated on a regular basis. This suggests that the policy has a system in place for regular review and assessment of its actions. However, the policy does not provide specific details about what these performance indicators are, how they will be measured, or how often they will be evaluated. Therefore, while the policy does include a mechanism for evaluating success, the lack of detail makes it difficult to assess how effective this mechanism will be.",
+          "quote": {
+            "content": "Where appropriate, indicators should be measurable and evaluated on a regular basis. Climate change adaptation performance indicators will be established and monitored at the executive level to ensure continuous improvement regardless of leadership changes or short-term political influence.",
+            "page": 4,
+            "source": "Mackay-QLD-64.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy does state that the Mackay Regional Council (MRC) is committed to a science-based policy approach to climate change adaptation, and that it will use the best available science and sub-regional climate projections to identify, understand, and respond to both short and long-term climate change risks. However, these statements do not specifically indicate that the MRC will conduct its own research within the local community. Instead, the policy suggests that the MRC will rely on existing scientific information and climate projections, such as those provided by the Intergovernmental Panel on Climate Change (IPCC) and the CSIRO. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action. The policy outlines the Mackay Regional Council's commitment to managing climate change risks and adapting to climate change, primarily through reducing carbon emissions and using the best available science and local climate projections. It also mentions compliance with relevant state and federal government policies and guidelines. However, there is no mention of any initiatives to test technologies, policies, or governance approaches on a small scale and under real-world conditions. Therefore, it cannot be concluded that the policy includes any form of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the policy does mention compliance with state and federal legislation and guidelines, and alignment with state and federal climate change adaptation and mitigation goals, it does not explicitly state an intent to advocate for further action from these higher levels of government. The policy primarily focuses on the local government's own actions and strategies for climate change adaptation, such as using scientific information for planning and risk management, integrating climate change adaptation into the local government's functions and activities, and taking advantage of economic development opportunities related to climate change adaptation and community resilience."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The policy document does explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines the Mackay Regional Council's (MRC) commitment to effectively managing climate risk and enhancing the resilience of the council and the capacity of their communities, infrastructure, and natural areas to recover from stresses while maintaining function and identity. The policy also emphasizes the importance of collaboration and shared learning, stating that MRC will encourage synergies with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community. This collaboration is intended to ensure that roles and responsibilities are appropriate and that duplication is avoided. Furthermore, the policy highlights the importance of productive partnerships, stating that MRC builds industrial and community partnerships to strengthen their influence at state and national levels, contributing to innovation, design, and research.",
+          "quote": {
+            "content": "MRC builds industrial and community partnerships to strengthen our influence at state and national levels, contributing to innovation, design and research. MRC will encourage synergies with other MRCs as well as State and Federal Governments to work collaboratively on projects and policies that meet the on-the-ground needs of the community. Collaboration will ensure that the respective roles and responsibilities are appropriate, and duplication is avoided.",
+            "page": 3,
+            "source": "Mackay-QLD-64.pdf",
+            "search_score": 0.94
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does refer to specific regional associations and partnerships related to climate. It mentions the Mackay Regional Council's (MRC) participation in the Local Government Association of Queensland\u2019s Coastal MRC's Adaptation Taskforce (C-CAT). This indicates that the MRC is actively involved in regional collaborations focused on climate change adaptation. Furthermore, the document states that the MRC is a member of the Queensland Climate Resilient Council program, which is another regional initiative aimed at managing climate risk. The document also mentions the MRC's commitment to work collaboratively with other MRCs as well as State and Federal Governments on projects and policies that meet the needs of the community. This suggests that the MRC is part of a broader network of local governments working together to address climate change.",
+          "quote": {
+            "content": "This policy now outlines MRC\u2019s commitment to effectively managing climate risk as a member of the Queensland Climate Resilient Council program. The need for a climate change adaptation policy was initially identified through MRC\u2019s participation in the Local Government Association of Queensland\u2019s Coastal MRC's Adaptation Taskforce (C-CAT).",
+            "page": 2,
+            "source": "Mackay-QLD-64.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy does acknowledge that climate change presents both challenges and opportunities for the future of the region, and it could impact private and public property, infrastructure, natural systems, human health, agriculture, and the economy. However, it does not specifically address the effects on vulnerable communities or discuss these impacts in terms of equity and social justice. The policy is primarily focused on managing climate risks, enhancing resilience, and complying with relevant legal requirements."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention the importance of managing climate change risks and enhancing the resilience of the Mackay Regional Council (MRC) and the capacity of communities, infrastructure, and natural areas, it does not provide specific details on how the benefits and opportunities resulting from these actions will be equitably shared. The policy focuses on the use of best available science and sub-regional climate projections to identify, understand, and respond to both short and long-term climate change risks, and on compliance with applicable legal requirements. However, it does not address the issue of equity and social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 41.7
+  }
+}

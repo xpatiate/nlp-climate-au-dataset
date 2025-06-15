@@ -1,1 +1,304 @@
-{"settings": {"source_files": ["Brisbane-QLD-68.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T13:31:34.330449", "lga": "Brisbane"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'Clean and Green Strategy', clearly outlines climate action as a core purpose. The policy is underpinned by six guiding principles, including promoting economic, environmental, and community integration, enhancing and maintaining biodiversity, and acting cautiously when there is a risk of serious or irreversible impacts. The policy also outlines specific goals and actions related to reducing carbon emissions, promoting green transport, and enhancing biodiversity. The policy acknowledges the role of cities in reducing greenhouse gas emissions and the need for concerted efforts at all levels of government. It also recognizes the potential for local government to influence sustainability outcomes not only locally, but also regionally and nationally. Therefore, it is clear that climate action is a core purpose of the policy.", "quote": {"content": "Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future. Council recognises that concerted efforts are needed at all levels of government to reduce greenhouse gas emissions.", "page": 16, "source": "Brisbane-QLD-68.pdf", "search_score": 0.96}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the 2015 Paris Agreement, which requires countries to limit their greenhouse gas emissions to levels consistent with keeping the increase in global average temperature below 2\u00b0C over pre-industrial levels. The document also recognizes that cities, being large users of energy and producers of greenhouse gas emissions, will play a critical role in the transition to a more sustainable, low carbon society. It further emphasizes that taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks. The document also highlights the potential benefits of investing in low carbon infrastructure and services, such as improved energy productivity and security, creation of new industries and jobs, and cleaner air and water.", "quote": {"content": "In many cases, investing in low carbon infrastructure and services has low incremental costs and provides valuable side benefits, such as improved energy productivity and security, creation of new industries and jobs, and cleaner air and water. Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks.", "page": 16, "source": "Brisbane-QLD-68.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents from the Brisbane City Council do explicitly call for rapid and urgent action on climate change. The council recognizes the need for concerted efforts at all levels of government to reduce greenhouse gas emissions. The documents emphasize that taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future. The council also acknowledges the importance of cities in the transition to a more sustainable, low carbon society, given that they are large users of energy and producers of greenhouse gas emissions. The council's strategy includes specific actions to reduce transport emissions, manage emissions from waste disposal, and protect the urban forest, which contributes to mitigating greenhouse gas emissions. The council's commitment to these actions indicates an understanding of the urgency of addressing climate change.", "quote": {"content": "Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks.", "page": 16, "source": "Brisbane-QLD-68.pdf", "search_score": 0.98}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategies and actions to address climate change, such as reducing carbon emissions, promoting public and active transport, and protecting the urban forest, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the importance of taking action sooner rather than later and mention the Australian Government's commitment to reduce national emissions by 26 to 28% under 2005 levels by 2030. However, they do not specify when the local government's particular actions will be implemented or completed. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of actions and strategies related to climate change, such as reducing transport emissions, increasing public transport use, facilitating electric vehicle infrastructure, and diverting organic waste from landfill, they do not explicitly prioritize these actions over other policies. The documents also mention the importance of integrating economic, environmental, and community considerations, and acting cautiously in the face of serious or irreversible impacts, but again, these are not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, such as reducing transport emissions, protecting urban forests, and promoting eco-driving, they do not explicitly require all council activities to align with these strategies. The documents do indicate that the council has a role in influencing sustainability outcomes and that it is committed to various sustainability principles. However, these principles are not explicitly tied to all council activities. Furthermore, while the documents mention the council's role in areas such as land-use planning, waste management, and transport services, they do not explicitly state that these activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions related to climate change, such as promoting economic, environmental, and community integration, enhancing biodiversity, and developing water-sensitive city measures, there is no clear mention of specific funding allocations for these initiatives. The policy does mention that the council received Australian Government funding for a stormwater harvesting project, but this is not a direct allocation of funds by the local government for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a variety of strategies and actions related to climate change, such as promoting economic, environmental, and community integration, enhancing biodiversity, and managing emissions from waste disposal, they do not specify the allocation of staff or other non-monetary resources to these actions. The documents mention collaboration with various groups and the implementation of certain projects, but they do not detail how institutional resources will be mobilized for these purposes. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at increasing community awareness and involvement in sustainable practices. For instance, it mentions partnering with various bodies to generate greater community awareness of the impact of individual actions on waterway health. It also talks about empowering community members to deliver sustainable water outcomes and involving residents in citizen-science programs to better understand and manage Brisbane\u2019s waterways. Furthermore, the policy encourages community members to design their homes and gardens with water and the natural environment in mind. These initiatives demonstrate a clear effort to mobilize the community towards climate action.", "quote": {"content": "Involve residents in citizen-science programs to better understand and sustainably manage Brisbane\u2019s waterways, river and bay. Partner with industry, Healthy Land and Water, Queensland Urban Utilities and other peak bodies to generate greater community awareness of the impact of individual actions on waterway health. Empower community members to deliver sustainable water outcomes.", "page": 53, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the integration of actions to reduce transport emissions, the facilitation of electric vehicle infrastructure, and the trialling of alternative waste treatment technologies at Council landfills and transfer stations. These actions are aimed at improving air quality and reducing the city's carbon footprint. Behaviour change is encouraged through the promotion of greater public and active transport use, increasing public transport patronage, and increasing cycling and walking. The plan also includes measures to encourage residents and businesses to reduce energy use and emissions through information campaigns, grants, and incentives. The plan's approach is comprehensive, addressing various sources of emissions and involving different sectors of the community.", "quote": {"content": "Integrating Council\u2019s actions to promote and facilitate greater public and active transport use has the potential to greatly boost organisational outcomes. Integrate cross-Council actions to reduce transport emissions. Actions to reduce transport emissions can improve air quality, reduce our carbon footprint, cut congestion and promote more active lifestyles.", "page": 26, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to ensure the city's resilience to climate change. These include adopting WaterSmart practices, planning for rising sea levels and increased rainfall intensity, and developing water-sensitive city measures. The plan also emphasizes the importance of understanding risk to future events, establishing strong governance around resilience, and continually reviewing and adjusting for improvements. Furthermore, the plan includes measures to improve the city\u2019s ability to recover from adverse events and severe weather events. It also mentions the implementation, review, measurement, adaptation, and update of Council\u2019s integrated water cycle management planning framework to reflect need, currency, and continual improvement.", "quote": {"content": "Improve the city\u2019s ability to recover from adverse events and severe weather events. Adopt WaterSmart practices that contribute to a liveable, resilient city. Becoming WaterSmart will enable Brisbane\u2019s residents, businesses, environment, infrastructure and services to be prepared, adaptable and resilient to flood, drought and a changing climate. Plan for rising sea levels and increased intensity of rainfall and take a risk based approach to flood and coastal management. Continue to develop water-sensitive city measures suited to Brisbane.", "page": 51, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions and strategies related to climate change, such as reducing transport emissions, promoting public and active transport, and facilitating electric vehicle infrastructure, it does not provide specific, well-sourced evidence to justify these actions. The policy also mentions the integration of sustainable practices into its operations and the promotion of sustainable development, but again, no clear evidence or sources are provided to support these claims. The policy does mention the use of measurable targets to track progress, but it does not detail what these targets are or how they were determined. Therefore, while the policy does outline a number of actions related to climate change, it does not provide the well-sourced evidence necessary to justify these actions and targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a number of priority actions across various areas such as clean air, water management, and sustainable city planning. Each of these areas has specific actions associated with it, and the plan mentions that 'measurable targets will keep Council on course and enable tracking of progress'. This suggests that the plan includes specific criteria against which the success of its actions can be evaluated. However, the documents do not provide detailed information about what these measurable targets are, or how they will be used to evaluate the success of the plan's actions. Therefore, while the plan does include measurable criteria, further information would be needed to fully assess the adequacy and effectiveness of these criteria."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Brisbane City Council's 'Clean and Green Strategy' outlines a comprehensive approach to sustainability, with a focus on climate-responsive design, sustainable infrastructure, and environmental biodiversity. The policy emphasizes the importance of community consultation and involvement, indicating a commitment to understanding and responding to local needs and desires. The policy also mentions the use of innovative valuation of natural assets, fostering innovation and developing new technologies for sustainable water management in collaboration with Brisbane\u2019s research and business communities. This suggests a commitment to research and innovation in informing climate actions. Furthermore, the policy outlines plans to measure and benchmark Brisbane\u2019s resilience and adaptability against other cities, which implies a research-oriented approach to climate action planning.", "quote": {"content": "Benchmark and measure Brisbane\u2019s resilience and adaptability against other cities that are global leaders in sustainability and integrated water management.", "page": 51, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a variety of strategies and actions that demonstrate a commitment to innovative and experimental approaches to climate action. For instance, the policy includes plans to trial alternative waste treatment technologies at Council landfills and transfer stations, which could reduce greenhouse gas emissions, air quality impacts, and the volume of waste. The policy also mentions the exploration of opportunities to expand green waste services and introduce innovative options for the separation and diversion of food waste. Furthermore, the policy outlines plans to work with Brisbane\u2019s research and business communities to foster innovation and develop new technologies for sustainable water management. These examples indicate a willingness to experiment with new methods and technologies to achieve climate action goals.", "quote": {"content": "Work with Brisbane\u2019s research and business communities to foster innovation and develop new technologies for sustainable water management.", "page": 53, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly show an explicit intent by the Brisbane City Council to advocate upward to state and national governments to support climate action. The Council is seen to be actively participating in state and national policy discussions, identifying opportunities for policy and regulatory frameworks to better support climate-responsive action. The Council is also advocating for revisions to the City of Brisbane Act 2010 and Local Government Act 2009 to provide local authorities throughout Queensland with the option to implement Environmental Upgrade Agreements. Furthermore, the Council is pushing for new internal processes and legislation to make existing buildings more environmentally friendly through the proposed Environmental Upgrade Agreements (EUAs). These actions demonstrate the Council's commitment to advocating for climate action at higher levels of government.", "quote": {"content": "Council participates in state and national policy discussions and actively identifies opportunities for policy and regulatory frameworks to better support climate-responsive action.", "page": 19, "source": "Brisbane-QLD-68.pdf", "search_score": 0.97}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents from the Brisbane City Council's 'Clean and Green Strategy' do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The council outlines its role in influencing sustainability outcomes not only in Brisbane but also in the region, the state, and the nation. It mentions its strong relationships with industry and government, which it uses to drive technology improvements, shape legislation, push for cleaner standards, and encourage greater support for green business. The council also advocates for a collaborative regional approach to total water cycle management and integrated outcomes with local water service providers. Furthermore, it actively identifies opportunities for policy and regulatory frameworks to better support climate-responsive action. The council also participates in state and national policy discussions and contributes to planning policies and frameworks set by the Queensland and Australian Governments.", "quote": {"content": "These efforts can shape national agendas and outcomes. Council\u2019s strong relationships with industry and government also affords it the opportunity to drive technology improvements, shape legislation, push for cleaner standards and encourage greater support for green business.", "page": 6, "source": "Brisbane-QLD-68.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention that the Council participates in state and national policy discussions and identifies opportunities for policy and regulatory frameworks to better support climate-responsive action, no specific partnerships or alliances are named. The documents also mention that the Council is in a unique position to influence sustainability outcomes not only in Brisbane but in the region, the state, and the nation, but again, no specific partnerships or alliances are named."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the importance of environmental sustainability, climate resilience, and the need for Brisbane to prepare for natural threats such as droughts, bushfires, storms, and flooding, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents also outline the city's commitment to principles such as promoting economic, environmental, and community integration, providing for equity within and between generations, and providing broad public involvement on community issues. However, these principles are not explicitly linked to the impact of climate change on vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention principles such as 'Promote economic, environmental and community integration over the long and short term' and 'Provide for equity within and between generations', these are broad statements and do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy also discusses various environmental initiatives such as reducing transport emissions, promoting eco-driving, and enhancing biodiversity, but these are not directly linked to equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 59.2}}
+{
+  "settings": {
+    "source_files": [
+      "Brisbane-QLD-68.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T13:31:34.330449",
+    "lga": "Brisbane"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Clean and Green Strategy', clearly outlines climate action as a core purpose. The policy is underpinned by six guiding principles, including promoting economic, environmental, and community integration, enhancing and maintaining biodiversity, and acting cautiously when there is a risk of serious or irreversible impacts. The policy also outlines specific goals and actions related to reducing carbon emissions, promoting green transport, and enhancing biodiversity. The policy acknowledges the role of cities in reducing greenhouse gas emissions and the need for concerted efforts at all levels of government. It also recognizes the potential for local government to influence sustainability outcomes not only locally, but also regionally and nationally. Therefore, it is clear that climate action is a core purpose of the policy.",
+          "quote": {
+            "content": "Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future. Council recognises that concerted efforts are needed at all levels of government to reduce greenhouse gas emissions.",
+            "page": 16,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the 2015 Paris Agreement, which requires countries to limit their greenhouse gas emissions to levels consistent with keeping the increase in global average temperature below 2\u00b0C over pre-industrial levels. The document also recognizes that cities, being large users of energy and producers of greenhouse gas emissions, will play a critical role in the transition to a more sustainable, low carbon society. It further emphasizes that taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks. The document also highlights the potential benefits of investing in low carbon infrastructure and services, such as improved energy productivity and security, creation of new industries and jobs, and cleaner air and water.",
+          "quote": {
+            "content": "In many cases, investing in low carbon infrastructure and services has low incremental costs and provides valuable side benefits, such as improved energy productivity and security, creation of new industries and jobs, and cleaner air and water. Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks.",
+            "page": 16,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents from the Brisbane City Council do explicitly call for rapid and urgent action on climate change. The council recognizes the need for concerted efforts at all levels of government to reduce greenhouse gas emissions. The documents emphasize that taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future. The council also acknowledges the importance of cities in the transition to a more sustainable, low carbon society, given that they are large users of energy and producers of greenhouse gas emissions. The council's strategy includes specific actions to reduce transport emissions, manage emissions from waste disposal, and protect the urban forest, which contributes to mitigating greenhouse gas emissions. The council's commitment to these actions indicates an understanding of the urgency of addressing climate change.",
+          "quote": {
+            "content": "Taking action to reduce emissions sooner rather than later will enable a well-planned transition to a low carbon future that meets national and local needs while managing costs and risks.",
+            "page": 16,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents outline various strategies and actions to address climate change, such as reducing carbon emissions, promoting public and active transport, and protecting the urban forest, they do not provide explicit deadlines or schedules for these actions. The documents emphasize the importance of taking action sooner rather than later and mention the Australian Government's commitment to reduce national emissions by 26 to 28% under 2005 levels by 2030. However, they do not specify when the local government's particular actions will be implemented or completed. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of actions and strategies related to climate change, such as reducing transport emissions, increasing public transport use, facilitating electric vehicle infrastructure, and diverting organic waste from landfill, they do not explicitly prioritize these actions over other policies. The documents also mention the importance of integrating economic, environmental, and community considerations, and acting cautiously in the face of serious or irreversible impacts, but again, these are not explicitly prioritized over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, such as reducing transport emissions, protecting urban forests, and promoting eco-driving, they do not explicitly require all council activities to align with these strategies. The documents do indicate that the council has a role in influencing sustainability outcomes and that it is committed to various sustainability principles. However, these principles are not explicitly tied to all council activities. Furthermore, while the documents mention the council's role in areas such as land-use planning, waste management, and transport services, they do not explicitly state that these activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various strategies and actions related to climate change, such as promoting economic, environmental, and community integration, enhancing biodiversity, and developing water-sensitive city measures, there is no clear mention of specific funding allocations for these initiatives. The policy does mention that the council received Australian Government funding for a stormwater harvesting project, but this is not a direct allocation of funds by the local government for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a variety of strategies and actions related to climate change, such as promoting economic, environmental, and community integration, enhancing biodiversity, and managing emissions from waste disposal, they do not specify the allocation of staff or other non-monetary resources to these actions. The documents mention collaboration with various groups and the implementation of certain projects, but they do not detail how institutional resources will be mobilized for these purposes. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at increasing community awareness and involvement in sustainable practices. For instance, it mentions partnering with various bodies to generate greater community awareness of the impact of individual actions on waterway health. It also talks about empowering community members to deliver sustainable water outcomes and involving residents in citizen-science programs to better understand and manage Brisbane\u2019s waterways. Furthermore, the policy encourages community members to design their homes and gardens with water and the natural environment in mind. These initiatives demonstrate a clear effort to mobilize the community towards climate action.",
+          "quote": {
+            "content": "Involve residents in citizen-science programs to better understand and sustainably manage Brisbane\u2019s waterways, river and bay. Partner with industry, Healthy Land and Water, Queensland Urban Utilities and other peak bodies to generate greater community awareness of the impact of individual actions on waterway health. Empower community members to deliver sustainable water outcomes.",
+            "page": 53,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the integration of actions to reduce transport emissions, the facilitation of electric vehicle infrastructure, and the trialling of alternative waste treatment technologies at Council landfills and transfer stations. These actions are aimed at improving air quality and reducing the city's carbon footprint. Behaviour change is encouraged through the promotion of greater public and active transport use, increasing public transport patronage, and increasing cycling and walking. The plan also includes measures to encourage residents and businesses to reduce energy use and emissions through information campaigns, grants, and incentives. The plan's approach is comprehensive, addressing various sources of emissions and involving different sectors of the community.",
+          "quote": {
+            "content": "Integrating Council\u2019s actions to promote and facilitate greater public and active transport use has the potential to greatly boost organisational outcomes. Integrate cross-Council actions to reduce transport emissions. Actions to reduce transport emissions can improve air quality, reduce our carbon footprint, cut congestion and promote more active lifestyles.",
+            "page": 26,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies to ensure the city's resilience to climate change. These include adopting WaterSmart practices, planning for rising sea levels and increased rainfall intensity, and developing water-sensitive city measures. The plan also emphasizes the importance of understanding risk to future events, establishing strong governance around resilience, and continually reviewing and adjusting for improvements. Furthermore, the plan includes measures to improve the city\u2019s ability to recover from adverse events and severe weather events. It also mentions the implementation, review, measurement, adaptation, and update of Council\u2019s integrated water cycle management planning framework to reflect need, currency, and continual improvement.",
+          "quote": {
+            "content": "Improve the city\u2019s ability to recover from adverse events and severe weather events. Adopt WaterSmart practices that contribute to a liveable, resilient city. Becoming WaterSmart will enable Brisbane\u2019s residents, businesses, environment, infrastructure and services to be prepared, adaptable and resilient to flood, drought and a changing climate. Plan for rising sea levels and increased intensity of rainfall and take a risk based approach to flood and coastal management. Continue to develop water-sensitive city measures suited to Brisbane.",
+            "page": 51,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions and strategies related to climate change, such as reducing transport emissions, promoting public and active transport, and facilitating electric vehicle infrastructure, it does not provide specific, well-sourced evidence to justify these actions. The policy also mentions the integration of sustainable practices into its operations and the promotion of sustainable development, but again, no clear evidence or sources are provided to support these claims. The policy does mention the use of measurable targets to track progress, but it does not detail what these targets are or how they were determined. Therefore, while the policy does outline a number of actions related to climate change, it does not provide the well-sourced evidence necessary to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a number of priority actions across various areas such as clean air, water management, and sustainable city planning. Each of these areas has specific actions associated with it, and the plan mentions that 'measurable targets will keep Council on course and enable tracking of progress'. This suggests that the plan includes specific criteria against which the success of its actions can be evaluated. However, the documents do not provide detailed information about what these measurable targets are, or how they will be used to evaluate the success of the plan's actions. Therefore, while the plan does include measurable criteria, further information would be needed to fully assess the adequacy and effectiveness of these criteria."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Brisbane City Council's 'Clean and Green Strategy' outlines a comprehensive approach to sustainability, with a focus on climate-responsive design, sustainable infrastructure, and environmental biodiversity. The policy emphasizes the importance of community consultation and involvement, indicating a commitment to understanding and responding to local needs and desires. The policy also mentions the use of innovative valuation of natural assets, fostering innovation and developing new technologies for sustainable water management in collaboration with Brisbane\u2019s research and business communities. This suggests a commitment to research and innovation in informing climate actions. Furthermore, the policy outlines plans to measure and benchmark Brisbane\u2019s resilience and adaptability against other cities, which implies a research-oriented approach to climate action planning.",
+          "quote": {
+            "content": "Benchmark and measure Brisbane\u2019s resilience and adaptability against other cities that are global leaders in sustainability and integrated water management.",
+            "page": 51,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action by the Brisbane City Council. The council has implemented several initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. For instance, the council has trialed alternative waste treatment technologies at its landfills and transfer stations, which have the co-benefits of reducing greenhouse gas emissions, air quality impacts, and the volume of waste. The council has also implemented a new strategy to manage bushfire risk, which includes actions to manage smoke. Furthermore, the council has provided free electric vehicle recharge facilities at King George Square car park, and it has explored and trialed innovative, low-emission vehicles in its fleets. These initiatives demonstrate the council's commitment to policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly show an explicit intent by the Brisbane City Council to advocate upward to state and national governments to support climate action. The Council is seen to be actively participating in state and national policy discussions, identifying opportunities for policy and regulatory frameworks to better support climate-responsive action. The Council is also advocating for revisions to the City of Brisbane Act 2010 and Local Government Act 2009 to provide local authorities throughout Queensland with the option to implement Environmental Upgrade Agreements. Furthermore, the Council is pushing for new internal processes and legislation to make existing buildings more environmentally friendly through the proposed Environmental Upgrade Agreements (EUAs). These actions demonstrate the Council's commitment to advocating for climate action at higher levels of government.",
+          "quote": {
+            "content": "Council participates in state and national policy discussions and actively identifies opportunities for policy and regulatory frameworks to better support climate-responsive action.",
+            "page": 19,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents from the Brisbane City Council's 'Clean and Green Strategy' do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The council outlines its role in influencing sustainability outcomes not only in Brisbane but also in the region, the state, and the nation. It mentions its strong relationships with industry and government, which it uses to drive technology improvements, shape legislation, push for cleaner standards, and encourage greater support for green business. The council also advocates for a collaborative regional approach to total water cycle management and integrated outcomes with local water service providers. Furthermore, it actively identifies opportunities for policy and regulatory frameworks to better support climate-responsive action. The council also participates in state and national policy discussions and contributes to planning policies and frameworks set by the Queensland and Australian Governments.",
+          "quote": {
+            "content": "These efforts can shape national agendas and outcomes. Council\u2019s strong relationships with industry and government also affords it the opportunity to drive technology improvements, shape legislation, push for cleaner standards and encourage greater support for green business.",
+            "page": 6,
+            "source": "Brisbane-QLD-68.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do mention that the Council participates in state and national policy discussions and identifies opportunities for policy and regulatory frameworks to better support climate-responsive action, no specific partnerships or alliances are named. The documents also mention that the Council is in a unique position to influence sustainability outcomes not only in Brisbane but in the region, the state, and the nation, but again, no specific partnerships or alliances are named."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention the importance of environmental sustainability, climate resilience, and the need for Brisbane to prepare for natural threats such as droughts, bushfires, storms, and flooding, they do not specifically address how these issues might disproportionately affect vulnerable communities. The documents also outline the city's commitment to principles such as promoting economic, environmental, and community integration, providing for equity within and between generations, and providing broad public involvement on community issues. However, these principles are not explicitly linked to the impact of climate change on vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention principles such as 'Promote economic, environmental and community integration over the long and short term' and 'Provide for equity within and between generations', these are broad statements and do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy also discusses various environmental initiatives such as reducing transport emissions, promoting eco-driving, and enhancing biodiversity, but these are not directly linked to equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the policy explicitly discusses how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 59.2
+  }
+}

@@ -1,1 +1,304 @@
-{"settings": {"source_files": ["SouthPerth-WA-230.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T00:11:28.056195", "lga": "SouthPerth"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as its core purpose. The policy outlines a strategic approach to climate change over a five-year period, with three main goals: adaptation, leadership, and mitigation. The adaptation goal aims to prepare the City of South Perth for climate change impacts and enhance its resilience. The leadership goal seeks to build capacity within the city and community to manage climate change risks and opportunities. The mitigation goal is focused on reducing the city's greenhouse gas emissions and carbon footprint. The policy also includes specific targets for reducing greenhouse gas emissions and energy consumption. Furthermore, the policy acknowledges the need for a risk assessment for adaptation to climate change impacts and plans to survey the community on their attitudes and perceptions of the city's efforts in regard to climate change. Therefore, it is evident that climate action is the core purpose of this policy.", "quote": {"content": "MITIGATION: To reduce the City\u2019s greenhouse gas emissions and carbon footprint. This Climate Change Strategy sets out such an approach to climate change over the next five year period, in pursuit of the following goals: 1. ADAPTATION: To ensure the City of South Perth is prepared for and resilient to climate change. 2. LEADERSHIP: To provide leadership and build capacity within the City and community, and through partnering with other Local Governments, to manage climate change risk and opportunity. 3.", "page": 1, "source": "SouthPerth-WA-230.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly outlines the need for action on climate change. It acknowledges the long-term impacts of climate change, even if greenhouse gas emissions were to stop immediately. The document also recognizes the role of the local government in leading the community in climate change mitigation and adaptation efforts. The City's Strategic Plan identifies the need to build capacity within the City and community to manage climate change risk and opportunity, through leadership, adaptation, and mitigation. The document also sets specific targets for reducing greenhouse gas emissions and energy consumption. Furthermore, the document outlines plans to conduct a comprehensive vulnerability assessment and endorse a climate change adaptation plan. These actions demonstrate a clear recognition of the need for proactive measures to address climate change.", "quote": {"content": "Hence the adverse experiences with weather extremes \u2013 floods, storms, extreme heat and drought \u2013 are a clear sign of the severe impacts of climate change.", "page": 1, "source": "SouthPerth-WA-230.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They do acknowledge the severity and long-term impacts of climate change, and the need for mitigation and adaptation strategies. The City of South Perth's Climate Change Strategy 2010 outlines plans to reduce greenhouse gas emissions and energy consumption, conduct a comprehensive vulnerability assessment, and endorse a climate change adaptation plan. However, these actions are planned over several years, and the documents do not express a sense of urgency or immediacy in their implementation. The documents also mention the importance of early implementation of some adaptation measures, but this is not framed as a call for rapid action. Therefore, while the documents clearly recognize the need for action on climate change, they do not explicitly call for such action to be rapid or urgent."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a clear plan for reducing greenhouse gas emissions and energy consumption, with targets set for specific years. For instance, it aims for a 4% reduction per year in greenhouse gas emissions from 2007-2008 to 2015, and a 5% reduction per year in energy consumption over the same period. The document also sets a target of conducting a comprehensive vulnerability assessment by 2013 and endorsing a climate change adaptation plan by 2011-2012. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change. The document also mentions an annual review of the greenhouse gas emissions from the City vehicle fleet from 2011 to 2015, further demonstrating the local government's commitment to timely action.", "quote": {"content": "(1) 4% reduction per year to 2015, in greenhouse emission from 2007-2008 \n \n \n(2) 5% reduction per year to 2015, in energy consumption from 2007-2008.", "page": 3, "source": "SouthPerth-WA-230.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The City of South Perth's Climate Change Strategy 2010 outlines a comprehensive approach to addressing climate change, including adaptation, leadership, and mitigation strategies. It sets specific targets for reducing greenhouse gas emissions and energy consumption, and it outlines plans for conducting a vulnerability assessment and endorsing a climate change adaptation plan. However, while the strategy clearly prioritizes action on climate change, it does not explicitly state that these actions should take precedence over other policies. The documents also mention the need for a governance framework for managing the strategy and the allocation of funds to actions and outcomes of the Climate Change Strategy, but again, there is no explicit statement about prioritizing a climate emergency response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline the City's Strategic Plan, which includes a focus on climate change and the need to build capacity within the City and community to manage climate change risk and opportunity. The documents also mention the development and implementation of a Climate Change Strategy, and the allocation of funds to actions and outcomes of this strategy. However, these references do not explicitly require all council activities to align with the climate policy. The documents also mention various specific actions related to climate change, such as reviewing sustainable water management strategies, establishing sustainable building standards, and encouraging the community to embrace sustainable lifestyles. However, these actions are presented as elements of the Strategic Plan, not as mandatory requirements for all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a Climate Change Strategy, which includes the development and implementation of various plans and actions related to climate change. The Strategic Financial Plan 2007-2008 to 2011-2012 is being updated to align with the Strategic Plan 2010-2015, and it is stated that this Financial Plan is a key document in forward planning and the allocation of funds to actions and outcomes of the Climate Change Strategy. Specific actions such as employing a resource to manage the strategy and coordinate activities are budgeted (e.g., $25000.00 per annum - base rate for a 0.5 FTE resource). Additionally, the development and implementation of a Waste Management Plan is budgeted at $10,000.00. These allocations demonstrate a clear commitment to funding climate action.", "quote": {"content": "The Strategic Financial Plan is a key document in forward planning, and the allocation of funds to actions and outcomes of the Climate Change Strategy.", "page": 6, "source": "SouthPerth-WA-230.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate change strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The strategy outlines specific activities, due dates, responsible persons, and expected budgets for each activity. For instance, the strategy plans to employ a resource 0.5 FTE to manage the strategy and coordinate the activities outlined in it from 2010-2015. The strategy also plans to establish a Governance Framework to manage the strategy in 2011. Furthermore, the strategy includes activities such as developing and implementing a community 'climate change' education program and conducting regular public forums about current and topical sustainability issues. These activities are expected to be carried out by the CSC and are linked with Sustainable Living. Therefore, the strategy does allocate both staff and other institutional resources to climate action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community to take action on climate change. The Strategic Plan 2010-2015 outlines the need to build capacity within the community to manage climate change risk and opportunity, through leadership, adaptation, and mitigation. The Climate Change Strategy 2010 also sets out the City\u2019s goal to provide leadership and build capacity within the community to manage climate change risk and opportunity. This includes activities such as developing a community page on the website to show energy usage and reporting/rewarding mechanisms, and supporting the introduction of a network of local community gardens to reduce food miles. These actions suggest that the local government is actively working to mobilize the community to take action on climate change.", "quote": {"content": "The City\u2019s Strategic Plan identifies (at 2.5) with respect to climate change the need to build capacity within the City and community including partnering with stakeholders, to manage climate change risk and opportunity, through leadership, adaptation and mitigation (emissions reduction).", "page": 6, "source": "SouthPerth-WA-230.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The City of South Perth's Climate Change Strategy 2010 does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a clear goal to reduce the city's greenhouse gas emissions and carbon footprint. It sets specific targets for reductions in greenhouse emissions and energy consumption, aiming for a 4% reduction per year in greenhouse emissions and a 5% reduction per year in energy consumption from 2007-2008 levels up to 2015. The strategy also includes measures to survey the community's attitudes and perceptions of the city's efforts in demonstrating leadership and building capacity to understand, adapt, and mitigate the impacts of climate change. However, while the policy does mention technological solutions such as an Emissions Trading Scheme, it does not provide specific details on the technological solutions to be used or the behaviour changes to be encouraged.", "quote": {"content": "Target: (1) 4% reduction per year to 2015, in greenhouse emission from 2007-2008 (2) 5% reduction per year to 2015, in energy consumption from 2007-2008. To reduce the City\u2019s (corporate) greenhouse gas emissions, carbon footprint and energy consumption - refer to page 20.", "page": 3, "source": "SouthPerth-WA-230.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a clear objective to increase the city's understanding of its risks, vulnerabilities, and opportunities related to climate change. To achieve this, the policy has set a target to conduct a comprehensive vulnerability assessment by 2013 and endorse a climate change adaptation plan by 2011-2012. The policy also outlines specific activities to be undertaken, such as the development of a Climate Change Adaptation Plan that covers all city assets, and the implementation of a Foreshore and Drainage Mitigation and Adaptation Plan. The policy also recommends that the climate change vulnerability/risk assessments be incorporated into the city's existing Risk Management process for implementation. These actions demonstrate a clear and specific commitment to climate adaptation and resilience.", "quote": {"content": "Development and implementation of a Foreshore and Drainage Mitigation and Adaptation Plan. Undertake a vulnerability assessment of the City in relation to the potential impacts of climate \nchange by 2011. 2. Development of a Climate Change Adaptation Plan by 2011 that adequately covers all city assets. Plan to incorporate aspects such as funding, resourcing, priorities for action etc. Implementation \nto be planned over the period of this Strategy and beyond. 3.", "page": 15, "source": "SouthPerth-WA-230.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and targets related to climate change, such as conducting a comprehensive vulnerability assessment by 2013, endorsing a climate change adaptation plan by 2011-2012, and reducing the City\u2019s greenhouse gas emissions and energy consumption, they do not provide specific sources or evidence to justify these targets. The documents mention partnering with stakeholders, undertaking risk assessments, and implementing various strategies and plans, but they do not provide detailed information on the research or data that informed these decisions. The documents also mention a number of ongoing and planned actions, such as reviewing and integrating sustainable water management strategies and encouraging the community to embrace sustainable lifestyles, but again, they do not provide specific evidence or sources to justify these actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various initiatives related to climate change, such as encouraging behavioural changes in favour of public transport, replacing current irrigation control systems with moisture sensor controllers, and investigating the purchase of waterless urinals for buildings, it does not provide clear, quantifiable metrics or benchmarks for success. The plan mentions the development of a governance framework that includes elements such as authority, resources and funding, decision making, consultation, communications, implementation, reviews and setting of targets, and measurement and performance reporting. However, it does not detail how these elements will be measured or evaluated. Therefore, without specific measurable criteria, it is unclear how the success or effectiveness of these actions will be determined."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City's Climate Change Strategy outlines a comprehensive approach to understanding and addressing climate change impacts. This includes conducting a comprehensive vulnerability assessment by 2013 and endorsing a climate change adaptation plan by 2011-2012. The strategy also includes a target to increase community understanding and activity in relation to climate change impacts and response by 2015. This suggests that the City plans to engage with the local community to gather information and perspectives, which will inform their climate actions. Furthermore, the City's Strategic Plan identifies the need to build capacity within the City and community, including partnering with stakeholders, to manage climate change risk and opportunity. This indicates a commitment to collaborative research and action.", "quote": {"content": "(1) Conduct a comprehensive vulnerability assessment by 2013 and, \n  \n(2) Endorsing a climate change adaptation plan by 2011-2012", "page": 3, "source": "SouthPerth-WA-230.pdf", "search_score": 0.93}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate change strategy appears to be largely focused on traditional methods of addressing climate change, such as reducing greenhouse gas emissions, improving sustainable water management, and encouraging sustainable lifestyles. While these are important steps, they do not necessarily represent innovative or experimental approaches. The documents mention the implementation of a Climate Change Strategy, the undertaking of a vulnerability assessment, and the establishment of sustainable building and environmental design standards. However, these actions seem to be standard responses to climate change rather than innovative or experimental policies. The documents do not provide details on any unique, novel, or experimental strategies that the local government is planning to implement in its climate action."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. The local government policy primarily focuses on the City's own strategic plans and actions to address climate change, including risk assessments, adaptation plans, and emissions reduction targets. The policy outlines the City's commitment to building capacity within the community, partnering with stakeholders, and leading in climate change mitigation and adaptation. However, these actions seem to be focused on local initiatives and partnerships, rather than advocacy towards higher levels of government. The documents do mention international agreements and emissions trading schemes, but these are presented as context rather than as targets for advocacy."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The City's Climate Change Strategy outlines a commitment to leadership and capacity building within the City and community, and through partnering with other Local Governments, to manage climate change risk and opportunity. The strategy aims to increase community understanding and activity in relation to climate change impacts and response by 2015. It also encourages active participation and commitment by all City staff and elected members, and the allocation of resources to ensure the Strategy is managed across the City and Community. The objective of the strategy is to encourage and facilitate the reduction of greenhouse emissions throughout the community, via partnering mechanisms with other Local Governments/entities."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not specify any regional associations, alliances, or other partnerships related to climate change. While the documents do mention the concept of partnerships and the importance of collaboration in addressing climate change, they do not provide any specific details about who these partners might be. The documents discuss the need for the City to partner with stakeholders and other local governments, but they do not name any specific organizations or entities. Therefore, it is not possible to affirmatively answer the question based on the provided context."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for a comprehensive vulnerability assessment and the potential impacts of climate change on various sectors such as agriculture, forestry, health, biodiversity, water resources, energy demand, and tourism, they do not specifically address the effects on vulnerable communities. The documents focus more on the City's strategic plans and objectives to mitigate and adapt to climate change, including greenhouse gas emissions reduction and sustainable water management strategies. Therefore, without explicit evidence in the provided documents, the question cannot be answered positively."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on the City's strategic plans and actions to mitigate and adapt to climate change, including reducing greenhouse gas emissions, implementing sustainable water management strategies, and conducting vulnerability assessments. The documents also mention the City's efforts to provide leadership and build capacity within the community to manage climate change risk and opportunity. However, there is no specific mention of how these benefits and opportunities will be shared equitably among different social groups or how social justice will be ensured in the process."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 60.8}}
+{
+  "settings": {
+    "source_files": [
+      "SouthPerth-WA-230.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T00:11:28.056195",
+    "lga": "SouthPerth"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as its core purpose. The policy outlines a strategic approach to climate change over a five-year period, with three main goals: adaptation, leadership, and mitigation. The adaptation goal aims to prepare the City of South Perth for climate change impacts and enhance its resilience. The leadership goal seeks to build capacity within the city and community to manage climate change risks and opportunities. The mitigation goal is focused on reducing the city's greenhouse gas emissions and carbon footprint. The policy also includes specific targets for reducing greenhouse gas emissions and energy consumption. Furthermore, the policy acknowledges the need for a risk assessment for adaptation to climate change impacts and plans to survey the community on their attitudes and perceptions of the city's efforts in regard to climate change. Therefore, it is evident that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "MITIGATION: To reduce the City\u2019s greenhouse gas emissions and carbon footprint. This Climate Change Strategy sets out such an approach to climate change over the next five year period, in pursuit of the following goals: 1. ADAPTATION: To ensure the City of South Perth is prepared for and resilient to climate change. 2. LEADERSHIP: To provide leadership and build capacity within the City and community, and through partnering with other Local Governments, to manage climate change risk and opportunity. 3.",
+            "page": 1,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly outlines the need for action on climate change. It acknowledges the long-term impacts of climate change, even if greenhouse gas emissions were to stop immediately. The document also recognizes the role of the local government in leading the community in climate change mitigation and adaptation efforts. The City's Strategic Plan identifies the need to build capacity within the City and community to manage climate change risk and opportunity, through leadership, adaptation, and mitigation. The document also sets specific targets for reducing greenhouse gas emissions and energy consumption. Furthermore, the document outlines plans to conduct a comprehensive vulnerability assessment and endorse a climate change adaptation plan. These actions demonstrate a clear recognition of the need for proactive measures to address climate change.",
+          "quote": {
+            "content": "Hence the adverse experiences with weather extremes \u2013 floods, storms, extreme heat and drought \u2013 are a clear sign of the severe impacts of climate change.",
+            "page": 1,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They do acknowledge the severity and long-term impacts of climate change, and the need for mitigation and adaptation strategies. The City of South Perth's Climate Change Strategy 2010 outlines plans to reduce greenhouse gas emissions and energy consumption, conduct a comprehensive vulnerability assessment, and endorse a climate change adaptation plan. However, these actions are planned over several years, and the documents do not express a sense of urgency or immediacy in their implementation. The documents also mention the importance of early implementation of some adaptation measures, but this is not framed as a call for rapid action. Therefore, while the documents clearly recognize the need for action on climate change, they do not explicitly call for such action to be rapid or urgent."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a clear plan for reducing greenhouse gas emissions and energy consumption, with targets set for specific years. For instance, it aims for a 4% reduction per year in greenhouse gas emissions from 2007-2008 to 2015, and a 5% reduction per year in energy consumption over the same period. The document also sets a target of conducting a comprehensive vulnerability assessment by 2013 and endorsing a climate change adaptation plan by 2011-2012. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change. The document also mentions an annual review of the greenhouse gas emissions from the City vehicle fleet from 2011 to 2015, further demonstrating the local government's commitment to timely action.",
+          "quote": {
+            "content": "(1) 4% reduction per year to 2015, in greenhouse emission from 2007-2008 \n \n \n(2) 5% reduction per year to 2015, in energy consumption from 2007-2008.",
+            "page": 3,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The City of South Perth's Climate Change Strategy 2010 outlines a comprehensive approach to addressing climate change, including adaptation, leadership, and mitigation strategies. It sets specific targets for reducing greenhouse gas emissions and energy consumption, and it outlines plans for conducting a vulnerability assessment and endorsing a climate change adaptation plan. However, while the strategy clearly prioritizes action on climate change, it does not explicitly state that these actions should take precedence over other policies. The documents also mention the need for a governance framework for managing the strategy and the allocation of funds to actions and outcomes of the Climate Change Strategy, but again, there is no explicit statement about prioritizing a climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline the City's Strategic Plan, which includes a focus on climate change and the need to build capacity within the City and community to manage climate change risk and opportunity. The documents also mention the development and implementation of a Climate Change Strategy, and the allocation of funds to actions and outcomes of this strategy. However, these references do not explicitly require all council activities to align with the climate policy. The documents also mention various specific actions related to climate change, such as reviewing sustainable water management strategies, establishing sustainable building standards, and encouraging the community to embrace sustainable lifestyles. However, these actions are presented as elements of the Strategic Plan, not as mandatory requirements for all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines a Climate Change Strategy, which includes the development and implementation of various plans and actions related to climate change. The Strategic Financial Plan 2007-2008 to 2011-2012 is being updated to align with the Strategic Plan 2010-2015, and it is stated that this Financial Plan is a key document in forward planning and the allocation of funds to actions and outcomes of the Climate Change Strategy. Specific actions such as employing a resource to manage the strategy and coordinate activities are budgeted (e.g., $25000.00 per annum - base rate for a 0.5 FTE resource). Additionally, the development and implementation of a Waste Management Plan is budgeted at $10,000.00. These allocations demonstrate a clear commitment to funding climate action.",
+          "quote": {
+            "content": "The Strategic Financial Plan is a key document in forward planning, and the allocation of funds to actions and outcomes of the Climate Change Strategy.",
+            "page": 6,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change strategy does explicitly allocate staff and other non-monetary institutional resources to climate action. The strategy outlines specific activities, due dates, responsible persons, and expected budgets for each activity. For instance, the strategy plans to employ a resource 0.5 FTE to manage the strategy and coordinate the activities outlined in it from 2010-2015. The strategy also plans to establish a Governance Framework to manage the strategy in 2011. Furthermore, the strategy includes activities such as developing and implementing a community 'climate change' education program and conducting regular public forums about current and topical sustainability issues. These activities are expected to be carried out by the CSC and are linked with Sustainable Living. Therefore, the strategy does allocate both staff and other institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community to take action on climate change. The Strategic Plan 2010-2015 outlines the need to build capacity within the community to manage climate change risk and opportunity, through leadership, adaptation, and mitigation. The Climate Change Strategy 2010 also sets out the City\u2019s goal to provide leadership and build capacity within the community to manage climate change risk and opportunity. This includes activities such as developing a community page on the website to show energy usage and reporting/rewarding mechanisms, and supporting the introduction of a network of local community gardens to reduce food miles. These actions suggest that the local government is actively working to mobilize the community to take action on climate change.",
+          "quote": {
+            "content": "The City\u2019s Strategic Plan identifies (at 2.5) with respect to climate change the need to build capacity within the City and community including partnering with stakeholders, to manage climate change risk and opportunity, through leadership, adaptation and mitigation (emissions reduction).",
+            "page": 6,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The City of South Perth's Climate Change Strategy 2010 does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a clear goal to reduce the city's greenhouse gas emissions and carbon footprint. It sets specific targets for reductions in greenhouse emissions and energy consumption, aiming for a 4% reduction per year in greenhouse emissions and a 5% reduction per year in energy consumption from 2007-2008 levels up to 2015. The strategy also includes measures to survey the community's attitudes and perceptions of the city's efforts in demonstrating leadership and building capacity to understand, adapt, and mitigate the impacts of climate change. However, while the policy does mention technological solutions such as an Emissions Trading Scheme, it does not provide specific details on the technological solutions to be used or the behaviour changes to be encouraged.",
+          "quote": {
+            "content": "Target: (1) 4% reduction per year to 2015, in greenhouse emission from 2007-2008 (2) 5% reduction per year to 2015, in energy consumption from 2007-2008. To reduce the City\u2019s (corporate) greenhouse gas emissions, carbon footprint and energy consumption - refer to page 20.",
+            "page": 3,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a clear objective to increase the city's understanding of its risks, vulnerabilities, and opportunities related to climate change. To achieve this, the policy has set a target to conduct a comprehensive vulnerability assessment by 2013 and endorse a climate change adaptation plan by 2011-2012. The policy also outlines specific activities to be undertaken, such as the development of a Climate Change Adaptation Plan that covers all city assets, and the implementation of a Foreshore and Drainage Mitigation and Adaptation Plan. The policy also recommends that the climate change vulnerability/risk assessments be incorporated into the city's existing Risk Management process for implementation. These actions demonstrate a clear and specific commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "Development and implementation of a Foreshore and Drainage Mitigation and Adaptation Plan. Undertake a vulnerability assessment of the City in relation to the potential impacts of climate \nchange by 2011. 2. Development of a Climate Change Adaptation Plan by 2011 that adequately covers all city assets. Plan to incorporate aspects such as funding, resourcing, priorities for action etc. Implementation \nto be planned over the period of this Strategy and beyond. 3.",
+            "page": 15,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and targets related to climate change, such as conducting a comprehensive vulnerability assessment by 2013, endorsing a climate change adaptation plan by 2011-2012, and reducing the City\u2019s greenhouse gas emissions and energy consumption, they do not provide specific sources or evidence to justify these targets. The documents mention partnering with stakeholders, undertaking risk assessments, and implementing various strategies and plans, but they do not provide detailed information on the research or data that informed these decisions. The documents also mention a number of ongoing and planned actions, such as reviewing and integrating sustainable water management strategies and encouraging the community to embrace sustainable lifestyles, but again, they do not provide specific evidence or sources to justify these actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various initiatives related to climate change, such as encouraging behavioural changes in favour of public transport, replacing current irrigation control systems with moisture sensor controllers, and investigating the purchase of waterless urinals for buildings, it does not provide clear, quantifiable metrics or benchmarks for success. The plan mentions the development of a governance framework that includes elements such as authority, resources and funding, decision making, consultation, communications, implementation, reviews and setting of targets, and measurement and performance reporting. However, it does not detail how these elements will be measured or evaluated. Therefore, without specific measurable criteria, it is unclear how the success or effectiveness of these actions will be determined."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The City's Climate Change Strategy outlines a comprehensive approach to understanding and addressing climate change impacts. This includes conducting a comprehensive vulnerability assessment by 2013 and endorsing a climate change adaptation plan by 2011-2012. The strategy also includes a target to increase community understanding and activity in relation to climate change impacts and response by 2015. This suggests that the City plans to engage with the local community to gather information and perspectives, which will inform their climate actions. Furthermore, the City's Strategic Plan identifies the need to build capacity within the City and community, including partnering with stakeholders, to manage climate change risk and opportunity. This indicates a commitment to collaborative research and action.",
+          "quote": {
+            "content": "(1) Conduct a comprehensive vulnerability assessment by 2013 and, \n  \n(2) Endorsing a climate change adaptation plan by 2011-2012",
+            "page": 3,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 0.93
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The City of South Perth's Climate Change Strategy outlines several initiatives that can be considered as experiments. These include the undertaking of a comprehensive vulnerability assessment by 2013 and endorsing a climate change adaptation plan by 2011-2012. The City is also undertaking a preliminary risk assessment as a trial project. Furthermore, the City is committed to various sustainable practices such as investigating the purchase of recycled content outdoor furniture, encouraging behavioural changes in favour of public transport, and replacing current irrigation control system with moisture sensor controllers. These initiatives can be seen as experiments as they test technologies, policies, and governance approaches on a small scale and under real-world conditions.",
+          "quote": {
+            "content": "The City is undertaking a preliminary risk assessment as a trial project, during \nJune and July 2010. Undertake a vulnerability assessment of the City in relation to the potential impacts of climate \nchange by 2011.",
+            "page": 15,
+            "source": "SouthPerth-WA-230.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. The local government policy primarily focuses on the City's own strategic plans and actions to address climate change, including risk assessments, adaptation plans, and emissions reduction targets. The policy outlines the City's commitment to building capacity within the community, partnering with stakeholders, and leading in climate change mitigation and adaptation. However, these actions seem to be focused on local initiatives and partnerships, rather than advocacy towards higher levels of government. The documents do mention international agreements and emissions trading schemes, but these are presented as context rather than as targets for advocacy."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The City's Climate Change Strategy outlines a commitment to leadership and capacity building within the City and community, and through partnering with other Local Governments, to manage climate change risk and opportunity. The strategy aims to increase community understanding and activity in relation to climate change impacts and response by 2015. It also encourages active participation and commitment by all City staff and elected members, and the allocation of resources to ensure the Strategy is managed across the City and Community. The objective of the strategy is to encourage and facilitate the reduction of greenhouse emissions throughout the community, via partnering mechanisms with other Local Governments/entities."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not specify any regional associations, alliances, or other partnerships related to climate change. While the documents do mention the concept of partnerships and the importance of collaboration in addressing climate change, they do not provide any specific details about who these partners might be. The documents discuss the need for the City to partner with stakeholders and other local governments, but they do not name any specific organizations or entities. Therefore, it is not possible to affirmatively answer the question based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the need for a comprehensive vulnerability assessment and the potential impacts of climate change on various sectors such as agriculture, forestry, health, biodiversity, water resources, energy demand, and tourism, they do not specifically address the effects on vulnerable communities. The documents focus more on the City's strategic plans and objectives to mitigate and adapt to climate change, including greenhouse gas emissions reduction and sustainable water management strategies. Therefore, without explicit evidence in the provided documents, the question cannot be answered positively."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on the City's strategic plans and actions to mitigate and adapt to climate change, including reducing greenhouse gas emissions, implementing sustainable water management strategies, and conducting vulnerability assessments. The documents also mention the City's efforts to provide leadership and build capacity within the community to manage climate change risk and opportunity. However, there is no specific mention of how these benefits and opportunities will be shared equitably among different social groups or how social justice will be ensured in the process."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 60.8
+  }
+}

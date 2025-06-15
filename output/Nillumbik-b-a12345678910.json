@@ -1,1 +1,311 @@
-{"settings": {"source_files": ["Nillumbik-VIC-151.pdf", "Nillumbik-VIC-195.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T11:58:29.411507", "lga": "Nillumbik"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Climate Action Plan 2022-2032, clearly identifies climate action as its core purpose. The policy is designed to guide the local government and community in addressing climate change over the next decade. It is structured around specific goals, objectives, and strategies that are all geared towards climate action. These include strong climate action leadership and culture, a climate resilient community and natural environment, climate responsive council services, zero emissions energy use, sustainable transport, a zero waste and circular economy, and integrated water management. The policy also includes a commitment to evaluate and report on its progress at regular intervals, indicating a serious commitment to its climate action goals. Furthermore, the policy was developed through extensive consultation with the community, reflecting the community's overwhelming view of the need for meaningful climate action."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through various strategies and plans. The documents highlight the importance of considering climate impact in day-to-day operations and decision-making processes within the council. They also emphasize the need for collaboration and advocacy in climate action. The documents further underscore the importance of embedding climate risks, impacts, mitigation, and adaptation opportunities into the council's key governance documents and decision-making processes. The documents also highlight the need for prioritizing and planning for climate action that will achieve the greatest emissions reductions. The documents also mention the need for the council to take a leadership role in climate action and to work towards achieving net zero emissions. The documents also stress the importance of community engagement in climate action.", "quote": {"content": "Climate action decision-making needs to be dynamic and responsive to innovation opportunities. Climate action requires collaboration between communities, businesses and all levels of government.", "page": 20, "source": "Nillumbik-VIC-151.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. The local government has declared a climate emergency, which indicates a clear sense of urgency and a call to action. The Climate Action Plan 2022-2032 is described as a roadmap for the next decade, suggesting a need for immediate and ongoing action. The documents also highlight the community's overwhelming view of the need for meaningful climate action to be taken as a priority. The documents further emphasize the need for proactive integration of climate change mitigation and adaptation into all Council actions. The language used throughout the documents, such as 'urgent action', 'climate emergency', and 'proactive response', underscores the urgency of the situation.", "quote": {"content": "Council therefore Declares a Climate Emergency, commits to a climate emergency response, and will proactively integrate climate change mitigation and adaptation into all Council actions.", "page": 3, "source": "Nillumbik-VIC-151.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for their intended actions on climate change. The Climate Action Plan 2022-2032, as the title suggests, outlines a ten-year plan for addressing climate change. The document also mentions a 'Climate Change Action Plan 2016-2020', indicating a previous five-year plan. The 2022-2032 plan sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The plan also mentions that key implementation actions will be reviewed annually. This suggests a sense of urgency in the local government's approach to climate action, with specific timeframes set for achieving their goals."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government takes the climate emergency seriously and has developed a comprehensive plan to address it, they do not explicitly rank this response above other policy areas. The documents outline a range of strategies and plans, such as the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, and others, which will incorporate a 'stronger climate lens'. However, this does not necessarily imply that the climate emergency response is of higher priority than these other policy areas. Rather, it suggests that climate considerations will be integrated across a range of policy areas. Furthermore, the documents highlight the need for a 'whole-of-Council proactive climate response', suggesting that climate action is seen as a cross-cutting issue that needs to be addressed across all areas of policy and decision-making."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents provide clear evidence that the local government policy requires all council activities to be aligned with climate policy. The policy outlines a comprehensive approach to integrating climate considerations into all aspects of council operations. This is evident in the council's commitment to 'embed delivery of the Climate Action Plan within the CEO\u2019s contract / performance plan' and to 'embed consideration of climate risks, impacts, mitigation and adaptation opportunities into Council\u2019s key governance documents and decision-making processes; and into new Council policies, strategies and plans'. The policy also states that 'Council will prepare and update many strategies and plans, and will incorporate a stronger climate lens into this work than ever before'. This suggests a broad and systematic approach to aligning all council activities with climate policy. The policy also includes a commitment to 'consider climate impact in day-to-day operations and when making Council decisions', further reinforcing this alignment."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various strategies, objectives, and actions related to climate change mitigation and adaptation, there is no specific mention of budget allocation or funding sources for these initiatives. The documents discuss the development of plans, strategies, and policies, the implementation of energy-efficient technologies, and the promotion of sustainable practices within the community. However, these are described in terms of actions to be taken or goals to be achieved, rather than in terms of financial commitments. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff involvement and responsibilities. The plan outlines various actions and strategies that involve the participation of council staff and other personnel. For instance, the plan mentions the continuation of Council's ecoteam activities to reduce staff emissions generated by energy consumption, travel, and waste. It also includes the development of information about how Council staff can reduce their impact on the climate to be included in the induction process. Furthermore, the plan emphasizes the need to ensure that Council contractors are informed about objectives and targets within the Climate Change Action Plan. These actions indicate a clear allocation of staff resources towards climate action. However, the plan does not provide specific details on the number of staff allocated, their specific roles, or the time they will spend on these tasks."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of initiatives aimed at fostering community engagement and action on climate change. These include the development of a Climate Action Hub, which would provide climate action education opportunities for school groups and others, and the exploration of climate-sensitive planting advice. The policy also mentions the provision of take-home materials for the community on preparing for climate change impacts and offering opportunities to learn about climate change adaptation through workshops, talks, expos, and tours. Furthermore, the policy highlights the role of community-led initiatives such as Sustainable House Day, community food gardens, and climate crisis public forums in amplifying climate action reach. The policy also indicates a commitment to supporting community awareness of the importance of taking climate action and building the capacity of community stakeholders to lead and deliver climate action initiatives.", "quote": {"content": "Support community awareness of the importance of \ntaking climate action and of opportunities for action\nb.", "page": 23, "source": "Nillumbik-VIC-151.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate action plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. Mitigation efforts are aimed at reducing greenhouse gas emissions and preventing more severe climate changes. The plan outlines several focus areas for proactive climate action, including increasing the energy efficiency of Council assets and operations, and maximizing the efficient use of clean, renewable energy. The plan also sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. Furthermore, the plan includes actions to support sustainable transport, which can contribute to reducing greenhouse gas emissions. The plan also emphasizes the importance of behaviour change, including supporting and encouraging all Council staff to be engaged in undertaking or supporting climate action within their roles.", "quote": {"content": "It identifies eight focus areas for proactive climate action. The Plan emphasises mitigation and adaptation \u2013 in Council\u2019s activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for our community.", "page": 4, "source": "Nillumbik-VIC-151.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The Climate Change Action Plan outlines a framework for embedding adaptation actions throughout the Council's work. The plan includes specific targets for both the Council and the community. For the Council, all plans, strategies, and policies are to be reviewed to incorporate applicable adaptation actions by 2020, and all vulnerable assets are to be identified with a plan to mitigate risk in place by 2020. For the community, the plan aims to ensure that the impacts of climate change on households and businesses are widely understood and that some preparedness is underway. The plan also includes the development of a toolkit to ensure adaptation is embedded across all Council operations. Furthermore, the plan includes actions such as vulnerability assessments on all Council assets and services to identify risks and appropriate adaptation improvements required.", "quote": {"content": "The overarching adaptation goal of this plan is to ensure that Council and the community have identified risks and vulnerabilities related to climate change and have a considered pathway to implement appropriate measures that will reduce the potential impacts.", "page": 3, "source": "Nillumbik-VIC-195.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the steps taken to develop the Climate Action Plan, including review of previous plans, research into legislative requirements, policy, data, and best practice, consultation with councillors, council advisory committees, and the community, and commissioning an independent climate change risk assessment, they do not provide specific sources or evidence to justify the targets and actions set out in the plan. The documents mention the use of indicators and targets to track progress and outcomes, and the intention to review and update these over the life of the plan, but again, no specific sources or evidence are provided to justify these indicators and targets. The documents also mention the intention to embed climate action within council operations and decision-making processes, but do not provide evidence to justify how this will be achieved or why it is necessary."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's Climate Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear implementation schedule and a commitment to evaluate and report on its progress at regular intervals. It specifies key climate action initiatives that will be prepared every year and considered in the Council\u2019s annual budget process. The plan also includes a system of evaluation to measure the effectiveness of the Council in delivering and supporting ongoing positive climate action. This evaluation system includes outcome evaluation, which considers whether the goals of the plan are being achieved, and progress evaluation, which assesses whether the Council has done what it said it would do. The plan also includes indicators and targets that will be reviewed and updated over the life of the plan. This evidence suggests that the plan has specific measurable criteria to evaluate the success of its proposed actions.", "quote": {"content": "Progress evaluation - Have we done what we said we would? An Implementation Plan that specifies key climate action initiatives will be prepared every year. These key climate initiatives will be considered in Council\u2019s annual budget process. Outcome evaluation - Are the goals of the Plan being achieved? We\u2019ll consider our targets, indicators and specific initiative outcomes.", "page": 38, "source": "Nillumbik-VIC-151.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Climate Action Plan was developed through a six-phase process, which included research into legislative requirements, policy, data, and best practices to inform the development of the Plan. The process also involved regular consultation with Councillors and Council Advisory Committees on strategic priorities. Importantly, the community's input was sought through a phone and online survey, with nearly 800 responses received. This community consultation was used to understand the opinions and priorities of the general community and thought-leaders, both advocates and skeptics of climate change. This information helped to inform the goals, targets, and focus areas of the Plan. Therefore, the local government has demonstrated a commitment to conducting research in the local community to inform its climate actions.", "quote": {"content": "We also thank the people who voiced their climate concerns and aspirations during the development of this Plan through the broader", "page": 16, "source": "Nillumbik-VIC-151.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has shown a commitment to incorporating a 'stronger climate lens' into their strategies and plans, including their Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, and Open Space Strategy. This suggests an innovative approach to integrating climate considerations across a wide range of policy areas. The government has also undertaken a physical climate change risk assessment, which indicates a proactive approach to understanding and managing climate-related risks. Furthermore, the government has explored the possibility of transforming the Edendale Community Environment Farm into a climate action hub, which could serve as a center for climate action education and demonstration of climate mitigation and adaptation strategies. This suggests a willingness to experiment with new methods of promoting climate action within the community.", "quote": {"content": "This could include more climate action education opportunities for school groups and others, a new-look nursery which incorporates climate-sensitive planting advice, and - over time - as many other urban and rural climate mitigation and adaptation demonstrations and examples as we can manage. We\u2019ll be exploring the possibility and will do what we can.", "page": 24, "source": "Nillumbik-VIC-151.pdf", "search_score": 1.0}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined plans and strategies that involve collaboration and advocacy for climate action at all levels of government. The local government plans to leverage relationships with agencies, organisations, and groups to stay updated on best practices for climate action and opportunities for continuous improvement. They also plan to advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. Furthermore, the local government intends to advocate to the Victorian and Australian Governments on issues affecting climate change adaptation and mitigation. This advocacy is aimed at ensuring that substantial mitigation actions do not take a back seat to adaptation actions, promoting renewable energy generation and equitable feed-in tariffs, and providing assistance for vulnerable sectors of the community.", "quote": {"content": "Collaborate and advocate for broad and \nurgent climate action by all levels of \ngovernment to reduce and respond to climate \nchange \nb.", "page": 21, "source": "Nillumbik-VIC-151.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to collaboration and advocacy for climate action at all levels of government, including local, state, and federal. This is demonstrated through the council's involvement in partnerships that promote emissions reduction, information sharing, and capacity building programs. The council also pledges to use its resources to support the uptake of renewable energy and to work with the Australian Energy Foundation to provide the community with free, on-demand, and tailored energy efficiency and renewable energy advice. Furthermore, the council is committed to working with other regional greenhouse alliances, local government alliances, and industry bodies to effect large scale emission reductions and adaptation strategies. These actions indicate a strong emphasis on building local capacity for climate action.", "quote": {"content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change.", "page": 21, "source": "Nillumbik-VIC-151.pdf", "search_score": 0.98}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has been actively involved in the Northern Alliance for Greenhouse Action (NAGA), which is a regional association focused on large-scale regional emission reductions and adaptation strategies. The government also collaborates with other regional greenhouse alliances, local government alliances, and industry bodies to effect large scale emission reductions and adaptation strategies. Furthermore, the government is a member of the national Cities Power Partnership, pledging to use council resources to support the uptake of renewable energy, install renewable energy on council buildings, and support local community energy groups with their community energy initiatives. These partnerships and alliances are crucial in the government's efforts to mitigate and adapt to climate change.", "quote": {"content": "Continue to work with other regional greenhouse alliances, local government alliances and industry bodies to effect large scale emission reductions and adaptation strategies.", "page": 20, "source": "Nillumbik-VIC-195.pdf", "search_score": 0.93}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various aspects of life, such as extreme weather events, biodiversity, health and wellbeing, and economic wellbeing, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline various strategies and actions for mitigating and adapting to climate change, but these are not specifically targeted towards vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions for climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The focus is primarily on reducing emissions, increasing resilience, and engaging the community in climate action. There is mention of working with various stakeholders, including residents, youth, community groups, businesses, and health and wellbeing organisations, but there is no explicit discussion on how the benefits and opportunities of these actions will be shared equitably among these groups or how social justice will be ensured in the process."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 15, "num_questions": 20, "attribute_score": 77.5}}
+{
+  "settings": {
+    "source_files": [
+      "Nillumbik-VIC-151.pdf",
+      "Nillumbik-VIC-195.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T11:58:29.411507",
+    "lga": "Nillumbik"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Action Plan 2022-2032, clearly identifies climate action as its core purpose. The policy is designed to guide the local government and community in addressing climate change over the next decade. It is structured around specific goals, objectives, and strategies that are all geared towards climate action. These include strong climate action leadership and culture, a climate resilient community and natural environment, climate responsive council services, zero emissions energy use, sustainable transport, a zero waste and circular economy, and integrated water management. The policy also includes a commitment to evaluate and report on its progress at regular intervals, indicating a serious commitment to its climate action goals. Furthermore, the policy was developed through extensive consultation with the community, reflecting the community's overwhelming view of the need for meaningful climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through various strategies and plans. The documents highlight the importance of considering climate impact in day-to-day operations and decision-making processes within the council. They also emphasize the need for collaboration and advocacy in climate action. The documents further underscore the importance of embedding climate risks, impacts, mitigation, and adaptation opportunities into the council's key governance documents and decision-making processes. The documents also highlight the need for prioritizing and planning for climate action that will achieve the greatest emissions reductions. The documents also mention the need for the council to take a leadership role in climate action and to work towards achieving net zero emissions. The documents also stress the importance of community engagement in climate action.",
+          "quote": {
+            "content": "Climate action decision-making needs to be dynamic and responsive to innovation opportunities. Climate action requires collaboration between communities, businesses and all levels of government.",
+            "page": 20,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government has declared a climate emergency, which indicates a clear sense of urgency and a call to action. The Climate Action Plan 2022-2032 is described as a roadmap for the next decade, suggesting a need for immediate and ongoing action. The documents also highlight the community's overwhelming view of the need for meaningful climate action to be taken as a priority. The documents further emphasize the need for proactive integration of climate change mitigation and adaptation into all Council actions. The language used throughout the documents, such as 'urgent action', 'climate emergency', and 'proactive response', underscores the urgency of the situation.",
+          "quote": {
+            "content": "Council therefore Declares a Climate Emergency, commits to a climate emergency response, and will proactively integrate climate change mitigation and adaptation into all Council actions.",
+            "page": 3,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for their intended actions on climate change. The Climate Action Plan 2022-2032, as the title suggests, outlines a ten-year plan for addressing climate change. The document also mentions a 'Climate Change Action Plan 2016-2020', indicating a previous five-year plan. The 2022-2032 plan sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. The plan also mentions that key implementation actions will be reviewed annually. This suggests a sense of urgency in the local government's approach to climate action, with specific timeframes set for achieving their goals."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly indicate that the local government takes the climate emergency seriously and has developed a comprehensive plan to address it, they do not explicitly rank this response above other policy areas. The documents outline a range of strategies and plans, such as the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, and others, which will incorporate a 'stronger climate lens'. However, this does not necessarily imply that the climate emergency response is of higher priority than these other policy areas. Rather, it suggests that climate considerations will be integrated across a range of policy areas. Furthermore, the documents highlight the need for a 'whole-of-Council proactive climate response', suggesting that climate action is seen as a cross-cutting issue that needs to be addressed across all areas of policy and decision-making."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy requires all council activities to be aligned with climate policy. The policy outlines a comprehensive approach to integrating climate considerations into all aspects of council operations. This is evident in the council's commitment to 'embed delivery of the Climate Action Plan within the CEO\u2019s contract / performance plan' and to 'embed consideration of climate risks, impacts, mitigation and adaptation opportunities into Council\u2019s key governance documents and decision-making processes; and into new Council policies, strategies and plans'. The policy also states that 'Council will prepare and update many strategies and plans, and will incorporate a stronger climate lens into this work than ever before'. This suggests a broad and systematic approach to aligning all council activities with climate policy. The policy also includes a commitment to 'consider climate impact in day-to-day operations and when making Council decisions', further reinforcing this alignment."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various strategies, objectives, and actions related to climate change mitigation and adaptation, there is no specific mention of budget allocation or funding sources for these initiatives. The documents discuss the development of plans, strategies, and policies, the implementation of energy-efficient technologies, and the promotion of sustainable practices within the community. However, these are described in terms of actions to be taken or goals to be achieved, rather than in terms of financial commitments. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action, specifically in the form of staff involvement and responsibilities. The plan outlines various actions and strategies that involve the participation of council staff and other personnel. For instance, the plan mentions the continuation of Council's ecoteam activities to reduce staff emissions generated by energy consumption, travel, and waste. It also includes the development of information about how Council staff can reduce their impact on the climate to be included in the induction process. Furthermore, the plan emphasizes the need to ensure that Council contractors are informed about objectives and targets within the Climate Change Action Plan. These actions indicate a clear allocation of staff resources towards climate action. However, the plan does not provide specific details on the number of staff allocated, their specific roles, or the time they will spend on these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The policy outlines a range of initiatives aimed at fostering community engagement and action on climate change. These include the development of a Climate Action Hub, which would provide climate action education opportunities for school groups and others, and the exploration of climate-sensitive planting advice. The policy also mentions the provision of take-home materials for the community on preparing for climate change impacts and offering opportunities to learn about climate change adaptation through workshops, talks, expos, and tours. Furthermore, the policy highlights the role of community-led initiatives such as Sustainable House Day, community food gardens, and climate crisis public forums in amplifying climate action reach. The policy also indicates a commitment to supporting community awareness of the importance of taking climate action and building the capacity of community stakeholders to lead and deliver climate action initiatives.",
+          "quote": {
+            "content": "Support community awareness of the importance of \ntaking climate action and of opportunities for action\nb.",
+            "page": 23,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate action plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach to managing climate change, which includes both mitigation and adaptation strategies. Mitigation efforts are aimed at reducing greenhouse gas emissions and preventing more severe climate changes. The plan outlines several focus areas for proactive climate action, including increasing the energy efficiency of Council assets and operations, and maximizing the efficient use of clean, renewable energy. The plan also sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for the community. Furthermore, the plan includes actions to support sustainable transport, which can contribute to reducing greenhouse gas emissions. The plan also emphasizes the importance of behaviour change, including supporting and encouraging all Council staff to be engaged in undertaking or supporting climate action within their roles.",
+          "quote": {
+            "content": "It identifies eight focus areas for proactive climate action. The Plan emphasises mitigation and adaptation \u2013 in Council\u2019s activities and operations, as well as in the broader community. It sets a goal of net zero emissions in Council operations by 2030 and a 2035 net zero emissions target for our community.",
+            "page": 4,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The Climate Change Action Plan outlines a framework for embedding adaptation actions throughout the Council's work. The plan includes specific targets for both the Council and the community. For the Council, all plans, strategies, and policies are to be reviewed to incorporate applicable adaptation actions by 2020, and all vulnerable assets are to be identified with a plan to mitigate risk in place by 2020. For the community, the plan aims to ensure that the impacts of climate change on households and businesses are widely understood and that some preparedness is underway. The plan also includes the development of a toolkit to ensure adaptation is embedded across all Council operations. Furthermore, the plan includes actions such as vulnerability assessments on all Council assets and services to identify risks and appropriate adaptation improvements required.",
+          "quote": {
+            "content": "The overarching adaptation goal of this plan is to ensure that Council and the community have identified risks and vulnerabilities related to climate change and have a considered pathway to implement appropriate measures that will reduce the potential impacts.",
+            "page": 3,
+            "source": "Nillumbik-VIC-195.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the steps taken to develop the Climate Action Plan, including review of previous plans, research into legislative requirements, policy, data, and best practice, consultation with councillors, council advisory committees, and the community, and commissioning an independent climate change risk assessment, they do not provide specific sources or evidence to justify the targets and actions set out in the plan. The documents mention the use of indicators and targets to track progress and outcomes, and the intention to review and update these over the life of the plan, but again, no specific sources or evidence are provided to justify these indicators and targets. The documents also mention the intention to embed climate action within council operations and decision-making processes, but do not provide evidence to justify how this will be achieved or why it is necessary."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a clear implementation schedule and a commitment to evaluate and report on its progress at regular intervals. It specifies key climate action initiatives that will be prepared every year and considered in the Council\u2019s annual budget process. The plan also includes a system of evaluation to measure the effectiveness of the Council in delivering and supporting ongoing positive climate action. This evaluation system includes outcome evaluation, which considers whether the goals of the plan are being achieved, and progress evaluation, which assesses whether the Council has done what it said it would do. The plan also includes indicators and targets that will be reviewed and updated over the life of the plan. This evidence suggests that the plan has specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "Progress evaluation - Have we done what we said we would? An Implementation Plan that specifies key climate action initiatives will be prepared every year. These key climate initiatives will be considered in Council\u2019s annual budget process. Outcome evaluation - Are the goals of the Plan being achieved? We\u2019ll consider our targets, indicators and specific initiative outcomes.",
+            "page": 38,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Climate Action Plan was developed through a six-phase process, which included research into legislative requirements, policy, data, and best practices to inform the development of the Plan. The process also involved regular consultation with Councillors and Council Advisory Committees on strategic priorities. Importantly, the community's input was sought through a phone and online survey, with nearly 800 responses received. This community consultation was used to understand the opinions and priorities of the general community and thought-leaders, both advocates and skeptics of climate change. This information helped to inform the goals, targets, and focus areas of the Plan. Therefore, the local government has demonstrated a commitment to conducting research in the local community to inform its climate actions.",
+          "quote": {
+            "content": "We also thank the people who voiced their climate concerns and aspirations during the development of this Plan through the broader",
+            "page": 16,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention various strategies and plans to address climate change, such as the Biodiversity Strategy, Housing Strategy, Integrated Transport Strategy, Heatwave Strategy, and Open Space Strategy, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents also mention the development of a Climate Action Plan, which includes consultation with councillors, council advisory committees, and the community, as well as a climate change risk assessment of council operations. However, these actions do not meet the criteria for policy experimentation as defined in the question."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the outlined plans and strategies that involve collaboration and advocacy for climate action at all levels of government. The local government plans to leverage relationships with agencies, organisations, and groups to stay updated on best practices for climate action and opportunities for continuous improvement. They also plan to advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change. Furthermore, the local government intends to advocate to the Victorian and Australian Governments on issues affecting climate change adaptation and mitigation. This advocacy is aimed at ensuring that substantial mitigation actions do not take a back seat to adaptation actions, promoting renewable energy generation and equitable feed-in tariffs, and providing assistance for vulnerable sectors of the community.",
+          "quote": {
+            "content": "Collaborate and advocate for broad and \nurgent climate action by all levels of \ngovernment to reduce and respond to climate \nchange \nb.",
+            "page": 21,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to collaboration and advocacy for climate action at all levels of government, including local, state, and federal. This is demonstrated through the council's involvement in partnerships that promote emissions reduction, information sharing, and capacity building programs. The council also pledges to use its resources to support the uptake of renewable energy and to work with the Australian Energy Foundation to provide the community with free, on-demand, and tailored energy efficiency and renewable energy advice. Furthermore, the council is committed to working with other regional greenhouse alliances, local government alliances, and industry bodies to effect large scale emission reductions and adaptation strategies. These actions indicate a strong emphasis on building local capacity for climate action.",
+          "quote": {
+            "content": "Collaborate and advocate for broad and urgent climate action by all levels of government to reduce and respond to climate change.",
+            "page": 21,
+            "source": "Nillumbik-VIC-151.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has been actively involved in the Northern Alliance for Greenhouse Action (NAGA), which is a regional association focused on large-scale regional emission reductions and adaptation strategies. The government also collaborates with other regional greenhouse alliances, local government alliances, and industry bodies to effect large scale emission reductions and adaptation strategies. Furthermore, the government is a member of the national Cities Power Partnership, pledging to use council resources to support the uptake of renewable energy, install renewable energy on council buildings, and support local community energy groups with their community energy initiatives. These partnerships and alliances are crucial in the government's efforts to mitigate and adapt to climate change.",
+          "quote": {
+            "content": "Continue to work with other regional greenhouse alliances, local government alliances and industry bodies to effect large scale emission reductions and adaptation strategies.",
+            "page": 20,
+            "source": "Nillumbik-VIC-195.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the impacts of climate change on various aspects of life, such as extreme weather events, biodiversity, health and wellbeing, and economic wellbeing, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents also outline various strategies and actions for mitigating and adapting to climate change, but these are not specifically targeted towards vulnerable communities. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions for climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The focus is primarily on reducing emissions, increasing resilience, and engaging the community in climate action. There is mention of working with various stakeholders, including residents, youth, community groups, businesses, and health and wellbeing organisations, but there is no explicit discussion on how the benefits and opportunities of these actions will be shared equitably among these groups or how social justice will be ensured in the process."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 77.5
+  }
+}

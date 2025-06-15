@@ -1,1 +1,262 @@
-{"settings": {"source_files": ["Bathurst-NSW-252.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T12:36:37.210412", "lga": "Bathurst"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "While the policy does address climate action, it is not the core purpose or goal of the policy. The policy, titled 'Bathurst Regional Council Renewable Energy Action Plan', primarily focuses on reducing the council's dependence on fossil fuel energy sources and increasing its use of renewable energy. The policy outlines specific targets for renewable energy use and energy efficiency, and it includes plans for transitioning away from natural gas and liquid fossil fuels. While these actions will likely have positive impacts on the climate, the policy does not explicitly state that climate action is its core purpose. Instead, the policy seems to be driven by a combination of factors, including the desire to reduce operational costs, respond to community sentiment, and comply with state targets for emissions reduction."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. The Bathurst Regional Council's Renewable Energy Action Plan (REAP) outlines the council's strategy to minimize its dependence on fossil fuel energy sources, with a primary focus on grid-sourced electricity. The council acknowledges that current weather patterns are outside the normal range due to climate change and that it should continue its focus on improving energy efficiency and investigating other renewable energy opportunities to reduce costs. The council also recognizes its leadership role in demonstrating resource efficiency and responding to climate change by reducing energy use and emissions in its own operations. The council's commitment to action on climate change is further evidenced by its joining of the Cities Power Partnership in 2017, with pledges to install renewable energy at council facilities, roll out energy-efficient public lighting, provide fast charge infrastructure for electric vehicles, strengthen the community\u2019s capacity in renewable energy and energy efficiency, and provide support for cycling in city infrastructure.", "quote": {"content": "Council joined the Cities Power Partnership in 2017 with pledges to install renewable energy at Council facilities, roll out energy efficient public lighting, provide fast charge infrastructure for electric vehicles, strengthen the community\u2019s capacity in renewable energy and energy efficiency and provide support for cycling in city infrastructure. Council is committed to ensuring that it takes action to minimise the impacts of climate change.", "page": 12, "source": "Bathurst-NSW-252.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While the Bathurst Regional Council's Renewable Energy Action Plan does acknowledge the impacts of climate change and outlines a commitment to reducing energy use and emissions, it does not express a sense of urgency or immediacy in its approach. The plan outlines a strategic approach to increasing the use of renewable energy and improving energy efficiency, but it does not emphasize the need for rapid action. The council has set a target of 50% of its electricity consumption to be from renewable sources by 2025, which indicates a planned and gradual transition rather than an urgent one. The documents also mention the need to reduce the carbon intensity of operations in line with the NSW State Government's target of zero net emissions by 2050, but again, this is a long-term goal rather than an urgent call to action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. The Bathurst Regional Council's Renewable Energy Action Plan outlines a staged action plan with clear timeframes. The Council has set two renewable energy targets, with the first target to be achieved between 2020 and 2023, and the second target to be achieved between 2023 and 2025. The Council's commitment to these targets and the outlined timeframes demonstrate a sense of urgency in their actions towards climate change. However, it should be noted that while the document provides timeframes, the specific actions to be taken within these periods are not detailed in the provided context."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the council's commitment to addressing climate change through various measures such as installing renewable energy at council facilities, improving energy efficiency, and investigating renewable energy opportunities, they do not explicitly prioritize these actions over other policies. The documents also mention the council's role in demonstrating leadership in resource efficiency and responding to climate change, and the community's sentiment towards the generation of renewable energy. However, these references do not explicitly state that these climate-related actions should take precedence over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the council has shown a commitment to addressing climate change through various initiatives such as joining the Cities Power Partnership, installing renewable energy at council facilities, and setting renewable energy targets, there is no explicit requirement mentioned that all council activities must align with these climate policies. The council's approach to energy management prioritizes preventing unnecessary energy use and improving energy efficiency, but this is not explicitly extended to all council activities. The documents also mention the council's role in demonstrating leadership in resource efficiency and responding to climate change, but again, this does not explicitly translate to a requirement for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the Bathurst Regional Council's Renewable Energy Action Plan outlines a strategy and action plan to minimise dependence on fossil fuel energy sources, and sets targets for renewable energy consumption, it does not specify any budget or funding allocation for these actions. The plan discusses the importance of energy efficiency, the community's sentiment towards renewable energy, and the council's leadership role in this area. However, it does not provide any details about the financial resources that will be mobilised to achieve the outlined goals. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the Bathurst Regional Council's Renewable Energy Action Plan outlines a strategy and action plan to minimise dependence on fossil fuel energy sources, it does not specify the allocation of staff or other institutional resources for the implementation of this plan. The documents mention the Council's commitment to renewable energy and climate change mitigation, including setting renewable electricity targets and acknowledging the need to reduce greenhouse gas emissions. However, these commitments do not extend to the explicit allocation of non-monetary institutional resources. Therefore, based on the provided documents, it cannot be affirmed that the plan allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the Bathurst Regional Council is taking steps to educate and involve the community in its climate action efforts. The Council's Renewable Energy Action Plan outlines its commitment to reducing energy use and emissions, and it is clear that community sentiment plays a significant role in shaping these policies. The Bathurst 2040 Community Strategic Plan, for instance, reflects the community's strong support for renewable energy generation, with 73.6% of people rating this as moderately to extremely important. The Council has also joined the Cities Power Partnership, pledging to strengthen the community\u2019s capacity in renewable energy and energy efficiency. However, while these actions suggest a degree of community involvement and education, the documents do not provide specific details on how the Council is actively empowering the community to rally and work together to deliver climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions in terms of technological solutions and behaviour change. While the policy acknowledges the need to reduce carbon intensity and sets a state target of zero net emissions by 2050, it does not outline specific actions to achieve this. The policy mentions the preparation of a Net Zero Plan and the setting of emissions reduction targets, but these are still under investigation and will be the subject of a separate plan. The policy also mentions the use of an energy management hierarchy approach and the replacement of fossil fuel-sourced electricity with electricity produced from renewable sources. However, these are broad strategies rather than specific actions. Therefore, the policy does not meet the high standard of evidence and specific detail required to answer the question in the affirmative."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of 'adapting to a changing climate'. The focus of the documents is primarily on the transition to renewable energy sources and energy efficiency, as part of the Bathurst Regional Council's Renewable Energy Action Plan. The plan outlines strategies to reduce dependence on fossil fuel energy sources, with a primary focus on grid-sourced electricity. It sets targets for renewable energy consumption and energy efficiency, and outlines action plans to achieve these targets. However, these actions are aimed at mitigating climate change by reducing greenhouse gas emissions, rather than adapting to its effects. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Renewable Energy Action Plan (REAP) sets out the Bathurst Regional Council's strategy and action plan to minimise its dependence on fossil fuel energy sources, it does not provide specific evidence or data to support these targets. The documents mention an energy efficiency target of 15% in comparison with 2018-19 electricity consumption and renewable electricity targets of 25% of Council\u2019s electricity consumption to be from renewable sources by 2023. However, the documents do not provide any specific data, research, or well-sourced evidence to justify these targets. The documents also mention that the Council is committed to ensuring that it takes action to minimise the impacts of climate change and acknowledges that current weather patterns are outside the normal range because of a change in the climate. However, these statements are not backed by specific evidence or data."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Renewable Energy Action Plan (REAP) by the Bathurst Regional Council does include specific measurable criteria to evaluate the success of its proposed actions. The plan sets clear targets for renewable energy and energy efficiency. For instance, it sets an electricity efficiency target of 15% compared to the 2018-19 electricity consumption. It also sets renewable electricity targets, including a target of 25% of the Council's electricity consumption to be from renewable sources by 2023. The plan also mentions that the recommended actions to achieve these targets will result in 55% predicted renewable electricity, exceeding the stated target of 50%. This provides a buffer if some actions cannot be achieved or if baseload electricity consumption increases due to the introduction of new services or other unforeseen impacts. Therefore, the success of the plan's actions can be evaluated based on whether these targets are met.", "quote": {"content": "The plan also sets the following renewable electricity targets: \n\u2022 \nRenewable Target 1 - 25% of Council\u2019s electricity consumption to be from renewable sources \nby 2023 The plan includes an: \n\u2022 \nElectricity efficiency target of 15% in comparison with 2018-19 electricity consumption of \n15,069 MWh.", "page": 4, "source": "Bathurst-NSW-252.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, which outlines the council's strategy to minimize its dependence on fossil fuel energy sources and transition to renewable energy. The plan sets targets for renewable energy consumption and energy efficiency, and it discusses the council's role in demonstrating leadership in resource efficiency and responding to climate change. However, there is no mention of conducting research in the local community to inform these actions. The documents do mention community sentiment and the Bathurst 2040 Community Strategic Plan, which indicates that the community has identified renewable energy as a priority. But this is not the same as conducting research to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Renewable Energy Action Plan (REAP) by the Bathurst Regional Council outlines a strategy and action plan to minimize dependence on fossil fuel energy sources, with a focus on alternatives to grid-sourced electricity. It also considers transitioning away from natural gas and liquid fossil fuels. The plan sets targets for renewable energy and energy efficiency, and outlines actions such as installing renewable energy at council facilities, rolling out energy-efficient public lighting, and providing fast charge infrastructure for electric vehicles. However, these actions are standard responses to climate change and do not represent innovative or experimental policy approaches. The plan does not mention any novel or experimental strategies or policies that the council is considering or has implemented. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent by the Bathurst Regional Council to advocate upward to state and national governments to support climate action. The documents primarily focus on the Council's own commitments and actions towards climate change mitigation, such as installing renewable energy at Council facilities, rolling out energy efficient public lighting, and providing fast charge infrastructure for electric vehicles. The documents also mention the Council's recognition of the changing climate and its impact on weather patterns. However, there is no explicit mention of the Council advocating for climate action to higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the Bathurst Regional Council's Renewable Energy Action Plan does outline the council's commitment to reducing the impacts of climate change and improving energy efficiency, it does not specifically mention building local capacity or fostering partnerships for climate action. The documents focus primarily on the council's own actions and strategies, such as installing renewable energy at council facilities, rolling out energy efficient public lighting, and providing fast charge infrastructure for electric vehicles. There is no explicit mention of coordination, partnerships, or advocacy for action with local communities or neighbouring councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate. While the Bathurst Regional Council's Renewable Energy Action Plan does mention the council's commitment to climate action and outlines various strategies for improving energy efficiency and transitioning to renewable energy, it does not specifically mention any partnerships or collaborations with other entities in this regard. The documents focus primarily on the council's own actions and plans, such as joining the Cities Power Partnership and implementing various energy efficiency and renewable energy initiatives. Therefore, based on the provided documents, it cannot be affirmed that the council is involved in specific regional associations, alliances, or partnerships related to climate."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, detailing the council's commitment to renewable energy, energy efficiency, and reducing greenhouse gas emissions. The documents also mention the council's recognition of climate change and its impacts, as well as the community's sentiment towards renewable energy. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities, or any considerations of equity and social justice in relation to climate change impacts."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, detailing the council's commitment to renewable energy, energy efficiency, and climate change mitigation. They outline strategic drivers for renewable energy, the council's current energy use profile, and actions taken to reduce energy consumption. However, there is no explicit mention or discussion of how the benefits and opportunities resulting from these actions and a safe climate will be equitably shared, particularly in terms of social justice. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 4, "num_questions": 20, "attribute_score": 22.5}}
+{
+  "settings": {
+    "source_files": [
+      "Bathurst-NSW-252.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T12:36:37.210412",
+    "lga": "Bathurst"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "While the policy does address climate action, it is not the core purpose or goal of the policy. The policy, titled 'Bathurst Regional Council Renewable Energy Action Plan', primarily focuses on reducing the council's dependence on fossil fuel energy sources and increasing its use of renewable energy. The policy outlines specific targets for renewable energy use and energy efficiency, and it includes plans for transitioning away from natural gas and liquid fossil fuels. While these actions will likely have positive impacts on the climate, the policy does not explicitly state that climate action is its core purpose. Instead, the policy seems to be driven by a combination of factors, including the desire to reduce operational costs, respond to community sentiment, and comply with state targets for emissions reduction."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. The Bathurst Regional Council's Renewable Energy Action Plan (REAP) outlines the council's strategy to minimize its dependence on fossil fuel energy sources, with a primary focus on grid-sourced electricity. The council acknowledges that current weather patterns are outside the normal range due to climate change and that it should continue its focus on improving energy efficiency and investigating other renewable energy opportunities to reduce costs. The council also recognizes its leadership role in demonstrating resource efficiency and responding to climate change by reducing energy use and emissions in its own operations. The council's commitment to action on climate change is further evidenced by its joining of the Cities Power Partnership in 2017, with pledges to install renewable energy at council facilities, roll out energy-efficient public lighting, provide fast charge infrastructure for electric vehicles, strengthen the community\u2019s capacity in renewable energy and energy efficiency, and provide support for cycling in city infrastructure.",
+          "quote": {
+            "content": "Council joined the Cities Power Partnership in 2017 with pledges to install renewable energy at Council facilities, roll out energy efficient public lighting, provide fast charge infrastructure for electric vehicles, strengthen the community\u2019s capacity in renewable energy and energy efficiency and provide support for cycling in city infrastructure. Council is committed to ensuring that it takes action to minimise the impacts of climate change.",
+            "page": 12,
+            "source": "Bathurst-NSW-252.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While the Bathurst Regional Council's Renewable Energy Action Plan does acknowledge the impacts of climate change and outlines a commitment to reducing energy use and emissions, it does not express a sense of urgency or immediacy in its approach. The plan outlines a strategic approach to increasing the use of renewable energy and improving energy efficiency, but it does not emphasize the need for rapid action. The council has set a target of 50% of its electricity consumption to be from renewable sources by 2025, which indicates a planned and gradual transition rather than an urgent one. The documents also mention the need to reduce the carbon intensity of operations in line with the NSW State Government's target of zero net emissions by 2050, but again, this is a long-term goal rather than an urgent call to action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. The Bathurst Regional Council's Renewable Energy Action Plan outlines a staged action plan with clear timeframes. The Council has set two renewable energy targets, with the first target to be achieved between 2020 and 2023, and the second target to be achieved between 2023 and 2025. The Council's commitment to these targets and the outlined timeframes demonstrate a sense of urgency in their actions towards climate change. However, it should be noted that while the document provides timeframes, the specific actions to be taken within these periods are not detailed in the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the council's commitment to addressing climate change through various measures such as installing renewable energy at council facilities, improving energy efficiency, and investigating renewable energy opportunities, they do not explicitly prioritize these actions over other policies. The documents also mention the council's role in demonstrating leadership in resource efficiency and responding to climate change, and the community's sentiment towards the generation of renewable energy. However, these references do not explicitly state that these climate-related actions should take precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the council has shown a commitment to addressing climate change through various initiatives such as joining the Cities Power Partnership, installing renewable energy at council facilities, and setting renewable energy targets, there is no explicit requirement mentioned that all council activities must align with these climate policies. The council's approach to energy management prioritizes preventing unnecessary energy use and improving energy efficiency, but this is not explicitly extended to all council activities. The documents also mention the council's role in demonstrating leadership in resource efficiency and responding to climate change, but again, this does not explicitly translate to a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the Bathurst Regional Council's Renewable Energy Action Plan outlines a strategy and action plan to minimise dependence on fossil fuel energy sources, and sets targets for renewable energy consumption, it does not specify any budget or funding allocation for these actions. The plan discusses the importance of energy efficiency, the community's sentiment towards renewable energy, and the council's leadership role in this area. However, it does not provide any details about the financial resources that will be mobilised to achieve the outlined goals. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the Bathurst Regional Council's Renewable Energy Action Plan outlines a strategy and action plan to minimise dependence on fossil fuel energy sources, it does not specify the allocation of staff or other institutional resources for the implementation of this plan. The documents mention the Council's commitment to renewable energy and climate change mitigation, including setting renewable electricity targets and acknowledging the need to reduce greenhouse gas emissions. However, these commitments do not extend to the explicit allocation of non-monetary institutional resources. Therefore, based on the provided documents, it cannot be affirmed that the plan allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the Bathurst Regional Council is taking steps to educate and involve the community in its climate action efforts. The Council's Renewable Energy Action Plan outlines its commitment to reducing energy use and emissions, and it is clear that community sentiment plays a significant role in shaping these policies. The Bathurst 2040 Community Strategic Plan, for instance, reflects the community's strong support for renewable energy generation, with 73.6% of people rating this as moderately to extremely important. The Council has also joined the Cities Power Partnership, pledging to strengthen the community\u2019s capacity in renewable energy and energy efficiency. However, while these actions suggest a degree of community involvement and education, the documents do not provide specific details on how the Council is actively empowering the community to rally and work together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions in terms of technological solutions and behaviour change. While the policy acknowledges the need to reduce carbon intensity and sets a state target of zero net emissions by 2050, it does not outline specific actions to achieve this. The policy mentions the preparation of a Net Zero Plan and the setting of emissions reduction targets, but these are still under investigation and will be the subject of a separate plan. The policy also mentions the use of an energy management hierarchy approach and the replacement of fossil fuel-sourced electricity with electricity produced from renewable sources. However, these are broad strategies rather than specific actions. Therefore, the policy does not meet the high standard of evidence and specific detail required to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for climate adaptation and resilience in the context of 'adapting to a changing climate'. The focus of the documents is primarily on the transition to renewable energy sources and energy efficiency, as part of the Bathurst Regional Council's Renewable Energy Action Plan. The plan outlines strategies to reduce dependence on fossil fuel energy sources, with a primary focus on grid-sourced electricity. It sets targets for renewable energy consumption and energy efficiency, and outlines action plans to achieve these targets. However, these actions are aimed at mitigating climate change by reducing greenhouse gas emissions, rather than adapting to its effects. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Renewable Energy Action Plan (REAP) sets out the Bathurst Regional Council's strategy and action plan to minimise its dependence on fossil fuel energy sources, it does not provide specific evidence or data to support these targets. The documents mention an energy efficiency target of 15% in comparison with 2018-19 electricity consumption and renewable electricity targets of 25% of Council\u2019s electricity consumption to be from renewable sources by 2023. However, the documents do not provide any specific data, research, or well-sourced evidence to justify these targets. The documents also mention that the Council is committed to ensuring that it takes action to minimise the impacts of climate change and acknowledges that current weather patterns are outside the normal range because of a change in the climate. However, these statements are not backed by specific evidence or data."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Renewable Energy Action Plan (REAP) by the Bathurst Regional Council does include specific measurable criteria to evaluate the success of its proposed actions. The plan sets clear targets for renewable energy and energy efficiency. For instance, it sets an electricity efficiency target of 15% compared to the 2018-19 electricity consumption. It also sets renewable electricity targets, including a target of 25% of the Council's electricity consumption to be from renewable sources by 2023. The plan also mentions that the recommended actions to achieve these targets will result in 55% predicted renewable electricity, exceeding the stated target of 50%. This provides a buffer if some actions cannot be achieved or if baseload electricity consumption increases due to the introduction of new services or other unforeseen impacts. Therefore, the success of the plan's actions can be evaluated based on whether these targets are met.",
+          "quote": {
+            "content": "The plan also sets the following renewable electricity targets: \n\u2022 \nRenewable Target 1 - 25% of Council\u2019s electricity consumption to be from renewable sources \nby 2023 The plan includes an: \n\u2022 \nElectricity efficiency target of 15% in comparison with 2018-19 electricity consumption of \n15,069 MWh.",
+            "page": 4,
+            "source": "Bathurst-NSW-252.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, which outlines the council's strategy to minimize its dependence on fossil fuel energy sources and transition to renewable energy. The plan sets targets for renewable energy consumption and energy efficiency, and it discusses the council's role in demonstrating leadership in resource efficiency and responding to climate change. However, there is no mention of conducting research in the local community to inform these actions. The documents do mention community sentiment and the Bathurst 2040 Community Strategic Plan, which indicates that the community has identified renewable energy as a priority. But this is not the same as conducting research to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The Bathurst Regional Council's Renewable Energy Action Plan (REAP) primarily focuses on strategies to minimize dependence on fossil fuel energy sources and increase the use of renewable energy. The plan outlines energy efficiency targets and renewable electricity targets, and it discusses the strategic drivers for renewable energy, including climate change, leadership role of council, community sentiment, increasing cost of energy to council, state targets, improving air quality, and fuel security. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions, such as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, the documents do not provide evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent by the Bathurst Regional Council to advocate upward to state and national governments to support climate action. The documents primarily focus on the Council's own commitments and actions towards climate change mitigation, such as installing renewable energy at Council facilities, rolling out energy efficient public lighting, and providing fast charge infrastructure for electric vehicles. The documents also mention the Council's recognition of the changing climate and its impact on weather patterns. However, there is no explicit mention of the Council advocating for climate action to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the Bathurst Regional Council's Renewable Energy Action Plan does outline the council's commitment to reducing the impacts of climate change and improving energy efficiency, it does not specifically mention building local capacity or fostering partnerships for climate action. The documents focus primarily on the council's own actions and strategies, such as installing renewable energy at council facilities, rolling out energy efficient public lighting, and providing fast charge infrastructure for electric vehicles. There is no explicit mention of coordination, partnerships, or advocacy for action with local communities or neighbouring councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate. While the Bathurst Regional Council's Renewable Energy Action Plan does mention the council's commitment to climate action and outlines various strategies for improving energy efficiency and transitioning to renewable energy, it does not specifically mention any partnerships or collaborations with other entities in this regard. The documents focus primarily on the council's own actions and plans, such as joining the Cities Power Partnership and implementing various energy efficiency and renewable energy initiatives. Therefore, based on the provided documents, it cannot be affirmed that the council is involved in specific regional associations, alliances, or partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, detailing the council's commitment to renewable energy, energy efficiency, and reducing greenhouse gas emissions. The documents also mention the council's recognition of climate change and its impacts, as well as the community's sentiment towards renewable energy. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities, or any considerations of equity and social justice in relation to climate change impacts."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the Bathurst Regional Council's Renewable Energy Action Plan, detailing the council's commitment to renewable energy, energy efficiency, and climate change mitigation. They outline strategic drivers for renewable energy, the council's current energy use profile, and actions taken to reduce energy consumption. However, there is no explicit mention or discussion of how the benefits and opportunities resulting from these actions and a safe climate will be equitably shared, particularly in terms of social justice. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 4,
+    "num_questions": 20,
+    "attribute_score": 22.5
+  }
+}

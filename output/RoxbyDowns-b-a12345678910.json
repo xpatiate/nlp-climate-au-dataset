@@ -1,1 +1,286 @@
-{"settings": {"source_files": ["RoxbyDowns-SA-92.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T13:54:10.375899", "lga": "RoxbyDowns"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly states that its core purpose is to address the impacts of climate change on the community and to strengthen the council's commitment to environmental sustainability. The policy outlines several key areas of focus, including building climate resilience into the community and ecosystem, transitioning to a low carbon economy, protecting local ecosystems, and supporting the growth of a circular economy. The policy also emphasizes the importance of community wellbeing and advocacy in addressing climate change. Therefore, it can be concluded that climate action is indeed the core purpose or goal of the policy.", "quote": {"content": "This policy sets out where Roxby Council will focus its energies in responding to the impact of climate change and strengthen the council\u2019s commitment to environmental sustainability. Roxby Council recognises climate change science and the impact this will have on our remote community with work, transportation, wellbeing and lifestyles.", "page": 1, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. The policy recognizes the impact of climate change on the community, including effects on work, transportation, wellbeing, and lifestyles. It outlines the council's commitment to environmental sustainability and details its focus areas in response to climate change. These include building climate resilience in the community and ecosystem, transitioning to a low carbon economy, protecting ecosystems, promoting a circular economy, enhancing community wellbeing, and advocating for sustainable practices. The policy also emphasizes the council's responsibility to act with integrity, engage with the community, and strive for continuous improvement in its operations. This suggests a recognition of the urgency and importance of addressing climate change.", "quote": {"content": "This policy sets out where Roxby Council will focus its energies in responding to the impact of climate change and strengthen the council\u2019s commitment to environmental sustainability. Roxby Council recognises climate change science and the impact this will have on our remote community with work, transportation, wellbeing and lifestyles.", "page": 1, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The provided documents do not explicitly call for rapid and urgent action on climate change. While the policy does acknowledge the impact of climate change on the community and outlines various strategies to address it, such as transitioning to a low carbon economy, protecting ecosystems, and building community resilience, it does not express a sense of urgency or immediacy in its approach. The policy is more focused on long-term strategies and outcomes, such as reducing greenhouse gas emissions in line with state and federal government targets, and transitioning to a circular economy. The policy also states that it will be reviewed and evaluated no less than once every three years, which suggests a more gradual approach to addressing climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The policy document does not provide specific timeframes for its intended actions on climate change. While it outlines various strategies such as transitioning to a low carbon economy, protecting ecosystems, and building climate resilience into the community and ecosystem, it does not specify when these actions will be implemented or completed. The document does mention that the policy will be reviewed and evaluated no less than once every three years, but this is a review timeframe rather than an action timeframe. Therefore, in terms of 'urgency of action', the document does not provide clear evidence of specific timeframes for its climate change actions."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The policy does acknowledge the importance of addressing climate change and outlines several key areas of focus, including building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, it does not explicitly prioritize these actions over other policies. The policy does state that it will strive for continuous improvement in all operations and meet the changing needs and priorities of the community, which could potentially include prioritizing climate change responses as needed, but this is not explicitly stated."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy does apply to all of Roxby Council's activities and services, it does not specifically mandate that these activities must align with the climate policy. The policy outlines the council's commitment to addressing climate change and building resilience in the community, including through assessing and managing climate change risks, transitioning to a low carbon and circular economy, protecting ecosystems, and supporting community wellbeing. However, the requirement for all council activities to align with these objectives is not explicitly stated."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. The policy outlines various strategies and commitments to address climate change, such as building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, there is no specific mention of how these initiatives will be funded or any explicit allocation of resources for these purposes. Therefore, based on the available information, it cannot be confirmed that the plan allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines the Roxby Council's commitment to addressing climate change and building climate resilience, with a focus on areas such as climate resilient communities, a low carbon economy, ecosystem protection, a thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. However, there is no specific mention of the allocation of staff or other non-monetary institutional resources to these efforts. The policy does state that it applies to all of Roxby Council\u2019s activities and services, and to the Council\u2019s communications and collaborations with community, regional, and inter-regional partners, but this does not necessarily imply the allocation of specific resources."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The policy document does indicate that the local government is taking steps to empower and educate the community to work together to address climate change. The policy outlines a number of key areas of focus, including building climate resilience in the community and ecosystem, transitioning to a low carbon and circular economy, and enhancing community wellbeing in the face of climate change. The policy also emphasizes the importance of advocacy and partnerships, with the council supporting residents and businesses to adopt sustainable practices and advocating for climate issues on the community's behalf. However, the document does not explicitly use the term 'social mobilisation', and it is not clear from the document how these goals will be achieved, or what specific actions will be taken to educate and empower the community.", "quote": {"content": "Roxby Council will assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences.", "page": 1, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.9}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The policy does include specific actions for the mitigation of greenhouse gas emissions. It outlines a commitment to transition to a low carbon economy, which inherently involves the reduction of greenhouse gas emissions. This transition is described as being orderly and socially responsible, suggesting a planned and considered approach. The policy also mentions the adoption of sustainable practices through advocacy and key partnerships, which could potentially involve both technological solutions and behaviour change. However, the policy does not provide detailed specifics on the technological solutions or behaviour changes that will be implemented. It is also worth noting that the policy includes a focus on best practice in waste, energy and water management as part of a transition to a thriving circular economy, which could indirectly contribute to greenhouse gas mitigation.", "quote": {"content": "Roxby Council will lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions.", "page": 1, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.93}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The policy indeed includes specific actions for climate adaptation and resilience. It outlines six key statements to address climate change and build climate resilience into the community and ecosystem. The policy emphasizes the need to assess, prioritize, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. It also highlights the importance of building resilience in the local ecosystems to adapt to the impacts of climate change. The policy further underscores the need for the community to reduce greenhouse gas emissions in line with State and Federal Government targets. Moreover, the policy aims to lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management. The policy also plans to assess, prioritize, strengthen, and maintain the health and wellbeing of the community, workers, traditional owners, and visitors to the region against the rising threats of climate change.", "quote": {"content": "Roxby Council will assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. This policy focuses on six key statements to address climate change and build climate resilience into the community and ecosystem.", "page": 1, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Roxby Council. The policy outlines the council's commitment to addressing climate change and its impacts on the community, including transitioning to a low carbon economy, protecting local ecosystems, and building community resilience. However, it does not provide specific, evidence-based justifications for these targets and actions. The policy does not cite any scientific studies, data, or expert opinions to support its strategies. It also does not provide any specific targets or metrics for measuring progress towards its goals. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The policy documents provided do not include specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines several key areas of focus such as transitioning to a low carbon economy, protecting ecosystems, and enhancing community wellbeing, it does not provide clear, quantifiable metrics or benchmarks for assessing progress or success in these areas. The policy does state that it will be reviewed and evaluated no less than once every three years, but it does not specify what criteria will be used for this evaluation. Therefore, it is unclear how the council plans to measure the effectiveness of its climate change policy and whether it is achieving its stated outcomes."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy does outline a commitment to climate resilience, a transition to a low carbon and circular economy, ecosystem protection, enhanced community wellbeing, and advocacy and partnerships. It also mentions the council's role in assessing, prioritising, strengthening, and managing climate change risks. However, these statements do not explicitly mention conducting research in the local community to inform these actions. The policy does indicate a commitment to engage with the community and to build organisational and community resilience, but it does not specify that this engagement will involve research to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The policy does outline a commitment to addressing climate change, with a focus on areas such as ecosystem protection, a low carbon economy, a thriving circular economy, and enhanced community wellbeing. However, these are broad areas of focus and the policy does not provide specific details on innovative or experimental approaches that will be used to achieve these goals. The policy does mention the use of 'best practice' in waste, energy, and water management, but again, this does not necessarily imply innovation or experimentation. Therefore, based on the provided documents, it cannot be conclusively stated that the policy shows evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. The policy does mention advocacy and partnerships, but it is not clear from the context provided that this advocacy is directed towards state and national governments. The policy states that 'Roxby Council will be at the forefront on practical sustainable practices' and will 'support residents and businesses to adopt sustainable practices through advocacy and key partnerships'. However, the specific targets of this advocacy are not identified. The policy also mentions that the council will 'lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions' and that the 'Council and community reduces their greenhouse gas emissions in line with State and Federal Government targets'. While this shows alignment with state and federal targets, it does not explicitly state an intent to advocate to these levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The policy document does explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to climate resilience, low carbon economy, ecosystem protection, thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. The council aims to assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. It also plans to lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions. Furthermore, the council recognises the unique terrestrial ecosystems in the region and plans to protect and maintain them against the rising threats of climate change. The council also plans to lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management. The council also plans to assess, prioritise, strengthen, and maintain the health and wellbeing of the community, workers, traditional owners, and visitors to the region against the rising threats of climate change. Lastly, the council plans to be at the forefront of practical sustainable practices and support residents and businesses to adopt sustainable practices through advocacy and key partnerships.", "quote": {"content": "Roxby Council will lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management.", "page": 2, "source": "RoxbyDowns-SA-92.pdf", "search_score": 0.92}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents do not provide specific details about regional associations, alliances, or other partnerships related to climate change. While the policy does mention the council's commitment to 'communications and collaborations with community, regional and inter-regional partners' and 'advocacy and key partnerships' in the effort to address climate change, it does not specify who these partners are. The policy does not name any specific regional associations, alliances, or other partnerships that the council is or will be working with to address climate change. Therefore, the question cannot be answered positively based on the provided documents."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy does mention the council's commitment to environmental sustainability and the intention to build resilience in the community and ecosystem, it does not specifically address the impact on vulnerable communities. The policy focuses on areas such as climate resilient communities, low carbon economy, ecosystem protection, thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. However, these areas are discussed in a general sense and do not specifically address equity and social justice issues related to vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy does outline various strategies to address climate change, such as building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, these strategies do not specifically address the equitable distribution of benefits and opportunities. The policy does mention treating everyone with fairness and respect, valuing diversity, and engaging with the community through collaboration, understanding, and inclusiveness. However, these statements are general in nature and do not directly relate to the sharing of benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 43.3}}
+{
+  "settings": {
+    "source_files": [
+      "RoxbyDowns-SA-92.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T13:54:10.375899",
+    "lga": "RoxbyDowns"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly states that its core purpose is to address the impacts of climate change on the community and to strengthen the council's commitment to environmental sustainability. The policy outlines several key areas of focus, including building climate resilience into the community and ecosystem, transitioning to a low carbon economy, protecting local ecosystems, and supporting the growth of a circular economy. The policy also emphasizes the importance of community wellbeing and advocacy in addressing climate change. Therefore, it can be concluded that climate action is indeed the core purpose or goal of the policy.",
+          "quote": {
+            "content": "This policy sets out where Roxby Council will focus its energies in responding to the impact of climate change and strengthen the council\u2019s commitment to environmental sustainability. Roxby Council recognises climate change science and the impact this will have on our remote community with work, transportation, wellbeing and lifestyles.",
+            "page": 1,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. The policy recognizes the impact of climate change on the community, including effects on work, transportation, wellbeing, and lifestyles. It outlines the council's commitment to environmental sustainability and details its focus areas in response to climate change. These include building climate resilience in the community and ecosystem, transitioning to a low carbon economy, protecting ecosystems, promoting a circular economy, enhancing community wellbeing, and advocating for sustainable practices. The policy also emphasizes the council's responsibility to act with integrity, engage with the community, and strive for continuous improvement in its operations. This suggests a recognition of the urgency and importance of addressing climate change.",
+          "quote": {
+            "content": "This policy sets out where Roxby Council will focus its energies in responding to the impact of climate change and strengthen the council\u2019s commitment to environmental sustainability. Roxby Council recognises climate change science and the impact this will have on our remote community with work, transportation, wellbeing and lifestyles.",
+            "page": 1,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly call for rapid and urgent action on climate change. While the policy does acknowledge the impact of climate change on the community and outlines various strategies to address it, such as transitioning to a low carbon economy, protecting ecosystems, and building community resilience, it does not express a sense of urgency or immediacy in its approach. The policy is more focused on long-term strategies and outcomes, such as reducing greenhouse gas emissions in line with state and federal government targets, and transitioning to a circular economy. The policy also states that it will be reviewed and evaluated no less than once every three years, which suggests a more gradual approach to addressing climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The policy document does not provide specific timeframes for its intended actions on climate change. While it outlines various strategies such as transitioning to a low carbon economy, protecting ecosystems, and building climate resilience into the community and ecosystem, it does not specify when these actions will be implemented or completed. The document does mention that the policy will be reviewed and evaluated no less than once every three years, but this is a review timeframe rather than an action timeframe. Therefore, in terms of 'urgency of action', the document does not provide clear evidence of specific timeframes for its climate change actions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The policy does acknowledge the importance of addressing climate change and outlines several key areas of focus, including building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, it does not explicitly prioritize these actions over other policies. The policy does state that it will strive for continuous improvement in all operations and meet the changing needs and priorities of the community, which could potentially include prioritizing climate change responses as needed, but this is not explicitly stated."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy does apply to all of Roxby Council's activities and services, it does not specifically mandate that these activities must align with the climate policy. The policy outlines the council's commitment to addressing climate change and building resilience in the community, including through assessing and managing climate change risks, transitioning to a low carbon and circular economy, protecting ecosystems, and supporting community wellbeing. However, the requirement for all council activities to align with these objectives is not explicitly stated."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. The policy outlines various strategies and commitments to address climate change, such as building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, there is no specific mention of how these initiatives will be funded or any explicit allocation of resources for these purposes. Therefore, based on the available information, it cannot be confirmed that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines the Roxby Council's commitment to addressing climate change and building climate resilience, with a focus on areas such as climate resilient communities, a low carbon economy, ecosystem protection, a thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. However, there is no specific mention of the allocation of staff or other non-monetary institutional resources to these efforts. The policy does state that it applies to all of Roxby Council\u2019s activities and services, and to the Council\u2019s communications and collaborations with community, regional, and inter-regional partners, but this does not necessarily imply the allocation of specific resources."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy document does indicate that the local government is taking steps to empower and educate the community to work together to address climate change. The policy outlines a number of key areas of focus, including building climate resilience in the community and ecosystem, transitioning to a low carbon and circular economy, and enhancing community wellbeing in the face of climate change. The policy also emphasizes the importance of advocacy and partnerships, with the council supporting residents and businesses to adopt sustainable practices and advocating for climate issues on the community's behalf. However, the document does not explicitly use the term 'social mobilisation', and it is not clear from the document how these goals will be achieved, or what specific actions will be taken to educate and empower the community.",
+          "quote": {
+            "content": "Roxby Council will assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences.",
+            "page": 1,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The policy does include specific actions for the mitigation of greenhouse gas emissions. It outlines a commitment to transition to a low carbon economy, which inherently involves the reduction of greenhouse gas emissions. This transition is described as being orderly and socially responsible, suggesting a planned and considered approach. The policy also mentions the adoption of sustainable practices through advocacy and key partnerships, which could potentially involve both technological solutions and behaviour change. However, the policy does not provide detailed specifics on the technological solutions or behaviour changes that will be implemented. It is also worth noting that the policy includes a focus on best practice in waste, energy and water management as part of a transition to a thriving circular economy, which could indirectly contribute to greenhouse gas mitigation.",
+          "quote": {
+            "content": "Roxby Council will lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions.",
+            "page": 1,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The policy indeed includes specific actions for climate adaptation and resilience. It outlines six key statements to address climate change and build climate resilience into the community and ecosystem. The policy emphasizes the need to assess, prioritize, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. It also highlights the importance of building resilience in the local ecosystems to adapt to the impacts of climate change. The policy further underscores the need for the community to reduce greenhouse gas emissions in line with State and Federal Government targets. Moreover, the policy aims to lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management. The policy also plans to assess, prioritize, strengthen, and maintain the health and wellbeing of the community, workers, traditional owners, and visitors to the region against the rising threats of climate change.",
+          "quote": {
+            "content": "Roxby Council will assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. This policy focuses on six key statements to address climate change and build climate resilience into the community and ecosystem.",
+            "page": 1,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Roxby Council. The policy outlines the council's commitment to addressing climate change and its impacts on the community, including transitioning to a low carbon economy, protecting local ecosystems, and building community resilience. However, it does not provide specific, evidence-based justifications for these targets and actions. The policy does not cite any scientific studies, data, or expert opinions to support its strategies. It also does not provide any specific targets or metrics for measuring progress towards its goals. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The policy documents provided do not include specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines several key areas of focus such as transitioning to a low carbon economy, protecting ecosystems, and enhancing community wellbeing, it does not provide clear, quantifiable metrics or benchmarks for assessing progress or success in these areas. The policy does state that it will be reviewed and evaluated no less than once every three years, but it does not specify what criteria will be used for this evaluation. Therefore, it is unclear how the council plans to measure the effectiveness of its climate change policy and whether it is achieving its stated outcomes."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy does outline a commitment to climate resilience, a transition to a low carbon and circular economy, ecosystem protection, enhanced community wellbeing, and advocacy and partnerships. It also mentions the council's role in assessing, prioritising, strengthening, and managing climate change risks. However, these statements do not explicitly mention conducting research in the local community to inform these actions. The policy does indicate a commitment to engage with the community and to build organisational and community resilience, but it does not specify that this engagement will involve research to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not show any evidence of policy experimentation in climate action as defined by the question. The Roxby Council's Climate Change Policy outlines the council's commitment to addressing climate change and building resilience within the community and ecosystem. It details several key policy statements, including the transition to a low carbon and circular economy, ecosystem protection, enhanced community wellbeing, and advocacy and partnerships. However, these statements do not mention any initiatives to test technologies, policies, or governance approaches on a small scale and under real-world conditions. There is no reference to pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the policy includes elements of experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. The policy does mention advocacy and partnerships, but it is not clear from the context provided that this advocacy is directed towards state and national governments. The policy states that 'Roxby Council will be at the forefront on practical sustainable practices' and will 'support residents and businesses to adopt sustainable practices through advocacy and key partnerships'. However, the specific targets of this advocacy are not identified. The policy also mentions that the council will 'lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions' and that the 'Council and community reduces their greenhouse gas emissions in line with State and Federal Government targets'. While this shows alignment with state and federal targets, it does not explicitly state an intent to advocate to these levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The policy document does explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to climate resilience, low carbon economy, ecosystem protection, thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. The council aims to assess, prioritise, strengthen, and manage climate change risks and plans to recover quickly from extreme climate-driven occurrences. It also plans to lead an orderly and socially responsible transition to a low carbon economy, reducing greenhouse gas emissions. Furthermore, the council recognises the unique terrestrial ecosystems in the region and plans to protect and maintain them against the rising threats of climate change. The council also plans to lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management. The council also plans to assess, prioritise, strengthen, and maintain the health and wellbeing of the community, workers, traditional owners, and visitors to the region against the rising threats of climate change. Lastly, the council plans to be at the forefront of practical sustainable practices and support residents and businesses to adopt sustainable practices through advocacy and key partnerships.",
+          "quote": {
+            "content": "Roxby Council will lead an orderly and innovative transition to a thriving circular economy with a focus on best practice in waste, energy, and water management.",
+            "page": 2,
+            "source": "RoxbyDowns-SA-92.pdf",
+            "search_score": 0.92
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific details about regional associations, alliances, or other partnerships related to climate change. While the policy does mention the council's commitment to 'communications and collaborations with community, regional and inter-regional partners' and 'advocacy and key partnerships' in the effort to address climate change, it does not specify who these partners are. The policy does not name any specific regional associations, alliances, or other partnerships that the council is or will be working with to address climate change. Therefore, the question cannot be answered positively based on the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy does mention the council's commitment to environmental sustainability and the intention to build resilience in the community and ecosystem, it does not specifically address the impact on vulnerable communities. The policy focuses on areas such as climate resilient communities, low carbon economy, ecosystem protection, thriving circular economy, enhanced community wellbeing, and advocacy and partnerships. However, these areas are discussed in a general sense and do not specifically address equity and social justice issues related to vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy does outline various strategies to address climate change, such as building climate resilience, transitioning to a low carbon and circular economy, protecting ecosystems, enhancing community wellbeing, and advocating for sustainable practices. However, these strategies do not specifically address the equitable distribution of benefits and opportunities. The policy does mention treating everyone with fairness and respect, valuing diversity, and engaging with the community through collaboration, understanding, and inclusiveness. However, these statements are general in nature and do not directly relate to the sharing of benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 43.3
+  }
+}

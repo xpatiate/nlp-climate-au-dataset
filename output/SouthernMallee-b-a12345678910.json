@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["SouthernMallee-SA-94.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T14:06:26.550036", "lga": "SouthernMallee"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the 'Southern Mallee District Council Environmental Action Plan', clearly identifies climate action as its core purpose. The policy outlines a range of strategies and actions aimed at addressing climate change and its impacts. These include supporting community resilience and adaptation to climate variation, developing emergency management responses to climate-related events such as droughts and bushfires, and partnering with regional councils and other groups to develop projects to address climate change. The policy also includes actions aimed at supporting climate-smart business and agricultural practices, and reducing emissions directly from the Council. The policy's focus on climate action is further underscored by its alignment with South Australia's Climate Change Action Plan and the state's goal of reaching net zero emissions by 2050.", "quote": {"content": "Partner with regional councils and other groups to develop regional projects to address climate change. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves.", "page": 9, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. It outlines a series of actions and strategies that the Southern Mallee District Council plans to undertake to address climate change. These actions are grouped under various themes such as 'Climate smart business and agricultural practices', 'Climate smart resilient communities', and 'Council leading by example'. The document also mentions the need to adapt to climate variation, develop emergency management responses to climate-related events like droughts and bushfires, and to reduce emissions. The council also plans to introduce environmental innovation or sustainability criteria to their community grant program evaluation. These actions indicate a recognition of the need to address climate change and a commitment to taking action.", "quote": {"content": "The link between a healthy and sustainable environment and the outcomes of long-term economic prosperity and a high quality of life for future generations is apparent.", "page": 3, "source": "SouthernMallee-SA-94.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a series of actions and strategies that the Southern Mallee District Council plans to undertake to address climate change, including supporting climate smart business and agricultural practices, reducing emissions, and building resilience in communities. However, these actions are presented as part of a long-term plan, with some actions scheduled for future years. The documents do not express a sense of urgency or immediacy in their approach to climate change. Instead, they emphasize a commitment to supporting local businesses, industries, and communities in achieving climate smart outcomes, and to working with state and federal government to this end. The documents also mention the importance of continual improvement and re-evaluation of potential environmental impact, resource constraints, and priorities."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Southern Mallee District Council Environmental Action Plan outlines a series of actions, each with a specified timing. For instance, under the theme 'Climate smart resilient communities', the action 'Introduce an environmental innovation or sustainability criteria to the current community grant program evaluation' is slated for 'Year 2'. Similarly, under 'Council leading by example', the action 'Investigate the feasibility of Council investing in hybrid vehicle technology for its current fleet and continually look to optimise the size and efficiency of the fleet' is also scheduled for 'Year 2'. These examples demonstrate that the policy document does not just outline actions but also provides specific timeframes for their implementation, indicating a sense of urgency and commitment to the actions outlined.", "quote": {"content": "Year 2 TIMING \n6.1 \nIntroduce an environmental innovation or sustainability criteria to the current community \ngrant program evaluation.", "page": 9, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Southern Mallee District Council's Environmental Action Plan outlines various actions and strategies to address climate change, including supporting climate-smart business and agricultural practices, reducing emissions, and building community resilience. However, these actions are presented as part of a comprehensive plan, not as a prioritized response to a climate emergency. The plan does emphasize the importance of climate change mitigation and adaptation, but it does not explicitly prioritize these actions over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change, such as reducing emissions, considering climate variation in projects and contract management, and investing in hybrid vehicle technology. The council also plans to support the community in building resilience and adapting to climate variation, and to develop regional projects to address climate change. However, these actions and strategies are not explicitly stated to be mandatory for all council activities. Therefore, while the council clearly recognizes the importance of addressing climate change and has developed a number of related actions and strategies, it does not explicitly require all council activities to align with these policies."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions related to climate change, such as supporting community resilience, educating the community on emergency management response due to climate variation, and reducing emissions directly from the Council, it does not specify any budget or funding allocation for these actions. The policy does mention the introduction of an environmental innovation or sustainability criteria to the current community grant program evaluation, and the consideration of funding a local grant scheme specifically for environmentally sustainable innovation of businesses and/or broader environmental initiatives by the community in the future. However, these are not explicit allocations of funding, but rather potential avenues for funding. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines various actions and strategies related to climate change, such as supporting community resilience, educating the community on emergency management response, and developing regional projects to address climate change. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. The policy does mention the introduction of environmental innovation or sustainability criteria to the current community grant program evaluation, but this does not necessarily imply the allocation of institutional resources. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The Southern Mallee District Council's Environmental Action Plan does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at building community resilience and adaptation to climate variation, including the development of emergency management responses to climate-related events such as droughts, bushfires, and heatwaves. The policy also emphasizes the importance of partnering with regional councils and other groups to develop regional projects to address climate change. Furthermore, the policy seeks to empower local community groups to take responsibility for environmental outcomes. This is demonstrated through actions such as introducing an environmental innovation or sustainability criteria to the current community grant program evaluation, supporting community initiatives to establish community gardens, and supporting community groups in obtaining grant funding relating to environmental innovation or sustainability projects in the district.", "quote": {"content": "Support and empower local community groups to take responsibility for environmental outcomes. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves. Partner with regional councils and other groups to develop regional projects to address climate change.", "page": 9, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Southern Mallee District Council's Environmental Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies and actions that can be undertaken to reduce the impact on the environment, such as saving energy and reducing waste. It also mentions the development of climate-smart innovation and the mitigation of severe climate events. The plan includes specific focus areas such as reducing transport emissions, climate-smart buildings, urban environments, and assets, and climate-smart landscapes and habitats. The council also plans to lead by example, with actions such as investigating the feasibility of investing in hybrid vehicle technology for its current fleet and considering energy and water efficiencies in procurement policies. The plan also includes actions to support the community in building resilience and adapting to climate variation, and to educate the community on emergency management response due to climate variation.", "quote": {"content": "In developing The Southern Mallee District Council is committed to supporting our local businesses and industries, and working with our local community as well as state and federal government to achieve climate smart outcomes.", "page": 3, "source": "SouthernMallee-SA-94.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Southern Mallee District Council Environmental Action Plan does include specific actions for climate adaptation and resilience. The plan outlines a focus on 'Climate smart resilient communities' and includes actions such as supporting the community in building resilience and adapting to climate variation, developing and educating the community on emergency management response due to climate variation, and partnering with regional councils and other groups to develop regional projects to address climate change. The plan also includes future actions such as evaluating the benefits of establishing a new sustainability advisory committee that focuses on an Environmental Strategy. These actions indicate a clear commitment to climate adaptation and resilience, with a focus on community engagement and education, regional collaboration, and strategic planning.", "quote": {"content": "Partner with regional councils and other groups to develop regional projects to address climate change. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves.", "page": 9, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions related to climate change, such as supporting community resilience, educating the community on emergency management response, and developing regional projects to address climate change, it does not provide specific, well-sourced evidence to justify these actions. The policy mentions the introduction of environmental innovation or sustainability criteria to the community grant program evaluation, the feasibility of investing in hybrid vehicle technology, and the consideration of climate variation in projects, contract management, and risk registers. However, these actions are not backed by specific evidence or sources that justify why these actions are necessary or effective in addressing climate change. The policy also does not provide specific climate targets that these actions are intended to achieve. Therefore, the policy does not meet the high standard of evidence and specific detail required to answer the question in the affirmative."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's environmental action plan does outline a number of actions related to climate change, such as supporting community resilience, educating the community on emergency management response, and partnering with regional councils to address climate change. However, the plan does not provide specific measurable criteria to evaluate the success of these actions. The actions are stated in general terms, and while some have a specified timing, there are no clear indicators or targets that would allow for a quantitative assessment of whether the action has been successfully implemented or achieved its intended outcome. The lack of specific measurable criteria makes it difficult to assess the effectiveness of the plan and to hold the local government accountable for its implementation."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various actions and strategies to address climate change, such as supporting climate smart business innovation, reducing emissions, and educating the community on emergency management response due to climate variation. However, these actions seem to be based on general climate change mitigation strategies rather than on research conducted specifically within the local community. The policy does mention the advocacy for further research into environmentally sustainable practices in the agricultural industry, but this does not necessarily imply that the local government itself will conduct this research. Therefore, the documents do not provide sufficient detail to affirm that there are plans to conduct local community research to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The Southern Mallee District Council's Environmental Action Plan does show evidence of innovation and policy experimentation in climate action. The plan outlines a variety of strategies and actions that are designed to address climate change and its impacts. These include supporting climate-smart business innovation and agricultural practices, reducing emissions directly from the Council, and embedding climate change risk and opportunity into Council strategy, policy, and practice. The plan also includes actions such as introducing an environmental innovation or sustainability criteria to the current community grant program evaluation, investigating the feasibility of Council investing in hybrid vehicle technology, and considering funding a local grant scheme specifically for environmentally sustainable innovation of businesses. These actions demonstrate a willingness to experiment with new approaches and technologies in order to address climate change, which is indicative of policy innovation.", "quote": {"content": "Consider funding a local grant scheme specifically for environmentally sustainable innovation of businesses and/or broader environmental initiatives by community in our district.", "page": 11, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.92}}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The Southern Mallee District Council Environmental Action Plan does show an explicit intent to advocate upward to state and national governments to support climate action. The plan outlines a commitment to partnering with regional councils and other groups to develop regional projects to address climate change. This suggests a willingness to engage with higher levels of government and other organizations to achieve climate action goals. Furthermore, the plan includes actions such as advocating for further research into environmentally sustainable practices in the agricultural industry, which implies an intent to influence policy and practice at a broader level. The plan also mentions the council's commitment to working with local community as well as state and federal government to achieve climate smart outcomes, which further supports the assertion that there is an intent to advocate upward to higher levels of government.", "quote": {"content": "The Southern Mallee District Council is committed to supporting our local businesses and industries, and working with our local community as well as state and federal government to achieve climate smart outcomes.", "page": 3, "source": "SouthernMallee-SA-94.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The Southern Mallee District Council's Environmental Action Plan does explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to support the community in building resilience and adapting to climate variation. It also plans to develop and educate the community on emergency management response due to climate variation. Furthermore, the policy includes a plan to partner with regional councils and other groups to develop regional projects to address climate change. This shows a clear intention to build capacity not only within the local council but also within the community and neighbouring councils. The policy also includes actions to support and empower local community groups to take responsibility for environmental outcomes, further demonstrating a commitment to building local capacity for climate action.", "quote": {"content": "Support and empower local community groups to take responsibility for environmental outcomes. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves. Partner with regional councils and other groups to develop regional projects to address climate change.", "page": 9, "source": "SouthernMallee-SA-94.pdf", "search_score": 0.98}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not specify any regional associations, alliances, or other partnerships related to climate. While the policy does mention the intention to 'partner with regional councils and other groups to develop regional projects to address climate change', it does not provide any specific details about who these regional councils or groups are. The policy also mentions partnering with government organisations and local schools, but again, no specific entities are named. Therefore, without specific details or evidence, it cannot be confirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents outline various strategies and actions to address climate change, such as supporting climate smart business innovation, reducing emissions, and building resilience in the community, they do not specifically mention the effects of climate change on vulnerable populations. The focus is primarily on environmental sustainability and resilience, with no explicit mention of social justice or equity considerations in relation to climate change impacts. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on the impact of climate change on vulnerable communities from an equity and social justice perspective."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. The Southern Mallee District Council's Environmental Action Plan focuses on various aspects of climate change mitigation and adaptation, such as building climate-smart resilient communities, reducing emissions, and promoting environmental innovation. However, it does not specifically address the distribution of benefits and opportunities arising from these actions. While the plan does mention supporting the local community and working with regional councils and other groups, it does not detail how it will ensure that the benefits of these actions are shared equitably among different social groups. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 9, "num_questions": 20, "attribute_score": 54.2}}
+{
+  "settings": {
+    "source_files": [
+      "SouthernMallee-SA-94.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T14:06:26.550036",
+    "lga": "SouthernMallee"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Southern Mallee District Council Environmental Action Plan', clearly identifies climate action as its core purpose. The policy outlines a range of strategies and actions aimed at addressing climate change and its impacts. These include supporting community resilience and adaptation to climate variation, developing emergency management responses to climate-related events such as droughts and bushfires, and partnering with regional councils and other groups to develop projects to address climate change. The policy also includes actions aimed at supporting climate-smart business and agricultural practices, and reducing emissions directly from the Council. The policy's focus on climate action is further underscored by its alignment with South Australia's Climate Change Action Plan and the state's goal of reaching net zero emissions by 2050.",
+          "quote": {
+            "content": "Partner with regional councils and other groups to develop regional projects to address climate change. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves.",
+            "page": 9,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines a series of actions and strategies that the Southern Mallee District Council plans to undertake to address climate change. These actions are grouped under various themes such as 'Climate smart business and agricultural practices', 'Climate smart resilient communities', and 'Council leading by example'. The document also mentions the need to adapt to climate variation, develop emergency management responses to climate-related events like droughts and bushfires, and to reduce emissions. The council also plans to introduce environmental innovation or sustainability criteria to their community grant program evaluation. These actions indicate a recognition of the need to address climate change and a commitment to taking action.",
+          "quote": {
+            "content": "The link between a healthy and sustainable environment and the outcomes of long-term economic prosperity and a high quality of life for future generations is apparent.",
+            "page": 3,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a series of actions and strategies that the Southern Mallee District Council plans to undertake to address climate change, including supporting climate smart business and agricultural practices, reducing emissions, and building resilience in communities. However, these actions are presented as part of a long-term plan, with some actions scheduled for future years. The documents do not express a sense of urgency or immediacy in their approach to climate change. Instead, they emphasize a commitment to supporting local businesses, industries, and communities in achieving climate smart outcomes, and to working with state and federal government to this end. The documents also mention the importance of continual improvement and re-evaluation of potential environmental impact, resource constraints, and priorities."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Southern Mallee District Council Environmental Action Plan outlines a series of actions, each with a specified timing. For instance, under the theme 'Climate smart resilient communities', the action 'Introduce an environmental innovation or sustainability criteria to the current community grant program evaluation' is slated for 'Year 2'. Similarly, under 'Council leading by example', the action 'Investigate the feasibility of Council investing in hybrid vehicle technology for its current fleet and continually look to optimise the size and efficiency of the fleet' is also scheduled for 'Year 2'. These examples demonstrate that the policy document does not just outline actions but also provides specific timeframes for their implementation, indicating a sense of urgency and commitment to the actions outlined.",
+          "quote": {
+            "content": "Year 2 TIMING \n6.1 \nIntroduce an environmental innovation or sustainability criteria to the current community \ngrant program evaluation.",
+            "page": 9,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Southern Mallee District Council's Environmental Action Plan outlines various actions and strategies to address climate change, including supporting climate-smart business and agricultural practices, reducing emissions, and building community resilience. However, these actions are presented as part of a comprehensive plan, not as a prioritized response to a climate emergency. The plan does emphasize the importance of climate change mitigation and adaptation, but it does not explicitly prioritize these actions over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change, such as reducing emissions, considering climate variation in projects and contract management, and investing in hybrid vehicle technology. The council also plans to support the community in building resilience and adapting to climate variation, and to develop regional projects to address climate change. However, these actions and strategies are not explicitly stated to be mandatory for all council activities. Therefore, while the council clearly recognizes the importance of addressing climate change and has developed a number of related actions and strategies, it does not explicitly require all council activities to align with these policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions related to climate change, such as supporting community resilience, educating the community on emergency management response due to climate variation, and reducing emissions directly from the Council, it does not specify any budget or funding allocation for these actions. The policy does mention the introduction of an environmental innovation or sustainability criteria to the current community grant program evaluation, and the consideration of funding a local grant scheme specifically for environmentally sustainable innovation of businesses and/or broader environmental initiatives by the community in the future. However, these are not explicit allocations of funding, but rather potential avenues for funding. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The policy outlines various actions and strategies related to climate change, such as supporting community resilience, educating the community on emergency management response, and developing regional projects to address climate change. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. The policy does mention the introduction of environmental innovation or sustainability criteria to the current community grant program evaluation, but this does not necessarily imply the allocation of institutional resources. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Southern Mallee District Council's Environmental Action Plan does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of initiatives aimed at building community resilience and adaptation to climate variation, including the development of emergency management responses to climate-related events such as droughts, bushfires, and heatwaves. The policy also emphasizes the importance of partnering with regional councils and other groups to develop regional projects to address climate change. Furthermore, the policy seeks to empower local community groups to take responsibility for environmental outcomes. This is demonstrated through actions such as introducing an environmental innovation or sustainability criteria to the current community grant program evaluation, supporting community initiatives to establish community gardens, and supporting community groups in obtaining grant funding relating to environmental innovation or sustainability projects in the district.",
+          "quote": {
+            "content": "Support and empower local community groups to take responsibility for environmental outcomes. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves. Partner with regional councils and other groups to develop regional projects to address climate change.",
+            "page": 9,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Southern Mallee District Council's Environmental Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of strategies and actions that can be undertaken to reduce the impact on the environment, such as saving energy and reducing waste. It also mentions the development of climate-smart innovation and the mitigation of severe climate events. The plan includes specific focus areas such as reducing transport emissions, climate-smart buildings, urban environments, and assets, and climate-smart landscapes and habitats. The council also plans to lead by example, with actions such as investigating the feasibility of investing in hybrid vehicle technology for its current fleet and considering energy and water efficiencies in procurement policies. The plan also includes actions to support the community in building resilience and adapting to climate variation, and to educate the community on emergency management response due to climate variation.",
+          "quote": {
+            "content": "In developing The Southern Mallee District Council is committed to supporting our local businesses and industries, and working with our local community as well as state and federal government to achieve climate smart outcomes.",
+            "page": 3,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Southern Mallee District Council Environmental Action Plan does include specific actions for climate adaptation and resilience. The plan outlines a focus on 'Climate smart resilient communities' and includes actions such as supporting the community in building resilience and adapting to climate variation, developing and educating the community on emergency management response due to climate variation, and partnering with regional councils and other groups to develop regional projects to address climate change. The plan also includes future actions such as evaluating the benefits of establishing a new sustainability advisory committee that focuses on an Environmental Strategy. These actions indicate a clear commitment to climate adaptation and resilience, with a focus on community engagement and education, regional collaboration, and strategic planning.",
+          "quote": {
+            "content": "Partner with regional councils and other groups to develop regional projects to address climate change. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves.",
+            "page": 9,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions related to climate change, such as supporting community resilience, educating the community on emergency management response, and developing regional projects to address climate change, it does not provide specific, well-sourced evidence to justify these actions. The policy mentions the introduction of environmental innovation or sustainability criteria to the community grant program evaluation, the feasibility of investing in hybrid vehicle technology, and the consideration of climate variation in projects, contract management, and risk registers. However, these actions are not backed by specific evidence or sources that justify why these actions are necessary or effective in addressing climate change. The policy also does not provide specific climate targets that these actions are intended to achieve. Therefore, the policy does not meet the high standard of evidence and specific detail required to answer the question in the affirmative."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's environmental action plan does outline a number of actions related to climate change, such as supporting community resilience, educating the community on emergency management response, and partnering with regional councils to address climate change. However, the plan does not provide specific measurable criteria to evaluate the success of these actions. The actions are stated in general terms, and while some have a specified timing, there are no clear indicators or targets that would allow for a quantitative assessment of whether the action has been successfully implemented or achieved its intended outcome. The lack of specific measurable criteria makes it difficult to assess the effectiveness of the plan and to hold the local government accountable for its implementation."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The policy outlines various actions and strategies to address climate change, such as supporting climate smart business innovation, reducing emissions, and educating the community on emergency management response due to climate variation. However, these actions seem to be based on general climate change mitigation strategies rather than on research conducted specifically within the local community. The policy does mention the advocacy for further research into environmentally sustainable practices in the agricultural industry, but this does not necessarily imply that the local government itself will conduct this research. Therefore, the documents do not provide sufficient detail to affirm that there are plans to conduct local community research to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the Southern Mallee District Council's Environmental Action Plan outlines various actions and initiatives to address climate change, these are largely broad strategies and commitments rather than specific, small-scale experiments under real-world conditions. The actions include supporting community resilience, educating the community on emergency management response, partnering with regional councils, and introducing environmental innovation criteria to community grant programs. However, these actions do not clearly align with the definition of experiments as initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The Southern Mallee District Council Environmental Action Plan does show an explicit intent to advocate upward to state and national governments to support climate action. The plan outlines a commitment to partnering with regional councils and other groups to develop regional projects to address climate change. This suggests a willingness to engage with higher levels of government and other organizations to achieve climate action goals. Furthermore, the plan includes actions such as advocating for further research into environmentally sustainable practices in the agricultural industry, which implies an intent to influence policy and practice at a broader level. The plan also mentions the council's commitment to working with local community as well as state and federal government to achieve climate smart outcomes, which further supports the assertion that there is an intent to advocate upward to higher levels of government.",
+          "quote": {
+            "content": "The Southern Mallee District Council is committed to supporting our local businesses and industries, and working with our local community as well as state and federal government to achieve climate smart outcomes.",
+            "page": 3,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Southern Mallee District Council's Environmental Action Plan does explicitly encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to support the community in building resilience and adapting to climate variation. It also plans to develop and educate the community on emergency management response due to climate variation. Furthermore, the policy includes a plan to partner with regional councils and other groups to develop regional projects to address climate change. This shows a clear intention to build capacity not only within the local council but also within the community and neighbouring councils. The policy also includes actions to support and empower local community groups to take responsibility for environmental outcomes, further demonstrating a commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Support and empower local community groups to take responsibility for environmental outcomes. Develop and educate our community on emergency management response due to climate variation - drought, bushfires, heatwaves. Partner with regional councils and other groups to develop regional projects to address climate change.",
+            "page": 9,
+            "source": "SouthernMallee-SA-94.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not specify any regional associations, alliances, or other partnerships related to climate. While the policy does mention the intention to 'partner with regional councils and other groups to develop regional projects to address climate change', it does not provide any specific details about who these regional councils or groups are. The policy also mentions partnering with government organisations and local schools, but again, no specific entities are named. Therefore, without specific details or evidence, it cannot be confirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents outline various strategies and actions to address climate change, such as supporting climate smart business innovation, reducing emissions, and building resilience in the community, they do not specifically mention the effects of climate change on vulnerable populations. The focus is primarily on environmental sustainability and resilience, with no explicit mention of social justice or equity considerations in relation to climate change impacts. Therefore, based on the provided documents, it cannot be affirmed that there is a discussion on the impact of climate change on vulnerable communities from an equity and social justice perspective."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. The Southern Mallee District Council's Environmental Action Plan focuses on various aspects of climate change mitigation and adaptation, such as building climate-smart resilient communities, reducing emissions, and promoting environmental innovation. However, it does not specifically address the distribution of benefits and opportunities arising from these actions. While the plan does mention supporting the local community and working with regional councils and other groups, it does not detail how it will ensure that the benefits of these actions are shared equitably among different social groups. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 54.2
+  }
+}

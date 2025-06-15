@@ -1,1 +1,305 @@
-{"settings": {"source_files": ["Midcoast-NSW-267.pdf", "Midcoast-NSW-270.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T11:18:38.120994", "lga": "Midcoast"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose. The policy is designed to guide the local government's response to climate change, with a focus on both mitigation and adaptation strategies. The policy outlines a commitment to urgent action in response to the climate emergency declaration, with a focus on long-term mitigation and adaptation to the effects of climate change. The policy also emphasizes the importance of an evidence-based and risk-informed approach to assessing climate change impacts and responses. Furthermore, the policy outlines a commitment to reducing emissions from operations and ensuring that assets and services are resilient to the impacts of climate change. The policy also highlights the importance of collaboration with community and business groups, state government, neighboring councils, and the wider community to increase understanding and accelerate the implementation of climate change responses.", "quote": {"content": "MidCoast Council\u2019s Climate Change Policy and future actions will be guided by the following: \n\u2022 Council will adopt a precautionary-principled response to climate change, by taking \nurgent action in line with its June 2019 resolution and subsequent climate emergency \ndeclaration, to mitigate and adapt to the effects of climate change over the long term.", "page": 2, "source": "Midcoast-NSW-270.pdf", "search_score": 0.91}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through a variety of strategies and actions. The Climate Change Policy and Strategy aligns with the Council\u2019s Community Strategic Plan, which includes a proactive management of resource consumption. The policy also acknowledges the risks of climate change, such as increased flooding, sea level rise, and changes in rainfall patterns. The documents also highlight the importance of protecting biodiversity and the role of trees and wetlands in carbon sequestration. The policy is guided by principles such as adopting a precautionary response to climate change, implementing an evidence-based and risk-informed approach, and integrating economic, social, and environmental factors into decision-making processes. The documents also emphasize the importance of collaboration with the community, businesses, and other levels of government in developing solutions to climate change."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for urgent action on climate change. The MidCoast Council has recognized a state of climate emergency, which by definition requires urgent action to reduce or halt climate change and avoid potentially irreversible environmental damage. The council has committed to taking clear steps to avert a climate crisis, and this commitment is reflected in their development of a risk-based Climate Change Policy and Action Plan. The council's Climate Change Policy is guided by the principle of adopting a 'precautionary-principled response to climate change', which involves taking urgent action to mitigate and adapt to the effects of climate change over the long term. The council's recognition of the climate emergency and their commitment to urgent action is a clear call for rapid and urgent action on climate change.", "quote": {"content": "Council will adopt a precautionary-principled response to climate change, by taking urgent action in line with its June 2019 resolution and subsequent climate emergency declaration, to mitigate and adapt to the effects of climate change over the long term.", "page": 11, "source": "Midcoast-NSW-267.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. It mentions a 'short to medium term action plan' which is to be implemented within the next two Operational Plan periods up to the end of the next Delivery Program cycle for MidCoast Council. This suggests a specific timeframe within which the council plans to take action. The document also mentions the development of a risk-based Climate Change Policy and Action Plan, indicating a structured approach to addressing climate change. However, it does not provide specific dates or years, which could limit the clarity of the timeframe. The document also refers to the 'urgent action' required in response to climate change, indicating a sense of immediacy in the council's approach.", "quote": {"content": "within the next two Operational Plan periods up to the end of the next Delivery Program cycle for MidCoast Council), more than 200 mitigation and adaptation actions are recommended and included in this report that will help Council to achieve significant resource, emissions and cost savings, and achieve its targets.", "page": 12, "source": "Midcoast-NSW-267.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly rank it above other policy areas. The documents outline the local government's commitment to addressing climate change through various strategies and actions, such as reducing emissions, adopting adaptation measures, and integrating climate change planning into decision-making processes. They also highlight the importance of collaboration with various stakeholders, including community and business groups, state government, and neighboring councils, in implementing climate change responses. However, these commitments and strategies are presented as part of the local government's overall policy framework, rather than as priorities that supersede other policy areas."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, provide a framework for integrating climate change considerations into various aspects of council operations. For instance, the documents mention that climate change should be integrated into planning and decision-making processes, and that the development of the Climate Change Policy and Strategy aligns with the Council\u2019s Community Strategic Plan. The documents also suggest that the council will adopt a risk-informed approach to assessing climate change impacts and responses in its operations, and that it will reduce emissions from its operations and ensure its assets and services are resilient to the impacts of climate change. However, these statements do not necessarily imply that all council activities must be aligned with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's climate change policy does indeed allocate resources for climate action, although the specifics of the funding are not explicitly detailed in the provided documents. The policy outlines the creation of a new staff position to progress work related to climate change, indicating an allocation of human resources. It also mentions the implementation of solar PV projects, which would require financial resources. Furthermore, the policy discusses the need for budgeting for short to medium term emissions, suggesting that financial resources are being allocated for this purpose. The policy also mentions the identification of potential sources of funding and financing opportunities from other levels of government, the private sector, and NGOs, indicating a proactive approach to resource mobilization for climate action.", "quote": {"content": "Create a new staff position to progress Phase 1 and in particular Phase 2 work that engages with the MidCoast community; 4.", "page": 12, "source": "Midcoast-NSW-267.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate change policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines specific roles and responsibilities for different levels of staff, from directors to managers and coordinators, to all council staff. These roles include communicating the policy, integrating climate change into planning and decision-making, and ensuring compliance with the policy. The policy also calls for the creation of a new staff position to progress the work of the policy, particularly in engaging with the community. Furthermore, the policy outlines the need for staff in various functional areas of the council to assess and respond to climate-related risks. This includes staff in natural resources and sustainability, engineering, planning, health, property services, and the executive. The policy also calls for the development of consistent planning frameworks for use across the council."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is committed to empowering and educating the community to work together to address climate change. The policy outlines a proactive and collaborative process to inform, educate, and work with the community, business, and other levels of government to develop solutions to climate change. It also acknowledges that responding to climate change is a shared responsibility among the Council, the community, and businesses. The policy further emphasizes the need for collaboration and planning to make communities and environments more resilient to climate change. The Council also plans to create a new staff position to engage with the community, indicating a commitment to fostering dialogue and cooperation. However, the documents do not provide specific details on the methods or strategies that will be used to educate and mobilize the community.", "quote": {"content": "Council will adopt a proactive and collaborative process to inform, educate and work with the community, business and other levels of government to develop solutions to climate change.", "page": 2, "source": "Midcoast-NSW-270.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate change policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a multi-year program of work that will implement measures to reduce emissions. These measures are categorized into short, medium, and long-term actions, based on priorities, costs, and the maturity of the recommended technology. The policy also emphasizes the importance of investing in measures that improve the Council\u2019s bottom line. The policy also includes the creation of a new staff position to implement the strategy and engage with the community. Furthermore, the policy outlines the implementation of small to medium-sized solar PV projects across the Water Services portfolio to achieve 'quick wins' and establish a process for future installations. The policy also mandates the incorporation of solar PV, best practice efficiency, and control in all new developments. The policy also includes the review and incorporation of priority actions for mitigation, sequestration, and climate adaptation in Council\u2019s next Delivery Program and Operational Plans."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes conducting a climate change risk assessment across the council's assets and operations, and developing an adaptation plan. The adaptation plan is designed to manage or reduce the adverse consequences of a changed climate. It includes measures such as embedding adaptive measures into council operations and processes, and addressing climate risks while reducing the cost and extent of remedial action. The plan also includes short-term, medium-term, and long-term adaptation actions, which are prioritised based on factors such as political feasibility, cost, community acceptance, influence level, and concurrent effects. The plan also emphasises the importance of community engagement in managing climate change risks and impacts.", "quote": {"content": "Adaptation planning on climate change can help to embed adaptive measures into council operations and processes. Adapting to climate change means taking action to manage or reduce the adverse consequences of a changed climate.44 To manage current and future climate, local governments need to adapt their assets, resourcing and operations. Adaptation planning is the process of analysing, selecting and prioritising measures in response.", "page": 85, "source": "Midcoast-NSW-267.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify the climate targets and actions. While the documents mention the need for a 'precautionary principled response to climate change' and an 'evidence-based and risk-informed approach to actions', they do not provide specific sources or data to back up these claims. The documents also mention the need for 'targets for renewable energy and greenhouse gas emissions by 2040', but again, no specific evidence or sources are provided to justify these targets. The documents also mention the need for 'adaptation actions', but do not provide any evidence or sources to justify these actions. Therefore, while the documents do mention the need for evidence-based action and have set targets, they do not provide the necessary evidence or sources to justify these actions and targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's climate change strategy does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines the need for a reporting framework that integrates the plan, key performance indicators (KPIs), climate change policy, and relevant strategic plans. It also mentions the implementation of suitable measurement and verification systems, including the analysis of monitoring systems to determine overall progress on emissions reduction. Furthermore, the plan emphasizes the need for regular monitoring and review to consider whether actions are achieving the desired results. This includes outlining the indicators, performance measures, and targets used to measure success. Therefore, the plan does provide a framework for evaluating the success of its proposed actions using specific, measurable criteria.", "quote": {"content": "As part of further work, Council should outline the indicators, performance measures and targets used to measure success.", "page": 93, "source": "Midcoast-NSW-267.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to climate change adaptation and mitigation, which includes identifying potential climate change risks to various stakeholders including residents, businesses, farmers, and the environment. The documents also mention the development of a risk-based Climate Change Policy and Action Plan, which will involve engaging with the community to ensure climate change risks and impacts are understood and managed collaboratively. This suggests that the local government plans to conduct research within the community to inform its climate actions. Furthermore, the documents mention the identification of activities, programs, and projects that the Council could undertake in partnership with the residents, businesses, and farmers of the MidCoast Council to reduce climate impacts. This further indicates a plan to conduct research within the community to inform climate actions.", "quote": {"content": "Developing a climate change policy and an action plan is the first step, and we will engage with our community to ensure climate change risks and impacts are understood and managed collaboratively.", "page": 31, "source": "Midcoast-NSW-267.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the local government policy does outline a comprehensive approach to addressing climate change, including integrating climate change planning into decision-making processes, adopting a proactive and collaborative process to work with the community, and identifying climate change finance and investment opportunities, these actions are largely standard responses to climate change. They represent good governance and responsible planning, but they do not necessarily indicate innovation or policy experimentation. The documents mention the development of a Climate Change Policy and Action Plan, risk-based assessments, and the integration of climate change into planning and decision-making. However, these are standard practices in climate change policy and do not represent innovative or experimental approaches. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the need for collaboration and partnerships, they do not specify that these partnerships will be with state and national governments. The documents focus more on the local government's own strategies and actions to address climate change, such as integrating climate change planning into the council's Integrated and Planning Reporting Framework, educating and working with the community, and developing climate change finance and investment opportunities. The documents also mention the need for regular monitoring and review of climate change actions, and the integration of climate change considerations into planning and decision-making processes. However, they do not explicitly state that the local government will advocate to higher levels of government for support in these efforts."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a proactive and collaborative process to inform, educate, and work with the community, business, and other levels of government to develop solutions to climate change. It also recognizes that responding to climate change is a shared responsibility by the council, the community, and business. The policy further suggests that the council should take care to align adaptation actions with the planning and reporting guidelines for NSW local government, which include a 10-year community strategic plan, a resourcing strategy, a delivery program, and annual operational plans. The policy also suggests that many of the adaptation actions can be pursued at the regional level through the council\u2019s participation in the Hunter Joint Organisation of Councils.", "quote": {"content": "Responding to climate change is a responsibility shared by Council, the community and business, and significant reductions in regional emissions will happen if all stakeholders work together. 7. Council will adopt a proactive and collaborative process to inform, educate and work with the community, business and other levels of government to develop solutions to climate change. 8. Council recognises that the risks of climate change and the adaptation responses vary across the region, and collaboration and planning to make communities and environments more resilient will reflect this. 9.", "page": 11, "source": "Midcoast-NSW-267.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations and partnerships related to climate. It mentions the Hunter Joint Organisation of Councils as a platform for pursuing adaptation actions at the regional level. This suggests that the local government is not working in isolation but is part of a broader network of councils collaborating on climate change adaptation. The document also highlights the importance of regular monitoring and review to ensure the effectiveness of these actions, indicating a commitment to evidence-based policy and practice. Furthermore, the document mentions the need for Council to monitor the NSW Government\u2019s NARCliM webpage for new climate change projections, indicating a connection with state-level resources and data. This shows that the local government is actively seeking to integrate its efforts with those at the regional and state levels."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline the local government's approach to climate change, including risk assessments, adaptation measures, and collaboration with various stakeholders, there is no specific mention of how climate change impacts vulnerable communities. The documents focus more on the environmental and operational impacts of climate change, such as changes in rainfall patterns, increased risk of drought, and the potential for increased water consumption. The documents also discuss the importance of community education and awareness, but do not specifically address the issue of equity and social justice in relation to climate change."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the integration of economic, social, and environmental factors into decision-making processes, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy also mentions the importance of collaboration with the community, business, and other levels of government to develop solutions to climate change, but again, there is no explicit mention of equity or social justice in the distribution of these benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered positively."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 71.7}}
+{
+  "settings": {
+    "source_files": [
+      "Midcoast-NSW-267.pdf",
+      "Midcoast-NSW-270.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T11:18:38.120994",
+    "lga": "Midcoast"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. The policy is designed to guide the local government's response to climate change, with a focus on both mitigation and adaptation strategies. The policy outlines a commitment to urgent action in response to the climate emergency declaration, with a focus on long-term mitigation and adaptation to the effects of climate change. The policy also emphasizes the importance of an evidence-based and risk-informed approach to assessing climate change impacts and responses. Furthermore, the policy outlines a commitment to reducing emissions from operations and ensuring that assets and services are resilient to the impacts of climate change. The policy also highlights the importance of collaboration with community and business groups, state government, neighboring councils, and the wider community to increase understanding and accelerate the implementation of climate change responses.",
+          "quote": {
+            "content": "MidCoast Council\u2019s Climate Change Policy and future actions will be guided by the following: \n\u2022 Council will adopt a precautionary-principled response to climate change, by taking \nurgent action in line with its June 2019 resolution and subsequent climate emergency \ndeclaration, to mitigate and adapt to the effects of climate change over the long term.",
+            "page": 2,
+            "source": "Midcoast-NSW-270.pdf",
+            "search_score": 0.91
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing climate change through a variety of strategies and actions. The Climate Change Policy and Strategy aligns with the Council\u2019s Community Strategic Plan, which includes a proactive management of resource consumption. The policy also acknowledges the risks of climate change, such as increased flooding, sea level rise, and changes in rainfall patterns. The documents also highlight the importance of protecting biodiversity and the role of trees and wetlands in carbon sequestration. The policy is guided by principles such as adopting a precautionary response to climate change, implementing an evidence-based and risk-informed approach, and integrating economic, social, and environmental factors into decision-making processes. The documents also emphasize the importance of collaboration with the community, businesses, and other levels of government in developing solutions to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The MidCoast Council has recognized a state of climate emergency, which by definition requires urgent action to reduce or halt climate change and avoid potentially irreversible environmental damage. The council has committed to taking clear steps to avert a climate crisis, and this commitment is reflected in their development of a risk-based Climate Change Policy and Action Plan. The council's Climate Change Policy is guided by the principle of adopting a 'precautionary-principled response to climate change', which involves taking urgent action to mitigate and adapt to the effects of climate change over the long term. The council's recognition of the climate emergency and their commitment to urgent action is a clear call for rapid and urgent action on climate change.",
+          "quote": {
+            "content": "Council will adopt a precautionary-principled response to climate change, by taking urgent action in line with its June 2019 resolution and subsequent climate emergency declaration, to mitigate and adapt to the effects of climate change over the long term.",
+            "page": 11,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It mentions a 'short to medium term action plan' which is to be implemented within the next two Operational Plan periods up to the end of the next Delivery Program cycle for MidCoast Council. This suggests a specific timeframe within which the council plans to take action. The document also mentions the development of a risk-based Climate Change Policy and Action Plan, indicating a structured approach to addressing climate change. However, it does not provide specific dates or years, which could limit the clarity of the timeframe. The document also refers to the 'urgent action' required in response to climate change, indicating a sense of immediacy in the council's approach.",
+          "quote": {
+            "content": "within the next two Operational Plan periods up to the end of the next Delivery Program cycle for MidCoast Council), more than 200 mitigation and adaptation actions are recommended and included in this report that will help Council to achieve significant resource, emissions and cost savings, and achieve its targets.",
+            "page": 12,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly rank it above other policy areas. The documents outline the local government's commitment to addressing climate change through various strategies and actions, such as reducing emissions, adopting adaptation measures, and integrating climate change planning into decision-making processes. They also highlight the importance of collaboration with various stakeholders, including community and business groups, state government, and neighboring councils, in implementing climate change responses. However, these commitments and strategies are presented as part of the local government's overall policy framework, rather than as priorities that supersede other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. They do, however, provide a framework for integrating climate change considerations into various aspects of council operations. For instance, the documents mention that climate change should be integrated into planning and decision-making processes, and that the development of the Climate Change Policy and Strategy aligns with the Council\u2019s Community Strategic Plan. The documents also suggest that the council will adopt a risk-informed approach to assessing climate change impacts and responses in its operations, and that it will reduce emissions from its operations and ensure its assets and services are resilient to the impacts of climate change. However, these statements do not necessarily imply that all council activities must be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate change policy does indeed allocate resources for climate action, although the specifics of the funding are not explicitly detailed in the provided documents. The policy outlines the creation of a new staff position to progress work related to climate change, indicating an allocation of human resources. It also mentions the implementation of solar PV projects, which would require financial resources. Furthermore, the policy discusses the need for budgeting for short to medium term emissions, suggesting that financial resources are being allocated for this purpose. The policy also mentions the identification of potential sources of funding and financing opportunities from other levels of government, the private sector, and NGOs, indicating a proactive approach to resource mobilization for climate action.",
+          "quote": {
+            "content": "Create a new staff position to progress Phase 1 and in particular Phase 2 work that engages with the MidCoast community; 4.",
+            "page": 12,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change policy does indeed allocate staff and other non-monetary institutional resources to climate action. The policy outlines specific roles and responsibilities for different levels of staff, from directors to managers and coordinators, to all council staff. These roles include communicating the policy, integrating climate change into planning and decision-making, and ensuring compliance with the policy. The policy also calls for the creation of a new staff position to progress the work of the policy, particularly in engaging with the community. Furthermore, the policy outlines the need for staff in various functional areas of the council to assess and respond to climate-related risks. This includes staff in natural resources and sustainability, engineering, planning, health, property services, and the executive. The policy also calls for the development of consistent planning frameworks for use across the council."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is committed to empowering and educating the community to work together to address climate change. The policy outlines a proactive and collaborative process to inform, educate, and work with the community, business, and other levels of government to develop solutions to climate change. It also acknowledges that responding to climate change is a shared responsibility among the Council, the community, and businesses. The policy further emphasizes the need for collaboration and planning to make communities and environments more resilient to climate change. The Council also plans to create a new staff position to engage with the community, indicating a commitment to fostering dialogue and cooperation. However, the documents do not provide specific details on the methods or strategies that will be used to educate and mobilize the community.",
+          "quote": {
+            "content": "Council will adopt a proactive and collaborative process to inform, educate and work with the community, business and other levels of government to develop solutions to climate change.",
+            "page": 2,
+            "source": "Midcoast-NSW-270.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate change policy indeed includes specific actions for the mitigation of greenhouse gas emissions. The policy outlines a multi-year program of work that will implement measures to reduce emissions. These measures are categorized into short, medium, and long-term actions, based on priorities, costs, and the maturity of the recommended technology. The policy also emphasizes the importance of investing in measures that improve the Council\u2019s bottom line. The policy also includes the creation of a new staff position to implement the strategy and engage with the community. Furthermore, the policy outlines the implementation of small to medium-sized solar PV projects across the Water Services portfolio to achieve 'quick wins' and establish a process for future installations. The policy also mandates the incorporation of solar PV, best practice efficiency, and control in all new developments. The policy also includes the review and incorporation of priority actions for mitigation, sequestration, and climate adaptation in Council\u2019s next Delivery Program and Operational Plans."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes conducting a climate change risk assessment across the council's assets and operations, and developing an adaptation plan. The adaptation plan is designed to manage or reduce the adverse consequences of a changed climate. It includes measures such as embedding adaptive measures into council operations and processes, and addressing climate risks while reducing the cost and extent of remedial action. The plan also includes short-term, medium-term, and long-term adaptation actions, which are prioritised based on factors such as political feasibility, cost, community acceptance, influence level, and concurrent effects. The plan also emphasises the importance of community engagement in managing climate change risks and impacts.",
+          "quote": {
+            "content": "Adaptation planning on climate change can help to embed adaptive measures into council operations and processes. Adapting to climate change means taking action to manage or reduce the adverse consequences of a changed climate.44 To manage current and future climate, local governments need to adapt their assets, resourcing and operations. Adaptation planning is the process of analysing, selecting and prioritising measures in response.",
+            "page": 85,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify the climate targets and actions. While the documents mention the need for a 'precautionary principled response to climate change' and an 'evidence-based and risk-informed approach to actions', they do not provide specific sources or data to back up these claims. The documents also mention the need for 'targets for renewable energy and greenhouse gas emissions by 2040', but again, no specific evidence or sources are provided to justify these targets. The documents also mention the need for 'adaptation actions', but do not provide any evidence or sources to justify these actions. Therefore, while the documents do mention the need for evidence-based action and have set targets, they do not provide the necessary evidence or sources to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change strategy does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines the need for a reporting framework that integrates the plan, key performance indicators (KPIs), climate change policy, and relevant strategic plans. It also mentions the implementation of suitable measurement and verification systems, including the analysis of monitoring systems to determine overall progress on emissions reduction. Furthermore, the plan emphasizes the need for regular monitoring and review to consider whether actions are achieving the desired results. This includes outlining the indicators, performance measures, and targets used to measure success. Therefore, the plan does provide a framework for evaluating the success of its proposed actions using specific, measurable criteria.",
+          "quote": {
+            "content": "As part of further work, Council should outline the indicators, performance measures and targets used to measure success.",
+            "page": 93,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indicate plans to conduct research in the local community to inform climate actions. The local government has outlined a comprehensive approach to climate change adaptation and mitigation, which includes identifying potential climate change risks to various stakeholders including residents, businesses, farmers, and the environment. The documents also mention the development of a risk-based Climate Change Policy and Action Plan, which will involve engaging with the community to ensure climate change risks and impacts are understood and managed collaboratively. This suggests that the local government plans to conduct research within the community to inform its climate actions. Furthermore, the documents mention the identification of activities, programs, and projects that the Council could undertake in partnership with the residents, businesses, and farmers of the MidCoast Council to reduce climate impacts. This further indicates a plan to conduct research within the community to inform climate actions.",
+          "quote": {
+            "content": "Developing a climate change policy and an action plan is the first step, and we will engage with our community to ensure climate change risks and impacts are understood and managed collaboratively.",
+            "page": 31,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline the local government's plans and strategies for addressing climate change, including mitigation and adaptation measures, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents discuss the development of a risk-based Climate Change Policy and Action Plan, the adoption of a precautionary-principled response to climate change, and the integration of climate change planning into Council\u2019s Integrated and Planning Reporting Framework. However, these do not constitute policy experimentation as defined in the question."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the need for collaboration and partnerships, they do not specify that these partnerships will be with state and national governments. The documents focus more on the local government's own strategies and actions to address climate change, such as integrating climate change planning into the council's Integrated and Planning Reporting Framework, educating and working with the community, and developing climate change finance and investment opportunities. The documents also mention the need for regular monitoring and review of climate change actions, and the integration of climate change considerations into planning and decision-making processes. However, they do not explicitly state that the local government will advocate to higher levels of government for support in these efforts."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a proactive and collaborative process to inform, educate, and work with the community, business, and other levels of government to develop solutions to climate change. It also recognizes that responding to climate change is a shared responsibility by the council, the community, and business. The policy further suggests that the council should take care to align adaptation actions with the planning and reporting guidelines for NSW local government, which include a 10-year community strategic plan, a resourcing strategy, a delivery program, and annual operational plans. The policy also suggests that many of the adaptation actions can be pursued at the regional level through the council\u2019s participation in the Hunter Joint Organisation of Councils.",
+          "quote": {
+            "content": "Responding to climate change is a responsibility shared by Council, the community and business, and significant reductions in regional emissions will happen if all stakeholders work together. 7. Council will adopt a proactive and collaborative process to inform, educate and work with the community, business and other levels of government to develop solutions to climate change. 8. Council recognises that the risks of climate change and the adaptation responses vary across the region, and collaboration and planning to make communities and environments more resilient will reflect this. 9.",
+            "page": 11,
+            "source": "Midcoast-NSW-267.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate. It mentions the Hunter Joint Organisation of Councils as a platform for pursuing adaptation actions at the regional level. This suggests that the local government is not working in isolation but is part of a broader network of councils collaborating on climate change adaptation. The document also highlights the importance of regular monitoring and review to ensure the effectiveness of these actions, indicating a commitment to evidence-based policy and practice. Furthermore, the document mentions the need for Council to monitor the NSW Government\u2019s NARCliM webpage for new climate change projections, indicating a connection with state-level resources and data. This shows that the local government is actively seeking to integrate its efforts with those at the regional and state levels."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do outline the local government's approach to climate change, including risk assessments, adaptation measures, and collaboration with various stakeholders, there is no specific mention of how climate change impacts vulnerable communities. The documents focus more on the environmental and operational impacts of climate change, such as changes in rainfall patterns, increased risk of drought, and the potential for increased water consumption. The documents also discuss the importance of community education and awareness, but do not specifically address the issue of equity and social justice in relation to climate change."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the integration of economic, social, and environmental factors into decision-making processes, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy also mentions the importance of collaboration with the community, business, and other levels of government to develop solutions to climate change, but again, there is no explicit mention of equity or social justice in the distribution of these benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered positively."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

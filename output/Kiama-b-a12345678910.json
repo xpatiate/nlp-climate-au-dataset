@@ -1,1 +1,306 @@
-{"settings": {"source_files": ["Kiama-NSW-264.pdf", "Kiama-NSW-265.pdf", "Kiama-NSW-266.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "0f5383b7e3e3a24421081bc65b5eb9309cc5d947", "rundate": "2024-07-01T20:35:00.233697", "lga": "Kiama"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review is primarily focused on climate action. It is designed to address the risks associated with climate change and to develop strategies for adaptation. The policy outlines a detailed adaptation action plan that provides specific actions to address key climate change risks. The policy also emphasizes the importance of integrating these adaptation strategies into the existing planning and management framework of the local government. The policy's main objectives include promoting a cultural shift towards considering climate change risks in all of the council's long-term planning, financial management, operations, and service delivery. It also aims to engage with the local community to increase awareness of climate change risks and encourage ownership of initiatives. Therefore, it is clear that the core purpose or goal of the policy is climate action."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents provide explicit reasons for the need for action on climate change. The Climate Change Adaptation Strategy and Action Plan developed by the Southern Councils Group is aimed at addressing the risks associated with climate change. The documents highlight the importance of adaptation actions as management responses to these risks, focusing on sustainable outcomes. The plan includes actions such as further investigations to refine climate change projections, planning in various areas including land use and emergency management, advocacy to State Government agencies, and education and information programs for the local community. The documents also mention the potential legal liability local governments could face if they fail to take reasonable steps to account for the likely effects of climate change. Therefore, the need for action on climate change is clearly articulated in these documents.", "quote": {"content": "Climate change mitigation relates to management and reduction of energy consumption and greenhouse gas emissions.", "page": 11, "source": "Kiama-NSW-266.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents do explicitly call for rapid and urgent action on climate change. The local government policy acknowledges the need for a 'combined and concerted response' to reduce human-induced emissions and contain global warming to below 2\u00b0C of pre-industrial levels, as required by the Paris Agreement. The policy also recognizes the challenge of reducing the Council's carbon emissions but sees it as an opportunity to show leadership and demonstrate the benefits of acting on climate change. The policy further outlines the Council's commitments and pathways to reducing emissions and mitigating the effects of climate change. The Climate Change Adaptation Strategy and Action Plan also provides a framework for developing adaptation actions to address high and extreme risks identified in the risk assessment. These documents clearly indicate an understanding of the urgency of climate change action and a commitment to taking steps to address it.", "quote": {"content": "In order to curb the impacts of climate change and avoid catastrophic consequences, a combined and concerted response is required to rapidly reduce the amount of human induced emissions and contain global warming to below 2\u00b0C of pre-industrial levels, as legally required by the Paris Agreement (4).", "page": 6, "source": "Kiama-NSW-264.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Adaptation Strategy and Action Plan outlines a timeline for implementation of various actions. It categorizes these actions into short (1-2 years), medium (2-5 years), and long (5-10 years) timeframes. This indicates a clear schedule for the execution of the plan's strategies. Furthermore, the documents mention the need for annual monitoring of the implementation of actions, which suggests a continuous and ongoing commitment to the policy's objectives. However, it should be noted that while the documents provide these timeframes, the effectiveness of the actions and the adherence to these schedules would need to be evaluated through further monitoring and reporting.", "quote": {"content": "Supplementary detail on each action is provided in Appendix A including details of Lead Agency, key stakeholders and timeframes (where short is 1-2 years, medium is 2-5 years and long is 5 \u2013 10 years). This provides an \u2018at a glance\u2019 adaptation plan with associated priorities for implementation.", "page": 19, "source": "Kiama-NSW-266.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. They do outline a comprehensive Climate Change Adaptation Strategy and Action Plan, which includes various adaptation actions such as further investigations to refine climate change projections, planning, advocacy, education and information programs, reviewing design standards, and finance arrangements. However, these actions are not explicitly prioritized over other policies. The documents emphasize the importance of addressing climate change risks and developing adaptation strategies, but they do not make a direct comparison between the priority of these actions and other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of considering climate change risks in various aspects of council planning and operations. For instance, the documents mention the need for councils to consider climate change risks in their long-term planning, financial management, operations, and service delivery. They also discuss the importance of integrating climate change adaptation strategies into council planning documents and operations. However, these references do not amount to a clear requirement that all council activities must be aligned with climate policy. Instead, they suggest that climate change considerations should be integrated into various aspects of council activities, without explicitly stating that all such activities must be aligned with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines several actions that involve financial arrangements and resource mobilisation. For instance, it mentions the review of finance arrangements, including investment, budgets, procurement, subsidies, grants, and rebates. It also discusses securing additional revenue for climate adaptation planning through grants and levies. Furthermore, the plan mentions advocating to the Department of Water and Energy for increased funding for asset management, monitoring, maintenance, and replacement, and new stormwater drainage works. The plan also suggests introducing a tourism levy to modify tourist facilities to projected climate change impacts. Therefore, the plan does not only allocate funding for climate action but also seeks additional funding and revenue sources to support climate change adaptation initiatives."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, it mentions the need to build organisational capacity to respond to a rising demand in mental health and counselling services due to the impacts of climate change. This implies the allocation of staff resources to manage these services. Additionally, the plan advocates for the review and increase of capacity of community services, which would likely involve the allocation of staff resources. The plan also suggests engaging with health service providers to share resources, which could include staff resources. However, the plan does not provide specific details on the number of staff to be allocated or the exact nature of their roles in these actions.", "quote": {"content": "Councils must seek to build organisational capacity to be able to respond to a rising demand in mental health and counselling services due to the impacts of climate change.", "page": 39, "source": "Kiama-NSW-266.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents do indicate that the local government is taking steps to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of strategies that involve community engagement and education. For instance, the policy advocates for the development of an education program to inform the community about risks associated with extreme weather events. It also encourages council staff and the community to volunteer in emergency services, which would enhance the community's resilience to climate change impacts. Furthermore, the policy emphasizes the importance of engaging with the local community to increase awareness of climate change risks and encourage ownership of initiatives. However, the documents do not provide specific details on how these strategies are being implemented or their effectiveness."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reducing the Council's carbon emissions and its contribution to climate change, viewing this as an opportunity to demonstrate leadership and the benefits of acting on climate change. The plan also includes researching innovative and proven emissions reduction technologies, reducing energy consumption, and replacing current energy sources with cleaner alternatives. The plan also mentions the development of a Community Emissions Reduction Plan to support the local community in reducing emissions. Furthermore, the plan sets a goal to achieve net zero emissions by 2031. The plan also includes adaptation measures, such as refining climate change projections, planning in various sectors, advocacy, education and information programs, reviewing design standards, and financial arrangements. These actions indicate a comprehensive approach to mitigating greenhouse gas emissions through both technological solutions and behaviour change.", "quote": {"content": "This plan sets out Council\u2019s commitments and pathways to reducing emissions and mitigating the effects of climate change at an organisation level.", "page": 6, "source": "Kiama-NSW-264.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Adaptation Action Plan indeed includes specific actions for climate adaptation and resilience. The plan was developed during workshops and contains actions to address risks, reasons for selecting the actions, level of priority, and timeline for implementation. It also indicates who would be responsible for the action and identifies other stakeholders involved in the process. Key adaptation actions provided in the plan include further investigations to refine climate change projections, planning in various sectors, advocacy to State Government agencies and peak industry bodies for increased research, funding and collaboration, education and information programs for the local community, reviewing design standards, and reviewing finance arrangements. These actions are designed to address high and extreme risks identified in the risk assessment. The plan also includes a screening process to refine and screen the actions, linking similar risks which would have the same adaptation actions.", "quote": {"content": "It also indicates who would be responsible for the action and identifies other Stakeholders involved in the process. The Adaptation Action Plan was developed during the workshops and contains a number of actions to address risks, reasons for selecting the actions, level of priority (high, medium and low), and timeline for implementation.", "page": 19, "source": "Kiama-NSW-266.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a detailed plan for addressing climate change, including specific actions and the reasons for these actions. The plan was developed during workshops and further refined through a screening process. The actions are prioritized and include timelines for implementation, indicating a well-structured approach. The plan includes a variety of actions such as refining climate change projections, planning in various sectors, advocating for increased research and funding, and implementing education programs. The documents also mention the involvement of various stakeholders in the process, suggesting a collaborative approach. However, while the documents provide a comprehensive plan, they do not explicitly provide sources to justify the climate targets and actions. The documents do not provide specific evidence or data to support the chosen actions or to demonstrate that these actions will effectively address the identified risks. Therefore, while the plan is detailed and well-structured, the lack of explicit, well-sourced evidence to justify the climate targets and actions is a limitation.", "quote": {"content": "Key adaptation actions provided in the plan include the following: \n1) Further investigations to refine climate change projections; \n2) Planning (corporate, land use, emergency management, catchment, parks, infrastructure, \nnatural resources, pest management, risk management, economic development); \n3) Advocacy to State Government agencies and peak industry bodies for increased research, \nfunding and collaboration; \n4) Education and information programs for the local community (often complementing existing \ninitiatives, for example \u2018Sustainable Illawarra\u2019); \n5) Reviewing Design Standards (infrastructure, water supply, waste facilities, buildings); \n6) Reviewing Finance arrangements (investment, budgets, procurement, subsidies, grants, rebates", "page": 20, "source": "Kiama-NSW-266.pdf", "search_score": 0.98}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a detailed framework for the development and evaluation of adaptation actions. This framework includes a set of success criteria, which are used to understand the consequence of a risk posed by climate change. These criteria align with the objectives set by the local council and include Public Safety, Asset Damage, Environment and Sustainability, Local Economy and Growth, Health, Community and Lifestyle, and Public Administration. The plan also includes a screening process for the actions, which involves qualitative consideration of various issues. The success criteria are combined with a consequence scale to form a matrix of descriptions, which will be used to define the consequence rank for each risk identified. This approach allows for a measurable evaluation of the success of the proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's adaptation strategy includes key actions such as further investigations to refine climate change projections and planning in various sectors including land use, emergency management, infrastructure, and natural resources. The strategy also emphasizes the importance of education and information programs for the local community. The documents also mention the development of a regional water strategy which plans for long-term supply-demand changes. These actions indicate a commitment to conducting research and gathering information to inform their climate change adaptation actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's planned actions, as outlined in the Climate Change Adaptation Strategy and Action Plan, primarily involve traditional approaches to climate change adaptation. These include refining climate change projections, planning across various sectors, advocating for increased research and funding, implementing education and information programs, and reviewing design standards and finance arrangements. While these actions are comprehensive and important, they do not necessarily represent innovative or experimental policy approaches. The documents do not mention any novel or experimental strategies, such as the use of new technologies, the implementation of unique policy mechanisms, or the testing of unproven methods for climate change adaptation. Therefore, based on the provided documents, it cannot be concluded that the local government is engaging in policy experimentation or innovation in its climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Change Adaptation Strategy and Action Plan developed by the Southern Councils Group outlines key adaptation actions, which include advocacy to State Government agencies and peak industry bodies for increased research, funding, and collaboration. This advocacy is aimed at enhancing the capacity of councils and other authorities to respond to climate change risks. The strategy also emphasizes the importance of building relationships with State and federal Governments and coordinating with external stakeholders from business, industry, and community services. The documents also mention the intent to utilize the Southern Councils Group as a vehicle to lobby all levels of government to support adaptation actions."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Strategy and Action Plan (CCASAP) is designed to provide a coordinated and regional approach to tackling the challenges which climate change will present. The strategy recognizes that for climate adaptation to be effective, councils must enhance internal integration, build relationships with State and federal Governments, and coordinate with external stakeholders from business, industry, and community services. The documents also mention the development of a climate change steering committee for Southern Councils Group member councils and representatives from all levels of government. Furthermore, the documents advocate for the development of an education program to explain climate change risks and actions which Council are taking, and the consultation with local businesses, organizations, and community to understand the level of awareness of climate change impacts.", "quote": {"content": "It recognises that for climate adaptation to be effective Councils must enhance internal integration, build relationships with State and federal Governments and coordinate with external stakeholders from business, industry and community services. The Climate Change Adaptation Strategy will provide Councils with a framework to undertake climate change adaptation actions.", "page": 16, "source": "Kiama-NSW-266.pdf", "search_score": 0.98}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations and alliances related to climate change. The Southern Councils Group is mentioned as a voluntary association of seven Local Government Authorities, including Kiama, which is involved in the Climate Change Adaptation Strategy and Action Plan. This indicates a regional partnership aimed at addressing climate change. Furthermore, the documents mention the development of strategic alliances with other Local Government Areas (LGAs) and institutions committed to climate change adaptation. This suggests that the local government is actively seeking partnerships and collaborations to enhance its climate change response. The documents also mention advocacy to state government agencies and peak industry bodies for increased research, funding, and collaboration, indicating a broader network of partnerships and alliances."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate change impacts, including extreme heat, flooding, and bushfires, can increase the level of stress and ill health amongst the local community. The documents also emphasize the need for local councils to build organizational capacity to respond to a rising demand in mental health and counseling services due to the impacts of climate change. This indicates a recognition of the disproportionate impact of climate change on vulnerable groups and the need for targeted support and services. Furthermore, the documents advocate for the review and increase of capacity of community services, suggesting a proactive approach to addressing the needs of vulnerable communities in the face of climate change.", "quote": {"content": "Councils must seek to build organisational capacity to be able to respond to a rising demand in mental health and counselling services due to the impacts of climate change.", "page": 39, "source": "Kiama-NSW-266.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents focus on the risks posed by climate change and the strategies for adaptation. They outline success criteria for the project, which include public safety, asset damage, environment and sustainability, local economy and growth, health, community and lifestyle, and public administration. However, these criteria do not specifically address the equitable distribution of benefits and opportunities. The documents also mention the need for community engagement and awareness, but again, this does not directly relate to the question of equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 16, "num_questions": 20, "attribute_score": 82.5}}
+{
+  "settings": {
+    "source_files": [
+      "Kiama-NSW-264.pdf",
+      "Kiama-NSW-265.pdf",
+      "Kiama-NSW-266.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "0f5383b7e3e3a24421081bc65b5eb9309cc5d947",
+    "rundate": "2024-07-01T20:35:00.233697",
+    "lga": "Kiama"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review is primarily focused on climate action. It is designed to address the risks associated with climate change and to develop strategies for adaptation. The policy outlines a detailed adaptation action plan that provides specific actions to address key climate change risks. The policy also emphasizes the importance of integrating these adaptation strategies into the existing planning and management framework of the local government. The policy's main objectives include promoting a cultural shift towards considering climate change risks in all of the council's long-term planning, financial management, operations, and service delivery. It also aims to engage with the local community to increase awareness of climate change risks and encourage ownership of initiatives. Therefore, it is clear that the core purpose or goal of the policy is climate action."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide explicit reasons for the need for action on climate change. The Climate Change Adaptation Strategy and Action Plan developed by the Southern Councils Group is aimed at addressing the risks associated with climate change. The documents highlight the importance of adaptation actions as management responses to these risks, focusing on sustainable outcomes. The plan includes actions such as further investigations to refine climate change projections, planning in various areas including land use and emergency management, advocacy to State Government agencies, and education and information programs for the local community. The documents also mention the potential legal liability local governments could face if they fail to take reasonable steps to account for the likely effects of climate change. Therefore, the need for action on climate change is clearly articulated in these documents.",
+          "quote": {
+            "content": "Climate change mitigation relates to management and reduction of energy consumption and greenhouse gas emissions.",
+            "page": 11,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly call for rapid and urgent action on climate change. The local government policy acknowledges the need for a 'combined and concerted response' to reduce human-induced emissions and contain global warming to below 2\u00b0C of pre-industrial levels, as required by the Paris Agreement. The policy also recognizes the challenge of reducing the Council's carbon emissions but sees it as an opportunity to show leadership and demonstrate the benefits of acting on climate change. The policy further outlines the Council's commitments and pathways to reducing emissions and mitigating the effects of climate change. The Climate Change Adaptation Strategy and Action Plan also provides a framework for developing adaptation actions to address high and extreme risks identified in the risk assessment. These documents clearly indicate an understanding of the urgency of climate change action and a commitment to taking steps to address it.",
+          "quote": {
+            "content": "In order to curb the impacts of climate change and avoid catastrophic consequences, a combined and concerted response is required to rapidly reduce the amount of human induced emissions and contain global warming to below 2\u00b0C of pre-industrial levels, as legally required by the Paris Agreement (4).",
+            "page": 6,
+            "source": "Kiama-NSW-264.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Adaptation Strategy and Action Plan outlines a timeline for implementation of various actions. It categorizes these actions into short (1-2 years), medium (2-5 years), and long (5-10 years) timeframes. This indicates a clear schedule for the execution of the plan's strategies. Furthermore, the documents mention the need for annual monitoring of the implementation of actions, which suggests a continuous and ongoing commitment to the policy's objectives. However, it should be noted that while the documents provide these timeframes, the effectiveness of the actions and the adherence to these schedules would need to be evaluated through further monitoring and reporting.",
+          "quote": {
+            "content": "Supplementary detail on each action is provided in Appendix A including details of Lead Agency, key stakeholders and timeframes (where short is 1-2 years, medium is 2-5 years and long is 5 \u2013 10 years). This provides an \u2018at a glance\u2019 adaptation plan with associated priorities for implementation.",
+            "page": 19,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. They do outline a comprehensive Climate Change Adaptation Strategy and Action Plan, which includes various adaptation actions such as further investigations to refine climate change projections, planning, advocacy, education and information programs, reviewing design standards, and finance arrangements. However, these actions are not explicitly prioritized over other policies. The documents emphasize the importance of addressing climate change risks and developing adaptation strategies, but they do not make a direct comparison between the priority of these actions and other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is given higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of considering climate change risks in various aspects of council planning and operations. For instance, the documents mention the need for councils to consider climate change risks in their long-term planning, financial management, operations, and service delivery. They also discuss the importance of integrating climate change adaptation strategies into council planning documents and operations. However, these references do not amount to a clear requirement that all council activities must be aligned with climate policy. Instead, they suggest that climate change considerations should be integrated into various aspects of council activities, without explicitly stating that all such activities must be aligned with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines several actions that involve financial arrangements and resource mobilisation. For instance, it mentions the review of finance arrangements, including investment, budgets, procurement, subsidies, grants, and rebates. It also discusses securing additional revenue for climate adaptation planning through grants and levies. Furthermore, the plan mentions advocating to the Department of Water and Energy for increased funding for asset management, monitoring, maintenance, and replacement, and new stormwater drainage works. The plan also suggests introducing a tourism levy to modify tourist facilities to projected climate change impacts. Therefore, the plan does not only allocate funding for climate action but also seeks additional funding and revenue sources to support climate change adaptation initiatives."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines several actions that involve the allocation of staff resources. For instance, it mentions the need to build organisational capacity to respond to a rising demand in mental health and counselling services due to the impacts of climate change. This implies the allocation of staff resources to manage these services. Additionally, the plan advocates for the review and increase of capacity of community services, which would likely involve the allocation of staff resources. The plan also suggests engaging with health service providers to share resources, which could include staff resources. However, the plan does not provide specific details on the number of staff to be allocated or the exact nature of their roles in these actions.",
+          "quote": {
+            "content": "Councils must seek to build organisational capacity to be able to respond to a rising demand in mental health and counselling services due to the impacts of climate change.",
+            "page": 39,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government is taking steps to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a number of strategies that involve community engagement and education. For instance, the policy advocates for the development of an education program to inform the community about risks associated with extreme weather events. It also encourages council staff and the community to volunteer in emergency services, which would enhance the community's resilience to climate change impacts. Furthermore, the policy emphasizes the importance of engaging with the local community to increase awareness of climate change risks and encourage ownership of initiatives. However, the documents do not provide specific details on how these strategies are being implemented or their effectiveness."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reducing the Council's carbon emissions and its contribution to climate change, viewing this as an opportunity to demonstrate leadership and the benefits of acting on climate change. The plan also includes researching innovative and proven emissions reduction technologies, reducing energy consumption, and replacing current energy sources with cleaner alternatives. The plan also mentions the development of a Community Emissions Reduction Plan to support the local community in reducing emissions. Furthermore, the plan sets a goal to achieve net zero emissions by 2031. The plan also includes adaptation measures, such as refining climate change projections, planning in various sectors, advocacy, education and information programs, reviewing design standards, and financial arrangements. These actions indicate a comprehensive approach to mitigating greenhouse gas emissions through both technological solutions and behaviour change.",
+          "quote": {
+            "content": "This plan sets out Council\u2019s commitments and pathways to reducing emissions and mitigating the effects of climate change at an organisation level.",
+            "page": 6,
+            "source": "Kiama-NSW-264.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation Action Plan indeed includes specific actions for climate adaptation and resilience. The plan was developed during workshops and contains actions to address risks, reasons for selecting the actions, level of priority, and timeline for implementation. It also indicates who would be responsible for the action and identifies other stakeholders involved in the process. Key adaptation actions provided in the plan include further investigations to refine climate change projections, planning in various sectors, advocacy to State Government agencies and peak industry bodies for increased research, funding and collaboration, education and information programs for the local community, reviewing design standards, and reviewing finance arrangements. These actions are designed to address high and extreme risks identified in the risk assessment. The plan also includes a screening process to refine and screen the actions, linking similar risks which would have the same adaptation actions.",
+          "quote": {
+            "content": "It also indicates who would be responsible for the action and identifies other Stakeholders involved in the process. The Adaptation Action Plan was developed during the workshops and contains a number of actions to address risks, reasons for selecting the actions, level of priority (high, medium and low), and timeline for implementation.",
+            "page": 19,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for addressing climate change, including specific actions and the reasons for these actions. The plan was developed during workshops and further refined through a screening process. The actions are prioritized and include timelines for implementation, indicating a well-structured approach. The plan includes a variety of actions such as refining climate change projections, planning in various sectors, advocating for increased research and funding, and implementing education programs. The documents also mention the involvement of various stakeholders in the process, suggesting a collaborative approach. However, while the documents provide a comprehensive plan, they do not explicitly provide sources to justify the climate targets and actions. The documents do not provide specific evidence or data to support the chosen actions or to demonstrate that these actions will effectively address the identified risks. Therefore, while the plan is detailed and well-structured, the lack of explicit, well-sourced evidence to justify the climate targets and actions is a limitation.",
+          "quote": {
+            "content": "Key adaptation actions provided in the plan include the following: \n1) Further investigations to refine climate change projections; \n2) Planning (corporate, land use, emergency management, catchment, parks, infrastructure, \nnatural resources, pest management, risk management, economic development); \n3) Advocacy to State Government agencies and peak industry bodies for increased research, \nfunding and collaboration; \n4) Education and information programs for the local community (often complementing existing \ninitiatives, for example \u2018Sustainable Illawarra\u2019); \n5) Reviewing Design Standards (infrastructure, water supply, waste facilities, buildings); \n6) Reviewing Finance arrangements (investment, budgets, procurement, subsidies, grants, rebates",
+            "page": 20,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a detailed framework for the development and evaluation of adaptation actions. This framework includes a set of success criteria, which are used to understand the consequence of a risk posed by climate change. These criteria align with the objectives set by the local council and include Public Safety, Asset Damage, Environment and Sustainability, Local Economy and Growth, Health, Community and Lifestyle, and Public Administration. The plan also includes a screening process for the actions, which involves qualitative consideration of various issues. The success criteria are combined with a consequence scale to form a matrix of descriptions, which will be used to define the consequence rank for each risk identified. This approach allows for a measurable evaluation of the success of the proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's adaptation strategy includes key actions such as further investigations to refine climate change projections and planning in various sectors including land use, emergency management, infrastructure, and natural resources. The strategy also emphasizes the importance of education and information programs for the local community. The documents also mention the development of a regional water strategy which plans for long-term supply-demand changes. These actions indicate a commitment to conducting research and gathering information to inform their climate change adaptation actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a comprehensive plan for climate change adaptation, including various strategies and actions such as refining climate change projections, planning in various sectors, advocacy, education programs, and reviewing design standards and finance arrangements, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents focus more on strategic planning, risk assessment, and adaptation actions rather than experimental initiatives or pilot projects. Therefore, based on the provided documents, it cannot be affirmed that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Climate Change Adaptation Strategy and Action Plan developed by the Southern Councils Group outlines key adaptation actions, which include advocacy to State Government agencies and peak industry bodies for increased research, funding, and collaboration. This advocacy is aimed at enhancing the capacity of councils and other authorities to respond to climate change risks. The strategy also emphasizes the importance of building relationships with State and federal Governments and coordinating with external stakeholders from business, industry, and community services. The documents also mention the intent to utilize the Southern Councils Group as a vehicle to lobby all levels of government to support adaptation actions."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The Climate Change Adaptation Strategy and Action Plan (CCASAP) is designed to provide a coordinated and regional approach to tackling the challenges which climate change will present. The strategy recognizes that for climate adaptation to be effective, councils must enhance internal integration, build relationships with State and federal Governments, and coordinate with external stakeholders from business, industry, and community services. The documents also mention the development of a climate change steering committee for Southern Councils Group member councils and representatives from all levels of government. Furthermore, the documents advocate for the development of an education program to explain climate change risks and actions which Council are taking, and the consultation with local businesses, organizations, and community to understand the level of awareness of climate change impacts.",
+          "quote": {
+            "content": "It recognises that for climate adaptation to be effective Councils must enhance internal integration, build relationships with State and federal Governments and coordinate with external stakeholders from business, industry and community services. The Climate Change Adaptation Strategy will provide Councils with a framework to undertake climate change adaptation actions.",
+            "page": 16,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations and alliances related to climate change. The Southern Councils Group is mentioned as a voluntary association of seven Local Government Authorities, including Kiama, which is involved in the Climate Change Adaptation Strategy and Action Plan. This indicates a regional partnership aimed at addressing climate change. Furthermore, the documents mention the development of strategic alliances with other Local Government Areas (LGAs) and institutions committed to climate change adaptation. This suggests that the local government is actively seeking partnerships and collaborations to enhance its climate change response. The documents also mention advocacy to state government agencies and peak industry bodies for increased research, funding, and collaboration, indicating a broader network of partnerships and alliances."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. They highlight that climate change impacts, including extreme heat, flooding, and bushfires, can increase the level of stress and ill health amongst the local community. The documents also emphasize the need for local councils to build organizational capacity to respond to a rising demand in mental health and counseling services due to the impacts of climate change. This indicates a recognition of the disproportionate impact of climate change on vulnerable groups and the need for targeted support and services. Furthermore, the documents advocate for the review and increase of capacity of community services, suggesting a proactive approach to addressing the needs of vulnerable communities in the face of climate change.",
+          "quote": {
+            "content": "Councils must seek to build organisational capacity to be able to respond to a rising demand in mental health and counselling services due to the impacts of climate change.",
+            "page": 39,
+            "source": "Kiama-NSW-266.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents focus on the risks posed by climate change and the strategies for adaptation. They outline success criteria for the project, which include public safety, asset damage, environment and sustainability, local economy and growth, health, community and lifestyle, and public administration. However, these criteria do not specifically address the equitable distribution of benefits and opportunities. The documents also mention the need for community engagement and awareness, but again, this does not directly relate to the question of equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 16,
+    "num_questions": 20,
+    "attribute_score": 82.5
+  }
+}

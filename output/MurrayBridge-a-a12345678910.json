@@ -1,1 +1,268 @@
-{"settings": {"source_files": ["MurrayBridge-SA-93.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T22:18:52.917813", "lga": "MurrayBridge"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021', clearly indicates that climate action is the core purpose or goal. The policy outlines objectives, strategies, and actions for climate change adaptation, with a focus on land use planning, council infrastructure, high bushfire risk, vulnerable members of the community, emergency services, and essential services. The policy also emphasizes the need for council staff to understand existing and future policies related to climate change and how to best implement them. Furthermore, the policy aims to integrate adaptation strategies and measures into the council's strategic management plans and to undertake a climate change risk management process. The policy also seeks to raise awareness of climate change risks within the council and the community to enhance decision-making and build community resilience."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 acknowledges climate change as a known fact, with changing weather patterns causing significant weather events that have not been recorded in the past. The documents also highlight the impacts of climate change on the South Australian Murray-Darling Basin Region, including a warmer and drier climate, increased risk of bushfires, reduced flows down the River Murray, and rising sea levels along the Coorong. The plan outlines objectives, strategies, and actions to address these impacts, such as ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and raising awareness of climate change adaptation measures. Therefore, the documents provide a clear rationale for taking action on climate change.", "quote": {"content": "Warming of the climate system is unequivocal, as is now evident from observations of increases in global average air and ocean temperatures, widespread melting of snow and ice and rising average sea level. There is an extensive body of peer-reviewed scientific research that the Earth\u2019s climate is changing.", "page": 2, "source": "MurrayBridge-SA-93.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The provided documents from the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 do not explicitly call for rapid and urgent action on climate change. The documents outline various strategies and actions related to climate change adaptation, including objectives for council infrastructure, high bushfire risk, land use planning, and support for vulnerable members of the community. However, these strategies and actions are presented as part of a long-term plan, rather than an urgent call to action. The documents emphasize the need for adaptation to climate change impacts, but do not express a sense of urgency or immediacy in their proposed actions. The focus is more on planning and preparedness for the effects of climate change, rather than on urgent mitigation efforts."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. While the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various objectives, strategies, and actions related to climate change adaptation, it does not specify when these actions should be completed. The plan includes strategies for council infrastructure, high bushfire risk, land use planning, vulnerable members of the community, emergency services, and essential services. However, the documents do not provide a timeline or deadline for these strategies and actions. Therefore, the urgency of action in terms of specific timeframes is not addressed in the documents."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including objectives for council infrastructure, high bushfire risk, land use planning, and vulnerable members of the community. However, these strategies and actions are presented as part of a comprehensive plan, and there is no explicit statement prioritizing these climate change responses over other policies. The documents emphasize the importance of climate change adaptation and outline specific actions to be taken, but they do not provide a clear hierarchy of policy priorities."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a Climate Change Adaptation Plan for the Rural City of Murray Bridge, which includes various strategies and actions related to climate change adaptation. These strategies and actions are aimed at different areas such as land use planning, council infrastructure, high bushfire risk, and vulnerable members of the community. The documents also mention the integration of adaptation strategies into Council's Strategic Management Plans and the inclusion of climate change risk management results into Council's risk management database. However, these details do not equate to a requirement for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and maintaining essential services in the face of climate extremes, there is no specific mention of funding allocation for these actions. The documents mention the need for 'careful balancing between legislative requirements, community expectations and available resources', but do not provide details on how resources, including financial resources, will be mobilized for the implementation of the plan. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 does allocate non-monetary institutional resources to climate action. The plan outlines several strategies and actions that involve the mobilisation of staff resources. For instance, the plan aims to ensure that council staff understand existing and future policies related to climate change and how to best implement them. This involves staff training and awareness-raising activities. The plan also encourages participation in appropriate bodies involved in understanding the climate change process, which would require staff time and involvement. Furthermore, the plan mentions the establishment of stronger ties between Planning and Environmental Business Unit through regular meetings and information sessions, which again implies the allocation of staff resources. Therefore, it can be concluded that the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community in relation to climate action. The Climate Change Adaptation Plan outlines strategies and actions to raise awareness and provide information on climate adaptation to the community. It also includes measures to ensure the needs of vulnerable groups are taken into account in disaster management and recovery activities. The plan also encourages participation in bodies involved in understanding the climate change process and promotes greater awareness of the roles and responsibilities of the Environmental Business Unit amongst Council planning staff. Furthermore, the plan outlines the provision of community education packages to assist with heatwave and storm preparedness. However, while these actions are indicative of efforts to educate and empower the community, the documents do not provide specific evidence of initiatives aimed at rallying or mobilizing the community to work together to deliver climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in relation to 'restoring a safe climate'. The documents focus primarily on adaptation strategies to climate change, such as preparing for high bushfire risk, land use planning, and assisting vulnerable members of the community. While these strategies are important in dealing with the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions. Mitigation strategies would typically involve actions to reduce the output of greenhouse gases, such as implementing renewable energy sources, improving energy efficiency, or promoting sustainable transportation. Such actions are not explicitly mentioned in the provided documents."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy documents provide clear evidence of specific actions for climate adaptation and resilience. The 'Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021' outlines a comprehensive approach to climate change adaptation. The plan identifies key themes that will be impacted by climate change, including council infrastructure, high bushfire risk, land use planning, vulnerable members of the community, emergency services, and essential services. For each theme, the plan proposes specific strategies and actions. For instance, in the area of land use planning, the plan aims to ensure that council staff understand existing and future policies related to climate change and how to best implement them. The plan also emphasizes the need for periodic review and adaptation as new information becomes available. This demonstrates a commitment to ongoing learning and flexibility in response to evolving climate conditions.", "quote": {"content": "All themes and subsequent actions require careful balancing between legislative requirements, community expectations and available resources. Council Infrastructure; High Bushfire Risk; Land Use Planning; Vulnerable Members of the Community; Emergency Services; and Essential Services. These themes are explored in detail in the sections below.", "page": 10, "source": "MurrayBridge-SA-93.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021. While the documents outline various strategies and actions related to climate change adaptation, such as ensuring council staff understand climate change policies, providing refuge options for vulnerable community members during extreme weather events, and promoting awareness of climate adaptation issues, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the existence of a Climate Change Adaptation Plan and other related plans, but they do not provide details about the research, data, or sources that were used to develop these plans and justify their targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the documents outline various strategies and actions related to climate change adaptation, such as ensuring council staff understand existing and future policies, establishing stronger ties between planning and environmental business units, and providing information on climate adaptation to the community, they do not specify how the success of these actions will be measured. The documents mention the need for monitoring and review, but do not provide specific criteria or indicators that would be used to evaluate the effectiveness of the actions. Therefore, based on the provided context, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and incorporating climate change risk management into council's strategic management plans. However, these strategies and actions appear to be based on existing knowledge and understanding of climate change, rather than plans for new research within the local community. The documents do emphasize the importance of raising awareness of climate change risks within the council and the community, but this is not the same as conducting research."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines the city's approach to climate change adaptation, including objectives, strategies, and actions for various areas such as council infrastructure, high bushfire risk, land use planning, vulnerable members of the community, emergency services, and essential services. However, the documents do not detail any innovative or experimental policies or actions being taken. The plan appears to be based on existing knowledge and best practices, with a focus on understanding and implementing existing policies, rather than experimenting with new ones. The plan does acknowledge the need for ongoing learning and adaptation as new information becomes available, but this does not necessarily imply innovation or experimentation."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's Climate Change Adaptation Plan, outlining strategies and actions to be taken at the local level. These include raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and providing support for vulnerable members of the community. While the documents do mention the South Australian Government's Climate Change Strategy, they do not indicate that the local government intends to advocate to higher levels of government for further action on climate change."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus on the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021, outlining various strategies and actions related to climate change adaptation. These include ensuring council staff understand climate change policies, assisting vulnerable community members during extreme weather events, and integrating adaptation strategies into council's strategic management plans. However, there is no explicit mention of building local capacity across council, their local communities, and neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss various strategies and actions related to climate change adaptation, including raising awareness, integrating adaptation strategies into strategic management plans, and assisting vulnerable community members, they do not mention any specific partnerships or collaborations with external entities in these efforts. Therefore, based on the provided documents, it cannot be affirmed that the policy involves coordination, partnerships, or advocacy for action with specific regional associations or alliances related to climate change."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 recognizes that vulnerable members of the community will have the least capacity to cope, adapt, and recover from extreme weather events. The plan outlines strategies and actions to assist these vulnerable members, including the provision and dissemination of information, utilization of assets to provide refuge during extreme weather events, and partnering with other agencies in their service delivery. The plan also acknowledges the need for low-cost options for vulnerable people during extreme weather events and the potential lack of social networks that could provide informal supports. Therefore, the policy does consider equity and social justice in its approach to climate change adaptation.", "quote": {"content": "Council will play an important role in supporting these members of our community.", "page": 17, "source": "MurrayBridge-SA-93.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation, these primarily focus on risk management, infrastructure, emergency services, and vulnerable community members. There is no clear mention of how the benefits and opportunities resulting from these actions will be equitably distributed among the community. The documents do not provide specific details on how social justice will be ensured in the implementation of the climate change adaptation plan. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 40.0}}
+{
+  "settings": {
+    "source_files": [
+      "MurrayBridge-SA-93.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T22:18:52.917813",
+    "lga": "MurrayBridge"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021', clearly indicates that climate action is the core purpose or goal. The policy outlines objectives, strategies, and actions for climate change adaptation, with a focus on land use planning, council infrastructure, high bushfire risk, vulnerable members of the community, emergency services, and essential services. The policy also emphasizes the need for council staff to understand existing and future policies related to climate change and how to best implement them. Furthermore, the policy aims to integrate adaptation strategies and measures into the council's strategic management plans and to undertake a climate change risk management process. The policy also seeks to raise awareness of climate change risks within the council and the community to enhance decision-making and build community resilience."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 acknowledges climate change as a known fact, with changing weather patterns causing significant weather events that have not been recorded in the past. The documents also highlight the impacts of climate change on the South Australian Murray-Darling Basin Region, including a warmer and drier climate, increased risk of bushfires, reduced flows down the River Murray, and rising sea levels along the Coorong. The plan outlines objectives, strategies, and actions to address these impacts, such as ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and raising awareness of climate change adaptation measures. Therefore, the documents provide a clear rationale for taking action on climate change.",
+          "quote": {
+            "content": "Warming of the climate system is unequivocal, as is now evident from observations of increases in global average air and ocean temperatures, widespread melting of snow and ice and rising average sea level. There is an extensive body of peer-reviewed scientific research that the Earth\u2019s climate is changing.",
+            "page": 2,
+            "source": "MurrayBridge-SA-93.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The provided documents from the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 do not explicitly call for rapid and urgent action on climate change. The documents outline various strategies and actions related to climate change adaptation, including objectives for council infrastructure, high bushfire risk, land use planning, and support for vulnerable members of the community. However, these strategies and actions are presented as part of a long-term plan, rather than an urgent call to action. The documents emphasize the need for adaptation to climate change impacts, but do not express a sense of urgency or immediacy in their proposed actions. The focus is more on planning and preparedness for the effects of climate change, rather than on urgent mitigation efforts."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. While the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various objectives, strategies, and actions related to climate change adaptation, it does not specify when these actions should be completed. The plan includes strategies for council infrastructure, high bushfire risk, land use planning, vulnerable members of the community, emergency services, and essential services. However, the documents do not provide a timeline or deadline for these strategies and actions. Therefore, the urgency of action in terms of specific timeframes is not addressed in the documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including objectives for council infrastructure, high bushfire risk, land use planning, and vulnerable members of the community. However, these strategies and actions are presented as part of a comprehensive plan, and there is no explicit statement prioritizing these climate change responses over other policies. The documents emphasize the importance of climate change adaptation and outline specific actions to be taken, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a Climate Change Adaptation Plan for the Rural City of Murray Bridge, which includes various strategies and actions related to climate change adaptation. These strategies and actions are aimed at different areas such as land use planning, council infrastructure, high bushfire risk, and vulnerable members of the community. The documents also mention the integration of adaptation strategies into Council's Strategic Management Plans and the inclusion of climate change risk management results into Council's risk management database. However, these details do not equate to a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and maintaining essential services in the face of climate extremes, there is no specific mention of funding allocation for these actions. The documents mention the need for 'careful balancing between legislative requirements, community expectations and available resources', but do not provide details on how resources, including financial resources, will be mobilized for the implementation of the plan. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 does allocate non-monetary institutional resources to climate action. The plan outlines several strategies and actions that involve the mobilisation of staff resources. For instance, the plan aims to ensure that council staff understand existing and future policies related to climate change and how to best implement them. This involves staff training and awareness-raising activities. The plan also encourages participation in appropriate bodies involved in understanding the climate change process, which would require staff time and involvement. Furthermore, the plan mentions the establishment of stronger ties between Planning and Environmental Business Unit through regular meetings and information sessions, which again implies the allocation of staff resources. Therefore, it can be concluded that the plan does allocate non-monetary institutional resources, specifically staff resources, to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to educate and empower the community in relation to climate action. The Climate Change Adaptation Plan outlines strategies and actions to raise awareness and provide information on climate adaptation to the community. It also includes measures to ensure the needs of vulnerable groups are taken into account in disaster management and recovery activities. The plan also encourages participation in bodies involved in understanding the climate change process and promotes greater awareness of the roles and responsibilities of the Environmental Business Unit amongst Council planning staff. Furthermore, the plan outlines the provision of community education packages to assist with heatwave and storm preparedness. However, while these actions are indicative of efforts to educate and empower the community, the documents do not provide specific evidence of initiatives aimed at rallying or mobilizing the community to work together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in relation to 'restoring a safe climate'. The documents focus primarily on adaptation strategies to climate change, such as preparing for high bushfire risk, land use planning, and assisting vulnerable members of the community. While these strategies are important in dealing with the impacts of climate change, they do not directly address the mitigation of greenhouse gas emissions. Mitigation strategies would typically involve actions to reduce the output of greenhouse gases, such as implementing renewable energy sources, improving energy efficiency, or promoting sustainable transportation. Such actions are not explicitly mentioned in the provided documents."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy documents provide clear evidence of specific actions for climate adaptation and resilience. The 'Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021' outlines a comprehensive approach to climate change adaptation. The plan identifies key themes that will be impacted by climate change, including council infrastructure, high bushfire risk, land use planning, vulnerable members of the community, emergency services, and essential services. For each theme, the plan proposes specific strategies and actions. For instance, in the area of land use planning, the plan aims to ensure that council staff understand existing and future policies related to climate change and how to best implement them. The plan also emphasizes the need for periodic review and adaptation as new information becomes available. This demonstrates a commitment to ongoing learning and flexibility in response to evolving climate conditions.",
+          "quote": {
+            "content": "All themes and subsequent actions require careful balancing between legislative requirements, community expectations and available resources. Council Infrastructure; High Bushfire Risk; Land Use Planning; Vulnerable Members of the Community; Emergency Services; and Essential Services. These themes are explored in detail in the sections below.",
+            "page": 10,
+            "source": "MurrayBridge-SA-93.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the climate targets and actions of the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021. While the documents outline various strategies and actions related to climate change adaptation, such as ensuring council staff understand climate change policies, providing refuge options for vulnerable community members during extreme weather events, and promoting awareness of climate adaptation issues, they do not provide specific, well-sourced evidence to justify these actions. The documents mention the existence of a Climate Change Adaptation Plan and other related plans, but they do not provide details about the research, data, or sources that were used to develop these plans and justify their targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the policy provides well-sourced evidence to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the proposed actions in the plan. While the documents outline various strategies and actions related to climate change adaptation, such as ensuring council staff understand existing and future policies, establishing stronger ties between planning and environmental business units, and providing information on climate adaptation to the community, they do not specify how the success of these actions will be measured. The documents mention the need for monitoring and review, but do not provide specific criteria or indicators that would be used to evaluate the effectiveness of the actions. Therefore, based on the provided context, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 outlines various strategies and actions to address climate change, including ensuring council staff understand and implement climate change policies, providing refuge options for vulnerable community members during extreme weather events, and incorporating climate change risk management into council's strategic management plans. However, these strategies and actions appear to be based on existing knowledge and understanding of climate change, rather than plans for new research within the local community. The documents do emphasize the importance of raising awareness of climate change risks within the council and the community, but this is not the same as conducting research."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action as defined by the question. The documents discuss the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021, which outlines the local government's strategies and actions for adapting to climate change. These include raising awareness of climate change risks, integrating adaptation strategies into strategic management planning, and undertaking a climate change risk management process. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions, such as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's Climate Change Adaptation Plan, outlining strategies and actions to be taken at the local level. These include raising awareness of climate change risks, incorporating adaptation strategies into strategic management planning, and providing support for vulnerable members of the community. While the documents do mention the South Australian Government's Climate Change Strategy, they do not indicate that the local government intends to advocate to higher levels of government for further action on climate change."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents focus on the Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021, outlining various strategies and actions related to climate change adaptation. These include ensuring council staff understand climate change policies, assisting vulnerable community members during extreme weather events, and integrating adaptation strategies into council's strategic management plans. However, there is no explicit mention of building local capacity across council, their local communities, and neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss various strategies and actions related to climate change adaptation, including raising awareness, integrating adaptation strategies into strategic management plans, and assisting vulnerable community members, they do not mention any specific partnerships or collaborations with external entities in these efforts. Therefore, based on the provided documents, it cannot be affirmed that the policy involves coordination, partnerships, or advocacy for action with specific regional associations or alliances related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents explicitly discuss the impact of climate change on vulnerable communities. The Rural City of Murray Bridge Climate Change Adaptation Plan 2016-2021 recognizes that vulnerable members of the community will have the least capacity to cope, adapt, and recover from extreme weather events. The plan outlines strategies and actions to assist these vulnerable members, including the provision and dissemination of information, utilization of assets to provide refuge during extreme weather events, and partnering with other agencies in their service delivery. The plan also acknowledges the need for low-cost options for vulnerable people during extreme weather events and the potential lack of social networks that could provide informal supports. Therefore, the policy does consider equity and social justice in its approach to climate change adaptation.",
+          "quote": {
+            "content": "Council will play an important role in supporting these members of our community.",
+            "page": 17,
+            "source": "MurrayBridge-SA-93.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation, these primarily focus on risk management, infrastructure, emergency services, and vulnerable community members. There is no clear mention of how the benefits and opportunities resulting from these actions will be equitably distributed among the community. The documents do not provide specific details on how social justice will be ensured in the implementation of the climate change adaptation plan. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 40.0
+  }
+}

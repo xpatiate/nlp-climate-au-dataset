@@ -1,0 +1,306 @@
+{
+  "settings": {
+    "source_files": [
+      "Cockburn-WA-214.pdf",
+      "Cockburn-WA-215.pdf",
+      "Cockburn-WA-216.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-07-01T20:08:59.520091",
+    "lga": "Cockburn"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Change Strategy 2020-2030, clearly identifies climate action as its core purpose. The policy outlines a comprehensive set of actions aimed at reducing greenhouse gas emissions, increasing the city's adaptive capacity, and building resilience against the impacts of climate change. The policy's primary climate change objective is to 'reduce adverse outcomes arising from climate change through planning, adaptation, mitigation, infrastructure and ecological management'. The policy also includes specific actions such as undertaking an annual 'Climate Aligned' greenhouse gas emission corporate inventory, implementing a climate resilience roadmap, and investing in ethical, accredited carbon offsets for residual emissions that can't be reduced by 2030. The policy also outlines plans for education and collaboration to build awareness and understanding of climate risks and resilience. Therefore, it is evident that climate action is the core purpose of this policy.",
+          "quote": {
+            "content": "The primary climate change objective aims to 'reduce adverse outcomes arising from climate change through planning, adaptation, mitigation, infrastructure and ecological management'.",
+            "page": 7,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents provide a clear indication of the need for action on climate change. The local government has developed a comprehensive Climate Change Strategy for 2020-2030, which outlines specific actions to mitigate the impacts of climate change and achieve net zero emissions. The strategy includes measures such as annual greenhouse gas emission inventories, implementation of a climate resilience roadmap, and investment in ethical, accredited carbon offsets. The strategy also emphasizes the importance of education and collaboration in achieving these goals. The documents also mention the need for a full-time Climate Change Officer to oversee the implementation of the strategy, indicating a commitment to dedicated resources for climate action. The strategy is set to be reviewed in 2025, suggesting an understanding of the evolving nature of climate science and the need for adaptive policy responses.",
+          "quote": {
+            "content": "The primary climate change objective aims to \u2018reduce adverse outcomes arising from climate change through planning, adaptation, mitigation, infrastructure and ecological management\u2019.",
+            "page": 7,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a Climate Change Strategy for 2020-2030, which includes various actions and measures to address climate change, such as investing in ethical, accredited carbon offsets, implementing a climate resilience roadmap, and establishing partnerships to achieve net zero emissions by 2050. However, these actions are planned over a decade-long timeframe, and the language used does not convey a sense of urgency or immediacy. The documents also mention the appointment of a full-time Climate Change Officer and the review of the Climate Change Strategy in 2025, further indicating a long-term approach. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not explicitly call for rapid and urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate change. It outlines a comprehensive set of actions to help eliminate greenhouse gas emissions and increase the city's adaptive capacity. The document presents a Climate Change Strategy for 2020-2030, with actions divided into short term (2021-2023), medium term (2024-2027), and long term (2027-2030) categories. For instance, the document mentions the implementation of a resilience roadmap, investment in ethical, accredited carbon offsets, and the issuance of an open letter to the state government as part of the medium-term actions. It also mentions the continuation of environmental education programs and collaboration with the Cockburn Sound Coastal Alliance as ongoing actions. Furthermore, the document states that the strategy will be reviewed in 2025 to stay up to date with changes in policy, technology, and climate change science."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Climate Change Strategy 2020-2030 outlines a comprehensive plan to address climate change, including mitigation and adaptation strategies, and sets out specific actions to be taken in the short, medium, and long term. However, it does not explicitly prioritize these actions over other policies. The strategy is presented as one of many responsibilities of the local government, alongside managing infrastructure, service delivery, and community health and wellbeing. While the strategy is clearly a significant focus, there is no explicit statement that it should take precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a Climate Change Strategy and a Sustainability Policy, which guide decision-making, planning, operations, and program delivery, there is no explicit requirement stated that all council activities must align with these policies. The documents do mention that the Climate Change Strategy is aligned with many objectives of the Strategic Community Plan, and that the Sustainability Policy is the umbrella policy for climate action. However, these statements do not necessarily imply that all council activities must be aligned with the climate policy. Therefore, without explicit evidence, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does explicitly allocate funding for climate action. The plan is supported by the City's Greenhouse Action Fund, which allocates $200,000 each year. This fund was established in 2011 using ongoing savings from previous emission reduction initiatives. To date, the fund has financed over $2 million in projects, including a 1MV PV system and geothermal for the Cockburn Aquatic and Recreation Centre. The plan also mentions that the City will explore grant opportunities from the state and federal government to further advance the action plan. The remaining actions will be subject to annual budget submissions, approved business cases by responsible leaders, and budget capacity. This indicates a clear commitment to funding climate action initiatives.",
+          "quote": {
+            "content": "The City will also explore grant opportunities from the state and federal government to further advance the action plan. The action plan is supported by the City\u2019s Greenhouse Action Fund which includes an allocation of $200,000 each year. The Greenhouse Action Fund was established in 2011 using ongoing savings from previous emission reduction initiatives. To date the fund has financed over $2 million in projects including a 1MV PV systems and geothermal for the Cockburn Aquatic and Recreation Centre.",
+            "page": 49,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the appointment of a full-time Climate Change Officer, who was previously part-time, to oversee the implementation of the strategy and the climate resilience roadmap. This indicates a clear allocation of human resources to climate action. The plan also mentions the coordination of actions, delivery of education programs, and continued investment in researching new initiatives, which implies the allocation of other non-monetary institutional resources. Furthermore, the plan details specific roles and responsibilities for various positions, such as the Manager of Parks and Environment and the Manager of Infrastructure Services, in implementing different aspects of the climate action plan. This further demonstrates the allocation of institutional resources to climate action.",
+          "quote": {
+            "content": "Coordination of the actions, delivery of education programs and the continued investment in researching new initiatives will require the appointment of a full-time Climate Change Officer (currently part-time contract).",
+            "page": 49,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a clear commitment to education and collaboration as essential elements in the city's response to climate change. It emphasizes the shared responsibility of climate change and the importance of working with the community, businesses, and stakeholders to take action and build resilience. The city provides grants and scholarships to support environmental education and offers a range of programs and initiatives aimed at raising awareness and understanding of climate risks and resilience. The city also acknowledges the importance of strong leadership and has developed a 'resilience roadmap' that sets aspirational targets to achieve carbon neutrality and increase resilience to climate change. This roadmap includes 14 objectives that demonstrate leadership, encourage collaboration, reduce emissions, and increase adaptive capacity.",
+          "quote": {
+            "content": "Through education, the City can help the community and business understand the specific climate risks to our region, which can empower them to take action to reduce emissions and build resilience by being prepared to adapt to the impacts.",
+            "page": 33,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate change strategy indeed includes specific actions for the mitigation of greenhouse gas emissions. The strategy outlines a 'climate resilience roadmap' with 14 objectives that aim to reduce emissions and increase the city's adaptive capacity. The roadmap includes actions such as reducing corporate emissions by eliminating waste to landfill, transitioning to 100% renewable energy, and reducing energy consumption. The strategy also includes plans to invest in ethical, accredited carbon offsets for residual emissions that can't be reduced by 2030. The strategy also includes actions to assist the community in achieving net zero emissions by 2050 through education and collaboration. The strategy also includes a commitment to review the strategy in 2025 to stay up to date with changes in policy, technology, and climate change science.",
+          "quote": {
+            "content": "The emission reduction targets are addressed in the \u2018climate resilience roadmap\u2019 (image 8) and supported by the following objectives: Net Zero This strategy presents net zero emissions targets for the City (to achieve by 2030) and the community (to achieve by 2050). These targets are supported by the community and are in line with leading Councils around Australia.",
+            "page": 11,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Strategy 2020-2030 indeed includes specific actions for climate adaptation and resilience. The strategy outlines a comprehensive set of actions under various objectives such as 'Coastal Adaptation', 'Increase the Urban Forest', 'Protect Community Infrastructure', and 'Enhance Health and Wellbeing'. Each of these objectives has a set of actions with a designated leader, related plan, timeframe, resource, and measure of success. For instance, under 'Coastal Adaptation', actions include reviewing and implementing the Coastal Adaptation Plan with the latest climate science, maintaining an ongoing coastal monitoring program, and receiving legal advice to clarify the city's liability in the event of coastal climate change risk scenarios. Similarly, under 'Enhance Health and Wellbeing', actions include undertaking a climate change health vulnerability assessment and updating the Public Health Plan to reduce climate change risk to public health.",
+          "quote": {
+            "content": "Actions to enhance health and wellbeing\nLeader\nRelated Plan\nTimeframe\nResource\nMeasure of Success\n14.1 Undertake a climate change health vulnerability assessment and map vulnerable residents and areas.",
+            "page": 48,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provide a detailed action plan for addressing climate change, including specific actions, responsible parties, timeframes, and measures of success. However, they do not provide well-sourced evidence to justify these climate targets and actions. The documents outline various strategies such as providing updated information to the public, undertaking an annual greenhouse gas emission corporate inventory, implementing a climate resilience roadmap, and investing in ethical, accredited carbon offsets. However, they do not provide the scientific or empirical evidence that underpins these strategies or explain why these particular actions were chosen over others. The documents also do not provide any references to external sources, studies, or data that could provide such evidence. Therefore, while the documents demonstrate a commitment to addressing climate change and provide a detailed plan for doing so, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. Each action listed in the plan is associated with a 'Measure of Success', which serves as a clear, quantifiable indicator of whether the action has been successfully implemented. For instance, the success of the action to 'Prepare an Economic Development Framework' is measured by whether the 'New Economic Development Framework' has been adopted. Similarly, the success of the action to 'Undertake a climate change health vulnerability assessment' is measured by whether the 'Vulnerability assessment' has been completed. These measures of success provide a concrete way to evaluate the effectiveness of the plan's actions, ensuring accountability and facilitating informed decision-making."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's climate change action plan outlines a comprehensive set of actions to eliminate greenhouse gas emissions and increase the city's adaptive capacity. These actions are informed by the community's input, indicating that the local government has sought to understand the community's perspectives and needs in developing its climate action plan. Furthermore, the plan includes specific actions such as undertaking a climate change health vulnerability assessment and mapping vulnerable residents and areas. This suggests that the local government is planning to conduct research to understand the specific vulnerabilities and risks faced by its community due to climate change. The plan also includes actions to engage with the community and stakeholders to raise awareness of coastal risks and increase collaboration, indicating that the local government is planning to continue its research and engagement with the community to inform its climate actions.",
+          "quote": {
+            "content": "The plan provides information on the 14 key objectives of the climate resilience roadmap and a comprehensive set of actions to help eliminate greenhouse gas emissions and increase the City\u2019s adaptive capacity. The climate change action plan has been developed with direction from the community on how the City can create a sustainable and climate resilient future.",
+            "page": 17,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents outline a variety of actions and strategies related to climate change, such as the Climate Change Strategy 2020-2030, the Climate Resilience Roadmap, and various action plans, these do not explicitly mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do mention the implementation of various plans and strategies, the exploration of opportunities for carbon positive buildings, and the investigation of how the city can support renewable energy projects. However, these actions are not explicitly described as experiments, pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be conclusively stated that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. This is evident in the Climate Change Strategy 2020-2030, which outlines a comprehensive action plan to address climate change. One of the actions listed in the plan is to issue an open letter to the state government, acknowledging the shared responsibility in working towards net zero emissions. This action demonstrates the local government's intent to advocate for climate action at a higher level. The strategy also includes the establishment of partnerships to assist industry in achieving net zero emissions by 2050, indicating a commitment to collaboration and advocacy in the pursuit of climate action goals."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the city's responsibility for managing climate risks and setting targets to reduce emissions. It also emphasizes the importance of local governments in incorporating climate change considerations into their policies and contributing resources to prepare for, respond to, and recover from climate impacts. The policy also highlights the role of councils in providing localised information about relevant climate risks to help the community build resilience and increase adaptive capacity. Furthermore, the policy outlines the city's commitment to education and collaboration as essential elements in its response to climate change. Through education, the city aims to help the community and businesses understand specific climate risks, empowering them to take action to reduce emissions and build resilience. The policy also acknowledges the shared responsibility of climate change and the importance of collaboration with stakeholders, the community, and businesses.",
+          "quote": {
+            "content": "Through education, the City can help the community and business understand the specific climate risks to our region, which can empower them to take action to reduce emissions and build resilience by being prepared to adapt to the impacts.",
+            "page": 33,
+            "source": "Cockburn-WA-216.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific partnerships related to climate action. The local government has outlined a plan to continue collaboration with the Cockburn Sound Coastal Alliance, as part of their Climate Change Strategy 2020-2030. This suggests that the local government is actively engaging with regional associations to address climate change. Furthermore, the local government is also a member of the Cities Power Partnership, indicating a commitment to collaborate with other cities to tackle climate change. These partnerships are crucial for sharing resources, knowledge, and best practices, and for coordinating efforts to address the complex, cross-boundary issue of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the potential impacts of climate change on various aspects such as biodiversity, coastal adaptation, urban forest, community infrastructure, and public health, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents do mention the need for community engagement and education, and the shared responsibility of addressing climate change, but these references do not specifically tie into a discussion on equity and social justice. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change, such as reducing emissions, increasing adaptive capacity, and providing education and collaboration, they do not specifically address the equitable distribution of benefits and opportunities. The documents mention the importance of collaboration with the community and stakeholders, and the need for education to build awareness and understanding of climate risks. However, these references do not directly address the concept of equity and social justice in the context of sharing the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70.0
+  }
+}

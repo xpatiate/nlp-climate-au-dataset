@@ -1,1 +1,311 @@
-{"settings": {"source_files": ["Moreton-QLD-273.pdf", "Moreton-QLD-66.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T21:58:09.090630", "lga": "Moreton"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy's core purpose or goal is indeed climate action. The policy is designed to address climate change through a variety of measures, including reducing greenhouse gas emissions, managing climate-related risks, and planning for the long-term impacts of a changing climate. The policy also aims to meet legislated obligations in regard to climate change and reduce the local government's vulnerability to weather-related risks. Furthermore, the policy seeks to manage the local government's carbon footprint through cost-effective processes, including energy consumption monitoring and management, and greenhouse gas production management. The policy also outlines a commitment to improve the local government's response to climate change through mitigation and adaptation measures. Therefore, it is clear that the policy's primary goal is to take action on climate change.", "quote": {"content": "To ensure that the Council organisation at all levels has appropriate knowledge of climate change implications, and the organisation actively plans and prepares for the more serious implications of climate change within its financial and other regulatory limits.", "page": 25, "source": "Moreton-QLD-66.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The local government policy outlines a comprehensive approach to addressing climate change, including mitigation and adaptation strategies. The policy objectives aim to provide leadership, raise awareness of climate change, and better manage local greenhouse gas emissions. The policy also emphasizes the need for the organization to have appropriate knowledge of climate change implications and to actively plan and prepare for the more serious implications of climate change within its financial and other regulatory limits. The policy also outlines specific actions to be taken, such as managing the carbon footprint through cost-effective processes, reducing vulnerability to weather-related risks, and identifying opportunities arising from climate change. The policy also acknowledges the need to meet legislated obligations in regard to climate change.", "quote": {"content": "To ensure that the Council organisation at all levels has appropriate knowledge of climate change implications, and the organisation actively plans and prepares for the more serious implications of climate change within its financial and other regulatory limits.", "page": 25, "source": "Moreton-QLD-66.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While they do outline a number of strategies and actions to address climate change, including mitigation and adaptation measures, the language used does not convey a sense of urgency or immediacy. The documents discuss the need for strategic planning, risk management, and community engagement, and they outline various actions to be taken, such as incorporating climate change scenarios into planning processes, engaging with research institutions, and working with adjacent councils on regional projects. However, these actions are presented as part of a long-term strategy rather than urgent measures to be implemented immediately. The documents also highlight potential risks and benefits associated with climate change, but again, these are discussed in a measured and strategic manner, rather than with a sense of urgency."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for intended actions on climate change. For instance, the document from Moreton Bay Regional Council outlines a roadmap for climate change action, with specific actions and their respective timeframes. For example, it mentions that the review of relevant corporate strategies, plans, and policies to ensure they include climate change issues is to be completed by September 2013. Another action, to ensure climate change scenarios are considered in river, creek, and storm tide mapping, is set for completion in September 2013. The document also mentions that the Roadmap Leadership Committee will report to Council and the Executive Management Team every six months. These examples demonstrate that the policy does indeed provide specific timeframes for its intended actions on climate change.", "quote": {"content": "The Roadmap Leadership Committee will report to Council and the Executive Management Team every six months.", "page": 11, "source": "Moreton-QLD-66.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of strategies and actions related to climate change mitigation and adaptation, they do not specifically prioritize these actions over other policies. The documents emphasize the importance of integrating climate change considerations into various aspects of local government operations, including strategic planning, infrastructure, and advocacy and awareness. However, they do not explicitly state that these actions should take precedence over other policy areas. Furthermore, the documents highlight the need for a balanced approach, taking into account financial and regulatory limits, and the need for a measured response to climate change. This suggests that while climate change is a significant concern, it is one of many factors that the local government must consider in its decision-making processes."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy does indicate that the council will take steps to incorporate a planned approach to dealing with climate change into its operations, it does not explicitly require all activities to align with this policy. The policy does mention evaluating climate change implications for significant capital and operational activity, operational decision-making, and the setting of policy positions. However, this does not necessarily mean that all activities must align with the climate policy. The policy also mentions that the council will plan to reduce vulnerability to weather-related risk and meet legislated obligations in regard to climate change. However, these statements do not explicitly require all council activities to align with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding are not clearly detailed. The policy outlines various actions related to climate change, such as ensuring climate change scenarios are considered in river, creek, and storm tide mapping, and developing a process for assessing sustainability implications on infrastructure programs. For each action, the policy includes a 'Cost' column, indicating that funding has been considered. For instance, the cost for the action of ensuring climate change scenarios are considered in river, creek, and storm tide mapping is included in project costs. However, the policy does not provide specific figures or a detailed breakdown of the funding allocation. Furthermore, the policy mentions seeking State and/or Federal Government grants relating to mitigation and adaptation, indicating an effort to secure additional funding for climate action.", "quote": {"content": "Strategic Planning, EP&C, Drainage, Waterways and Coastal Planning Sept 2013 Included in project costs Areas are identified at risk to long term Action Responsibility Timing Cost Indicator 7.1 Ensure climate change scenarios are considered in river, creek and storm tide mapping.", "page": 17, "source": "Moreton-QLD-66.pdf", "search_score": 0.95}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of strategic outcomes and actions, each with a designated responsibility assigned to specific departments or committees within the local government. For instance, the policy assigns the responsibility of ensuring climate change scenarios are considered in river, creek, and storm tide mapping to the Strategic Planning, EP&C, Drainage, Waterways, and Coastal Planning departments. Similarly, the task of integrating sustainability and climate risk into the corporate induction program is assigned to the EP&C department. The policy also outlines the formation of a multi-directorate Leadership Committee to ensure the implementation of the roadmap. These allocations demonstrate a clear commitment to mobilizing institutional resources for climate action.", "quote": {"content": "Strategic Planning,  EP&C , Drainage, Waterways and Coastal Planning  Sept 2013  Included in project costs  Areas are identified at risk to long term Action Responsibility Timing Cost Indicator 7.1  Ensure climate change scenarios are considered in river, creek and storm tide mapping.", "page": 17, "source": "Moreton-QLD-66.pdf", "search_score": 0.96}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is taking steps to educate and engage the community in climate action. The policy outlines a commitment to inform staff and community members about climate change through programs such as the library service and the Council website. It also encourages staff to plan for the serious implications of climate change. The policy also includes a strategic outcome to 'facilitate improved knowledge of climate change at all levels and involve relevant stakeholders to share the risk.' This suggests an intention to empower the community to work together on climate action. However, the documents do not provide specific details on how the community is being mobilized to rally and support climate action. The policy seems to focus more on informing and educating the community rather than actively mobilizing them.", "quote": {"content": "To achieve these policy positions, Council, in partnership with its community, industry and government, will: Inform its staff and members of reliable information on climate change and assist in community education through current programs such as the library service and the Council website.", "page": 25, "source": "Moreton-QLD-66.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate change policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to managing and reducing greenhouse gas emissions where practical. It also includes strategies for energy consumption monitoring and management, and greenhouse gas production management, which are technological solutions aimed at reducing emissions. The policy also encourages staff to take a considered and measured approach in actively planning for the serious implications of climate change, which implies a focus on behaviour change. Furthermore, the policy outlines actions to be taken under four themes: Governance, Infrastructure, Planning and Regulation, and Advocacy and Awareness. These themes encompass both technological solutions and behaviour change strategies. Therefore, the policy does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.", "quote": {"content": "Manage our carbon footprint through cost effective processes, including energy consumption monitoring and management, and greenhouse gas production management.", "page": 25, "source": "Moreton-QLD-66.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic approach to climate change, with a focus on both mitigation and adaptation strategies. It includes actions such as ensuring climate change scenarios are considered in river, creek, and storm tide mapping, which is a clear example of an adaptation strategy. The policy also includes a commitment to review and evaluate the range of projects and programs requiring more specific planning and design as more information becomes available, demonstrating an adaptive management approach. Furthermore, the policy outlines a commitment to manage the local government's carbon footprint through cost-effective processes, which is a mitigation strategy. The policy also includes a commitment to reduce the community's vulnerability to weather-related risks, which is another key aspect of climate adaptation.", "quote": {"content": "As Council gains experience in assessing climate change impacts, and scientifically based information becomes more firmly developed, the range of projects and programs requiring more specific planning and design will be reviewed.", "page": 25, "source": "Moreton-QLD-66.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various strategies, plans, and actions related to climate change mitigation and adaptation, they do not provide specific sources or evidence to justify these measures. For instance, the documents mention the need for strategic planning, assessing the vulnerability of current assets, and improving knowledge of climate change at all levels. However, they do not provide clear, well-sourced evidence to support these actions. The documents also mention the need to meet legislated obligations in regard to climate change and to reduce vulnerability to weather-related risk, but again, no specific evidence or sources are provided to justify these targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate targets and actions are justified by well-sourced evidence."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a series of strategic outcomes, each associated with specific actions, responsibilities, timings, costs, and indicators. These indicators serve as the measurable criteria for evaluating the success of the actions. For instance, in the case of Strategic Outcome 7, the indicator is the identification of areas at risk to long term climate change. Similarly, for Strategic Outcome 1, the indicator is the implementation of the Roadmap actions in the specified timeframes. These indicators provide a clear, measurable standard against which the success of the actions can be evaluated.", "quote": {"content": "Strategic \nPlanning,  EP&C , \nDrainage, Water-\nways and Coastal \nPlanning  \nSept 2013  \n \nIncluded \nin \nproject \ncosts  \nAreas are \nidentified at \nrisk to long \nterm No\n. Action \nResponsibility \nTiming \nCost \nIndicator \n7.1  \n \nEnsure climate change scenarios are \nconsidered in river, creek and storm tide \nmapping.", "page": 17, "source": "Moreton-QLD-66.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to engage with research institutions to increase local knowledge on climate change. This engagement is expected to initiate and support relevant research projects on climate change. The policy also includes working with adjacent councils on regional projects relating to climate change. This suggests a collaborative approach to research and knowledge sharing, which could potentially involve community-based research. However, the documents do not provide specific details on the nature of the research, the research institutions involved, or how the research findings will be applied to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's policy does outline a strategic approach to climate change, including planning for long-term impacts, assessing the vulnerability of current assets, and facilitating improved knowledge of climate change, these actions are largely standard responses to climate change. They do not necessarily indicate innovation or experimentation. The policy does mention the need for a 'strategically planned response to climate change that allows for growth and will meet legal obligations', but it does not provide specific details about what this response might entail or how it might differ from standard approaches. Therefore, based on the provided documents, it cannot be definitively stated that the local government is engaging in innovative or experimental policy approaches to climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the Moreton Bay Regional Council to advocate upward to state and national governments to support climate action. This is evident in the council's strategic outcome 9, which states that the Moreton Bay region seeks funding for corporate and community climate change initiatives from the State and Federal government. This indicates that the council is not only seeking financial support but also advocating for climate action at higher levels of government. The council's action plan includes actively seeking State and/or Federal Government grants relating to mitigation and adaptation, which further underscores their advocacy efforts. Therefore, it can be concluded that the council is actively engaging with state and national governments to support climate action.", "quote": {"content": "No.", "page": 20, "source": "Moreton-QLD-66.pdf", "search_score": 1.0}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to engage with research institutions to increase local knowledge on climate change, work with adjacent councils on regional projects relating to climate change, and develop community awareness programs about climate change. The policy also emphasizes the importance of integrating climate change considerations into corporate strategies, plans, and policies, and ensuring that the council and the community have the capacity to respond to climate change. This suggests a comprehensive approach to building local capacity for climate action, involving a range of stakeholders and focusing on both mitigation and adaptation strategies."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy documents and reports from the Moreton Bay Regional Council discuss the council's strategies and actions for addressing climate change, including planning and regulation, advocacy and awareness, and governance. They mention the need for coordination and partnerships, but these are discussed in a general sense, without reference to specific external organizations or alliances. The documents do mention working with adjacent councils on regional projects relating to climate change, but no specific councils or projects are named."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy focuses on the local government's planned actions in response to climate change, including assessing the vulnerability of current assets, planning for long-term climate change impacts, improving knowledge of climate change at all levels, and involving relevant stakeholders. It also mentions the need for a strategically planned response to climate change that allows for growth and meets legal obligations. However, there is no specific mention or discussion of the impact of climate change on vulnerable communities or any considerations related to equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities. The focus is primarily on reducing greenhouse gas emissions, managing climate risks, and improving climate change awareness and education. There is no explicit mention of equity or social justice in the context of sharing the benefits and opportunities of a safe climate. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 66.7}}
+{
+  "settings": {
+    "source_files": [
+      "Moreton-QLD-273.pdf",
+      "Moreton-QLD-66.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T21:58:09.090630",
+    "lga": "Moreton"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose or goal is indeed climate action. The policy is designed to address climate change through a variety of measures, including reducing greenhouse gas emissions, managing climate-related risks, and planning for the long-term impacts of a changing climate. The policy also aims to meet legislated obligations in regard to climate change and reduce the local government's vulnerability to weather-related risks. Furthermore, the policy seeks to manage the local government's carbon footprint through cost-effective processes, including energy consumption monitoring and management, and greenhouse gas production management. The policy also outlines a commitment to improve the local government's response to climate change through mitigation and adaptation measures. Therefore, it is clear that the policy's primary goal is to take action on climate change.",
+          "quote": {
+            "content": "To ensure that the Council organisation at all levels has appropriate knowledge of climate change implications, and the organisation actively plans and prepares for the more serious implications of climate change within its financial and other regulatory limits.",
+            "page": 25,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government policy outlines a comprehensive approach to addressing climate change, including mitigation and adaptation strategies. The policy objectives aim to provide leadership, raise awareness of climate change, and better manage local greenhouse gas emissions. The policy also emphasizes the need for the organization to have appropriate knowledge of climate change implications and to actively plan and prepare for the more serious implications of climate change within its financial and other regulatory limits. The policy also outlines specific actions to be taken, such as managing the carbon footprint through cost-effective processes, reducing vulnerability to weather-related risks, and identifying opportunities arising from climate change. The policy also acknowledges the need to meet legislated obligations in regard to climate change.",
+          "quote": {
+            "content": "To ensure that the Council organisation at all levels has appropriate knowledge of climate change implications, and the organisation actively plans and prepares for the more serious implications of climate change within its financial and other regulatory limits.",
+            "page": 25,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While they do outline a number of strategies and actions to address climate change, including mitigation and adaptation measures, the language used does not convey a sense of urgency or immediacy. The documents discuss the need for strategic planning, risk management, and community engagement, and they outline various actions to be taken, such as incorporating climate change scenarios into planning processes, engaging with research institutions, and working with adjacent councils on regional projects. However, these actions are presented as part of a long-term strategy rather than urgent measures to be implemented immediately. The documents also highlight potential risks and benefits associated with climate change, but again, these are discussed in a measured and strategic manner, rather than with a sense of urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for intended actions on climate change. For instance, the document from Moreton Bay Regional Council outlines a roadmap for climate change action, with specific actions and their respective timeframes. For example, it mentions that the review of relevant corporate strategies, plans, and policies to ensure they include climate change issues is to be completed by September 2013. Another action, to ensure climate change scenarios are considered in river, creek, and storm tide mapping, is set for completion in September 2013. The document also mentions that the Roadmap Leadership Committee will report to Council and the Executive Management Team every six months. These examples demonstrate that the policy does indeed provide specific timeframes for its intended actions on climate change.",
+          "quote": {
+            "content": "The Roadmap Leadership Committee will report to Council and the Executive Management Team every six months.",
+            "page": 11,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of strategies and actions related to climate change mitigation and adaptation, they do not specifically prioritize these actions over other policies. The documents emphasize the importance of integrating climate change considerations into various aspects of local government operations, including strategic planning, infrastructure, and advocacy and awareness. However, they do not explicitly state that these actions should take precedence over other policy areas. Furthermore, the documents highlight the need for a balanced approach, taking into account financial and regulatory limits, and the need for a measured response to climate change. This suggests that while climate change is a significant concern, it is one of many factors that the local government must consider in its decision-making processes."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the policy does indicate that the council will take steps to incorporate a planned approach to dealing with climate change into its operations, it does not explicitly require all activities to align with this policy. The policy does mention evaluating climate change implications for significant capital and operational activity, operational decision-making, and the setting of policy positions. However, this does not necessarily mean that all activities must align with the climate policy. The policy also mentions that the council will plan to reduce vulnerability to weather-related risk and meet legislated obligations in regard to climate change. However, these statements do not explicitly require all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate funding for climate action, although the specifics of the funding are not clearly detailed. The policy outlines various actions related to climate change, such as ensuring climate change scenarios are considered in river, creek, and storm tide mapping, and developing a process for assessing sustainability implications on infrastructure programs. For each action, the policy includes a 'Cost' column, indicating that funding has been considered. For instance, the cost for the action of ensuring climate change scenarios are considered in river, creek, and storm tide mapping is included in project costs. However, the policy does not provide specific figures or a detailed breakdown of the funding allocation. Furthermore, the policy mentions seeking State and/or Federal Government grants relating to mitigation and adaptation, indicating an effort to secure additional funding for climate action.",
+          "quote": {
+            "content": "Strategic Planning, EP&C, Drainage, Waterways and Coastal Planning Sept 2013 Included in project costs Areas are identified at risk to long term Action Responsibility Timing Cost Indicator 7.1 Ensure climate change scenarios are considered in river, creek and storm tide mapping.",
+            "page": 17,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines a number of strategic outcomes and actions, each with a designated responsibility assigned to specific departments or committees within the local government. For instance, the policy assigns the responsibility of ensuring climate change scenarios are considered in river, creek, and storm tide mapping to the Strategic Planning, EP&C, Drainage, Waterways, and Coastal Planning departments. Similarly, the task of integrating sustainability and climate risk into the corporate induction program is assigned to the EP&C department. The policy also outlines the formation of a multi-directorate Leadership Committee to ensure the implementation of the roadmap. These allocations demonstrate a clear commitment to mobilizing institutional resources for climate action.",
+          "quote": {
+            "content": "Strategic Planning,  EP&C , Drainage, Waterways and Coastal Planning  Sept 2013  Included in project costs  Areas are identified at risk to long term Action Responsibility Timing Cost Indicator 7.1  Ensure climate change scenarios are considered in river, creek and storm tide mapping.",
+            "page": 17,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to educate and engage the community in climate action. The policy outlines a commitment to inform staff and community members about climate change through programs such as the library service and the Council website. It also encourages staff to plan for the serious implications of climate change. The policy also includes a strategic outcome to 'facilitate improved knowledge of climate change at all levels and involve relevant stakeholders to share the risk.' This suggests an intention to empower the community to work together on climate action. However, the documents do not provide specific details on how the community is being mobilized to rally and support climate action. The policy seems to focus more on informing and educating the community rather than actively mobilizing them.",
+          "quote": {
+            "content": "To achieve these policy positions, Council, in partnership with its community, industry and government, will: Inform its staff and members of reliable information on climate change and assist in community education through current programs such as the library service and the Council website.",
+            "page": 25,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate change policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to managing and reducing greenhouse gas emissions where practical. It also includes strategies for energy consumption monitoring and management, and greenhouse gas production management, which are technological solutions aimed at reducing emissions. The policy also encourages staff to take a considered and measured approach in actively planning for the serious implications of climate change, which implies a focus on behaviour change. Furthermore, the policy outlines actions to be taken under four themes: Governance, Infrastructure, Planning and Regulation, and Advocacy and Awareness. These themes encompass both technological solutions and behaviour change strategies. Therefore, the policy does include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change.",
+          "quote": {
+            "content": "Manage our carbon footprint through cost effective processes, including energy consumption monitoring and management, and greenhouse gas production management.",
+            "page": 25,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a strategic approach to climate change, with a focus on both mitigation and adaptation strategies. It includes actions such as ensuring climate change scenarios are considered in river, creek, and storm tide mapping, which is a clear example of an adaptation strategy. The policy also includes a commitment to review and evaluate the range of projects and programs requiring more specific planning and design as more information becomes available, demonstrating an adaptive management approach. Furthermore, the policy outlines a commitment to manage the local government's carbon footprint through cost-effective processes, which is a mitigation strategy. The policy also includes a commitment to reduce the community's vulnerability to weather-related risks, which is another key aspect of climate adaptation.",
+          "quote": {
+            "content": "As Council gains experience in assessing climate change impacts, and scientifically based information becomes more firmly developed, the range of projects and programs requiring more specific planning and design will be reviewed.",
+            "page": 25,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline various strategies, plans, and actions related to climate change mitigation and adaptation, they do not provide specific sources or evidence to justify these measures. For instance, the documents mention the need for strategic planning, assessing the vulnerability of current assets, and improving knowledge of climate change at all levels. However, they do not provide clear, well-sourced evidence to support these actions. The documents also mention the need to meet legislated obligations in regard to climate change and to reduce vulnerability to weather-related risk, but again, no specific evidence or sources are provided to justify these targets and actions. Therefore, based on the provided documents, it cannot be affirmed that the local government's climate targets and actions are justified by well-sourced evidence."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a series of strategic outcomes, each associated with specific actions, responsibilities, timings, costs, and indicators. These indicators serve as the measurable criteria for evaluating the success of the actions. For instance, in the case of Strategic Outcome 7, the indicator is the identification of areas at risk to long term climate change. Similarly, for Strategic Outcome 1, the indicator is the implementation of the Roadmap actions in the specified timeframes. These indicators provide a clear, measurable standard against which the success of the actions can be evaluated.",
+          "quote": {
+            "content": "Strategic \nPlanning,  EP&C , \nDrainage, Water-\nways and Coastal \nPlanning  \nSept 2013  \n \nIncluded \nin \nproject \ncosts  \nAreas are \nidentified at \nrisk to long \nterm No\n. Action \nResponsibility \nTiming \nCost \nIndicator \n7.1  \n \nEnsure climate change scenarios are \nconsidered in river, creek and storm tide \nmapping.",
+            "page": 17,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to engage with research institutions to increase local knowledge on climate change. This engagement is expected to initiate and support relevant research projects on climate change. The policy also includes working with adjacent councils on regional projects relating to climate change. This suggests a collaborative approach to research and knowledge sharing, which could potentially involve community-based research. However, the documents do not provide specific details on the nature of the research, the research institutions involved, or how the research findings will be applied to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's policy outlines a commitment to managing and reducing greenhouse gas emissions, and to risk management through appropriate mitigation and adaptation strategies. The policy also mentions the need for a strategically planned response to climate change that allows for growth and meets legal obligations. The policy further outlines the intention to review the range of projects and programs requiring more specific planning and design as the Council gains experience in assessing climate change impacts. One specific example of policy experimentation is the development of pilot capital works projects for priority projects, which could be seen as a form of testing policies and approaches on a small scale under real-world conditions."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the Moreton Bay Regional Council to advocate upward to state and national governments to support climate action. This is evident in the council's strategic outcome 9, which states that the Moreton Bay region seeks funding for corporate and community climate change initiatives from the State and Federal government. This indicates that the council is not only seeking financial support but also advocating for climate action at higher levels of government. The council's action plan includes actively seeking State and/or Federal Government grants relating to mitigation and adaptation, which further underscores their advocacy efforts. Therefore, it can be concluded that the council is actively engaging with state and national governments to support climate action.",
+          "quote": {
+            "content": "No.",
+            "page": 20,
+            "source": "Moreton-QLD-66.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across the council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to engage with research institutions to increase local knowledge on climate change, work with adjacent councils on regional projects relating to climate change, and develop community awareness programs about climate change. The policy also emphasizes the importance of integrating climate change considerations into corporate strategies, plans, and policies, and ensuring that the council and the community have the capacity to respond to climate change. This suggests a comprehensive approach to building local capacity for climate action, involving a range of stakeholders and focusing on both mitigation and adaptation strategies."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The policy documents and reports from the Moreton Bay Regional Council discuss the council's strategies and actions for addressing climate change, including planning and regulation, advocacy and awareness, and governance. They mention the need for coordination and partnerships, but these are discussed in a general sense, without reference to specific external organizations or alliances. The documents do mention working with adjacent councils on regional projects relating to climate change, but no specific councils or projects are named."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy focuses on the local government's planned actions in response to climate change, including assessing the vulnerability of current assets, planning for long-term climate change impacts, improving knowledge of climate change at all levels, and involving relevant stakeholders. It also mentions the need for a strategically planned response to climate change that allows for growth and meets legal obligations. However, there is no specific mention or discussion of the impact of climate change on vulnerable communities or any considerations related to equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities. The focus is primarily on reducing greenhouse gas emissions, managing climate risks, and improving climate change awareness and education. There is no explicit mention of equity or social justice in the context of sharing the benefits and opportunities of a safe climate. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 66.7
+  }
+}

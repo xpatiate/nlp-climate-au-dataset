@@ -1,1 +1,325 @@
-{"settings": {"source_files": ["Mornington-VIC-148.pdf", "Mornington-VIC-149.pdf", "Mornington-VIC-150.pdf", "Mornington-VIC-191.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T22:01:46.501310", "lga": "Mornington"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as its core purpose. It outlines a comprehensive plan to address climate change at the local level, with a focus on advocacy, collaboration, and community engagement. The policy acknowledges the urgency of the climate crisis and sets ambitious targets for reducing emissions and achieving net zero. It also emphasizes the importance of evidence-based arguments and representative advocacy positions in promoting climate action. The policy further outlines specific roles for different stakeholders, including the local government, community groups, businesses, and individuals, in achieving its climate action goals. It also provides metrics for tracking progress on its advocacy plan, climate change actions, and partnership achievements. The policy's emphasis on climate action is further underscored by its commitment to use and expand partnership and collaboration networks to advocate for zero carbon energy with other government agencies.", "quote": {"content": "We\u2019ve set a series of targets to drop municipality emissions and reach net zero.' and 'The only solution is to reverse climate change trends. This plan outlines the steps.", "page": 11, "source": "Mornington-VIC-150.pdf", "search_score": 0.96}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, recognizing climate change as a real and pressing crisis. The documents underscore the catastrophic effects of humanity's impact on the planet's ecosystems and the risks associated with inaction or insufficient action. They emphasize the need to reverse climate change trends and set targets to reduce emissions and reach net zero. The documents also acknowledge the need for a collective response, involving all levels of government, the community, and other stakeholders. They propose a series of actions and strategies, including advocacy, community engagement, and resource allocation, to address the climate emergency. However, the documents also note the challenges involved, such as the need for further data and the dependence on convincing others to take action.", "quote": {"content": "We\u2019ve set a series of targets to drop municipality emissions and reach net zero. By declaring a climate emergency, we acknowledge the dangers of inaction and the risks of too little action. The only solution is to reverse climate change trends. This plan outlines the steps.", "page": 11, "source": "Mornington-VIC-150.pdf", "search_score": 0.97}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents from the Mornington Peninsula Shire clearly call for rapid and urgent action on climate change. The Shire has declared a climate emergency, acknowledging the dangers of inaction and the risks of too little action. The documents outline a series of targets to reduce municipality emissions and reach net zero, indicating a commitment to urgent action. The Shire also recognizes the need to act urgently to meet the Paris Agreement targets sooner, with human-caused emissions of carbon dioxide needing to fall by about 45 percent from 2010 levels by 2030, and the goal to reach 'net zero' around 2050. The Shire's Climate Emergency Plan includes a range of actions and tasks to be undertaken, many of which are marked as 'urgent' or 'ongoing', further emphasizing the urgency of the response to climate change.", "quote": {"content": "This needs to happen across the globe by 2030, with the goal to reach \u2018net zero\u2019 around 2050. We need to act urgently. We need to act urgently. We need to do more to meet our Paris Agreement targets sooner. Human-caused emissions of carbon dioxide (CO2) need to fall by about 45 percent from 2010 levels.", "page": 9, "source": "Mornington-VIC-148.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the Climate Emergency Plan progress report 2021 outlines various tasks with their respective timeframes. The task of developing and implementing a Climate Emergency Advocacy Plan is set for 2022. The task of publishing an annual Climate Emergency Advocacy Report is ongoing. The task of forming an executive-led Climate Oversight Group (COG) is also set for 2022. Other tasks such as working with businesses to develop plans to cope with power shortages and blackouts, conducting township-specific community engagement, and collaborating with public and private health professionals are set for 2022-2025. However, it is important to note that some tasks have been delayed due to the COVID-19 response and other priorities."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various strategies and actions to mitigate its impacts, they do not explicitly rank these actions above other policy areas. The documents discuss the integration of climate considerations into various aspects of policy and planning, such as the adoption of the Environmentally Sustainable Design Policy and the inclusion of climate risk evaluations in new projects. However, these actions are presented as part of a comprehensive approach to policy-making, rather than as a prioritisation over other policy areas. Furthermore, some climate-related actions have been delayed due to other pressing issues such as the COVID-19 response, suggesting that these actions are not always given the highest priority."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, provide a framework for prioritising actions that contribute to reducing greenhouse gas emissions and building community climate resilience. The documents outline a scoring system for assessing potential projects, with those scoring higher being given higher priority. The scoring is conducted by councillors and shire officers from the Climate Change, Energy and Water team and the Natural Systems Team. The documents also mention the formation of a Climate Oversight Group (COG) to implement the Climate Emergency Plan and embed climate emergency priorities into all Shire decisions, programs, policies, and strategies. However, this does not necessarily mean that all council activities must align with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Climate Emergency Plan does allocate resources for climate action, although the specifics of funding allocation are not explicitly detailed. The plan mentions a 'COVID-19 Recovery budget' which includes a $500k budget for environmental/solar upgrades, retrofits, investigation of solar and battery farms, a community-led Virtual Energy Network, and funding for community Climate Change action. This indicates a clear allocation of resources towards climate action. However, the plan also notes that many tasks require further enquiry to be fully costed, suggesting that the exact allocation of funding may be subject to change. The plan also mentions seeking funding for climate emergency responses, including partnerships, grants, and sustainable loans, indicating an intention to mobilize additional resources for climate action.", "quote": {"content": "Within this is a $500k budget to facilitate environmental/solar upgrades and retrofits, investigate solar and battery farms and a community led Virtual Energy Network and fund community Climate Change action.", "page": 22, "source": "Mornington-VIC-149.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's Climate Emergency Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need to increase human resources and in-house expertise for climate change impact and risk management, particularly regarding coastal risks. This indicates a clear allocation of staff resources towards climate action. Furthermore, the plan also mentions the Shire's Learning and Development Program, which is being empowered to strengthen the organisation's resilience and foster climate change leadership. This suggests an allocation of institutional resources in the form of training and development programs. The plan also mentions the need for ongoing planning for local evacuations and relief during an emergency, which would require the allocation of staff and resources. Therefore, the plan does explicitly allocate both staff and non-monetary institutional resources to climate action."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide substantial evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The Climate Emergency Plan progress report 2021 outlines a number of actions aimed at mobilising and strengthening community action. These include strengthening relationships among the Shire and local groups, providing direct support for community and youth groups to pursue climate action, and launching Climate Change Action grants to support grass-roots community climate change action. The Climate Change Community Engagement Strategy 2018 also highlights the importance of community engagement and education in the council's climate emergency response. The strategy includes actions such as building human and social adaptive capacities, introducing initiatives that minimise consumption, waste, water and energy use, and assisting community groups to develop, support, lead and promote community-led education programs. These actions demonstrate a clear commitment to social mobilisation in response to climate change.", "quote": {"content": "In addition, the Climate Change Action grants were launched in July to support grass-roots community climate change action. The Shire is involved in on-going discussions with the community and experts regarding Community Energy opportunities.", "page": 30, "source": "Mornington-VIC-149.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a series of targets to reduce municipality emissions and reach net zero, demonstrating a commitment to technological solutions. The plan also includes actions to transition the Shire fleet from internal combustion to zero-emission vehicles, which is a clear example of a technological solution to reduce emissions. Furthermore, the plan emphasizes the importance of behaviour change, with actions to raise community awareness and foster behaviour change, as well as to mobilize and strengthen community action. These actions aim to educate the community about the impacts of climate change and promote sustainable behaviours, which are crucial for reducing greenhouse gas emissions. Therefore, the plan includes both technological solutions and behaviour change as strategies for mitigating greenhouse gas emissions.", "quote": {"content": "The plan outlines the steps.", "page": 11, "source": "Mornington-VIC-150.pdf", "search_score": 0.92}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The documents outline a range of actions and strategies aimed at addressing the impacts of climate change. For instance, the 'Climate Emergency Plan' progress report 2021 details actions such as developing a 'Climate Change Adaptation Plan' to address health impacts and risks to specific population cohorts, and identifying gaps in service provision. It also mentions the development of tailored adaptation plans for coastal areas considering existing infrastructure, cultural heritage, and biodiversity values. Furthermore, the plan includes the review and expansion of emergency management plans to ensure swift and effective response and recovery to future events. The plan also emphasizes the need to incorporate climate change risks and controls into projects, long-term plans, and strategies for all Shire services and assets. Therefore, the plan clearly outlines specific actions for climate adaptation and resilience.", "quote": {"content": "Following this review, develop a long-term \u2018Climate Change Adaption Plan\u2019 (CCAP) to build resilience within these sectors.", "page": 65, "source": "Mornington-VIC-150.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide evidence that the local government's climate targets and actions are informed by well-sourced data and expert advice. The policy outlines a comprehensive plan to address climate change, with actions informed by advice from Shire-wide experts, professional consultants, and local community input. The policy also emphasizes the importance of gathering high-quality and relevant data to enable informed decisions. Specific actions, such as 'Strengthen and Integrate Climate Data into Decision Making' and 'Elevate the use of best available climate science projections into planning and delivery', demonstrate a commitment to evidence-based policy making. The policy also includes a commitment to transparent reporting on its successes and failures, and regular reviews to ensure that decisions reflect the best available knowledge, experience, and approaches. Therefore, the policy appears to be well-grounded in evidence and committed to ongoing data collection and analysis to inform its actions.", "quote": {"content": "Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback.", "page": 45, "source": "Mornington-VIC-150.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to assessing the effectiveness of its actions. For instance, it uses a scoring system to rate the effectiveness of proposed actions, with each action assessed against set criteria to determine an overall rating out of 150. Actions are then categorized as low, medium, or high priority based on their scores. Furthermore, the plan includes a review and update process, which is set to occur annually, beginning in year 2. This process will measure progress against targets and outcomes of delivered tasks. The plan also includes a provision for evaluations to take place at the completion of each program, based on success measures established at program inception. The findings from these evaluations will inform subsequent programs.", "quote": {"content": "The Plan, including all targets, actions and tasks, will be reviewed and updated annually, beginning in year 2.", "page": 20, "source": "Mornington-VIC-149.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a detailed plan that includes gathering high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The plan also includes community engagement programs to understand the community's current actions and barriers to further actions. This feedback is incorporated into the strategy's action plan. The Shire has also partnered with RMIT, Jesuit Social Services, and the City of Greater Dandenong to investigate the impacts of climate change on community health and wellbeing. This investigation identifies risks, particularly to vulnerable groups, and highlights areas of focus for health and wellbeing planning.", "quote": {"content": "The tasks in the Plan include this, especially within Action 19 \u2018Strengthen and Integrate Climate Data into Decision Making\u2019. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.", "page": 45, "source": "Mornington-VIC-150.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has adopted a Climate Emergency Plan, which includes a range of innovative actions and strategies. For instance, the plan includes the use of best available climate science projections in planning and delivery to minimize emergency response costs and ensure climate risk evaluation in new projects. The Shire has also adopted an Environmentally Sustainable Design Policy, which incorporates climate risk considerations. Furthermore, the government is increasing human resources and in-house expertise for climate change impact and risk management. The plan also includes the development of a Climate Emergency Advocacy Plan to achieve social and economic change at state and federal levels. However, the implementation of this plan has been delayed due to the COVID-19 response. The government is also working on developing a Climate Change Adaptation Plan to address health impacts and service provision gaps. These actions demonstrate a commitment to innovative approaches and policy experimentation in addressing climate change."}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a comprehensive advocacy plan that includes the development and publication of an annual 'Climate Emergency Advocacy Report' and a biennial review of the 'Climate Emergency Advocacy Plan'. The policy also emphasizes the importance of partnerships and collaborations in achieving advocacy targets. The local government acknowledges the need for action at all levels of government and aims to inspire residents to reduce their environmental footprint and advocate to state and federal governments. The policy also outlines the roles of the community and the Shire in this advocacy effort, emphasizing the use of evidence-based arguments and the importance of representing community voices. The policy also sets specific targets, such as the development of at least three case studies annually to demonstrate effective climate action.", "quote": {"content": "This includes advocating for governments to declare a climate emergency and to reduce emissions to meet the Paris Agreement 1.5\u00b0C target.", "page": 53, "source": "Mornington-VIC-150.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the Shire's role in listening to and promoting community voices, using evidence-based arguments in advocacy, and ensuring advocacy positions are representative. It also emphasizes the importance of collaboration, with individuals, businesses, community groups, and the Shire working together to achieve advocacy targets. The policy also encourages the Shire to use and expand partnership and collaboration networks, and to advocate with other government agencies for zero carbon energy. Furthermore, the policy outlines specific tasks such as strengthening relationships among the Shire and local groups to amplify community voices and enhance action, and providing direct support for community and youth groups to pursue climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has been actively involved in advocacy and collaboration efforts to address climate change. They have been working with community groups, businesses, non-governmental agencies, and intergovernmental alliances to promote climate action. The documents specifically mention the South East Councils Climate Change Alliance (SECCCA), a regional body that the Shire has advocated with for climate emergency declaration. The Shire has also partnered with RMIT, Jesuit Social Services, and the City of Greater Dandenong to investigate the impacts of climate change on community health and wellbeing. Furthermore, the Shire has been involved in ongoing discussions with the community and experts regarding Community Energy opportunities. These partnerships and collaborations demonstrate the local government's commitment to working with various stakeholders to address climate change."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Shire has partnered with various organizations to investigate the impacts of climate change on community health and wellbeing, particularly focusing on vulnerable groups. The investigation identifies gaps in service provision and highlights areas of focus for health and wellbeing planning. The documents also mention the development of a 'Climate Change Adaptation Plan' to address climate-related health impacts, including risks to specific population cohorts. Furthermore, the documents acknowledge that climate change will bring increased frequency and severity of natural disasters and extreme weather events, which will strain emergency response resources and put vulnerable communities at higher risk. The Shire is also planning to conduct township-specific community engagement to raise awareness of locational impacts and assist preparedness.", "quote": {"content": "The investigation highlights risks, particularly to vulnerable groups, identifies the gaps on our service provision and highlights areas of focus for health and wellbeing planning.", "page": 37, "source": "Mornington-VIC-149.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While there are mentions of actions to mitigate the impacts of climate change, particularly on vulnerable groups, and plans to incorporate climate knowledge into health and wellbeing plans, there is no specific discussion on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the risks and impacts of climate change and the actions to address these, rather than the distribution of benefits and opportunities. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 17, "num_questions": 20, "attribute_score": 85.0}}
+{
+  "settings": {
+    "source_files": [
+      "Mornington-VIC-148.pdf",
+      "Mornington-VIC-149.pdf",
+      "Mornington-VIC-150.pdf",
+      "Mornington-VIC-191.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T22:01:46.501310",
+    "lga": "Mornington"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as its core purpose. It outlines a comprehensive plan to address climate change at the local level, with a focus on advocacy, collaboration, and community engagement. The policy acknowledges the urgency of the climate crisis and sets ambitious targets for reducing emissions and achieving net zero. It also emphasizes the importance of evidence-based arguments and representative advocacy positions in promoting climate action. The policy further outlines specific roles for different stakeholders, including the local government, community groups, businesses, and individuals, in achieving its climate action goals. It also provides metrics for tracking progress on its advocacy plan, climate change actions, and partnership achievements. The policy's emphasis on climate action is further underscored by its commitment to use and expand partnership and collaboration networks to advocate for zero carbon energy with other government agencies.",
+          "quote": {
+            "content": "We\u2019ve set a series of targets to drop municipality emissions and reach net zero.' and 'The only solution is to reverse climate change trends. This plan outlines the steps.",
+            "page": 11,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the urgency of the situation, recognizing climate change as a real and pressing crisis. The documents underscore the catastrophic effects of humanity's impact on the planet's ecosystems and the risks associated with inaction or insufficient action. They emphasize the need to reverse climate change trends and set targets to reduce emissions and reach net zero. The documents also acknowledge the need for a collective response, involving all levels of government, the community, and other stakeholders. They propose a series of actions and strategies, including advocacy, community engagement, and resource allocation, to address the climate emergency. However, the documents also note the challenges involved, such as the need for further data and the dependence on convincing others to take action.",
+          "quote": {
+            "content": "We\u2019ve set a series of targets to drop municipality emissions and reach net zero. By declaring a climate emergency, we acknowledge the dangers of inaction and the risks of too little action. The only solution is to reverse climate change trends. This plan outlines the steps.",
+            "page": 11,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents from the Mornington Peninsula Shire clearly call for rapid and urgent action on climate change. The Shire has declared a climate emergency, acknowledging the dangers of inaction and the risks of too little action. The documents outline a series of targets to reduce municipality emissions and reach net zero, indicating a commitment to urgent action. The Shire also recognizes the need to act urgently to meet the Paris Agreement targets sooner, with human-caused emissions of carbon dioxide needing to fall by about 45 percent from 2010 levels by 2030, and the goal to reach 'net zero' around 2050. The Shire's Climate Emergency Plan includes a range of actions and tasks to be undertaken, many of which are marked as 'urgent' or 'ongoing', further emphasizing the urgency of the response to climate change.",
+          "quote": {
+            "content": "This needs to happen across the globe by 2030, with the goal to reach \u2018net zero\u2019 around 2050. We need to act urgently. We need to act urgently. We need to do more to meet our Paris Agreement targets sooner. Human-caused emissions of carbon dioxide (CO2) need to fall by about 45 percent from 2010 levels.",
+            "page": 9,
+            "source": "Mornington-VIC-148.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. For instance, the Climate Emergency Plan progress report 2021 outlines various tasks with their respective timeframes. The task of developing and implementing a Climate Emergency Advocacy Plan is set for 2022. The task of publishing an annual Climate Emergency Advocacy Report is ongoing. The task of forming an executive-led Climate Oversight Group (COG) is also set for 2022. Other tasks such as working with businesses to develop plans to cope with power shortages and blackouts, conducting township-specific community engagement, and collaborating with public and private health professionals are set for 2022-2025. However, it is important to note that some tasks have been delayed due to the COVID-19 response and other priorities."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various strategies and actions to mitigate its impacts, they do not explicitly rank these actions above other policy areas. The documents discuss the integration of climate considerations into various aspects of policy and planning, such as the adoption of the Environmentally Sustainable Design Policy and the inclusion of climate risk evaluations in new projects. However, these actions are presented as part of a comprehensive approach to policy-making, rather than as a prioritisation over other policy areas. Furthermore, some climate-related actions have been delayed due to other pressing issues such as the COVID-19 response, suggesting that these actions are not always given the highest priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, provide a framework for prioritising actions that contribute to reducing greenhouse gas emissions and building community climate resilience. The documents outline a scoring system for assessing potential projects, with those scoring higher being given higher priority. The scoring is conducted by councillors and shire officers from the Climate Change, Energy and Water team and the Natural Systems Team. The documents also mention the formation of a Climate Oversight Group (COG) to implement the Climate Emergency Plan and embed climate emergency priorities into all Shire decisions, programs, policies, and strategies. However, this does not necessarily mean that all council activities must align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Emergency Plan does allocate resources for climate action, although the specifics of funding allocation are not explicitly detailed. The plan mentions a 'COVID-19 Recovery budget' which includes a $500k budget for environmental/solar upgrades, retrofits, investigation of solar and battery farms, a community-led Virtual Energy Network, and funding for community Climate Change action. This indicates a clear allocation of resources towards climate action. However, the plan also notes that many tasks require further enquiry to be fully costed, suggesting that the exact allocation of funding may be subject to change. The plan also mentions seeking funding for climate emergency responses, including partnerships, grants, and sustainable loans, indicating an intention to mobilize additional resources for climate action.",
+          "quote": {
+            "content": "Within this is a $500k budget to facilitate environmental/solar upgrades and retrofits, investigate solar and battery farms and a community led Virtual Energy Network and fund community Climate Change action.",
+            "page": 22,
+            "source": "Mornington-VIC-149.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's Climate Emergency Plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines the need to increase human resources and in-house expertise for climate change impact and risk management, particularly regarding coastal risks. This indicates a clear allocation of staff resources towards climate action. Furthermore, the plan also mentions the Shire's Learning and Development Program, which is being empowered to strengthen the organisation's resilience and foster climate change leadership. This suggests an allocation of institutional resources in the form of training and development programs. The plan also mentions the need for ongoing planning for local evacuations and relief during an emergency, which would require the allocation of staff and resources. Therefore, the plan does explicitly allocate both staff and non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide substantial evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The Climate Emergency Plan progress report 2021 outlines a number of actions aimed at mobilising and strengthening community action. These include strengthening relationships among the Shire and local groups, providing direct support for community and youth groups to pursue climate action, and launching Climate Change Action grants to support grass-roots community climate change action. The Climate Change Community Engagement Strategy 2018 also highlights the importance of community engagement and education in the council's climate emergency response. The strategy includes actions such as building human and social adaptive capacities, introducing initiatives that minimise consumption, waste, water and energy use, and assisting community groups to develop, support, lead and promote community-led education programs. These actions demonstrate a clear commitment to social mobilisation in response to climate change.",
+          "quote": {
+            "content": "In addition, the Climate Change Action grants were launched in July to support grass-roots community climate change action. The Shire is involved in on-going discussions with the community and experts regarding Community Energy opportunities.",
+            "page": 30,
+            "source": "Mornington-VIC-149.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a series of targets to reduce municipality emissions and reach net zero, demonstrating a commitment to technological solutions. The plan also includes actions to transition the Shire fleet from internal combustion to zero-emission vehicles, which is a clear example of a technological solution to reduce emissions. Furthermore, the plan emphasizes the importance of behaviour change, with actions to raise community awareness and foster behaviour change, as well as to mobilize and strengthen community action. These actions aim to educate the community about the impacts of climate change and promote sustainable behaviours, which are crucial for reducing greenhouse gas emissions. Therefore, the plan includes both technological solutions and behaviour change as strategies for mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "The plan outlines the steps.",
+            "page": 11,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The documents outline a range of actions and strategies aimed at addressing the impacts of climate change. For instance, the 'Climate Emergency Plan' progress report 2021 details actions such as developing a 'Climate Change Adaptation Plan' to address health impacts and risks to specific population cohorts, and identifying gaps in service provision. It also mentions the development of tailored adaptation plans for coastal areas considering existing infrastructure, cultural heritage, and biodiversity values. Furthermore, the plan includes the review and expansion of emergency management plans to ensure swift and effective response and recovery to future events. The plan also emphasizes the need to incorporate climate change risks and controls into projects, long-term plans, and strategies for all Shire services and assets. Therefore, the plan clearly outlines specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Following this review, develop a long-term \u2018Climate Change Adaption Plan\u2019 (CCAP) to build resilience within these sectors.",
+            "page": 65,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government's climate targets and actions are informed by well-sourced data and expert advice. The policy outlines a comprehensive plan to address climate change, with actions informed by advice from Shire-wide experts, professional consultants, and local community input. The policy also emphasizes the importance of gathering high-quality and relevant data to enable informed decisions. Specific actions, such as 'Strengthen and Integrate Climate Data into Decision Making' and 'Elevate the use of best available climate science projections into planning and delivery', demonstrate a commitment to evidence-based policy making. The policy also includes a commitment to transparent reporting on its successes and failures, and regular reviews to ensure that decisions reflect the best available knowledge, experience, and approaches. Therefore, the policy appears to be well-grounded in evidence and committed to ongoing data collection and analysis to inform its actions.",
+          "quote": {
+            "content": "Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback.",
+            "page": 45,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to assessing the effectiveness of its actions. For instance, it uses a scoring system to rate the effectiveness of proposed actions, with each action assessed against set criteria to determine an overall rating out of 150. Actions are then categorized as low, medium, or high priority based on their scores. Furthermore, the plan includes a review and update process, which is set to occur annually, beginning in year 2. This process will measure progress against targets and outcomes of delivered tasks. The plan also includes a provision for evaluations to take place at the completion of each program, based on success measures established at program inception. The findings from these evaluations will inform subsequent programs.",
+          "quote": {
+            "content": "The Plan, including all targets, actions and tasks, will be reviewed and updated annually, beginning in year 2.",
+            "page": 20,
+            "source": "Mornington-VIC-149.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a detailed plan that includes gathering high-quality and relevant data to enable informed and appropriate decisions. This is particularly evident in Action 19, which aims to 'Strengthen and Integrate Climate Data into Decision Making'. The plan also includes community engagement programs to understand the community's current actions and barriers to further actions. This feedback is incorporated into the strategy's action plan. The Shire has also partnered with RMIT, Jesuit Social Services, and the City of Greater Dandenong to investigate the impacts of climate change on community health and wellbeing. This investigation identifies risks, particularly to vulnerable groups, and highlights areas of focus for health and wellbeing planning.",
+          "quote": {
+            "content": "The tasks in the Plan include this, especially within Action 19 \u2018Strengthen and Integrate Climate Data into Decision Making\u2019. The actions were informed by advice from Shire-wide experts and professional consultants, with local community input and feedback. Many tasks rely on the gathering of further high quality and relevant data, to enable informed and appropriate decisions. This is a significant challenge.",
+            "page": 45,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents mention various initiatives, strategies, and plans to address climate change, they do not explicitly describe any of these as experiments, pilots, test beds, demonstration projects, or urban laboratories. The documents discuss the need for innovative approaches, community engagement, and advocacy, but they do not detail specific small-scale, real-world tests of technologies, policies, or governance approaches. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an explicit intent by the local government to advocate upward to state and national governments to support climate action. The policy outlines a comprehensive advocacy plan that includes the development and publication of an annual 'Climate Emergency Advocacy Report' and a biennial review of the 'Climate Emergency Advocacy Plan'. The policy also emphasizes the importance of partnerships and collaborations in achieving advocacy targets. The local government acknowledges the need for action at all levels of government and aims to inspire residents to reduce their environmental footprint and advocate to state and federal governments. The policy also outlines the roles of the community and the Shire in this advocacy effort, emphasizing the use of evidence-based arguments and the importance of representing community voices. The policy also sets specific targets, such as the development of at least three case studies annually to demonstrate effective climate action.",
+          "quote": {
+            "content": "This includes advocating for governments to declare a climate emergency and to reduce emissions to meet the Paris Agreement 1.5\u00b0C target.",
+            "page": 53,
+            "source": "Mornington-VIC-150.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the Shire's role in listening to and promoting community voices, using evidence-based arguments in advocacy, and ensuring advocacy positions are representative. It also emphasizes the importance of collaboration, with individuals, businesses, community groups, and the Shire working together to achieve advocacy targets. The policy also encourages the Shire to use and expand partnership and collaboration networks, and to advocate with other government agencies for zero carbon energy. Furthermore, the policy outlines specific tasks such as strengthening relationships among the Shire and local groups to amplify community voices and enhance action, and providing direct support for community and youth groups to pursue climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, or other partnerships related to climate. The local government has been actively involved in advocacy and collaboration efforts to address climate change. They have been working with community groups, businesses, non-governmental agencies, and intergovernmental alliances to promote climate action. The documents specifically mention the South East Councils Climate Change Alliance (SECCCA), a regional body that the Shire has advocated with for climate emergency declaration. The Shire has also partnered with RMIT, Jesuit Social Services, and the City of Greater Dandenong to investigate the impacts of climate change on community health and wellbeing. Furthermore, the Shire has been involved in ongoing discussions with the community and experts regarding Community Energy opportunities. These partnerships and collaborations demonstrate the local government's commitment to working with various stakeholders to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Shire has partnered with various organizations to investigate the impacts of climate change on community health and wellbeing, particularly focusing on vulnerable groups. The investigation identifies gaps in service provision and highlights areas of focus for health and wellbeing planning. The documents also mention the development of a 'Climate Change Adaptation Plan' to address climate-related health impacts, including risks to specific population cohorts. Furthermore, the documents acknowledge that climate change will bring increased frequency and severity of natural disasters and extreme weather events, which will strain emergency response resources and put vulnerable communities at higher risk. The Shire is also planning to conduct township-specific community engagement to raise awareness of locational impacts and assist preparedness.",
+          "quote": {
+            "content": "The investigation highlights risks, particularly to vulnerable groups, identifies the gaps on our service provision and highlights areas of focus for health and wellbeing planning.",
+            "page": 37,
+            "source": "Mornington-VIC-149.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While there are mentions of actions to mitigate the impacts of climate change, particularly on vulnerable groups, and plans to incorporate climate knowledge into health and wellbeing plans, there is no specific discussion on how the benefits and opportunities of a safe climate will be shared equitably. The documents focus more on the risks and impacts of climate change and the actions to address these, rather than the distribution of benefits and opportunities. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 17,
+    "num_questions": 20,
+    "attribute_score": 85.0
+  }
+}

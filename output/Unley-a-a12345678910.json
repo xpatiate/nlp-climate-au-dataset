@@ -1,1 +1,312 @@
-{"settings": {"source_files": ["Unley-SA-83.pdf", "Unley-SA-84.pdf", "Unley-SA-85.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T00:39:31.546106", "lga": "Unley"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review is primarily focused on climate action. This is evident from the various measures and initiatives outlined in the policy documents. The policy includes a clear roadmap for reducing emissions and achieving carbon neutrality by 2023. It outlines specific actions such as the adoption of electric vehicles, the establishment of a Climate Partner Fund to assist lessees in reducing emissions, and the development of a sustainable procurement procedure. The policy also emphasizes the importance of tracking Scope 3 emissions and providing an annual report on the carbon footprint. Furthermore, the policy acknowledges the need for education and communication strategies to ensure the successful implementation of these climate actions. Therefore, it can be concluded that climate action is the core purpose or goal of the policy.", "quote": {"content": "This is consistent with the Paris Climate agreement which aims to limit global warming to 2\u00b0C by the end of the century. I am delighted to announce that Council has committed to be carbon neutral for its operations by December 2023.", "page": 2, "source": "Unley-SA-83.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the City of Unley's commitment to carbon neutrality by 2023, indicating an understanding of the urgency of addressing climate change. The documents also mention the long-term positive impact of reducing carbon emissions on the Council's operating budget, suggesting an awareness of the economic benefits of climate action. Furthermore, the documents acknowledge the Paris Climate Agreement's goal of limiting global warming to 2\u00b0C, indicating recognition of international climate goals. The documents also note the projected increase in extreme heat days in Adelaide due to current emissions trajectories, demonstrating an understanding of the local impacts of climate change. Finally, the documents mention the establishment of a Climate Partners Fund to improve energy efficiency in Council-owned buildings, indicating a commitment to practical action on climate change.", "quote": {"content": "Under our current emissions trajectory, the CSIRO projects that the number of days over 35C in Adelaide could increase from an average of 17 a year to 23 a year by 2030 and by as much as 36 days a year by 2070 with heat stress, loss of biodiversity, drought and flooding also increasing over time. Climate change is a pressing issue that affects us all. Adelaide has already recorded increases in the long-term average temperature and has experienced more extreme heat days (those over 35C).", "page": 2, "source": "Unley-SA-83.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and strategies for reducing emissions and improving energy efficiency, such as the adoption of electric vehicles, the implementation of sustainable procurement procedures, and the establishment of a Climate Partner Fund. However, these actions are presented as part of a long-term plan, with no specific emphasis on the need for immediate or urgent action. The documents also mention the goal of achieving carbon neutrality by 2030, but this is framed as a target rather than an urgent necessity. While the documents clearly demonstrate a commitment to addressing climate change, they do not convey a sense of urgency or immediate action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Climate & Energy Plan outlines actions to be taken in the years 2021/22 and 2022/23, such as the implementation of an Electric Vehicle pilot, the continuation of LED and building efficiency upgrades, and the development of a Climate Partner Fund. The plan also includes the establishment of a working group to identify Scope 3 emission reduction opportunities and the improvement and expansion of a carbon management system to track these emissions. Furthermore, the City of Unley has committed to achieving carbon neutrality for its operations by December 2023. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change.", "quote": {"content": "YEAR 1\u20132: 2021/22 & 2022/23\nElectric Vehicle pilot\nContinue LED / building efficiency upgrades \nDevelop and implement sustainable procurement \nprocedure and templates to support project management \nDevelop the Climate Partner Fund to assist \nlessees to reduce emissions \nEstablish working group to identify Scope \n3 emission reduction opportunities\nImprove and expand carbon management \nsystem to track Scope 3 emissions\nProvide annual report on carbon footprint\nSummary Action Plan", "page": 9, "source": "Unley-SA-85.pdf", "search_score": 0.93}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's Climate & Energy Plan outlines various actions to mitigate climate change, such as the adoption of electric vehicles, energy efficiency upgrades, and the development of a Climate Partner Fund. However, these actions are presented as part of a comprehensive plan, not as a prioritized response over other policies. The documents also mention the establishment of working groups, annual reporting on carbon footprint, and the transition to renewable energy sources. While these actions indicate a commitment to addressing climate change, they do not explicitly state that these efforts are to be prioritized above all other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents provide a detailed outline of the local government's climate and energy plan, including actions such as transitioning to electric vehicles, improving building efficiency, and developing sustainable procurement procedures, they do not explicitly require all council activities to align with these climate policies. The documents do indicate a commitment to reducing emissions and implementing measures to mitigate climate change, and they outline specific actions and strategies to achieve these goals. However, the requirement for all council activities to align with these policies is not explicitly stated."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's climate and energy plan does indeed allocate resources for climate action, although the specifics of the funding are not explicitly detailed in the provided documents. The plan outlines a series of actions to be taken over the years 2021/22 and 2022/23, including the development of an electric vehicle pilot, the continuation of LED and building efficiency upgrades, and the establishment of a Climate Partner Fund to assist lessees in reducing emissions. These actions imply a commitment of resources, both financial and staff time. However, the documents do not provide a detailed breakdown of the budget allocated to each action. Therefore, while it is clear that resources are being mobilized for climate action, the exact extent and nature of the funding are not specified."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate and energy plan does indeed allocate non-monetary institutional resources to climate action, specifically in the form of staff time. The plan outlines a number of actions to be taken in the years 2021/22 and 2022/23, and for each of these actions, it explicitly mentions 'staff time' as a resource to be utilized. This indicates that the local government is committing its personnel to the implementation of these climate actions, which is a crucial aspect of institutional resource mobilization. The actions include the commencement of an Electric Vehicle transition, the establishment of a Climate / Circular Economy Council Policy, the development of sustainable procurement procedures, and the establishment of an internal staff working group to guide the delivery of the plan and identify Scope 3 emission reduction opportunities. The allocation of staff time to these actions demonstrates a clear commitment of institutional resources to climate action.", "quote": {"content": "Improve and expand carbon management system to track Scope 3 emissions\nDevelop and implement education and communication strategy, including YEAR 1\u20132: 2021/22 & 2022/23\nCommence Electric Vehicle transition as replacements are due and viable alternatives are available\nContinue LED / building efficiency upgrades \nEstablish a Climate / Circular Economy Council Policy\nDevelop and implement sustainable procurement procedure and \ntemplates to support project management framework\nAdvocate LGA for and consider 100% renewable electricity bulk contract in 2023\nDevelop design standards guideline for Council owned buildings/assets in year 2\nDevelop the Climate Partner Fund to assist lessees to reduce emissions \nEstablish internal staff working group to guide delivery of plan and in particular \nidentify Scope 3 emission reduction opportunities. Includes advocating/\npartnering with other organisations towards shared challenges.", "page": 9, "source": "Unley-SA-83.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the City of Unley is taking steps to engage and educate the community in their climate action efforts. The council is facilitating emissions reduction projects among its tenants, extending the benefits of energy efficiency projects to the broader community. They are also considering establishing a Climate Partners Fund to offer incentives to not-for-profit tenants of council-owned buildings to improve energy efficiency. Furthermore, the council is developing an education and communication strategy, which suggests an effort to inform and involve the community in their climate action plan. However, the documents do not provide specific details on how the council is actively empowering the community to rally, support, and work together to deliver climate action. The council's efforts seem to be more focused on providing resources and incentives rather than mobilising the community for collective action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate and energy plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include the staged adoption of electric vehicles, an electrification strategy to progressively switch from gas to electricity for space and water heating, and the installation of more solar photovoltaic (PV) systems. The plan also includes energy efficiency upgrades. Behaviour change is encouraged through the development of a sustainable procurement procedure and the establishment of a working group to identify Scope 3 emission reduction opportunities. The plan also includes the development of a Climate Partner Fund to assist lessees in reducing emissions. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.", "quote": {"content": "Our plan includes:\n\u2022 A staged adoption of electric vehicles\n\u2022 An electrification strategy to progressively switch \nfrom gas to electricity for space and water heating\n\u2022 More solar pv installations including \nat community centres \n\u2022 Continued energy efficiency upgrades including", "page": 2, "source": "Unley-SA-83.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a number of preferred options to increase resilience to climate change, particularly in the eastern region. These include improving stormwater management, increasing community education and awareness regarding climate hazards, increasing planting across urban areas, and increasing the area of open space in strategic locations. The plan also includes the implementation of 'Resilient East', a Climate Change Adaptation Plan developed in partnership with other Eastern Region Alliance (ERA) Councils and Adelaide City Council. This plan identifies key vulnerabilities to climate change and provides a range of adaptation decision-making and planning options at a regional and individual Council level. The City of Unley, in particular, is expected to face vulnerabilities from increased heatwave frequency and duration and more intense periods of rainfall. The targets for this theme have been set around increasing vegetation (or green infrastructure) to help lower the overall temperature of the City.", "quote": {"content": "Resilient East provides a number of preferred options for the eastern region to increase our resilience to climate change.", "page": 18, "source": "Unley-SA-84.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a detailed plan of action for reducing carbon emissions and achieving carbon neutrality. The plan includes specific actions such as the adoption of electric vehicles, switching from gas to electricity for heating, increasing solar PV installations, and continuing energy efficiency upgrades. The plan also includes measures to track and report on carbon emissions, indicating a commitment to transparency and accountability. The documents also highlight the financial benefits of reducing carbon emissions, such as lower fuel and electricity costs and increased resilience in the face of volatile energy prices. The plan's focus on collaboration with other cities to identify low-carbon alternatives indicates a recognition of the need for collective action. However, while the documents provide a clear roadmap for action, they do not provide specific sources of evidence to justify the chosen targets and actions. The documents do not cite scientific studies or data to support the effectiveness of the proposed measures, nor do they provide detailed projections of the expected impact of these measures on carbon emissions.", "quote": {"content": "Therefore, a key focus area for Council will be to collaborate with other cities to identify suitable low-carbon alternatives.", "page": 2, "source": "Unley-SA-83.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The City of Unley has committed to an evidence-based approach to environmental management and has developed a number of indicators and targets to measure success over time within each of the five themes. These themes consider both a Council and community target, providing a good indication of progress against the key objectives. The progress will be assessed annually in September and reported through the City of Unley\u2019s Infrastructure and Sustainability Committee. As new initiatives are developed, the City of Unley can refine and improve these indicators, particularly for the community targets that are more challenging. This approach ensures that the plan's actions are not only specific but also measurable, allowing for an objective evaluation of their success.", "quote": {"content": "Progress will be assessed annually in September and reported through the City of Unley\u2019s Infrastructure and Sustainability Committee. The City of Unley is committed to an evidence based approach to environmental management and has developed a number of indicators and targets to measure success over time within each of the five themes. Each theme considers both a Council and community target as outlined in the Shared Responsibility section on page 8. These will provide a good indication of progress against the key objectives.", "page": 11, "source": "Unley-SA-84.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline a variety of actions and strategies to mitigate climate change, such as the adoption of electric vehicles, energy efficiency upgrades, and the establishment of a Climate Partner Fund. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted within the local community. The documents do mention community engagement and collaboration with other organizations, but these are not explicitly linked to research activities. Therefore, without explicit mention or clear evidence of plans to conduct local community research to inform climate actions, the question cannot be answered in the affirmative."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a clear roadmap for reducing emissions and being transparent in reporting progress. They have planned for the adoption of electric vehicles, switching from gas to electricity for space and water heating, and increasing solar PV installations. They are also focusing on energy efficiency upgrades. The Climate Partner Fund is an innovative approach to assist lessees in reducing emissions. The local government is also working on improving and expanding their carbon management system to track Scope 3 emissions. These actions show a willingness to experiment with different strategies and technologies to achieve their climate goals.", "quote": {"content": "Our plan includes:\n\u2022 A staged adoption of electric vehicles\n\u2022 An electrification strategy to progressively switch \nfrom gas to electricity for space and water heating\n\u2022 More solar pv installations including \nat community centres \n\u2022 Continued energy efficiency upgrades including", "page": 2, "source": "Unley-SA-83.pdf", "search_score": 1.0}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. While the documents outline a comprehensive plan for local action on climate change, including measures such as electric vehicle adoption, LED and building efficiency upgrades, and the development of a Climate Partner Fund, they do not explicitly mention advocacy towards higher levels of government. The documents do mention collaboration with other organizations and the establishment of working groups, but these are not specifically directed towards state or national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the City of Unley is actively encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The council has established a Climate Partners Fund to offer incentives to not-for-profit tenants of Council-owned buildings to improve energy efficiency. This initiative demonstrates an effort to engage the local community in climate action. The council is also part of the Resilient East partnership, which includes eight eastern Councils and the State Government, working on landscape-level adaptation for climate change. This partnership indicates collaboration with neighbouring local councils. Furthermore, the council plans to establish an internal staff working group to guide the delivery of the plan and identify Scope 3 emission reduction opportunities. This suggests an effort to build capacity within the council itself.", "quote": {"content": "Since 2012 the City of Unley has been an active partner with Resilient East which is working on landscape level adaptation for climate change across eight eastern Councils and the State Government.", "page": 4, "source": "Unley-SA-85.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do indeed refer to specific regional associations and alliances related to climate. The City of Unley is mentioned as an active partner with Resilient East, a collaborative effort working on landscape-level adaptation for climate change across eight eastern Councils and the State Government. This partnership is focused on preparing for the changes of climate already locked in, which is different from reducing emissions but is complementary and can leverage off each other. The documents also mention the City of Unley's commitment to become members of the Global Covenant of Mayors, which is an international alliance of city leaders committed to raising the global ambition for climate action. These partnerships and alliances are crucial for the City of Unley's climate action plan as they provide a framework for collaboration, shared resources, and collective action.", "quote": {"content": "On 23 November 2020 the City of Unley committed to become members of the Global Covenant of Mayors", "page": 1, "source": "Unley-SA-83.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions to mitigate and adapt to climate change, such as improving stormwater management, increasing community education, and transitioning to electric vehicles, they do not specifically address how these measures will affect vulnerable communities. The documents also do not discuss the potential social justice implications of climate change or the policy responses to it. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly considers the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the City of Unley's environmental sustainability strategies, climate and energy plans, and actions to reduce carbon emissions. They outline various initiatives such as the implementation of solar panels, water-sensitive urban design, energy efficiency upgrades, and the establishment of a Climate Partners Fund. However, these initiatives are not discussed in the context of equity or social justice. The documents do not provide specific details on how these climate actions would be equitably distributed or how they would contribute to social justice. Therefore, based on the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 69.2}}
+{
+  "settings": {
+    "source_files": [
+      "Unley-SA-83.pdf",
+      "Unley-SA-84.pdf",
+      "Unley-SA-85.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T00:39:31.546106",
+    "lga": "Unley"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review is primarily focused on climate action. This is evident from the various measures and initiatives outlined in the policy documents. The policy includes a clear roadmap for reducing emissions and achieving carbon neutrality by 2023. It outlines specific actions such as the adoption of electric vehicles, the establishment of a Climate Partner Fund to assist lessees in reducing emissions, and the development of a sustainable procurement procedure. The policy also emphasizes the importance of tracking Scope 3 emissions and providing an annual report on the carbon footprint. Furthermore, the policy acknowledges the need for education and communication strategies to ensure the successful implementation of these climate actions. Therefore, it can be concluded that climate action is the core purpose or goal of the policy.",
+          "quote": {
+            "content": "This is consistent with the Paris Climate agreement which aims to limit global warming to 2\u00b0C by the end of the century. I am delighted to announce that Council has committed to be carbon neutral for its operations by December 2023.",
+            "page": 2,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the City of Unley's commitment to carbon neutrality by 2023, indicating an understanding of the urgency of addressing climate change. The documents also mention the long-term positive impact of reducing carbon emissions on the Council's operating budget, suggesting an awareness of the economic benefits of climate action. Furthermore, the documents acknowledge the Paris Climate Agreement's goal of limiting global warming to 2\u00b0C, indicating recognition of international climate goals. The documents also note the projected increase in extreme heat days in Adelaide due to current emissions trajectories, demonstrating an understanding of the local impacts of climate change. Finally, the documents mention the establishment of a Climate Partners Fund to improve energy efficiency in Council-owned buildings, indicating a commitment to practical action on climate change.",
+          "quote": {
+            "content": "Under our current emissions trajectory, the CSIRO projects that the number of days over 35C in Adelaide could increase from an average of 17 a year to 23 a year by 2030 and by as much as 36 days a year by 2070 with heat stress, loss of biodiversity, drought and flooding also increasing over time. Climate change is a pressing issue that affects us all. Adelaide has already recorded increases in the long-term average temperature and has experienced more extreme heat days (those over 35C).",
+            "page": 2,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and strategies for reducing emissions and improving energy efficiency, such as the adoption of electric vehicles, the implementation of sustainable procurement procedures, and the establishment of a Climate Partner Fund. However, these actions are presented as part of a long-term plan, with no specific emphasis on the need for immediate or urgent action. The documents also mention the goal of achieving carbon neutrality by 2030, but this is framed as a target rather than an urgent necessity. While the documents clearly demonstrate a commitment to addressing climate change, they do not convey a sense of urgency or immediate action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Climate & Energy Plan outlines actions to be taken in the years 2021/22 and 2022/23, such as the implementation of an Electric Vehicle pilot, the continuation of LED and building efficiency upgrades, and the development of a Climate Partner Fund. The plan also includes the establishment of a working group to identify Scope 3 emission reduction opportunities and the improvement and expansion of a carbon management system to track these emissions. Furthermore, the City of Unley has committed to achieving carbon neutrality for its operations by December 2023. These specific timeframes indicate a sense of urgency in the local government's approach to addressing climate change.",
+          "quote": {
+            "content": "YEAR 1\u20132: 2021/22 & 2022/23\nElectric Vehicle pilot\nContinue LED / building efficiency upgrades \nDevelop and implement sustainable procurement \nprocedure and templates to support project management \nDevelop the Climate Partner Fund to assist \nlessees to reduce emissions \nEstablish working group to identify Scope \n3 emission reduction opportunities\nImprove and expand carbon management \nsystem to track Scope 3 emissions\nProvide annual report on carbon footprint\nSummary Action Plan",
+            "page": 9,
+            "source": "Unley-SA-85.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government's Climate & Energy Plan outlines various actions to mitigate climate change, such as the adoption of electric vehicles, energy efficiency upgrades, and the development of a Climate Partner Fund. However, these actions are presented as part of a comprehensive plan, not as a prioritized response over other policies. The documents also mention the establishment of working groups, annual reporting on carbon footprint, and the transition to renewable energy sources. While these actions indicate a commitment to addressing climate change, they do not explicitly state that these efforts are to be prioritized above all other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents provide a detailed outline of the local government's climate and energy plan, including actions such as transitioning to electric vehicles, improving building efficiency, and developing sustainable procurement procedures, they do not explicitly require all council activities to align with these climate policies. The documents do indicate a commitment to reducing emissions and implementing measures to mitigate climate change, and they outline specific actions and strategies to achieve these goals. However, the requirement for all council activities to align with these policies is not explicitly stated."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate and energy plan does indeed allocate resources for climate action, although the specifics of the funding are not explicitly detailed in the provided documents. The plan outlines a series of actions to be taken over the years 2021/22 and 2022/23, including the development of an electric vehicle pilot, the continuation of LED and building efficiency upgrades, and the establishment of a Climate Partner Fund to assist lessees in reducing emissions. These actions imply a commitment of resources, both financial and staff time. However, the documents do not provide a detailed breakdown of the budget allocated to each action. Therefore, while it is clear that resources are being mobilized for climate action, the exact extent and nature of the funding are not specified."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate and energy plan does indeed allocate non-monetary institutional resources to climate action, specifically in the form of staff time. The plan outlines a number of actions to be taken in the years 2021/22 and 2022/23, and for each of these actions, it explicitly mentions 'staff time' as a resource to be utilized. This indicates that the local government is committing its personnel to the implementation of these climate actions, which is a crucial aspect of institutional resource mobilization. The actions include the commencement of an Electric Vehicle transition, the establishment of a Climate / Circular Economy Council Policy, the development of sustainable procurement procedures, and the establishment of an internal staff working group to guide the delivery of the plan and identify Scope 3 emission reduction opportunities. The allocation of staff time to these actions demonstrates a clear commitment of institutional resources to climate action.",
+          "quote": {
+            "content": "Improve and expand carbon management system to track Scope 3 emissions\nDevelop and implement education and communication strategy, including YEAR 1\u20132: 2021/22 & 2022/23\nCommence Electric Vehicle transition as replacements are due and viable alternatives are available\nContinue LED / building efficiency upgrades \nEstablish a Climate / Circular Economy Council Policy\nDevelop and implement sustainable procurement procedure and \ntemplates to support project management framework\nAdvocate LGA for and consider 100% renewable electricity bulk contract in 2023\nDevelop design standards guideline for Council owned buildings/assets in year 2\nDevelop the Climate Partner Fund to assist lessees to reduce emissions \nEstablish internal staff working group to guide delivery of plan and in particular \nidentify Scope 3 emission reduction opportunities. Includes advocating/\npartnering with other organisations towards shared challenges.",
+            "page": 9,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the City of Unley is taking steps to engage and educate the community in their climate action efforts. The council is facilitating emissions reduction projects among its tenants, extending the benefits of energy efficiency projects to the broader community. They are also considering establishing a Climate Partners Fund to offer incentives to not-for-profit tenants of council-owned buildings to improve energy efficiency. Furthermore, the council is developing an education and communication strategy, which suggests an effort to inform and involve the community in their climate action plan. However, the documents do not provide specific details on how the council is actively empowering the community to rally, support, and work together to deliver climate action. The council's efforts seem to be more focused on providing resources and incentives rather than mobilising the community for collective action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate and energy plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include the staged adoption of electric vehicles, an electrification strategy to progressively switch from gas to electricity for space and water heating, and the installation of more solar photovoltaic (PV) systems. The plan also includes energy efficiency upgrades. Behaviour change is encouraged through the development of a sustainable procurement procedure and the establishment of a working group to identify Scope 3 emission reduction opportunities. The plan also includes the development of a Climate Partner Fund to assist lessees in reducing emissions. These actions demonstrate a comprehensive approach to mitigating greenhouse gas emissions.",
+          "quote": {
+            "content": "Our plan includes:\n\u2022 A staged adoption of electric vehicles\n\u2022 An electrification strategy to progressively switch \nfrom gas to electricity for space and water heating\n\u2022 More solar pv installations including \nat community centres \n\u2022 Continued energy efficiency upgrades including",
+            "page": 2,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a number of preferred options to increase resilience to climate change, particularly in the eastern region. These include improving stormwater management, increasing community education and awareness regarding climate hazards, increasing planting across urban areas, and increasing the area of open space in strategic locations. The plan also includes the implementation of 'Resilient East', a Climate Change Adaptation Plan developed in partnership with other Eastern Region Alliance (ERA) Councils and Adelaide City Council. This plan identifies key vulnerabilities to climate change and provides a range of adaptation decision-making and planning options at a regional and individual Council level. The City of Unley, in particular, is expected to face vulnerabilities from increased heatwave frequency and duration and more intense periods of rainfall. The targets for this theme have been set around increasing vegetation (or green infrastructure) to help lower the overall temperature of the City.",
+          "quote": {
+            "content": "Resilient East provides a number of preferred options for the eastern region to increase our resilience to climate change.",
+            "page": 18,
+            "source": "Unley-SA-84.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan of action for reducing carbon emissions and achieving carbon neutrality. The plan includes specific actions such as the adoption of electric vehicles, switching from gas to electricity for heating, increasing solar PV installations, and continuing energy efficiency upgrades. The plan also includes measures to track and report on carbon emissions, indicating a commitment to transparency and accountability. The documents also highlight the financial benefits of reducing carbon emissions, such as lower fuel and electricity costs and increased resilience in the face of volatile energy prices. The plan's focus on collaboration with other cities to identify low-carbon alternatives indicates a recognition of the need for collective action. However, while the documents provide a clear roadmap for action, they do not provide specific sources of evidence to justify the chosen targets and actions. The documents do not cite scientific studies or data to support the effectiveness of the proposed measures, nor do they provide detailed projections of the expected impact of these measures on carbon emissions.",
+          "quote": {
+            "content": "Therefore, a key focus area for Council will be to collaborate with other cities to identify suitable low-carbon alternatives.",
+            "page": 2,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The City of Unley has committed to an evidence-based approach to environmental management and has developed a number of indicators and targets to measure success over time within each of the five themes. These themes consider both a Council and community target, providing a good indication of progress against the key objectives. The progress will be assessed annually in September and reported through the City of Unley\u2019s Infrastructure and Sustainability Committee. As new initiatives are developed, the City of Unley can refine and improve these indicators, particularly for the community targets that are more challenging. This approach ensures that the plan's actions are not only specific but also measurable, allowing for an objective evaluation of their success.",
+          "quote": {
+            "content": "Progress will be assessed annually in September and reported through the City of Unley\u2019s Infrastructure and Sustainability Committee. The City of Unley is committed to an evidence based approach to environmental management and has developed a number of indicators and targets to measure success over time within each of the five themes. Each theme considers both a Council and community target as outlined in the Shared Responsibility section on page 8. These will provide a good indication of progress against the key objectives.",
+            "page": 11,
+            "source": "Unley-SA-84.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline a variety of actions and strategies to mitigate climate change, such as the adoption of electric vehicles, energy efficiency upgrades, and the establishment of a Climate Partner Fund. However, these actions appear to be based on existing knowledge and strategies, rather than new research conducted within the local community. The documents do mention community engagement and collaboration with other organizations, but these are not explicitly linked to research activities. Therefore, without explicit mention or clear evidence of plans to conduct local community research to inform climate actions, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has outlined a series of actions to be taken in the years 2021/22 and 2022/23, which include the implementation of an Electric Vehicle pilot and the development of a Climate Partner Fund. These initiatives can be considered as experiments as they are designed to test technologies and governance approaches on a small scale and under real-world conditions. The Electric Vehicle pilot, for instance, is a clear example of a technological experiment, aimed at testing the viability and effectiveness of electric vehicles in reducing emissions. The Climate Partner Fund, on the other hand, is a governance experiment, designed to incentivize emission reduction among lessees of council-owned buildings. These initiatives demonstrate the local government's commitment to innovative and experimental approaches in its climate action policy."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. While the documents outline a comprehensive plan for local action on climate change, including measures such as electric vehicle adoption, LED and building efficiency upgrades, and the development of a Climate Partner Fund, they do not explicitly mention advocacy towards higher levels of government. The documents do mention collaboration with other organizations and the establishment of working groups, but these are not specifically directed towards state or national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the City of Unley is actively encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The council has established a Climate Partners Fund to offer incentives to not-for-profit tenants of Council-owned buildings to improve energy efficiency. This initiative demonstrates an effort to engage the local community in climate action. The council is also part of the Resilient East partnership, which includes eight eastern Councils and the State Government, working on landscape-level adaptation for climate change. This partnership indicates collaboration with neighbouring local councils. Furthermore, the council plans to establish an internal staff working group to guide the delivery of the plan and identify Scope 3 emission reduction opportunities. This suggests an effort to build capacity within the council itself.",
+          "quote": {
+            "content": "Since 2012 the City of Unley has been an active partner with Resilient East which is working on landscape level adaptation for climate change across eight eastern Councils and the State Government.",
+            "page": 4,
+            "source": "Unley-SA-85.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do indeed refer to specific regional associations and alliances related to climate. The City of Unley is mentioned as an active partner with Resilient East, a collaborative effort working on landscape-level adaptation for climate change across eight eastern Councils and the State Government. This partnership is focused on preparing for the changes of climate already locked in, which is different from reducing emissions but is complementary and can leverage off each other. The documents also mention the City of Unley's commitment to become members of the Global Covenant of Mayors, which is an international alliance of city leaders committed to raising the global ambition for climate action. These partnerships and alliances are crucial for the City of Unley's climate action plan as they provide a framework for collaboration, shared resources, and collective action.",
+          "quote": {
+            "content": "On 23 November 2020 the City of Unley committed to become members of the Global Covenant of Mayors",
+            "page": 1,
+            "source": "Unley-SA-83.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions to mitigate and adapt to climate change, such as improving stormwater management, increasing community education, and transitioning to electric vehicles, they do not specifically address how these measures will affect vulnerable communities. The documents also do not discuss the potential social justice implications of climate change or the policy responses to it. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly considers the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the City of Unley's environmental sustainability strategies, climate and energy plans, and actions to reduce carbon emissions. They outline various initiatives such as the implementation of solar panels, water-sensitive urban design, energy efficiency upgrades, and the establishment of a Climate Partners Fund. However, these initiatives are not discussed in the context of equity or social justice. The documents do not provide specific details on how these climate actions would be equitably distributed or how they would contribute to social justice. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 69.2
+  }
+}

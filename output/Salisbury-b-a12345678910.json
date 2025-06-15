@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Salisbury-SA-82.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T13:56:41.075927", "lga": "Salisbury"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, titled 'An Environmental & Climate Change Strategy', clearly indicates that climate action is a core purpose or goal. The policy aims to provide a unified, coordinated, and consistent direction and framework that will guide the progression and understanding of sustainability in Salisbury. It emphasizes that sustainability and responding to climate change should not be a standalone policy, but rather an overriding strategy that impacts all actions and responsibilities of the Council. This includes maintaining roads, collecting and recycling waste, urban development, transport, and even the behavior of individual employees. The policy also outlines the Council's role in promoting sustainability and raising awareness about climate change issues. Therefore, it is evident that climate action is a central purpose of the policy.", "quote": {"content": "Sustainability and responding to the issues of climate change should not be a stand alone policy, but rather an overriding strategy that impacts on all actions and responsibilities of Council.", "page": 13, "source": "Salisbury-SA-82.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the global climate is changing and that we can no longer rely on past assumptions that the climate will remain the same. The document also highlights the impacts of climate change, such as declining water supply and species biodiversity, and the increasing priority of sustainability for communities. It further explains that human activities contribute to these climatic changes, particularly through the enhancement of the greenhouse effect. This effect is exacerbated by the burning of fossil fuels, which releases vast amounts of carbon into the atmosphere, and land clearing, which diminishes the planet's ability to re-absorb atmospheric carbon. Therefore, the document clearly establishes the need for action on climate change.", "quote": {"content": "We can no longer rely on past assumptions that the climate will be more or less the same as it was during the past 50 or 100 years.", "page": 6, "source": "Salisbury-SA-82.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does indeed call for urgent action on climate change. It acknowledges the global climate is changing and that past assumptions about the climate's stability are no longer reliable. The document also recognizes the human contribution to these changes, particularly through the enhancement of the greenhouse effect. The local government's policy outlines a commitment to sustainability and climate change response, emphasizing the need for behavioral change and the integration of sustainability principles into all council actions and responsibilities. The document also states that 'urgent action needs to be taken if we are to save the planet', which clearly indicates a call for rapid and urgent action on climate change.", "quote": {"content": "There is universal agreement that urgent action needs to be taken if we are to save the planet.", "page": 3, "source": "Salisbury-SA-82.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. The policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, no specific deadlines or timelines are mentioned for these actions. The policy does mention that it will be reviewed in line with the Council\u2019s City Plan \u2013 Sustainable Futures and that more detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives will be developed. However, again, no specific timeframes are provided for these reviews or for the implementation of the detailed strategies and action plans."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's commitment to sustainability and climate change, with a focus on various policy and planning streams such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, there is no explicit mention of prioritizing a climate emergency response over other policies. The documents emphasize the importance of integrating sustainability and climate change considerations into all actions and responsibilities of the council, but do not specify a hierarchy of policy priorities."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The document does indeed state that all council activities must be aligned with climate policy. It emphasizes that sustainability and responding to climate change should not be a standalone policy, but an overriding strategy that impacts all actions and responsibilities of the Council. This includes the way the Council maintains roads, collects and recycles waste, and even how individual employees behave in their everyday roles. The Council is expected to lead by example, incorporating principles of sustainability in its own operations. The document also mentions that the strategy will be supported by more detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives. These will be reviewed and updated frequently as actions are undertaken and new actions are proposed.", "quote": {"content": "Sustainability and responding to the issues of climate change should not be a stand alone policy, but rather an overriding strategy that impacts on all actions and responsibilities of Council.", "page": 13, "source": "Salisbury-SA-82.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not provide explicit information about the allocation of funding for climate action. While the policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management, it does not detail how these initiatives will be financially supported. The policy does mention targets and indicators, suggesting some form of monitoring and evaluation, but again, there is no explicit mention of funding allocation. The policy also discusses the importance of collaboration between individuals, the community, business, and all levels of government, but it does not specify how resources will be mobilized institutionally for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not provide explicit evidence of the allocation of staff or other non-monetary institutional resources to climate action. While the policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, and biodiversity and open space, it does not detail the specific resources allocated to these actions. The policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, but it does not specify the allocation of institutional resources. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a commitment to increase information exchange and awareness of future viable economic opportunities and solutions for both renewable energy and reducing greenhouse gas emissions. It also encourages and educates the community to minimise energy use in order to reduce greenhouse gas emissions and promote sustainable renewable energy options. The policy recognises the vital role that community plays in reducing greenhouse gas emissions and encouraging renewable energy sources. It also supports communities to fully participate in achieving a sustainable future and encourages collaboration and partnering between individuals, the community, business and all levels of government.", "quote": {"content": "The role that community plays \nis vital in reducing greenhouse \ngas emissions and encouraging \nrenewable energy sources. \u2022\ufffd Encourage and educate the \ncommunity to minimise \nenergy use in order to reduce \ngreenhouse gas emissions \nand promote sustainable \nrenewable energy options.", "page": 19, "source": "Salisbury-SA-82.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a clear strategy for addressing climate change, which includes both technological solutions and behaviour change. The policy includes the development and adoption of a greenhouse gas reduction strategy, as well as an implementation plan for these reduction strategies. The policy also includes a commitment to monitor and report on greenhouse gas emissions and actions taken to reduce them. The policy also mentions the Solar Cities Program, which is designed to demonstrate how solar power, smart meters, energy efficiency, and new approaches to electricity pricing can contribute to a sustainable energy future. The policy also emphasizes the importance of community participation and education in achieving sustainability goals, indicating a focus on behaviour change as part of the mitigation strategy.", "quote": {"content": "The City of Salisbury undertook an innovative regional approach with four other northern Adelaide Councils to prepare Corporate and Community Action Plans to address greenhouse gas emissions. In Australia, the CCP Program is supported by the Federal Government through the Australian Greenhouse Office with the primary aim to mitigate greenhouse gas emissions.", "page": 20, "source": "Salisbury-SA-82.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific actions for climate adaptation and resilience in the local government's plan. While the documents repeatedly mention an 'Environmental & Climate Change Strategy', they do not detail what this strategy entails, particularly in terms of climate adaptation and resilience. The documents mention various aspects related to climate change, such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, they do not provide specific actions or measures related to climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents provided do not offer well-sourced evidence to justify the local government's climate targets and actions. While the policy outlines various streams of action, such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management, it does not provide specific sources or data to support these actions. The policy does mention the use of 'targets and indicators' and the existence of 'strategies, action plans and indicators' for each environmental objective. However, the documents do not provide detailed information about these targets, indicators, strategies, or action plans. Furthermore, the policy refers to the 'City Plan - Sustainable Futures' and 'Salisbury, Sustaining Our Environment' for alignment purposes, but it does not provide specific details about these plans or how they inform the policy's climate targets and actions. Therefore, the policy does not meet the high standard of evidence required to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a series of goals and priority actions, and it also includes a section on 'Targets & Indicators'. This section provides a clear framework for assessing the success of the policy's actions, with specific targets set for various aspects of the policy. For example, the policy sets a target of 'no net reduction in native species (extent or condition)' under the biodiversity section. The policy also states that 'city-wide strategic plans and policies will have targets and indicators that parallel targets set in the City Plan - Sustainable Futures'. This suggests a comprehensive approach to monitoring and evaluation, with clear, measurable criteria for success.", "quote": {"content": "Source: Area of native vegetation under active \nmanagement or alternatively vegetation survey \nas part of biodiversity study. Baseline data being developed. Baseline data being developed. No net reduction in native species (extent or \ncondition). Measure: Established as part of biodiversity \nStrategy.", "page": 31, "source": "Salisbury-SA-82.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The policy documents outline the local government's commitment to environmental and climate change strategies, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. They mention the creation of detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives. However, there is no specific mention of conducting research in the local community to inform these actions. The documents do indicate that the strategies and action plans will be reviewed and updated frequently as actions are undertaken and new actions are proposed, but it is not clear whether this process involves community research."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government's policy outlines a comprehensive strategy for environmental and climate change, with a focus on sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. The policy includes specific goals and priority actions for each of these areas, indicating a commitment to innovative and experimental approaches. For instance, in the area of urban development and transport, the policy aims to apply innovative planning policies and strategies to optimise ecologically sustainable urban development within the city. It also seeks to encourage and facilitate integrated transport networks, and reduce reliance on fossil fuel motorised forms of transport. The policy also includes a commitment to review and update these strategies and action plans more frequently as actions are undertaken and new actions are proposed.", "quote": {"content": "Goal 3.2 - Encourage and facilitate integrated transport networks, and reduce reliance on fossil fuel motorised forms of transport. Goal 3.1 - Apply innovative planning policies and strategies to optimise ecologically sustainable urban development within the City.", "page": 23, "source": "Salisbury-SA-82.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the policy does mention the integration of various federal government initiatives and strategies that relate to the City of Salisbury, such as the National Water Initiative and Australia\u2019s Climate Change Policy, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy does express a commitment to sustainability and outlines various strategies and action plans related to environmental objectives, but these seem to be primarily focused on local actions and initiatives. The policy also mentions the importance of community participation and collaboration between individuals, the community, business, and all levels of government, but again, this does not necessarily imply advocacy to higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not provide explicit evidence of the local government encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, it does not specifically mention capacity building or neighbouring local councils. The policy also outlines the council's roles as a leader, change-agent, and regulatory entity in promoting sustainability and raising awareness in climate change issues. However, these roles do not explicitly involve building local capacity for climate action. Therefore, based on the provided documents, the answer to the question is negative."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not contain any specific references to regional associations, alliances, or other partnerships related to climate change. While the policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, it does not specify any particular entities or groups. The policy also refers to alignment with the SA State Strategic Plan and contributing to a more sustainable South Australia, but again, no specific partnerships or alliances are mentioned. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy does mention the importance of sustainability, the impacts of climate change, and the need for community participation, it does not specifically address how climate change might disproportionately affect vulnerable communities. The policy also mentions the need for intergenerational equity and the long-term benefits and costs of actions on the community, environment, and economy. However, this is a general statement and does not specifically address the impacts on vulnerable communities. Therefore, based on the provided documents, the policy does not meet the criteria for a positive response to the question."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the importance of sustainability, community participation, and intergenerational equity, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy emphasizes the integration of economic, environmental, and social considerations in decision-making processes, but it does not elaborate on how this integration will ensure equity and social justice in the context of climate change. Therefore, without explicit evidence or specific details on the equitable sharing of climate benefits and opportunities, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 45.0}}
+{
+  "settings": {
+    "source_files": [
+      "Salisbury-SA-82.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T13:56:41.075927",
+    "lga": "Salisbury"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, titled 'An Environmental & Climate Change Strategy', clearly indicates that climate action is a core purpose or goal. The policy aims to provide a unified, coordinated, and consistent direction and framework that will guide the progression and understanding of sustainability in Salisbury. It emphasizes that sustainability and responding to climate change should not be a standalone policy, but rather an overriding strategy that impacts all actions and responsibilities of the Council. This includes maintaining roads, collecting and recycling waste, urban development, transport, and even the behavior of individual employees. The policy also outlines the Council's role in promoting sustainability and raising awareness about climate change issues. Therefore, it is evident that climate action is a central purpose of the policy.",
+          "quote": {
+            "content": "Sustainability and responding to the issues of climate change should not be a stand alone policy, but rather an overriding strategy that impacts on all actions and responsibilities of Council.",
+            "page": 13,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the global climate is changing and that we can no longer rely on past assumptions that the climate will remain the same. The document also highlights the impacts of climate change, such as declining water supply and species biodiversity, and the increasing priority of sustainability for communities. It further explains that human activities contribute to these climatic changes, particularly through the enhancement of the greenhouse effect. This effect is exacerbated by the burning of fossil fuels, which releases vast amounts of carbon into the atmosphere, and land clearing, which diminishes the planet's ability to re-absorb atmospheric carbon. Therefore, the document clearly establishes the need for action on climate change.",
+          "quote": {
+            "content": "We can no longer rely on past assumptions that the climate will be more or less the same as it was during the past 50 or 100 years.",
+            "page": 6,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It acknowledges the global climate is changing and that past assumptions about the climate's stability are no longer reliable. The document also recognizes the human contribution to these changes, particularly through the enhancement of the greenhouse effect. The local government's policy outlines a commitment to sustainability and climate change response, emphasizing the need for behavioral change and the integration of sustainability principles into all council actions and responsibilities. The document also states that 'urgent action needs to be taken if we are to save the planet', which clearly indicates a call for rapid and urgent action on climate change.",
+          "quote": {
+            "content": "There is universal agreement that urgent action needs to be taken if we are to save the planet.",
+            "page": 3,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. The policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, no specific deadlines or timelines are mentioned for these actions. The policy does mention that it will be reviewed in line with the Council\u2019s City Plan \u2013 Sustainable Futures and that more detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives will be developed. However, again, no specific timeframes are provided for these reviews or for the implementation of the detailed strategies and action plans."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's commitment to sustainability and climate change, with a focus on various policy and planning streams such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, there is no explicit mention of prioritizing a climate emergency response over other policies. The documents emphasize the importance of integrating sustainability and climate change considerations into all actions and responsibilities of the council, but do not specify a hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The document does indeed state that all council activities must be aligned with climate policy. It emphasizes that sustainability and responding to climate change should not be a standalone policy, but an overriding strategy that impacts all actions and responsibilities of the Council. This includes the way the Council maintains roads, collects and recycles waste, and even how individual employees behave in their everyday roles. The Council is expected to lead by example, incorporating principles of sustainability in its own operations. The document also mentions that the strategy will be supported by more detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives. These will be reviewed and updated frequently as actions are undertaken and new actions are proposed.",
+          "quote": {
+            "content": "Sustainability and responding to the issues of climate change should not be a stand alone policy, but rather an overriding strategy that impacts on all actions and responsibilities of Council.",
+            "page": 13,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide explicit information about the allocation of funding for climate action. While the policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management, it does not detail how these initiatives will be financially supported. The policy does mention targets and indicators, suggesting some form of monitoring and evaluation, but again, there is no explicit mention of funding allocation. The policy also discusses the importance of collaboration between individuals, the community, business, and all levels of government, but it does not specify how resources will be mobilized institutionally for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide explicit evidence of the allocation of staff or other non-monetary institutional resources to climate action. While the policy outlines various streams of action, including sustainable energy, waste reduction, urban development and transport, and biodiversity and open space, it does not detail the specific resources allocated to these actions. The policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, but it does not specify the allocation of institutional resources. Therefore, based on the available information, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a commitment to increase information exchange and awareness of future viable economic opportunities and solutions for both renewable energy and reducing greenhouse gas emissions. It also encourages and educates the community to minimise energy use in order to reduce greenhouse gas emissions and promote sustainable renewable energy options. The policy recognises the vital role that community plays in reducing greenhouse gas emissions and encouraging renewable energy sources. It also supports communities to fully participate in achieving a sustainable future and encourages collaboration and partnering between individuals, the community, business and all levels of government.",
+          "quote": {
+            "content": "The role that community plays \nis vital in reducing greenhouse \ngas emissions and encouraging \nrenewable energy sources. \u2022\ufffd Encourage and educate the \ncommunity to minimise \nenergy use in order to reduce \ngreenhouse gas emissions \nand promote sustainable \nrenewable energy options.",
+            "page": 19,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a clear strategy for addressing climate change, which includes both technological solutions and behaviour change. The policy includes the development and adoption of a greenhouse gas reduction strategy, as well as an implementation plan for these reduction strategies. The policy also includes a commitment to monitor and report on greenhouse gas emissions and actions taken to reduce them. The policy also mentions the Solar Cities Program, which is designed to demonstrate how solar power, smart meters, energy efficiency, and new approaches to electricity pricing can contribute to a sustainable energy future. The policy also emphasizes the importance of community participation and education in achieving sustainability goals, indicating a focus on behaviour change as part of the mitigation strategy.",
+          "quote": {
+            "content": "The City of Salisbury undertook an innovative regional approach with four other northern Adelaide Councils to prepare Corporate and Community Action Plans to address greenhouse gas emissions. In Australia, the CCP Program is supported by the Federal Government through the Australian Greenhouse Office with the primary aim to mitigate greenhouse gas emissions.",
+            "page": 20,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for climate adaptation and resilience in the local government's plan. While the documents repeatedly mention an 'Environmental & Climate Change Strategy', they do not detail what this strategy entails, particularly in terms of climate adaptation and resilience. The documents mention various aspects related to climate change, such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. However, they do not provide specific actions or measures related to climate adaptation and resilience. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents provided do not offer well-sourced evidence to justify the local government's climate targets and actions. While the policy outlines various streams of action, such as sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management, it does not provide specific sources or data to support these actions. The policy does mention the use of 'targets and indicators' and the existence of 'strategies, action plans and indicators' for each environmental objective. However, the documents do not provide detailed information about these targets, indicators, strategies, or action plans. Furthermore, the policy refers to the 'City Plan - Sustainable Futures' and 'Salisbury, Sustaining Our Environment' for alignment purposes, but it does not provide specific details about these plans or how they inform the policy's climate targets and actions. Therefore, the policy does not meet the high standard of evidence required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a series of goals and priority actions, and it also includes a section on 'Targets & Indicators'. This section provides a clear framework for assessing the success of the policy's actions, with specific targets set for various aspects of the policy. For example, the policy sets a target of 'no net reduction in native species (extent or condition)' under the biodiversity section. The policy also states that 'city-wide strategic plans and policies will have targets and indicators that parallel targets set in the City Plan - Sustainable Futures'. This suggests a comprehensive approach to monitoring and evaluation, with clear, measurable criteria for success.",
+          "quote": {
+            "content": "Source: Area of native vegetation under active \nmanagement or alternatively vegetation survey \nas part of biodiversity study. Baseline data being developed. Baseline data being developed. No net reduction in native species (extent or \ncondition). Measure: Established as part of biodiversity \nStrategy.",
+            "page": 31,
+            "source": "Salisbury-SA-82.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The policy documents outline the local government's commitment to environmental and climate change strategies, including sustainable energy, waste reduction, urban development and transport, biodiversity and open space, and natural resource management. They mention the creation of detailed policy responses, strategies, action plans, and indicators for each of the environmental objectives. However, there is no specific mention of conducting research in the local community to inform these actions. The documents do indicate that the strategies and action plans will be reviewed and updated frequently as actions are undertaken and new actions are proposed, but it is not clear whether this process involves community research."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention various strategies and plans related to climate change and environmental sustainability, such as the 'Environmental & Climate Change Strategy', 'Urban Development & Transport', and 'Biodiversity & Open Space', they do not specifically mention any initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do not refer to any pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the policy does mention the integration of various federal government initiatives and strategies that relate to the City of Salisbury, such as the National Water Initiative and Australia\u2019s Climate Change Policy, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy does express a commitment to sustainability and outlines various strategies and action plans related to environmental objectives, but these seem to be primarily focused on local actions and initiatives. The policy also mentions the importance of community participation and collaboration between individuals, the community, business, and all levels of government, but again, this does not necessarily imply advocacy to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not provide explicit evidence of the local government encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, it does not specifically mention capacity building or neighbouring local councils. The policy also outlines the council's roles as a leader, change-agent, and regulatory entity in promoting sustainability and raising awareness in climate change issues. However, these roles do not explicitly involve building local capacity for climate action. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not contain any specific references to regional associations, alliances, or other partnerships related to climate change. While the policy does mention the importance of collaboration and partnering between individuals, the community, business, and all levels of government, it does not specify any particular entities or groups. The policy also refers to alignment with the SA State Strategic Plan and contributing to a more sustainable South Australia, but again, no specific partnerships or alliances are mentioned. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the policy does mention the importance of sustainability, the impacts of climate change, and the need for community participation, it does not specifically address how climate change might disproportionately affect vulnerable communities. The policy also mentions the need for intergenerational equity and the long-term benefits and costs of actions on the community, environment, and economy. However, this is a general statement and does not specifically address the impacts on vulnerable communities. Therefore, based on the provided documents, the policy does not meet the criteria for a positive response to the question."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the importance of sustainability, community participation, and intergenerational equity, it does not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The policy emphasizes the integration of economic, environmental, and social considerations in decision-making processes, but it does not elaborate on how this integration will ensure equity and social justice in the context of climate change. Therefore, without explicit evidence or specific details on the equitable sharing of climate benefits and opportunities, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 45.0
+  }
+}

@@ -1,1 +1,329 @@
-{"settings": {"source_files": ["Wanneroo-WA-232.pdf", "Wanneroo-WA-233.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T01:01:02.483100", "lga": "Wanneroo"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Climate Change Adaptation and Mitigation Strategy (CCAMS), clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the local community, with a focus on both adaptation and mitigation strategies. Adaptation strategies are aimed at adjusting to changes in the climate that are already underway, such as temperature increases, reduced rainfall, and extreme weather events. Mitigation strategies, on the other hand, aim to reduce the amount of climate change, typically by limiting future increases in concentrations of greenhouse gases in the atmosphere. The policy also outlines specific actions to be taken, such as the development and implementation of an Urban Forest Plan and an Energy Reduction Plan. Therefore, it is evident that the core purpose of the policy is climate action.", "quote": {"content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.", "page": 3, "source": "Wanneroo-WA-232.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the purpose of the Climate Change Adaptation and Mitigation Strategy (CCAMS) as identifying areas where the city and its community are exposed to the effects of climate change and providing risk management adaptation measures to reduce the risk, as well as identifying practical mitigation measures that would aid with the mitigation of the impacts of climate change. The documents also highlight the importance of local governments in dealing with the impacts of climate change at a local level, requiring innovative planning and appropriate action in both mitigating the impacts of and adapting to climate changes. The documents further emphasize the need for a stronger vision and a clear strategy for responding to climate change, informed by consultation with residents, including the city\u2019s youth.", "quote": {"content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.", "page": 3, "source": "Wanneroo-WA-232.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's plans and strategies for addressing climate change, including mitigation and adaptation measures, and the timeframes for these actions. The documents acknowledge the significant impact of climate change and the need for action, but they do not express a sense of urgency or call for rapid action. The strategies and actions are planned over short, medium, and long-term timeframes, indicating a measured and planned approach rather than an urgent one. The documents also discuss the need for community involvement and collaboration, suggesting a focus on thorough and inclusive action rather than rapid action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The policy outlines a clear structure for the duration of actions, categorizing them into short (1-2 years), medium (3-5 years), and long-term (over 5 years) actions. This is evident in multiple sections of the document, indicating a systematic approach to addressing climate change. For instance, the document mentions the development of an Urban Forest Plan and the implementation of a revised Energy Reduction Plan, among other actions, each with a specified timeframe. This approach allows for a structured and organized implementation of the policy, facilitating tracking and evaluation of progress over time. However, while the policy does provide these timeframes, it does not explicitly state the urgency of these actions in relation to the severity or immediacy of the climate change threats being addressed.", "quote": {"content": "The timeframe relating to how long it is expected for an action to be completed following commencement will be set as SHORT, MEDIUM and LONG term and defined as: SHORT 1 - 2 years MEDIUM 3 - 5 years LONG over 5 years", "page": 34, "source": "Wanneroo-WA-232.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents mention the development and implementation of a Climate Change Adaptation and Mitigation Strategy (CCAMS), which includes actions related to temperature increase, reduced rainfall, and extreme weather events. However, these actions are presented as part of a broader strategic plan, rather than as a priority over other policies. Furthermore, the documents mention the City's commitment to addressing climate change through various policies, strategies, and action plans, but again, these are not explicitly prioritized over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to addressing climate change through various strategies and actions. For instance, the documents mention the development of a Climate Change Adaptation and Mitigation Strategy (CCAMS), the implementation of an Energy Reduction Plan (ERP), and the revision of local planning schemes to address climate change impacts. The documents also mention the assignment of relevant service units to lead the implementation of these actions. However, these measures do not necessarily imply that all council activities must align with climate policy. The documents do not provide specific directives or requirements for all council activities to be in line with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines several actions related to climate change, and for each action, it mentions the resources required. These resources include staff time, material costs, contractor costs, and additional funds. For instance, the policy mentions 'Additional funds to be identified for proposed projects' under the action to 'Investigate and develop a practical approach for the City to help enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges'. Furthermore, under the action to 'Continue to investigate alternative energy options', the policy states 'Budget will be allocated to identified approved projects'. These statements indicate that the policy does allocate funding for climate change actions, although the exact amounts are not specified.", "quote": {"content": "Budget will be allocated to identified approved projects.", "page": 33, "source": "Wanneroo-WA-232.pdf", "search_score": 0.97}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various actions related to climate change and assigns specific service units to lead the implementation of these actions. For instance, the 'Strategic Land Use Planning & Environment' unit is tasked with improving data collection, analysis, and reporting in relation to electricity, gas, and water use by the City, as well as data related to municipal waste. The 'Contracts & Procurement' unit is assigned to investigate the opportunities and viability for the City to transition City\u2019s light fleet from fossil-fuel powered engines to electric. The 'Advocacy & Economic Development' unit is tasked with collaborating with stakeholders to reduce grower uncertainty about long term water supplies for agriculture in Wanneroo. These allocations of staff time and responsibilities indicate a clear commitment of institutional resources to climate action.", "quote": {"content": "Contracts & Procurement 5.4 Investigate the opportunities and viability for the City to transition City\u2019s light fleet from fossil-fuel powered engines to electric, as well as alternative fuels and electrification of the heavy fleet (waste trucks). Outcomes of investigation to inform development of a strategic roadmap for City\u2019s fleet.", "page": 32, "source": "Wanneroo-WA-232.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a clear strategy for responding to climate change, which was developed through consultation with residents, including the city's youth. This indicates an effort to educate and involve the community in the policy-making process. The policy also includes practical measures such as the development of an Urban Forest Plan and the transition of the city's light fleet from fossil-fuel powered engines to electric. These measures not only mitigate the impacts of climate change but also provide opportunities for community involvement and collaboration. Furthermore, the policy acknowledges the role of the community in achieving its climate change goals, demonstrating an effort to mobilize the community towards climate action.", "quote": {"content": "Through consultation with its residents, including the City\u2019s youth, the City has identified the need to have a stronger vision and a clear strategy for responding to climate change.", "page": 5, "source": "Wanneroo-WA-232.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach of both adaptation and mitigation to address climate change. The mitigation efforts are aimed at reducing the amount of climate change, typically by limiting future increases in concentrations of greenhouse gases in the atmosphere. The plan includes practical measures such as the development and implementation of an Urban Forest Plan, which will decrease carbon emissions and improve liveability. The plan also includes the implementation of an Energy Reduction Plan, which aims to reduce the City\u2019s energy use and encourage the community to reduce their energy use, thereby contributing to overall reductions of GHG emissions. The plan also mentions the investigation and development of a practical approach for the City to help enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges, such as improved building design, energy efficiency, water conservation, waste reduction, and environmental protection. These actions indicate a commitment to both technological solutions and behaviour change as part of the mitigation strategy.", "quote": {"content": "It will also seek to encourage the City\u2019s community to reduce their energy use, thereby also contributing to overall reductions of GHG emissions. The ERP has been reviewed in line with the new CCAMS, and in its revised form will continue to reduce the City\u2019s energy use.", "page": 8, "source": "Wanneroo-WA-232.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Adaptation and Mitigation Strategy indeed includes specific actions for climate adaptation and resilience. The strategy outlines a multi-risk adaptation and mitigation approach, which includes actions such as revising Local Planning Schemes and local planning policies to ensure climate change impacts and relevant mitigation and adaptation measures are adequately addressed. The strategy also includes actions to enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges, such as improved building design, energy efficiency, water conservation, waste reduction, and environmental protection. The strategy also outlines a timeframe for the commencement and completion of the actions, with relevant service units assigned to lead the implementation. This indicates a comprehensive and detailed approach to climate adaptation and resilience.", "quote": {"content": ").", "page": 37, "source": "Wanneroo-WA-232.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a comprehensive plan for addressing climate change, including both adaptation and mitigation strategies. It outlines specific actions, such as developing an Urban Forest Plan, investigating materials for roads that can reduce surface temperature, and installing solar photovoltaic systems on new and existing buildings. Each action is assigned to a specific service unit, and a timeframe for implementation is provided. The document also mentions the use of the City's Environmental Management System (EMS) for risk assessment and the integration of climate-related risks. Furthermore, the document refers to the City's Energy Reduction Plan and various other policies and strategies, such as the Local Environment Plan and the Waterwise Council Action Plan. Therefore, the document appears to provide well-sourced evidence to justify its climate targets and actions.", "quote": {"content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.", "page": 3, "source": "Wanneroo-WA-232.pdf", "search_score": 1.0}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a variety of actions, each with a corresponding 'measurability' section. This section details how the success of each action will be evaluated. For instance, the action to 'Develop an Urban Forest Plan' will be measured by reporting on targets such as the number of trees planted and preserved, and the creation of breezeways. Another action, 'Implement the five year prioritised plan of action', will be measured by the actions implemented as per the plan and informing the Waterwise Council Program. These examples demonstrate that the plan has specific, measurable criteria in place to evaluate the success of its actions.", "quote": {"content": "# of trees planted, preserved, creation of breezeways etc..).", "page": 24, "source": "Wanneroo-WA-232.pdf", "search_score": 0.98}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to investigate and develop a practical approach to enhance and strengthen the community's capacity to respond to perceived climate change challenges. This includes aspects such as improved building design, energy efficiency, water conservation, waste reduction, environmental protection, and liveability in a hotter and drier climate. The documents also mention the development of an Urban Forest Plan and the investigation of materials for roads that can reduce the Urban Heat Island effect. Furthermore, the documents highlight the need for the local government to take into account the views and concerns raised in the Climate Change Youth Forum conducted in December 2020, indicating a commitment to community engagement and research.", "quote": {"content": "The City has taken into account the views and concerns raised in the Climate Change Youth Forum conducted in December 2020.", "page": 20, "source": "Wanneroo-WA-232.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has developed a Climate Change Adaptation and Mitigation Strategy (CCAMS) that outlines a range of actions to address climate change impacts. These actions include the development of an Urban Forest Plan to alleviate temperature-related risks, the revision of Local Planning Schemes and policies to ensure climate change impacts are adequately addressed, and the investigation of materials for roads that can reduce surface temperature. The strategy also includes measures to enhance the community's capacity to respond to climate change challenges, such as improved building design, energy efficiency, water conservation, waste reduction, and environmental protection. The documents also mention the City's Energy Reduction Plan, which aims to reduce the City's energy use and encourage the community to do the same, thereby contributing to overall reductions of greenhouse gas emissions. These actions demonstrate a commitment to innovative and experimental approaches to climate action."}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's Climate Change Adaptation and Mitigation Strategy (CCAMS) outlines a comprehensive approach to addressing climate change, which includes advocating to higher levels of government. The documents highlight the need for close cooperation with relevant state and federal government departments to achieve desired outcomes. This is particularly evident in the context of addressing rainfall-related risks, where the City plans to advocate to the State Government and developers to adopt innovative approaches to water reuse and recycling. This advocacy is aimed at reducing dependency on both scheme and groundwater, demonstrating a clear intent to influence policy and practice at higher levels of government. Therefore, the documents provide clear evidence of an intent to advocate upward to state and national governments to support climate action.", "quote": {"content": "Rainfall related risks \u2013 In response to the impacts of declining rainfall the City will amongst other actions be advocating to State Government as well as developers to adopt innovative approaches to water reuse and recycling, reducing dependency and need for both scheme and groundwater.", "page": 20, "source": "Wanneroo-WA-232.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline various strategies and actions for climate change adaptation and mitigation, they do not specifically mention efforts to build capacity within the council or local communities, or to collaborate with neighbouring councils for climate action. The documents focus more on the city's own strategies and actions, such as the Climate Change Adaptation and Mitigation Strategy (CCAMS), the Energy Reduction Plan, and various local environment and planning policies. They also mention the city's commitment to addressing climate change, including through the Western Australian Local Government Association\u2019s (WALGA) Climate Change Declaration. However, these do not specifically relate to building local capacity or inter-council collaboration."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's strategies and actions for climate change adaptation and mitigation, they do not specify any collaborations with external entities in this regard. The documents outline various actions such as developing new policies related to emission reduction, implementing coastal monitoring and storm response programs, and advocating for innovative approaches to water reuse and recycling. However, these actions appear to be undertaken by the local government itself, without reference to any partnerships with regional associations or alliances. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaged in specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions for climate change adaptation and mitigation, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus on general community-wide measures such as improving building design, energy efficiency, water conservation, waste reduction, and environmental protection. They also mention the need for the city to prepare for potential impacts of climate change, such as reduced rainfall, severe weather conditions, bushfires, storms, and rising sea levels. However, these are broad strategies and do not specifically target or discuss the impact on vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents outline various strategies and actions to mitigate and adapt to climate change, they do not specifically address the distribution of benefits and opportunities arising from these actions. The focus is primarily on practical measures such as improving energy efficiency, reducing greenhouse gas emissions, and adapting to changing climate conditions. There is no explicit mention of how these benefits will be distributed among different social groups or how social justice will be ensured in the process. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 68.3}}
+{
+  "settings": {
+    "source_files": [
+      "Wanneroo-WA-232.pdf",
+      "Wanneroo-WA-233.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T01:01:02.483100",
+    "lga": "Wanneroo"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Change Adaptation and Mitigation Strategy (CCAMS), clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the local community, with a focus on both adaptation and mitigation strategies. Adaptation strategies are aimed at adjusting to changes in the climate that are already underway, such as temperature increases, reduced rainfall, and extreme weather events. Mitigation strategies, on the other hand, aim to reduce the amount of climate change, typically by limiting future increases in concentrations of greenhouse gases in the atmosphere. The policy also outlines specific actions to be taken, such as the development and implementation of an Urban Forest Plan and an Energy Reduction Plan. Therefore, it is evident that the core purpose of the policy is climate action.",
+          "quote": {
+            "content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.",
+            "page": 3,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the purpose of the Climate Change Adaptation and Mitigation Strategy (CCAMS) as identifying areas where the city and its community are exposed to the effects of climate change and providing risk management adaptation measures to reduce the risk, as well as identifying practical mitigation measures that would aid with the mitigation of the impacts of climate change. The documents also highlight the importance of local governments in dealing with the impacts of climate change at a local level, requiring innovative planning and appropriate action in both mitigating the impacts of and adapting to climate changes. The documents further emphasize the need for a stronger vision and a clear strategy for responding to climate change, informed by consultation with residents, including the city\u2019s youth.",
+          "quote": {
+            "content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.",
+            "page": 3,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's plans and strategies for addressing climate change, including mitigation and adaptation measures, and the timeframes for these actions. The documents acknowledge the significant impact of climate change and the need for action, but they do not express a sense of urgency or call for rapid action. The strategies and actions are planned over short, medium, and long-term timeframes, indicating a measured and planned approach rather than an urgent one. The documents also discuss the need for community involvement and collaboration, suggesting a focus on thorough and inclusive action rather than rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The policy outlines a clear structure for the duration of actions, categorizing them into short (1-2 years), medium (3-5 years), and long-term (over 5 years) actions. This is evident in multiple sections of the document, indicating a systematic approach to addressing climate change. For instance, the document mentions the development of an Urban Forest Plan and the implementation of a revised Energy Reduction Plan, among other actions, each with a specified timeframe. This approach allows for a structured and organized implementation of the policy, facilitating tracking and evaluation of progress over time. However, while the policy does provide these timeframes, it does not explicitly state the urgency of these actions in relation to the severity or immediacy of the climate change threats being addressed.",
+          "quote": {
+            "content": "The timeframe relating to how long it is expected for an action to be completed following commencement will be set as SHORT, MEDIUM and LONG term and defined as: SHORT 1 - 2 years MEDIUM 3 - 5 years LONG over 5 years",
+            "page": 34,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents mention the development and implementation of a Climate Change Adaptation and Mitigation Strategy (CCAMS), which includes actions related to temperature increase, reduced rainfall, and extreme weather events. However, these actions are presented as part of a broader strategic plan, rather than as a priority over other policies. Furthermore, the documents mention the City's commitment to addressing climate change through various policies, strategies, and action plans, but again, these are not explicitly prioritized over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate a strong commitment to addressing climate change through various strategies and actions. For instance, the documents mention the development of a Climate Change Adaptation and Mitigation Strategy (CCAMS), the implementation of an Energy Reduction Plan (ERP), and the revision of local planning schemes to address climate change impacts. The documents also mention the assignment of relevant service units to lead the implementation of these actions. However, these measures do not necessarily imply that all council activities must align with climate policy. The documents do not provide specific directives or requirements for all council activities to be in line with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines several actions related to climate change, and for each action, it mentions the resources required. These resources include staff time, material costs, contractor costs, and additional funds. For instance, the policy mentions 'Additional funds to be identified for proposed projects' under the action to 'Investigate and develop a practical approach for the City to help enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges'. Furthermore, under the action to 'Continue to investigate alternative energy options', the policy states 'Budget will be allocated to identified approved projects'. These statements indicate that the policy does allocate funding for climate change actions, although the exact amounts are not specified.",
+          "quote": {
+            "content": "Budget will be allocated to identified approved projects.",
+            "page": 33,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate staff and other non-monetary institutional resources to climate action. The policy outlines various actions related to climate change and assigns specific service units to lead the implementation of these actions. For instance, the 'Strategic Land Use Planning & Environment' unit is tasked with improving data collection, analysis, and reporting in relation to electricity, gas, and water use by the City, as well as data related to municipal waste. The 'Contracts & Procurement' unit is assigned to investigate the opportunities and viability for the City to transition City\u2019s light fleet from fossil-fuel powered engines to electric. The 'Advocacy & Economic Development' unit is tasked with collaborating with stakeholders to reduce grower uncertainty about long term water supplies for agriculture in Wanneroo. These allocations of staff time and responsibilities indicate a clear commitment of institutional resources to climate action.",
+          "quote": {
+            "content": "Contracts & Procurement 5.4 Investigate the opportunities and viability for the City to transition City\u2019s light fleet from fossil-fuel powered engines to electric, as well as alternative fuels and electrification of the heavy fleet (waste trucks). Outcomes of investigation to inform development of a strategic roadmap for City\u2019s fleet.",
+            "page": 32,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The local government policy does indeed empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a clear strategy for responding to climate change, which was developed through consultation with residents, including the city's youth. This indicates an effort to educate and involve the community in the policy-making process. The policy also includes practical measures such as the development of an Urban Forest Plan and the transition of the city's light fleet from fossil-fuel powered engines to electric. These measures not only mitigate the impacts of climate change but also provide opportunities for community involvement and collaboration. Furthermore, the policy acknowledges the role of the community in achieving its climate change goals, demonstrating an effort to mobilize the community towards climate action.",
+          "quote": {
+            "content": "Through consultation with its residents, including the City\u2019s youth, the City has identified the need to have a stronger vision and a clear strategy for responding to climate change.",
+            "page": 5,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach of both adaptation and mitigation to address climate change. The mitigation efforts are aimed at reducing the amount of climate change, typically by limiting future increases in concentrations of greenhouse gases in the atmosphere. The plan includes practical measures such as the development and implementation of an Urban Forest Plan, which will decrease carbon emissions and improve liveability. The plan also includes the implementation of an Energy Reduction Plan, which aims to reduce the City\u2019s energy use and encourage the community to reduce their energy use, thereby contributing to overall reductions of GHG emissions. The plan also mentions the investigation and development of a practical approach for the City to help enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges, such as improved building design, energy efficiency, water conservation, waste reduction, and environmental protection. These actions indicate a commitment to both technological solutions and behaviour change as part of the mitigation strategy.",
+          "quote": {
+            "content": "It will also seek to encourage the City\u2019s community to reduce their energy use, thereby also contributing to overall reductions of GHG emissions. The ERP has been reviewed in line with the new CCAMS, and in its revised form will continue to reduce the City\u2019s energy use.",
+            "page": 8,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Adaptation and Mitigation Strategy indeed includes specific actions for climate adaptation and resilience. The strategy outlines a multi-risk adaptation and mitigation approach, which includes actions such as revising Local Planning Schemes and local planning policies to ensure climate change impacts and relevant mitigation and adaptation measures are adequately addressed. The strategy also includes actions to enhance and strengthen the community\u2019s capacity to respond to perceived climate change challenges, such as improved building design, energy efficiency, water conservation, waste reduction, and environmental protection. The strategy also outlines a timeframe for the commencement and completion of the actions, with relevant service units assigned to lead the implementation. This indicates a comprehensive and detailed approach to climate adaptation and resilience.",
+          "quote": {
+            "content": ").",
+            "page": 37,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a comprehensive plan for addressing climate change, including both adaptation and mitigation strategies. It outlines specific actions, such as developing an Urban Forest Plan, investigating materials for roads that can reduce surface temperature, and installing solar photovoltaic systems on new and existing buildings. Each action is assigned to a specific service unit, and a timeframe for implementation is provided. The document also mentions the use of the City's Environmental Management System (EMS) for risk assessment and the integration of climate-related risks. Furthermore, the document refers to the City's Energy Reduction Plan and various other policies and strategies, such as the Local Environment Plan and the Waterwise Council Action Plan. Therefore, the document appears to provide well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "The purpose of the CCAMS is to identify areas where the City and the community it represents, are exposed to the effects of climate change and provide risk management adaptation measures to reduce the risk, as well as to identify practical mitigation measures that would aid with the mitigation of the impacts of climate change.",
+            "page": 3,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a variety of actions, each with a corresponding 'measurability' section. This section details how the success of each action will be evaluated. For instance, the action to 'Develop an Urban Forest Plan' will be measured by reporting on targets such as the number of trees planted and preserved, and the creation of breezeways. Another action, 'Implement the five year prioritised plan of action', will be measured by the actions implemented as per the plan and informing the Waterwise Council Program. These examples demonstrate that the plan has specific, measurable criteria in place to evaluate the success of its actions.",
+          "quote": {
+            "content": "# of trees planted, preserved, creation of breezeways etc..).",
+            "page": 24,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to investigate and develop a practical approach to enhance and strengthen the community's capacity to respond to perceived climate change challenges. This includes aspects such as improved building design, energy efficiency, water conservation, waste reduction, environmental protection, and liveability in a hotter and drier climate. The documents also mention the development of an Urban Forest Plan and the investigation of materials for roads that can reduce the Urban Heat Island effect. Furthermore, the documents highlight the need for the local government to take into account the views and concerns raised in the Climate Change Youth Forum conducted in December 2020, indicating a commitment to community engagement and research.",
+          "quote": {
+            "content": "The City has taken into account the views and concerns raised in the Climate Change Youth Forum conducted in December 2020.",
+            "page": 20,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has implemented various initiatives to deal with the risk of climate change. For instance, the City has sponsored the design and build of the EcoVision display homes, which showcased best practice affordable and sustainable design options including water conservation, greywater recycling, photovoltaics, healthy home principles, and universal design. This can be considered as a form of policy experimentation as it tests the practicality and effectiveness of sustainable design options under real-world conditions. Furthermore, the City has conducted an independent energy audit of the top 20 energy use sites and has identified a range of energy efficiency improvements. This is another example of policy experimentation as it involves testing different energy efficiency measures to reduce the City\u2019s energy use.",
+          "quote": {
+            "content": "The two homes showcased best practice affordable and sustainable design options including water conservation, greywater recycling, photovoltaics, healthy home principles and universal design.",
+            "page": 3,
+            "source": "Wanneroo-WA-233.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's Climate Change Adaptation and Mitigation Strategy (CCAMS) outlines a comprehensive approach to addressing climate change, which includes advocating to higher levels of government. The documents highlight the need for close cooperation with relevant state and federal government departments to achieve desired outcomes. This is particularly evident in the context of addressing rainfall-related risks, where the City plans to advocate to the State Government and developers to adopt innovative approaches to water reuse and recycling. This advocacy is aimed at reducing dependency on both scheme and groundwater, demonstrating a clear intent to influence policy and practice at higher levels of government. Therefore, the documents provide clear evidence of an intent to advocate upward to state and national governments to support climate action.",
+          "quote": {
+            "content": "Rainfall related risks \u2013 In response to the impacts of declining rainfall the City will amongst other actions be advocating to State Government as well as developers to adopt innovative approaches to water reuse and recycling, reducing dependency and need for both scheme and groundwater.",
+            "page": 20,
+            "source": "Wanneroo-WA-232.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline various strategies and actions for climate change adaptation and mitigation, they do not specifically mention efforts to build capacity within the council or local communities, or to collaborate with neighbouring councils for climate action. The documents focus more on the city's own strategies and actions, such as the Climate Change Adaptation and Mitigation Strategy (CCAMS), the Energy Reduction Plan, and various local environment and planning policies. They also mention the city's commitment to addressing climate change, including through the Western Australian Local Government Association\u2019s (WALGA) Climate Change Declaration. However, these do not specifically relate to building local capacity or inter-council collaboration."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's strategies and actions for climate change adaptation and mitigation, they do not specify any collaborations with external entities in this regard. The documents outline various actions such as developing new policies related to emission reduction, implementing coastal monitoring and storm response programs, and advocating for innovative approaches to water reuse and recycling. However, these actions appear to be undertaken by the local government itself, without reference to any partnerships with regional associations or alliances. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaged in specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions for climate change adaptation and mitigation, they do not specifically address how these measures will affect or benefit vulnerable communities. The documents focus on general community-wide measures such as improving building design, energy efficiency, water conservation, waste reduction, and environmental protection. They also mention the need for the city to prepare for potential impacts of climate change, such as reduced rainfall, severe weather conditions, bushfires, storms, and rising sea levels. However, these are broad strategies and do not specifically target or discuss the impact on vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents outline various strategies and actions to mitigate and adapt to climate change, they do not specifically address the distribution of benefits and opportunities arising from these actions. The focus is primarily on practical measures such as improving energy efficiency, reducing greenhouse gas emissions, and adapting to changing climate conditions. There is no explicit mention of how these benefits will be distributed among different social groups or how social justice will be ensured in the process. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 68.3
+  }
+}

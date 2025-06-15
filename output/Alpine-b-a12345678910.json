@@ -1,1 +1,299 @@
-{"settings": {"source_files": ["Alpine-VIC-119.pdf", "Alpine-VIC-120.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T11:53:44.230848", "lga": "Alpine"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Alpine Shire Council's Climate Action Plan 2021-2024, clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change and to mitigate the Council's contribution to greenhouse gas (GHG) emissions. The Council has set a target of achieving net zero GHG emissions from its operations by July 2023. The policy outlines a series of actions to achieve this target, including the development of a Climate Adaptation and Resilience Plan, the implementation of emissions reduction strategies for the wider community, and the annual monitoring and reporting of emissions. The policy also commits to reviewing its target, pathway, and investment strategy in 2024 to ensure optimum environmental, cost, and community benefits. Therefore, it is evident that the core purpose of this policy is climate action.", "quote": {"content": "Through this Climate Action Plan Council commits to taking action to mitigate climate change by setting a target of net zero GHG Emissions from Council\u2019s own operations by July 2023. The Alpine Shire Council has experienced its vulnerability firsthand in the recent extreme bushfire season of 2019-2020 and the catastrophic and ongoing financial, social and environmental implications of such an event.", "page": 4, "source": "Alpine-VIC-119.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the vulnerability of the region's natural environment, economic prosperity, and community health to the impacts of climate change. The documents underscore the urgency of immediate mitigation measures to minimize the Council's Greenhouse Gas (GHG) emissions. The documents also acknowledge the irreversible impacts of climate change evident in recent weather events and projected further extreme weather events. The Council commits to reducing GHG emissions from its own operations to net zero by July 2023. The documents also mention the development of a Climate Adaptation and Resilience Plan to address the threats of a changing climate to Council's assets, community townships, and the municipality as a whole. This plan will involve a risk assessment to identify and assess the impacts and prioritize actions to manage these risks.", "quote": {"content": "Council is committed to taking immediate mitigation measures \u2013 actions that will minimise Council\u2019s Greenhouse Gas (GHG) emissions. The Alpine Shire Council (Council) recognises that the beauty and diversity of our region\u2019s natural environment is fundamental to the prosperity of the local community, making the region incredibly susceptible to the impacts of climate change. The predicted changing weather patterns pose a significant threat to the natural and built environment, economic prosperity and community health.", "page": 2, "source": "Alpine-VIC-119.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. The local government acknowledges the vulnerability of the region to climate change and the need for immediate action. The documents highlight the increasing severity of climate change impacts, including more extreme heat waves, fewer frosts, lower average rainfall, more extreme weather events, harsher fire seasons, and shorter snow seasons. The Intergovernmental Panel on Climate Change (IPCC) report is cited, emphasizing that global warming is occurring faster than previously projected, necessitating immediate action to reduce greenhouse gas emissions. The local government has set an ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023, demonstrating a commitment to urgent action. The documents also mention the development of a Climate Adaptation and Resilience Plan to prepare for the impacts of climate change, further emphasizing the urgency of the situation.", "quote": {"content": "Therefore it is crucial that Council takes immediate action. Recently the Intergovernmental Panel on Climate Change (IPCC) reported that global warming is occurring faster than previously projected, giving a worldwide call to arms to act now to reduce GHG emissions in order to minimise any further irreversible damage.", "page": 1, "source": "Alpine-VIC-120.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Alpine Shire Council has committed to reducing greenhouse gas emissions from its operations to net zero by July 2023. This commitment is part of the Council's Climate Action Plan, which is set to be reviewed in three years to ensure it remains current with climate science, technology, and community expectations. The Council also plans to develop a Climate Adaptation and Resilience Plan as the next step in its longer-term strategy. However, the documents do not provide a specific timeframe for this plan. It is also worth noting that the Council's approach to climate change mitigation involves a continuous improvement process that is adaptive and responsive to changing needs, indicating an ongoing commitment beyond the specified timeframe.", "quote": {"content": "Through this Climate Action Plan Council commits to reducing GHG emissions from Council\u2019s own operations to net zero by July 2023.", "page": 2, "source": "Alpine-VIC-119.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various mitigation and adaptation measures, they do not explicitly prioritize these actions over other policies. The Climate Action Plan and other related documents emphasize the importance of climate action and set ambitious targets for reducing greenhouse gas emissions. They also highlight the need for resilience and adaptation in the face of predicted climate change scenarios. However, these actions are presented as part of the local government's overall responsibilities and commitments, rather than as a higher priority than other policies. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to achieving net zero greenhouse gas emissions from Council operations by July 2023, and various mitigation and adaptation measures, they do not explicitly require all council activities to align with this policy. The documents do indicate that the council is committed to climate action and has identified a pathway to achieve their emissions target. They also mention the development of a Climate Adaptation and Resilience Plan to address the impacts of changing weather patterns. However, these commitments and plans do not necessarily imply that all council activities must align with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline a comprehensive Climate Action Plan, including mitigation measures, adaptation strategies, and community education initiatives, there is no specific mention of budget allocation or funding sources for these actions. The documents mention the development and implementation of various strategies and plans, such as the Land Development Strategy, Climate Adaptation and Resilience Plan, and the Tree Management Plan. However, these are discussed in terms of their objectives and expected outcomes, not in terms of the financial resources allocated to them. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a comprehensive Climate Action Plan, including mitigation measures, adaptation strategies, and plans for community education, they do not specify the allocation of staff or other non-monetary resources to these initiatives. The documents mention the development and implementation of various strategies and plans, such as the Land Development Strategy and the Climate Adaptation and Resilience Plan, but they do not detail the human or institutional resources that will be dedicated to these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is taking steps to educate and support the community in climate action. The Climate Action Plan outlines a commitment to reducing greenhouse gas emissions and improving community knowledge through initiatives and education activities. These activities cover a range of topics, including waste minimisation, renewable energy programs, and environmentally sustainable transport. The plan also includes support for community groups and the implementation of kerbside collection recycling enhancements. Furthermore, the local government is planning to develop a Climate Adaptation and Resilience Plan to improve the resilience of Council assets and provide support to the community to prepare for the reality of a changing climate. These actions suggest a proactive approach to social mobilisation, with the local government taking on a leadership role and providing resources and support to enable the community to participate in climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's climate action plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include the implementation of energy efficiency improvements across the business, the replacement of the vehicle fleet with hybrids and Electric Vehicles (EVs), and the minimisation of electricity usage. The plan also mentions the exploration of opportunities to minimise GHG emissions from all Council managed closed landfill sites through passive biofiltration or active capture and combustion. Behaviour change strategies include the implementation of the State Government Recycling Victoria Policy, including kerbside Food Organics and Garden Organics (FOGO) collection to minimise GHG emissions from municipal organics going to landfill. The plan also outlines initiatives to improve community knowledge through education activities covering various topics related to climate change mitigation.", "quote": {"content": "Regular monitoring and review of available technologies, and associated costs, is required to revise the cost benefit as these markets expand within Australia. The vehicle fleet is one of the biggest emitters; technology and cost allows car replacement with hybrids, and Electric Vehicles (EVs) in the near-term market with reasonable payback periods. Longer term technological advances will lead to additional light equipment, utes, heavy plant and machinery being suitable for replacement.", "page": 14, "source": "Alpine-VIC-119.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the development of a Climate Adaptation and Resilience Plan as a priority. This plan will involve a risk assessment to identify and assess the impacts of climate change and prioritize actions to manage these risks. The plan will consider the findings of the 3 yearly Community Emergency Risk Assessment (CERA), many of which are climate-related. The plan also outlines specific actions such as the drafting of a Tree Management Plan, which includes strategies for the maintenance of aging trees, tree selection and planting, and conservation of avenues of trees. Other actions include the development of a drought tolerance strategy and measures to improve resilience against extreme weather events. However, it should be noted that while these actions are outlined, the specifics of their implementation and effectiveness are not detailed in the provided documents.", "quote": {"content": "This will involve a risk assessment to identify and assess the impacts and prioritise actions to manage these risks. A Climate Adaptation and Resilience Plan will be developed to address these threats of a changing climate to Council\u2019s assets, community townships and the municipality as a whole.", "page": 22, "source": "Alpine-VIC-119.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's Climate Action Plan is comprehensive and outlines specific targets, such as achieving net zero greenhouse gas emissions from Council operations by July 2023. The plan also includes a commitment to review the document in three years to ensure it remains current with climate science, technology, and community expectations. The documents also detail the Council's commitment to support the community in reducing their emissions through planning scheme amendments, support to community groups, education opportunities, and recycling enhancements. The Council's approach to climate change mitigation involves a continuous improvement process that is adaptive and responsive to changing needs. This process ensures that the targets set, and means to achieve them, are environmentally, financially, and socially sustainable both now and into the future. The documents also reference international, federal, state, and regional policies and commitments, demonstrating that the local government's climate action plan aligns with broader climate change mitigation efforts.", "quote": {"content": "We are committed to the ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023.", "page": 3, "source": "Alpine-VIC-119.pdf", "search_score": 1.0}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's Climate Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a continuous improvement process that is adaptive and responsive to changing needs. This process is designed to ensure that the targets set, and the means to achieve them, are environmentally, financially, and socially sustainable both now and into the future. The plan also includes an annual assessment of the cost and feasibility of local alternative technologies to ensure the long-term plan to reduce residual emissions is maintained. Furthermore, the Climate Action Plan will be reviewed in its entirety, including the target, pathway, and investment plan, in 2024. This review will ensure that the Council\u2019s climate actions remain relevant, effective, and current across the environmental, financial, and social pillars. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.", "quote": {"content": "To ensure optimum environmental, cost and community benefit the target, pathway and investment strategy of the The implementation of this Climate Action Plan and performance against the target will be monitored and reported annually.", "page": 2, "source": "Alpine-VIC-119.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government's Climate Action Plan outlines various strategies and initiatives to mitigate and adapt to climate change, such as reducing corporate emissions, developing a Climate Adaptation and Resilience Plan, and implementing emissions reduction strategies for the wider community. However, these strategies appear to be based on existing knowledge and do not explicitly mention conducting new research within the local community. The documents do mention the intention to improve community knowledge through initiatives and education activities, but this is not the same as conducting research. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Action Plan outlines a comprehensive approach to reducing greenhouse gas emissions, including a commitment to achieving net zero emissions from Council operations by July 2023. The plan also includes a range of innovative strategies such as planning scheme amendments, support to community groups, education opportunities, and kerbside collection recycling enhancements. Furthermore, the Council is considering the implementation of micro-grids in Planning and Amenity policies, which could enhance resilience to bushfires. The Council also plans to develop a Climate Adaptation and Resilience Plan to improve the resilience of Council assets and support the community in preparing for climate change. These initiatives demonstrate a willingness to experiment with different approaches and technologies to address climate change."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own commitments and actions to mitigate climate change, such as setting a target of net zero greenhouse gas emissions by July 2023, developing a Climate Adaptation and Resilience Plan, and implementing various emissions reduction strategies. While the documents do mention state and international policies and commitments, such as The Paris Agreement and the Victorian Climate Change Act 2017, they do not indicate that the local government will actively advocate to these higher levels of government for further climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the council's commitment to reducing greenhouse gas emissions and developing a Climate Adaptation and Resilience Plan, they do not specifically mention efforts to build local capacity or partnerships with neighbouring councils for climate action. The documents focus primarily on the council's own actions and strategies, such as planning scheme amendments, support to community groups, and education opportunities. However, the explicit encouragement of capacity building across multiple levels of local governance is not evident in the provided documents."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not specifically mention any regional associations, alliances, or other partnerships related to climate action. While the documents do outline the Alpine Shire Council's commitment to climate action, including plans for mitigation and adaptation, they do not detail any specific partnerships or collaborations with other entities in this regard. The documents do reference various levels of government policy and legislation, such as the Paris Agreement and the Victorian Climate Change Act 2017, but these are not partnerships or alliances. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do acknowledge the vulnerability of the region's natural and built environment, economic prosperity, and community health to climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus primarily on the Alpine Shire Council's commitment to reducing greenhouse gas emissions and adapting to climate change, with specific strategies and initiatives outlined. However, there is no explicit discussion or analysis of how climate change might disproportionately affect certain communities, or of strategies to address such inequities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do outline the local government's commitment to mitigating climate change through various initiatives, such as reducing greenhouse gas emissions, implementing emissions reduction strategies, and planning for climate change risks, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents focus more on the technical and operational aspects of climate change mitigation, such as energy efficiency, renewable energy programs, and waste minimization, rather than on the social implications of these actions. Therefore, without explicit evidence in the documents, it cannot be affirmed that there is a discussion on how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 57.5}}
+{
+  "settings": {
+    "source_files": [
+      "Alpine-VIC-119.pdf",
+      "Alpine-VIC-120.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T11:53:44.230848",
+    "lga": "Alpine"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Alpine Shire Council's Climate Action Plan 2021-2024, clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change and to mitigate the Council's contribution to greenhouse gas (GHG) emissions. The Council has set a target of achieving net zero GHG emissions from its operations by July 2023. The policy outlines a series of actions to achieve this target, including the development of a Climate Adaptation and Resilience Plan, the implementation of emissions reduction strategies for the wider community, and the annual monitoring and reporting of emissions. The policy also commits to reviewing its target, pathway, and investment strategy in 2024 to ensure optimum environmental, cost, and community benefits. Therefore, it is evident that the core purpose of this policy is climate action.",
+          "quote": {
+            "content": "Through this Climate Action Plan Council commits to taking action to mitigate climate change by setting a target of net zero GHG Emissions from Council\u2019s own operations by July 2023. The Alpine Shire Council has experienced its vulnerability firsthand in the recent extreme bushfire season of 2019-2020 and the catastrophic and ongoing financial, social and environmental implications of such an event.",
+            "page": 4,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the vulnerability of the region's natural environment, economic prosperity, and community health to the impacts of climate change. The documents underscore the urgency of immediate mitigation measures to minimize the Council's Greenhouse Gas (GHG) emissions. The documents also acknowledge the irreversible impacts of climate change evident in recent weather events and projected further extreme weather events. The Council commits to reducing GHG emissions from its own operations to net zero by July 2023. The documents also mention the development of a Climate Adaptation and Resilience Plan to address the threats of a changing climate to Council's assets, community townships, and the municipality as a whole. This plan will involve a risk assessment to identify and assess the impacts and prioritize actions to manage these risks.",
+          "quote": {
+            "content": "Council is committed to taking immediate mitigation measures \u2013 actions that will minimise Council\u2019s Greenhouse Gas (GHG) emissions. The Alpine Shire Council (Council) recognises that the beauty and diversity of our region\u2019s natural environment is fundamental to the prosperity of the local community, making the region incredibly susceptible to the impacts of climate change. The predicted changing weather patterns pose a significant threat to the natural and built environment, economic prosperity and community health.",
+            "page": 2,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government acknowledges the vulnerability of the region to climate change and the need for immediate action. The documents highlight the increasing severity of climate change impacts, including more extreme heat waves, fewer frosts, lower average rainfall, more extreme weather events, harsher fire seasons, and shorter snow seasons. The Intergovernmental Panel on Climate Change (IPCC) report is cited, emphasizing that global warming is occurring faster than previously projected, necessitating immediate action to reduce greenhouse gas emissions. The local government has set an ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023, demonstrating a commitment to urgent action. The documents also mention the development of a Climate Adaptation and Resilience Plan to prepare for the impacts of climate change, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Therefore it is crucial that Council takes immediate action. Recently the Intergovernmental Panel on Climate Change (IPCC) reported that global warming is occurring faster than previously projected, giving a worldwide call to arms to act now to reduce GHG emissions in order to minimise any further irreversible damage.",
+            "page": 1,
+            "source": "Alpine-VIC-120.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the local government's intended actions on climate change. The Alpine Shire Council has committed to reducing greenhouse gas emissions from its operations to net zero by July 2023. This commitment is part of the Council's Climate Action Plan, which is set to be reviewed in three years to ensure it remains current with climate science, technology, and community expectations. The Council also plans to develop a Climate Adaptation and Resilience Plan as the next step in its longer-term strategy. However, the documents do not provide a specific timeframe for this plan. It is also worth noting that the Council's approach to climate change mitigation involves a continuous improvement process that is adaptive and responsive to changing needs, indicating an ongoing commitment beyond the specified timeframe.",
+          "quote": {
+            "content": "Through this Climate Action Plan Council commits to reducing GHG emissions from Council\u2019s own operations to net zero by July 2023.",
+            "page": 2,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various mitigation and adaptation measures, they do not explicitly prioritize these actions over other policies. The Climate Action Plan and other related documents emphasize the importance of climate action and set ambitious targets for reducing greenhouse gas emissions. They also highlight the need for resilience and adaptation in the face of predicted climate change scenarios. However, these actions are presented as part of the local government's overall responsibilities and commitments, rather than as a higher priority than other policies. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a comprehensive Climate Action Plan, including a commitment to achieving net zero greenhouse gas emissions from Council operations by July 2023, and various mitigation and adaptation measures, they do not explicitly require all council activities to align with this policy. The documents do indicate that the council is committed to climate action and has identified a pathway to achieve their emissions target. They also mention the development of a Climate Adaptation and Resilience Plan to address the impacts of changing weather patterns. However, these commitments and plans do not necessarily imply that all council activities must align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline a comprehensive Climate Action Plan, including mitigation measures, adaptation strategies, and community education initiatives, there is no specific mention of budget allocation or funding sources for these actions. The documents mention the development and implementation of various strategies and plans, such as the Land Development Strategy, Climate Adaptation and Resilience Plan, and the Tree Management Plan. However, these are discussed in terms of their objectives and expected outcomes, not in terms of the financial resources allocated to them. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents outline a comprehensive Climate Action Plan, including mitigation measures, adaptation strategies, and plans for community education, they do not specify the allocation of staff or other non-monetary resources to these initiatives. The documents mention the development and implementation of various strategies and plans, such as the Land Development Strategy and the Climate Adaptation and Resilience Plan, but they do not detail the human or institutional resources that will be dedicated to these efforts. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to educate and support the community in climate action. The Climate Action Plan outlines a commitment to reducing greenhouse gas emissions and improving community knowledge through initiatives and education activities. These activities cover a range of topics, including waste minimisation, renewable energy programs, and environmentally sustainable transport. The plan also includes support for community groups and the implementation of kerbside collection recycling enhancements. Furthermore, the local government is planning to develop a Climate Adaptation and Resilience Plan to improve the resilience of Council assets and provide support to the community to prepare for the reality of a changing climate. These actions suggest a proactive approach to social mobilisation, with the local government taking on a leadership role and providing resources and support to enable the community to participate in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's climate action plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include the implementation of energy efficiency improvements across the business, the replacement of the vehicle fleet with hybrids and Electric Vehicles (EVs), and the minimisation of electricity usage. The plan also mentions the exploration of opportunities to minimise GHG emissions from all Council managed closed landfill sites through passive biofiltration or active capture and combustion. Behaviour change strategies include the implementation of the State Government Recycling Victoria Policy, including kerbside Food Organics and Garden Organics (FOGO) collection to minimise GHG emissions from municipal organics going to landfill. The plan also outlines initiatives to improve community knowledge through education activities covering various topics related to climate change mitigation.",
+          "quote": {
+            "content": "Regular monitoring and review of available technologies, and associated costs, is required to revise the cost benefit as these markets expand within Australia. The vehicle fleet is one of the biggest emitters; technology and cost allows car replacement with hybrids, and Electric Vehicles (EVs) in the near-term market with reasonable payback periods. Longer term technological advances will lead to additional light equipment, utes, heavy plant and machinery being suitable for replacement.",
+            "page": 14,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines the development of a Climate Adaptation and Resilience Plan as a priority. This plan will involve a risk assessment to identify and assess the impacts of climate change and prioritize actions to manage these risks. The plan will consider the findings of the 3 yearly Community Emergency Risk Assessment (CERA), many of which are climate-related. The plan also outlines specific actions such as the drafting of a Tree Management Plan, which includes strategies for the maintenance of aging trees, tree selection and planting, and conservation of avenues of trees. Other actions include the development of a drought tolerance strategy and measures to improve resilience against extreme weather events. However, it should be noted that while these actions are outlined, the specifics of their implementation and effectiveness are not detailed in the provided documents.",
+          "quote": {
+            "content": "This will involve a risk assessment to identify and assess the impacts and prioritise actions to manage these risks. A Climate Adaptation and Resilience Plan will be developed to address these threats of a changing climate to Council\u2019s assets, community townships and the municipality as a whole.",
+            "page": 22,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The local government's Climate Action Plan is comprehensive and outlines specific targets, such as achieving net zero greenhouse gas emissions from Council operations by July 2023. The plan also includes a commitment to review the document in three years to ensure it remains current with climate science, technology, and community expectations. The documents also detail the Council's commitment to support the community in reducing their emissions through planning scheme amendments, support to community groups, education opportunities, and recycling enhancements. The Council's approach to climate change mitigation involves a continuous improvement process that is adaptive and responsive to changing needs. This process ensures that the targets set, and means to achieve them, are environmentally, financially, and socially sustainable both now and into the future. The documents also reference international, federal, state, and regional policies and commitments, demonstrating that the local government's climate action plan aligns with broader climate change mitigation efforts.",
+          "quote": {
+            "content": "We are committed to the ambitious target of achieving net zero greenhouse gas emissions from Council operations by July 2023.",
+            "page": 3,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Climate Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a continuous improvement process that is adaptive and responsive to changing needs. This process is designed to ensure that the targets set, and the means to achieve them, are environmentally, financially, and socially sustainable both now and into the future. The plan also includes an annual assessment of the cost and feasibility of local alternative technologies to ensure the long-term plan to reduce residual emissions is maintained. Furthermore, the Climate Action Plan will be reviewed in its entirety, including the target, pathway, and investment plan, in 2024. This review will ensure that the Council\u2019s climate actions remain relevant, effective, and current across the environmental, financial, and social pillars. Therefore, the plan does include specific measurable criteria to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "To ensure optimum environmental, cost and community benefit the target, pathway and investment strategy of the The implementation of this Climate Action Plan and performance against the target will be monitored and reported annually.",
+            "page": 2,
+            "source": "Alpine-VIC-119.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government's Climate Action Plan outlines various strategies and initiatives to mitigate and adapt to climate change, such as reducing corporate emissions, developing a Climate Adaptation and Resilience Plan, and implementing emissions reduction strategies for the wider community. However, these strategies appear to be based on existing knowledge and do not explicitly mention conducting new research within the local community. The documents do mention the intention to improve community knowledge through initiatives and education activities, but this is not the same as conducting research. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a number of initiatives and strategies for reducing greenhouse gas emissions and adapting to climate change, these are presented as planned or ongoing actions rather than experimental initiatives being tested on a small scale under real-world conditions. For example, the documents mention the development of a Land Development Strategy, the implementation of emissions reduction strategies, and the planning of a Climate Adaptation and Resilience Plan. However, these are not described as experiments, pilots, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own commitments and actions to mitigate climate change, such as setting a target of net zero greenhouse gas emissions by July 2023, developing a Climate Adaptation and Resilience Plan, and implementing various emissions reduction strategies. While the documents do mention state and international policies and commitments, such as The Paris Agreement and the Victorian Climate Change Act 2017, they do not indicate that the local government will actively advocate to these higher levels of government for further climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline the council's commitment to reducing greenhouse gas emissions and developing a Climate Adaptation and Resilience Plan, they do not specifically mention efforts to build local capacity or partnerships with neighbouring councils for climate action. The documents focus primarily on the council's own actions and strategies, such as planning scheme amendments, support to community groups, and education opportunities. However, the explicit encouragement of capacity building across multiple levels of local governance is not evident in the provided documents."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not specifically mention any regional associations, alliances, or other partnerships related to climate action. While the documents do outline the Alpine Shire Council's commitment to climate action, including plans for mitigation and adaptation, they do not detail any specific partnerships or collaborations with other entities in this regard. The documents do reference various levels of government policy and legislation, such as the Paris Agreement and the Victorian Climate Change Act 2017, but these are not partnerships or alliances. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do acknowledge the vulnerability of the region's natural and built environment, economic prosperity, and community health to climate change, they do not specifically address the differential impacts on vulnerable communities. The documents focus primarily on the Alpine Shire Council's commitment to reducing greenhouse gas emissions and adapting to climate change, with specific strategies and initiatives outlined. However, there is no explicit discussion or analysis of how climate change might disproportionately affect certain communities, or of strategies to address such inequities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the documents do outline the local government's commitment to mitigating climate change through various initiatives, such as reducing greenhouse gas emissions, implementing emissions reduction strategies, and planning for climate change risks, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents focus more on the technical and operational aspects of climate change mitigation, such as energy efficiency, renewable energy programs, and waste minimization, rather than on the social implications of these actions. Therefore, without explicit evidence in the documents, it cannot be affirmed that there is a discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 57.5
+  }
+}

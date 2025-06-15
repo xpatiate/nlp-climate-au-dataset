@@ -1,1 +1,305 @@
-{"settings": {"source_files": ["VictorHarbor-SA-284.pdf", "VictorHarbor-SA-286.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T14:45:58.162270", "lga": "VictorHarbor"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, titled 'Climate Agenda 2030', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's commitment to taking action to mitigate and adapt to climate change. It also sets out the first annual program of climate priorities to be delivered in 2020/21. The policy further details specific actions planned for 2021/22 to mitigate and adapt to climate change, including carbon emissions data collection and reporting, completion of the Coastal Adaptation Strategy, and integration of LED lighting into Council\u2019s open space and reserves. The policy also links to other key plans and strategies, such as the City of Victor Harbor Community Plan 2030 and the City of Victor Harbor Environmental Management Plan 2019-2024, further emphasizing the centrality of climate action to the policy's goals.", "quote": {"content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21. Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.", "page": 2, "source": "VictorHarbor-SA-284.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the anticipated impacts of climate change on the region, including rising sea levels, increasing heatwaves, storm surges, and increased bushfire risk. The documents also outline the local government's commitment to taking action to mitigate and adapt to climate change, as part of their Climate Agenda 2030. This includes a range of planned actions, such as carbon emissions data collection and reporting, completion of a Coastal Adaptation Strategy, and integration of LED lighting into Council's open space and reserves. The documents also note the importance of ongoing monitoring and timely decision-making in response to the evolving impacts of climate change. The need for action is further emphasized by the declaration of a climate emergency by the City of Victor Harbor in December 2019.", "quote": {"content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21. Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.", "page": 2, "source": "VictorHarbor-SA-284.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they outline a commitment to taking action to mitigate and adapt to climate change, and mention the declaration of a climate emergency, they do not express a sense of urgency or rapid action. The documents focus more on long-term planning and adaptation strategies, with a time frame extending to 2030 and beyond. They discuss the need for ongoing monitoring, data collection, and community dialogue, and the implementation of incremental and transformative approaches to address climate change. However, these actions are presented as part of a measured and planned response, rather than an urgent or rapid one."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Agenda 2030 sets out the local government's commitment to taking action to mitigate and adapt to climate change, with the first annual program of climate priorities to be delivered in 2020/21. The documents also outline a Coastal Adaptation Strategy for the period 2021-2031, which provides an appropriate timeframe for the Council to make decisions and plan for the future. The strategy maintains a focus on sea-flood risk for 2050 and also considers the longer-term adaptation context for 2100 in locations of high social importance. The documents also mention a plan for actions in 2021/22 to mitigate and adapt to climate change, including carbon emissions data collection and reporting, completion of the Coastal Adaptation Strategy, and integration of LED lighting into Council\u2019s open space and reserves.", "quote": {"content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21... Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.", "page": 2, "source": "VictorHarbor-SA-284.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various strategies for doing so, they do not explicitly prioritize these actions over other policies. The documents discuss the need for adaptation strategies, the potential impacts of climate change, and the importance of planning for future climate scenarios. However, they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence in the documents stating that a climate emergency response must take precedence over other policies, the question cannot be answered in the affirmative."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, such as the Climate Agenda 2030, the Coastal Adaptation Strategy, and various actions planned for 2021/22, they do not explicitly require all council activities to align with these policies. The documents do demonstrate a commitment to addressing climate change and integrating climate considerations into certain aspects of council operations, such as data collection, coastal erosion management, and lighting in public spaces. However, the requirement for all council activities to align with these policies is not explicitly stated."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's climate action plan does indeed allocate funding for specific climate actions. The document titled 'CLIMATE AGENDA 2030' outlines a program of climate priorities to be delivered in 2020/21. It includes specific actions such as integrating LED lighting into Council\u2019s open space and reserves, establishing a Victor Harbor Youth Climate Council, integrating environmental criteria into Council\u2019s procurement processes, undertaking tree canopy mapping, and developing a business case for recycled water expansion. Each of these actions is associated with a specific budget allocation, indicating that the local government has committed financial resources to these climate actions. This demonstrates a clear commitment to institutional resource mobilisation for climate action.", "quote": {"content": "Integrate LED lighting into Council\u2019s open space and reserves\n \u00bb Provide lower carbon lighting that supports night time activation and improved sense of \nsafety for Council\u2019s open space network\n$10,000\nEstablish a Victor Harbor Youth Climate Council\n \u00bb Support the active involvement of our young people in climate leadership  \nfor the community\n$15,000\nIntegrate environmental criteria into Council\u2019s procurement processes\n \u00bb Encourage a market-led approach to low-carbon project delivery\n*\nBusiness case for recycled water expansion\n \u00bb Quantify the impact and benefits of expanding the recycled water season and the number \nof recycled irrigation sites\n$10,000\nUndertake tree canopy mapping\n \u00bb Benchmark the distribution and extent of canopy cover across the built form and monitor \nchanges over time to inform urban planning and management\n$10,000", "page": 5, "source": "VictorHarbor-SA-284.pdf", "search_score": 0.98}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents discuss various strategies and actions related to climate change adaptation, such as sand renourishment, vegetation replanting, data collection, and monitoring programs, they do not specify the allocation of staff or other non-monetary resources to these tasks. The documents also mention the development of a climate adaptation strategy and the need for ongoing dialogue with the local community and stakeholders. However, these references do not provide specific details about the institutional resources that will be mobilized for these purposes. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents do not provide clear evidence of active empowerment and education of the community to rally, support, and work together to deliver climate action in the context of 'social mobilisation'. While the policy outlines various actions and strategies to mitigate and adapt to climate change, it does not explicitly mention efforts to mobilise the community in a collective manner. The documents mention the importance of community values and awareness in relation to climate change impacts, and the need for ongoing dialogue with local community and stakeholders. However, these references do not necessarily equate to active empowerment and education of the community for collective action. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Climate Agenda 2030 does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to integrate LED lighting into Council\u2019s open space and reserves, which is a measure aimed at reducing carbon emissions. The plan also includes a budget for carbon emissions data collection and reporting, which is a crucial step in monitoring and managing greenhouse gas emissions. Behaviour change is encouraged through the plan's commitment to the Cities Power Partnership Pledges, which champions a collaborative approach to energy solutions. However, while these actions are a positive step, the plan could benefit from more detailed strategies and targets for reducing greenhouse gas emissions.", "quote": {"content": "ACTION\n2021/22  \nBUDGET\nCarbon emissions data collection and reporting\n \u00bb Benchmark of emissions from Council operations and identify areas where emissions \nreduction could be targeted.", "page": 5, "source": "VictorHarbor-SA-284.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a range of potential adaptation responses, including planning responses and engineering responses. Planning responses involve using legislation and regulations to reduce vulnerability and increase resilience to climate change and sea-level rise. For instance, land projected to become more prone to flooding can be designated as suitable only for certain types of development. Engineering responses involve capital works such as seawalls and levees to protect coastal areas. The plan also discusses the need for ongoing monitoring of the coast to provide the basis for timely decision-making. Furthermore, the plan outlines an adaptation strategy for the period 2021-2031, with a focus on managing sea level rises to 2050 and considering the longer-term threat projected for 2100. The strategy also includes the development of a new master plan for certain areas.", "quote": {"content": "Thus, land that is projected to become more prone to flooding in future can be scheduled as suitable only for development such as light industry or warehouses, and unsuitable for housing or critical infrastructure. Planning responses are options that use planning legislation and regulations to reduce vulnerability and increase resilience to climate change and sea-level rise.", "page": 193, "source": "VictorHarbor-SA-286.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a detailed and well-sourced evidence base to justify its climate targets and actions. The local government has undertaken a comprehensive Coastal Adaptation Strategy, which includes a focus on actions and plans required for the time period 2021 \u2013 2031. This strategy takes into account sea level rise projections for 2050 and 2100, and outlines a range of potential adaptation responses, including planning and engineering measures. The strategy also highlights the importance of gathering additional site data and obtaining better estimates of the likely climate impacts before implementing major infrastructure spending. Furthermore, the Climate Agenda 2030 outlines specific actions for 2021/22, such as carbon emissions data collection and reporting, and the completion of the Coastal Adaptation Strategy. These actions are accompanied by specific budget allocations, indicating a commitment to their implementation.", "quote": {"content": "However, because assets constructed in the coastal zone usually have long life spans and because long lead times are often required to prepare for adaptation responses, in the first instance this strategy maintains a focus on sea-flood risk for 2050. Part 2 of the project provides an adaptation strategy with a specific focus on actions and plans required for the time period 2021 \u2013 2031.", "page": 192, "source": "VictorHarbor-SA-286.pdf", "search_score": 1.0}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a range of actions and strategies to address climate change, such as 'adaptation pathways', 'adaptative management', 'incremental approach', and 'transformative approach', it does not specify how the success of these actions will be measured. The policy mentions the need for ongoing monitoring and data collection to inform decision-making, but it does not provide clear metrics or benchmarks for evaluating the effectiveness of the proposed actions. The policy also lacks a clear timeline for when these actions should be implemented and evaluated. Therefore, without specific measurable criteria, it would be challenging to assess whether the policy's actions are successful in achieving their intended outcomes."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to prepare a climate adaptation plan that takes into account the recommendations of the project. This strategy includes promoting and supporting a focused data collection and monitoring program, which implies research activities. The documents also mention the need to commence ongoing dialogue with the local community and stakeholders, including the State Government, which suggests an intention to gather local insights and perspectives to inform their climate actions. Furthermore, the documents highlight the importance of ongoing monitoring of the coast to provide the basis for timely decision-making, indicating a commitment to evidence-based policy and action. However, the documents do not provide specific details about the research methods, the nature of the data to be collected, or how the findings will be used to inform climate actions.", "quote": {"content": "protection). Prepare a climate adaptation strategy to minimise the worst future impacts taking into account the recommendations of the project (i.e.", "page": 26, "source": "VictorHarbor-SA-286.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Agenda 2030 and associated documents outline a commitment to addressing climate change, the strategies and actions described are largely conventional and reactive, rather than innovative or experimental. The documents discuss the need for adaptation strategies, planning responses, and engineering solutions to mitigate the impacts of climate change. They also mention the importance of ongoing monitoring for timely decision-making. However, these approaches are standard in climate change policy and do not represent innovative or experimental methods. The documents also lack specific details about novel technologies, unique policy mechanisms, or groundbreaking strategies that would suggest a level of innovation or experimentation in their climate action plans."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents outline the City of Victor Harbor's Climate Agenda 2030, detailing their commitment to mitigating and adapting to climate change, there is no specific mention of advocating to higher levels of government. The documents discuss the city's plans for carbon emissions data collection, coastal adaptation strategies, and other climate-related initiatives. They also mention partnerships, such as the city's involvement in the Resilient Hills and Coast Partnership, but this does not explicitly involve advocacy to state or national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do indicate that the local government is encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The Climate Agenda 2030 document outlines the council's commitment to taking action to mitigate and adapt to climate change, and it also mentions the council's involvement in the Resilient Hills and Coast Partnership, which suggests collaboration with neighbouring local councils. Furthermore, the document mentions the establishment of a Victor Harbor Youth Climate Council, which indicates an effort to build local capacity within the community. The council also plans to integrate environmental criteria into its procurement processes, which could be seen as a way to encourage local businesses to adopt more sustainable practices. However, the documents do not provide specific details on how these initiatives are being implemented or their effectiveness."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations and partnerships related to climate. The City of Victor Harbor's Climate Agenda 2030 outlines the local government's commitment to climate action and adaptation. It mentions that the Climate Agenda 2030 assists the Council in delivering on key plans and strategies, including the 'Resilient Hills and Coasts Sector Agreement 2020-2025' and the 'Resilient Hills and Coasts Climate Adaptation Plan'. These references suggest that the City of Victor Harbor is part of regional alliances or partnerships, specifically the 'Resilient Hills and Coasts' initiative, which is focused on climate adaptation. Furthermore, the document also mentions a partnership with the Red Cross to deliver the 'Climate Ready Communities' program. These partnerships and alliances are crucial for coordinating and advocating for climate action at a regional level.", "quote": {"content": "The Climate Agenda 2030 assists Council to deliver on the following key plans and strategies:\n\u2022 \nCity of Victor Harbor Community Plan 2030\n\u2022 \nCity of Victor Harbor Environmental  \nManagement Plan 2019-2024\n\u2022 \nResilient Hills and Coasts Sector Agreement \n2020-2025\n\u2022 \nResilient Hills and Coasts Climate  \nAdaptation Plan", "page": 6, "source": "VictorHarbor-SA-284.pdf", "search_score": 0.9}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention potential social disruption due to climate change impacts such as rising sea levels, erosion, and increased rainfall intensity, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus more on the physical impacts of climate change on the environment and infrastructure, and the need for adaptation strategies to mitigate these impacts. Therefore, without explicit mention or discussion of the impact on vulnerable communities, it is not possible to affirmatively answer the question based on the provided context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, they do not specifically address the distribution of benefits and opportunities. The documents focus on assessing and managing risks associated with climate change, such as rising sea levels, erosion, and ecosystem disruption. They also discuss the need for community engagement, planning, and adaptation strategies. However, the concept of 'equity and social justice' in the context of sharing the benefits and opportunities of a safe climate is not explicitly addressed."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 51.7}}
+{
+  "settings": {
+    "source_files": [
+      "VictorHarbor-SA-284.pdf",
+      "VictorHarbor-SA-286.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T14:45:58.162270",
+    "lga": "VictorHarbor"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, titled 'Climate Agenda 2030', clearly indicates that climate action is the core purpose or goal. The policy outlines the local government's commitment to taking action to mitigate and adapt to climate change. It also sets out the first annual program of climate priorities to be delivered in 2020/21. The policy further details specific actions planned for 2021/22 to mitigate and adapt to climate change, including carbon emissions data collection and reporting, completion of the Coastal Adaptation Strategy, and integration of LED lighting into Council\u2019s open space and reserves. The policy also links to other key plans and strategies, such as the City of Victor Harbor Community Plan 2030 and the City of Victor Harbor Environmental Management Plan 2019-2024, further emphasizing the centrality of climate action to the policy's goals.",
+          "quote": {
+            "content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21. Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.",
+            "page": 2,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the anticipated impacts of climate change on the region, including rising sea levels, increasing heatwaves, storm surges, and increased bushfire risk. The documents also outline the local government's commitment to taking action to mitigate and adapt to climate change, as part of their Climate Agenda 2030. This includes a range of planned actions, such as carbon emissions data collection and reporting, completion of a Coastal Adaptation Strategy, and integration of LED lighting into Council's open space and reserves. The documents also note the importance of ongoing monitoring and timely decision-making in response to the evolving impacts of climate change. The need for action is further emphasized by the declaration of a climate emergency by the City of Victor Harbor in December 2019.",
+          "quote": {
+            "content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21. Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.",
+            "page": 2,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they outline a commitment to taking action to mitigate and adapt to climate change, and mention the declaration of a climate emergency, they do not express a sense of urgency or rapid action. The documents focus more on long-term planning and adaptation strategies, with a time frame extending to 2030 and beyond. They discuss the need for ongoing monitoring, data collection, and community dialogue, and the implementation of incremental and transformative approaches to address climate change. However, these actions are presented as part of a measured and planned response, rather than an urgent or rapid one."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Agenda 2030 sets out the local government's commitment to taking action to mitigate and adapt to climate change, with the first annual program of climate priorities to be delivered in 2020/21. The documents also outline a Coastal Adaptation Strategy for the period 2021-2031, which provides an appropriate timeframe for the Council to make decisions and plan for the future. The strategy maintains a focus on sea-flood risk for 2050 and also considers the longer-term adaptation context for 2100 in locations of high social importance. The documents also mention a plan for actions in 2021/22 to mitigate and adapt to climate change, including carbon emissions data collection and reporting, completion of the Coastal Adaptation Strategy, and integration of LED lighting into Council\u2019s open space and reserves.",
+          "quote": {
+            "content": "It also outlines the first annual program of climate priorities to be delivered in 2020/21... Our Climate Agenda 2030 sets out our commitment to taking action to mitigate and adapt to climate change.",
+            "page": 2,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various strategies for doing so, they do not explicitly prioritize these actions over other policies. The documents discuss the need for adaptation strategies, the potential impacts of climate change, and the importance of planning for future climate scenarios. However, they do not provide a clear hierarchy of policy priorities. Therefore, without explicit evidence in the documents stating that a climate emergency response must take precedence over other policies, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, such as the Climate Agenda 2030, the Coastal Adaptation Strategy, and various actions planned for 2021/22, they do not explicitly require all council activities to align with these policies. The documents do demonstrate a commitment to addressing climate change and integrating climate considerations into certain aspects of council operations, such as data collection, coastal erosion management, and lighting in public spaces. However, the requirement for all council activities to align with these policies is not explicitly stated."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does indeed allocate funding for specific climate actions. The document titled 'CLIMATE AGENDA 2030' outlines a program of climate priorities to be delivered in 2020/21. It includes specific actions such as integrating LED lighting into Council\u2019s open space and reserves, establishing a Victor Harbor Youth Climate Council, integrating environmental criteria into Council\u2019s procurement processes, undertaking tree canopy mapping, and developing a business case for recycled water expansion. Each of these actions is associated with a specific budget allocation, indicating that the local government has committed financial resources to these climate actions. This demonstrates a clear commitment to institutional resource mobilisation for climate action.",
+          "quote": {
+            "content": "Integrate LED lighting into Council\u2019s open space and reserves\n \u00bb Provide lower carbon lighting that supports night time activation and improved sense of \nsafety for Council\u2019s open space network\n$10,000\nEstablish a Victor Harbor Youth Climate Council\n \u00bb Support the active involvement of our young people in climate leadership  \nfor the community\n$15,000\nIntegrate environmental criteria into Council\u2019s procurement processes\n \u00bb Encourage a market-led approach to low-carbon project delivery\n*\nBusiness case for recycled water expansion\n \u00bb Quantify the impact and benefits of expanding the recycled water season and the number \nof recycled irrigation sites\n$10,000\nUndertake tree canopy mapping\n \u00bb Benchmark the distribution and extent of canopy cover across the built form and monitor \nchanges over time to inform urban planning and management\n$10,000",
+            "page": 5,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the documents discuss various strategies and actions related to climate change adaptation, such as sand renourishment, vegetation replanting, data collection, and monitoring programs, they do not specify the allocation of staff or other non-monetary resources to these tasks. The documents also mention the development of a climate adaptation strategy and the need for ongoing dialogue with the local community and stakeholders. However, these references do not provide specific details about the institutional resources that will be mobilized for these purposes. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of active empowerment and education of the community to rally, support, and work together to deliver climate action in the context of 'social mobilisation'. While the policy outlines various actions and strategies to mitigate and adapt to climate change, it does not explicitly mention efforts to mobilise the community in a collective manner. The documents mention the importance of community values and awareness in relation to climate change impacts, and the need for ongoing dialogue with local community and stakeholders. However, these references do not necessarily equate to active empowerment and education of the community for collective action. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Agenda 2030 does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to integrate LED lighting into Council\u2019s open space and reserves, which is a measure aimed at reducing carbon emissions. The plan also includes a budget for carbon emissions data collection and reporting, which is a crucial step in monitoring and managing greenhouse gas emissions. Behaviour change is encouraged through the plan's commitment to the Cities Power Partnership Pledges, which champions a collaborative approach to energy solutions. However, while these actions are a positive step, the plan could benefit from more detailed strategies and targets for reducing greenhouse gas emissions.",
+          "quote": {
+            "content": "ACTION\n2021/22  \nBUDGET\nCarbon emissions data collection and reporting\n \u00bb Benchmark of emissions from Council operations and identify areas where emissions \nreduction could be targeted.",
+            "page": 5,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a range of potential adaptation responses, including planning responses and engineering responses. Planning responses involve using legislation and regulations to reduce vulnerability and increase resilience to climate change and sea-level rise. For instance, land projected to become more prone to flooding can be designated as suitable only for certain types of development. Engineering responses involve capital works such as seawalls and levees to protect coastal areas. The plan also discusses the need for ongoing monitoring of the coast to provide the basis for timely decision-making. Furthermore, the plan outlines an adaptation strategy for the period 2021-2031, with a focus on managing sea level rises to 2050 and considering the longer-term threat projected for 2100. The strategy also includes the development of a new master plan for certain areas.",
+          "quote": {
+            "content": "Thus, land that is projected to become more prone to flooding in future can be scheduled as suitable only for development such as light industry or warehouses, and unsuitable for housing or critical infrastructure. Planning responses are options that use planning legislation and regulations to reduce vulnerability and increase resilience to climate change and sea-level rise.",
+            "page": 193,
+            "source": "VictorHarbor-SA-286.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed and well-sourced evidence base to justify its climate targets and actions. The local government has undertaken a comprehensive Coastal Adaptation Strategy, which includes a focus on actions and plans required for the time period 2021 \u2013 2031. This strategy takes into account sea level rise projections for 2050 and 2100, and outlines a range of potential adaptation responses, including planning and engineering measures. The strategy also highlights the importance of gathering additional site data and obtaining better estimates of the likely climate impacts before implementing major infrastructure spending. Furthermore, the Climate Agenda 2030 outlines specific actions for 2021/22, such as carbon emissions data collection and reporting, and the completion of the Coastal Adaptation Strategy. These actions are accompanied by specific budget allocations, indicating a commitment to their implementation.",
+          "quote": {
+            "content": "However, because assets constructed in the coastal zone usually have long life spans and because long lead times are often required to prepare for adaptation responses, in the first instance this strategy maintains a focus on sea-flood risk for 2050. Part 2 of the project provides an adaptation strategy with a specific focus on actions and plans required for the time period 2021 \u2013 2031.",
+            "page": 192,
+            "source": "VictorHarbor-SA-286.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a range of actions and strategies to address climate change, such as 'adaptation pathways', 'adaptative management', 'incremental approach', and 'transformative approach', it does not specify how the success of these actions will be measured. The policy mentions the need for ongoing monitoring and data collection to inform decision-making, but it does not provide clear metrics or benchmarks for evaluating the effectiveness of the proposed actions. The policy also lacks a clear timeline for when these actions should be implemented and evaluated. Therefore, without specific measurable criteria, it would be challenging to assess whether the policy's actions are successful in achieving their intended outcomes."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to prepare a climate adaptation plan that takes into account the recommendations of the project. This strategy includes promoting and supporting a focused data collection and monitoring program, which implies research activities. The documents also mention the need to commence ongoing dialogue with the local community and stakeholders, including the State Government, which suggests an intention to gather local insights and perspectives to inform their climate actions. Furthermore, the documents highlight the importance of ongoing monitoring of the coast to provide the basis for timely decision-making, indicating a commitment to evidence-based policy and action. However, the documents do not provide specific details about the research methods, the nature of the data to be collected, or how the findings will be used to inform climate actions.",
+          "quote": {
+            "content": "protection). Prepare a climate adaptation strategy to minimise the worst future impacts taking into account the recommendations of the project (i.e.",
+            "page": 26,
+            "source": "VictorHarbor-SA-286.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents discuss various strategies and approaches to climate change adaptation, such as incremental and transformative approaches, planning responses, engineering solutions, and environmental management, these are presented as potential responses rather than specific, small-scale initiatives being tested under real-world conditions. The documents also mention the need for ongoing monitoring and decision-making based on this data, but again, this does not constitute an experimental approach as defined in the question. Therefore, based on the provided documents, it cannot be affirmed that there is policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents outline the City of Victor Harbor's Climate Agenda 2030, detailing their commitment to mitigating and adapting to climate change, there is no specific mention of advocating to higher levels of government. The documents discuss the city's plans for carbon emissions data collection, coastal adaptation strategies, and other climate-related initiatives. They also mention partnerships, such as the city's involvement in the Resilient Hills and Coast Partnership, but this does not explicitly involve advocacy to state or national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do indicate that the local government is encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The Climate Agenda 2030 document outlines the council's commitment to taking action to mitigate and adapt to climate change, and it also mentions the council's involvement in the Resilient Hills and Coast Partnership, which suggests collaboration with neighbouring local councils. Furthermore, the document mentions the establishment of a Victor Harbor Youth Climate Council, which indicates an effort to build local capacity within the community. The council also plans to integrate environmental criteria into its procurement processes, which could be seen as a way to encourage local businesses to adopt more sustainable practices. However, the documents do not provide specific details on how these initiatives are being implemented or their effectiveness."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and partnerships related to climate. The City of Victor Harbor's Climate Agenda 2030 outlines the local government's commitment to climate action and adaptation. It mentions that the Climate Agenda 2030 assists the Council in delivering on key plans and strategies, including the 'Resilient Hills and Coasts Sector Agreement 2020-2025' and the 'Resilient Hills and Coasts Climate Adaptation Plan'. These references suggest that the City of Victor Harbor is part of regional alliances or partnerships, specifically the 'Resilient Hills and Coasts' initiative, which is focused on climate adaptation. Furthermore, the document also mentions a partnership with the Red Cross to deliver the 'Climate Ready Communities' program. These partnerships and alliances are crucial for coordinating and advocating for climate action at a regional level.",
+          "quote": {
+            "content": "The Climate Agenda 2030 assists Council to deliver on the following key plans and strategies:\n\u2022 \nCity of Victor Harbor Community Plan 2030\n\u2022 \nCity of Victor Harbor Environmental  \nManagement Plan 2019-2024\n\u2022 \nResilient Hills and Coasts Sector Agreement \n2020-2025\n\u2022 \nResilient Hills and Coasts Climate  \nAdaptation Plan",
+            "page": 6,
+            "source": "VictorHarbor-SA-284.pdf",
+            "search_score": 0.9
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention potential social disruption due to climate change impacts such as rising sea levels, erosion, and increased rainfall intensity, they do not specifically address how these impacts might disproportionately affect vulnerable communities. The documents focus more on the physical impacts of climate change on the environment and infrastructure, and the need for adaptation strategies to mitigate these impacts. Therefore, without explicit mention or discussion of the impact on vulnerable communities, it is not possible to affirmatively answer the question based on the provided context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change adaptation and mitigation, they do not specifically address the distribution of benefits and opportunities. The documents focus on assessing and managing risks associated with climate change, such as rising sea levels, erosion, and ecosystem disruption. They also discuss the need for community engagement, planning, and adaptation strategies. However, the concept of 'equity and social justice' in the context of sharing the benefits and opportunities of a safe climate is not explicitly addressed."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 51.7
+  }
+}

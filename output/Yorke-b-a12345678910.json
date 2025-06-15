@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["Yorke-SA-279.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T15:33:33.544968", "lga": "Yorke"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy documents clearly indicate that climate action is the core purpose or goal of the policy. The Yorke and Mid North Regional Climate Change Action Plan is designed to address the impacts of climate change on the region, with a focus on reducing risk, improving resilience, and maximizing emerging opportunities. The policy outlines a range of actions to be taken, including the development of a business case for a Regional Sustainability Centre, the promotion of local climate change initiatives, and the establishment of a network of regional climate change decision-makers. The policy also includes plans for regular reviews and updates of regional climate change vulnerability assessments and adaptation priorities. Furthermore, the policy outlines specific actions related to biodiversity, water resources management, and community development and emergency management, all of which are directly related to climate change adaptation."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on the region, including more intense and frequent bushfires, droughts, heatwaves, shifts in rainfall seasonality, decrease in frost incidence, increasing ocean temperature and acidification, more frequent coastal storm surge, inundation and erosion. These changes are expected to impact natural ecosystems, local communities, built-infrastructure and industry sectors in different ways. The documents also note that certain sectors and communities that are already under stress or have a lower socio-economic background may face increasing pressure from the impact of climate change. Therefore, the documents underscore the need for a coordinated and collaborative action and regional leadership to reduce risk, improve resilience and maximise emerging opportunities."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and strategies to address climate change at a regional level, including the development of a Regional Sustainability Centre, the promotion of local climate change initiatives, and the establishment of a network of regional climate change decision makers. The documents also mention the need for regular review and update of regional climate change vulnerability assessment and adaptation priorities. However, these actions are presented as part of a long-term strategic plan, rather than as urgent measures that need to be implemented immediately. The documents also do not provide a specific timeline for these actions, which further suggests that they are not considered to be urgent."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. They outline various strategies and actions to be taken, such as the development of a business case for a Regional Sustainability Centre, the establishment of a network of regional climate change decision makers, and the regular review and update of regional climate change vulnerability assessments. However, these actions are not associated with any specific deadlines or timeframes. The documents emphasize the importance of ongoing efforts and continuous improvement, but they do not provide a schedule or timeline for when these actions should be completed. Therefore, in terms of 'urgency of action', the documents do not provide clear evidence of specific timeframes for their intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a comprehensive plan for climate change adaptation in the Yorke and Mid North region, including actions related to regional coordination and leadership, biodiversity, community development, emergency management, and water resources management. However, they do not make a direct comparison between the priority of these climate change actions and the priority of other policies. The documents emphasize the importance of coordinated and collaborative action, regular review and update of regional climate change vulnerability assessment, and adaptation priorities. They also highlight the need for support from various sectors, including government, to successfully implement the identified regional adaptation actions. But nowhere is it explicitly stated that these climate change actions should take precedence over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a variety of actions and strategies related to climate change adaptation, such as developing a business case for a Regional Sustainability Centre, identifying and promoting local climate change initiatives, and establishing a network of regional climate change decision makers. However, these actions are not explicitly tied to all council activities. The documents also mention the development of various plans and strategies, such as a regional climate change vulnerability assessment and adaptation plan, and a water resources management plan. However, these are specific initiatives rather than a requirement for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the plan outlines various actions and strategies to address climate change, such as developing a business case for a Regional Sustainability Centre, promoting local climate change initiatives, and updating regional climate change vulnerability assessments, it does not specify any budget or funding allocation for these actions. The plan also mentions the need for ongoing support for climate forecasting tools and the development of state-wide policies for biodiversity management, but again, no specific funding details are provided. Therefore, based on the available information, it cannot be confirmed that the plan allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents outline various strategies and actions related to climate change adaptation, such as engaging with the NRM Climate Change Impact & Adaptation Research program, updating water resources investigation, and developing policies for water resources management. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. The documents mention the need for coordinated action, regional leadership, and community engagement, but these are broad strategies rather than specific resource allocations. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at engaging the community in climate change adaptation efforts. For instance, the policy mentions the preparation and implementation of a climate change community engagement strategy for the region. This suggests an effort to educate and mobilize the community around climate change issues. Additionally, the policy refers to the development of a state-wide community engagement program, which further indicates a commitment to community involvement and education. The policy also mentions the establishment of a network of regional climate change decision makers, which could potentially include community members, further facilitating community involvement in climate action.", "quote": {"content": "Develop a state wide community engagement program.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.97}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's plan does not include specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change rather than mitigation efforts. It outlines actions such as the development of a Regional Sustainability Centre, the establishment of a network of regional climate change decision makers, and the regular review and update of regional climate change vulnerability assessments. It also mentions the development of a model for adaptive NRM planning and the provision of clear direction on regional climate change adaptation. However, it does not provide specific actions or strategies aimed at reducing or mitigating greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address climate change impacts. These include the development of a model for adaptive Natural Resources Management (NRM) planning, regular review and update of regional climate change vulnerability assessment, and the establishment of a network of regional climate change decision makers. The plan also mentions the development of a framework for NRM/agricultural/small business extension services for climate change adaptation and the building of state-wide expertise in carbon farming and soils. Furthermore, the plan discusses the need for a coordinated approach to water resources management in the region, including the development of a policy for re-apportioning the reduced capacity of water resources. These actions demonstrate a comprehensive approach to climate adaptation and resilience.", "quote": {"content": "Regular review and update of regional climate change vulnerability assessment and adaptation priorities. Undertake a business case for a Regional Sustainability Centre. Identify and promote local climate change initiatives. Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change adaptation, such as the development of a Regional Sustainability Centre, the investigation of low carbon industry development, and the incorporation of climate change vulnerability into emergency management plans, they do not provide specific, well-sourced evidence to justify these actions. The documents do not provide clear climate targets, nor do they provide data or research to support the proposed actions. The documents also do not provide information on how the effectiveness of these actions will be measured or evaluated. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various strategies and actions related to climate change adaptation, such as biodiversity management, water resources management, business and workforce development, infrastructure and planning, and community engagement, it does not provide clear, quantifiable metrics or benchmarks for success. The plan mentions what success would look like in broad terms, such as 'Maintenance of ecological functionality that aligns with climatic and natural landscape conditions' or 'Water resources are shared in an integrated, prioritised and efficient manner', but these are not specific, measurable criteria. Without such criteria, it would be challenging to objectively assess the effectiveness and impact of the proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The document does indeed describe plans to conduct research in the local community to inform climate actions. The local government plans to undertake a business case for a Regional Sustainability Centre, which would likely involve research into the local community's needs and resources. They also plan to establish a network of regional climate change decision makers and provide targeted information on climate change vulnerability at a local level. This suggests a commitment to informed, evidence-based decision making. Furthermore, the document mentions the development of a state-wide community engagement program and a local 'whole of community carbon reduction strategy' case study, both of which would likely involve research into the local community's attitudes, behaviors, and capacities. Therefore, the document does provide clear evidence of plans to conduct research in the local community to inform climate actions.", "quote": {"content": "Undertake a local 'whole of community carbon reduction strategy' case study. Undertake a business case for a Regional Sustainability Centre. Identify and promote local climate change initiatives. Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level. Develop a state wide community engagement program.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.98}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government is taking a proactive approach to climate change, with a focus on regional coordination and leadership. They are undertaking a business case for a Regional Sustainability Centre, which suggests an innovative approach to sustainability. They are also identifying and promoting local climate change initiatives, which indicates a willingness to experiment with different strategies. The documents also mention the development of a model for adaptive NRM planning that incorporates resilience assessments, which is another example of innovative thinking. Furthermore, the government is engaging with the NRM Climate Change Impact & Adaptation Research program to inform regional carbon farming policies, which suggests a commitment to policy experimentation. Overall, the documents show a clear commitment to innovative and experimental approaches to climate action.", "quote": {"content": "Develop and apply a model for adaptive NRM planning that incorporates resilience assessments and considers trajectory of landscapes. Undertake a business case for a Regional Sustainability Centre. Identify and promote local climate change initiatives.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.96}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Yorke and Mid North Regional Climate Change Action Plan outlines a series of actions that involve coordination and partnerships at various levels, including state and national. The plan emphasizes the need for ongoing support for climate forecasting tools, the establishment of a state-wide 'warehouse' for national climate change research, and the provision of state-wide, sector-based climate change knowledge brokers. These actions suggest an intent to advocate for support from higher levels of government. Furthermore, the plan also calls for the development of state-wide policies for biodiversity management and other Natural Resources Management (NRM) adaptive management requirements under climate change. This further underscores the intent to advocate upward to state and national governments to support climate action.", "quote": {"content": "Develop state wide policies for biodiversity management and other NRM adaptive management requirements under climate change. Ongoing support for climate forecasting tools to improve certainty around scenarios. Establish and maintain a coordinated, state wide 'warehouse' for national climate change research, adaptation and support for regions and sectors. Provide state wide, sector based climate change knowledge brokers to work with regional decision makers and industry groups to identify research needs, required formats and opportunities for local case studies.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.98}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines a number of strategies and actions that aim to foster regional coordination and leadership, including the establishment of a network of regional climate change decision makers and the provision of targeted information on climate change vulnerability at a local level. The document also emphasizes the importance of community engagement and inclusion in climate change adaptation efforts, suggesting that all community members should be engaged and have the capacity to work together to adapt to climate change. Furthermore, the document proposes the development of a climate change community engagement strategy for the region, which would likely involve capacity building efforts across local councils and communities.", "quote": {"content": "Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level.", "page": 1, "source": "Yorke-SA-279.pdf", "search_score": 0.98}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Yorke and Mid North Regional Alliance is mentioned as a key entity in the leadership and coordination of climate change initiatives. This alliance is involved in various activities such as promoting local climate change initiatives, establishing a network of regional climate change decision-makers, and regularly reviewing and updating regional climate change vulnerability assessments and adaptation priorities. The Regional Alliance is also working with a number of research, educational, and industry partners to progress a regional precinct style Sustainability Centre. This centre is intended to coordinate research efforts, showcase innovation, and provide a knowledge and educational hub for the region. The documents also mention the South Australian Government's support in preparing the Yorke and Mid North Regional Climate Change Action Plan."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do discuss the impact of climate change on vulnerable communities. It is mentioned that local towns and sectors of the community that are already under stress, have a lower socio-economic background, limited access to education, or are heavily reliant on volunteer effort for emergency services and healthcare may face increasing pressure from the impact of climate change in the years ahead. These communities will require support to help build their long-term resilience. This indicates an understanding of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities. However, the documents do not provide specific strategies or actions to address these issues, which would be necessary to fully assess the policy's approach to equity and social justice in the context of climate change."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the need for adaptation strategies for various sectors and communities, it does not provide specific details on how these benefits and opportunities will be distributed equitably. The policy does acknowledge that certain sectors and communities, such as those with a lower socio-economic background or those heavily reliant on volunteer effort for emergency services and healthcare, may face increasing pressure from the impact of climate change. However, it does not outline specific measures to ensure that these groups share equitably in the benefits and opportunities of a safe climate. Therefore, the policy does not meet the high standard of evidence required to answer the question in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 50.0}}
+{
+  "settings": {
+    "source_files": [
+      "Yorke-SA-279.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T15:33:33.544968",
+    "lga": "Yorke"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy documents clearly indicate that climate action is the core purpose or goal of the policy. The Yorke and Mid North Regional Climate Change Action Plan is designed to address the impacts of climate change on the region, with a focus on reducing risk, improving resilience, and maximizing emerging opportunities. The policy outlines a range of actions to be taken, including the development of a business case for a Regional Sustainability Centre, the promotion of local climate change initiatives, and the establishment of a network of regional climate change decision-makers. The policy also includes plans for regular reviews and updates of regional climate change vulnerability assessments and adaptation priorities. Furthermore, the policy outlines specific actions related to biodiversity, water resources management, and community development and emergency management, all of which are directly related to climate change adaptation."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on the region, including more intense and frequent bushfires, droughts, heatwaves, shifts in rainfall seasonality, decrease in frost incidence, increasing ocean temperature and acidification, more frequent coastal storm surge, inundation and erosion. These changes are expected to impact natural ecosystems, local communities, built-infrastructure and industry sectors in different ways. The documents also note that certain sectors and communities that are already under stress or have a lower socio-economic background may face increasing pressure from the impact of climate change. Therefore, the documents underscore the need for a coordinated and collaborative action and regional leadership to reduce risk, improve resilience and maximise emerging opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and strategies to address climate change at a regional level, including the development of a Regional Sustainability Centre, the promotion of local climate change initiatives, and the establishment of a network of regional climate change decision makers. The documents also mention the need for regular review and update of regional climate change vulnerability assessment and adaptation priorities. However, these actions are presented as part of a long-term strategic plan, rather than as urgent measures that need to be implemented immediately. The documents also do not provide a specific timeline for these actions, which further suggests that they are not considered to be urgent."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the intended actions on climate change. They outline various strategies and actions to be taken, such as the development of a business case for a Regional Sustainability Centre, the establishment of a network of regional climate change decision makers, and the regular review and update of regional climate change vulnerability assessments. However, these actions are not associated with any specific deadlines or timeframes. The documents emphasize the importance of ongoing efforts and continuous improvement, but they do not provide a schedule or timeline for when these actions should be completed. Therefore, in terms of 'urgency of action', the documents do not provide clear evidence of specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline a comprehensive plan for climate change adaptation in the Yorke and Mid North region, including actions related to regional coordination and leadership, biodiversity, community development, emergency management, and water resources management. However, they do not make a direct comparison between the priority of these climate change actions and the priority of other policies. The documents emphasize the importance of coordinated and collaborative action, regular review and update of regional climate change vulnerability assessment, and adaptation priorities. They also highlight the need for support from various sectors, including government, to successfully implement the identified regional adaptation actions. But nowhere is it explicitly stated that these climate change actions should take precedence over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They outline a variety of actions and strategies related to climate change adaptation, such as developing a business case for a Regional Sustainability Centre, identifying and promoting local climate change initiatives, and establishing a network of regional climate change decision makers. However, these actions are not explicitly tied to all council activities. The documents also mention the development of various plans and strategies, such as a regional climate change vulnerability assessment and adaptation plan, and a water resources management plan. However, these are specific initiatives rather than a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the plan outlines various actions and strategies to address climate change, such as developing a business case for a Regional Sustainability Centre, promoting local climate change initiatives, and updating regional climate change vulnerability assessments, it does not specify any budget or funding allocation for these actions. The plan also mentions the need for ongoing support for climate forecasting tools and the development of state-wide policies for biodiversity management, but again, no specific funding details are provided. Therefore, based on the available information, it cannot be confirmed that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. The documents outline various strategies and actions related to climate change adaptation, such as engaging with the NRM Climate Change Impact & Adaptation Research program, updating water resources investigation, and developing policies for water resources management. However, these actions do not specify the allocation of staff or other non-monetary institutional resources. The documents mention the need for coordinated action, regional leadership, and community engagement, but these are broad strategies rather than specific resource allocations. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed indicate that the local government is taking steps to empower and educate the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at engaging the community in climate change adaptation efforts. For instance, the policy mentions the preparation and implementation of a climate change community engagement strategy for the region. This suggests an effort to educate and mobilize the community around climate change issues. Additionally, the policy refers to the development of a state-wide community engagement program, which further indicates a commitment to community involvement and education. The policy also mentions the establishment of a network of regional climate change decision makers, which could potentially include community members, further facilitating community involvement in climate action.",
+          "quote": {
+            "content": "Develop a state wide community engagement program.",
+            "page": 1,
+            "source": "Yorke-SA-279.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's plan does not include specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change rather than mitigation efforts. It outlines actions such as the development of a Regional Sustainability Centre, the establishment of a network of regional climate change decision makers, and the regular review and update of regional climate change vulnerability assessments. It also mentions the development of a model for adaptive NRM planning and the provision of clear direction on regional climate change adaptation. However, it does not provide specific actions or strategies aimed at reducing or mitigating greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address climate change impacts. These include the development of a model for adaptive Natural Resources Management (NRM) planning, regular review and update of regional climate change vulnerability assessment, and the establishment of a network of regional climate change decision makers. The plan also mentions the development of a framework for NRM/agricultural/small business extension services for climate change adaptation and the building of state-wide expertise in carbon farming and soils. Furthermore, the plan discusses the need for a coordinated approach to water resources management in the region, including the development of a policy for re-apportioning the reduced capacity of water resources. These actions demonstrate a comprehensive approach to climate adaptation and resilience.",
+          "quote": {
+            "content": "Regular review and update of regional climate change vulnerability assessment and adaptation priorities. Undertake a business case for a Regional Sustainability Centre. Identify and promote local climate change initiatives. Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level.",
+            "page": 1,
+            "source": "Yorke-SA-279.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of actions and strategies related to climate change adaptation, such as the development of a Regional Sustainability Centre, the investigation of low carbon industry development, and the incorporation of climate change vulnerability into emergency management plans, they do not provide specific, well-sourced evidence to justify these actions. The documents do not provide clear climate targets, nor do they provide data or research to support the proposed actions. The documents also do not provide information on how the effectiveness of these actions will be measured or evaluated. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various strategies and actions related to climate change adaptation, such as biodiversity management, water resources management, business and workforce development, infrastructure and planning, and community engagement, it does not provide clear, quantifiable metrics or benchmarks for success. The plan mentions what success would look like in broad terms, such as 'Maintenance of ecological functionality that aligns with climatic and natural landscape conditions' or 'Water resources are shared in an integrated, prioritised and efficient manner', but these are not specific, measurable criteria. Without such criteria, it would be challenging to objectively assess the effectiveness and impact of the proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The document does indeed describe plans to conduct research in the local community to inform climate actions. The local government plans to undertake a business case for a Regional Sustainability Centre, which would likely involve research into the local community's needs and resources. They also plan to establish a network of regional climate change decision makers and provide targeted information on climate change vulnerability at a local level. This suggests a commitment to informed, evidence-based decision making. Furthermore, the document mentions the development of a state-wide community engagement program and a local 'whole of community carbon reduction strategy' case study, both of which would likely involve research into the local community's attitudes, behaviors, and capacities. Therefore, the document does provide clear evidence of plans to conduct research in the local community to inform climate actions.",
+          "quote": {
+            "content": "Undertake a local 'whole of community carbon reduction strategy' case study. Undertake a business case for a Regional Sustainability Centre. Identify and promote local climate change initiatives. Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level. Develop a state wide community engagement program.",
+            "page": 1,
+            "source": "Yorke-SA-279.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the policy outlines various actions and strategies to address climate change, such as developing a business case for a Regional Sustainability Centre, investigating opportunities for low carbon industry development, and preparing a climate change community engagement strategy, these do not explicitly indicate that they are small-scale, real-world tests of technologies, policies, or governance approaches. They appear to be broader strategies and initiatives rather than specific experiments or pilot projects. Therefore, based on the provided documents, it cannot be affirmed that the policy includes experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The Yorke and Mid North Regional Climate Change Action Plan outlines a series of actions that involve coordination and partnerships at various levels, including state and national. The plan emphasizes the need for ongoing support for climate forecasting tools, the establishment of a state-wide 'warehouse' for national climate change research, and the provision of state-wide, sector-based climate change knowledge brokers. These actions suggest an intent to advocate for support from higher levels of government. Furthermore, the plan also calls for the development of state-wide policies for biodiversity management and other Natural Resources Management (NRM) adaptive management requirements under climate change. This further underscores the intent to advocate upward to state and national governments to support climate action.",
+          "quote": {
+            "content": "Develop state wide policies for biodiversity management and other NRM adaptive management requirements under climate change. Ongoing support for climate forecasting tools to improve certainty around scenarios. Establish and maintain a coordinated, state wide 'warehouse' for national climate change research, adaptation and support for regions and sectors. Provide state wide, sector based climate change knowledge brokers to work with regional decision makers and industry groups to identify research needs, required formats and opportunities for local case studies.",
+            "page": 1,
+            "source": "Yorke-SA-279.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. It outlines a number of strategies and actions that aim to foster regional coordination and leadership, including the establishment of a network of regional climate change decision makers and the provision of targeted information on climate change vulnerability at a local level. The document also emphasizes the importance of community engagement and inclusion in climate change adaptation efforts, suggesting that all community members should be engaged and have the capacity to work together to adapt to climate change. Furthermore, the document proposes the development of a climate change community engagement strategy for the region, which would likely involve capacity building efforts across local councils and communities.",
+          "quote": {
+            "content": "Establish a network of regional climate change decision makers and provide targeted information of climate change vulnerability at a local level.",
+            "page": 1,
+            "source": "Yorke-SA-279.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The Yorke and Mid North Regional Alliance is mentioned as a key entity in the leadership and coordination of climate change initiatives. This alliance is involved in various activities such as promoting local climate change initiatives, establishing a network of regional climate change decision-makers, and regularly reviewing and updating regional climate change vulnerability assessments and adaptation priorities. The Regional Alliance is also working with a number of research, educational, and industry partners to progress a regional precinct style Sustainability Centre. This centre is intended to coordinate research efforts, showcase innovation, and provide a knowledge and educational hub for the region. The documents also mention the South Australian Government's support in preparing the Yorke and Mid North Regional Climate Change Action Plan."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do discuss the impact of climate change on vulnerable communities. It is mentioned that local towns and sectors of the community that are already under stress, have a lower socio-economic background, limited access to education, or are heavily reliant on volunteer effort for emergency services and healthcare may face increasing pressure from the impact of climate change in the years ahead. These communities will require support to help build their long-term resilience. This indicates an understanding of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities. However, the documents do not provide specific strategies or actions to address these issues, which would be necessary to fully assess the policy's approach to equity and social justice in the context of climate change."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the need for adaptation strategies for various sectors and communities, it does not provide specific details on how these benefits and opportunities will be distributed equitably. The policy does acknowledge that certain sectors and communities, such as those with a lower socio-economic background or those heavily reliant on volunteer effort for emergency services and healthcare, may face increasing pressure from the impact of climate change. However, it does not outline specific measures to ensure that these groups share equitably in the benefits and opportunities of a safe climate. Therefore, the policy does not meet the high standard of evidence required to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 50.0
+  }
+}

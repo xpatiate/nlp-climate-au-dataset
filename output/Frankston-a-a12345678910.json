@@ -1,1 +1,335 @@
-{"settings": {"source_files": ["Frankston-VIC-130.pdf", "Frankston-VIC-131.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T17:37:39.193161", "lga": "Frankston"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review clearly identifies climate action as a core purpose. The policy outlines a comprehensive plan to address climate change impacts and adaptation, with a focus on reducing greenhouse gas emissions and transitioning to low carbon fuel sources. The policy also includes specific actions to address climate change risks, such as implementing water efficiency initiatives, seeking partnerships for low carbon alternatives, and integrating climate change considerations into Council's planning and operational decisions. The policy also emphasizes the importance of community engagement and education in climate change adaptation. Therefore, it is evident that the policy is not only reactive but also proactive in its approach to climate change, making climate action a core purpose.", "quote": {"content": "This Towards Zero Emissions Plan (2019\u20132023) documents Council\u2019s energy efficiency and renewable energy priorities in progressing towards its zero net emissions target, as well as actions that aim to deliver multiple benefits beyond financial savings, such as social and environmental values. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources. Council has set a target for zero net emissions (carbon neutrality) by 2025.", "page": 5, "source": "Frankston-VIC-130.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on various aspects of community life and local government functions. The documents underscore the urgency of the situation by stating that many changes are already being felt across Australia, with scientific consensus warning of increasing temperatures, sea level rise, changing rainfall patterns, and more frequent and extreme weather events. The documents also emphasize that due to the lag time in the climatic system, climate change impacts will be felt even with severe reductions in greenhouse gas emissions. The documents further note that acting sooner rather than later will pose fewer challenges and be more cost-effective. They propose that adaptation to climate change should be built into normal planning and risk management activities of both Council and the community.", "quote": {"content": "Due to the lag time in the climatic system, even with severe reductions in greenhouse gas emissions, climate change impacts will be felt. Every aspect of community life and local government function that is impacted by weather could potentially be affected by climate change. Many changes are already being felt across Australia with scientific consensus warning of increasing temperatures, sea level rise, changing rainfall patterns and more frequent and extreme weather events.", "page": 11, "source": "Frankston-VIC-131.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do acknowledge the existence of climate change, its potential impacts, and the need for adaptation strategies. The documents detail various actions that are already underway, such as the recycled water scheme and the creation of a Heat Wave Action Plan. They also mention the need for more extensive adaptation to reduce vulnerability to future climate change. However, these statements do not convey a sense of urgency or immediacy. The documents do not use language that would suggest that these actions need to be taken rapidly or that the situation is urgent. Instead, the focus seems to be on careful planning, consultation, and gradual implementation of climate change adaptation strategies."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for intended actions on climate change. For instance, the document mentions that some actions are already underway, such as the recycled water scheme, changeover to warm season grasses in sporting grounds, and completing a Heat Wave Action Plan for Aged Services direct care workers. It also outlines a detailed Implementation Plan for Council\u2019s energy and greenhouse emission reduction actions over the 2019\u20132023 period. Furthermore, it mentions specific actions to be taken by 2015, such as General Managers being responsible for the divisional delivery of the Adaptation Actions and for inclusion into their Manager\u2019s Performance Plans, and the integration of climate change risks into Council's Corporate Risk Register. These instances indicate that the document does provide specific timeframes for its intended actions on climate change.", "quote": {"content": "A detailed Implementation Plan is outlined in Section 5 highlighting Council\u2019s energy and greenhouse emission reduction actions over the 2019\u20132023 period.", "page": 15, "source": "Frankston-VIC-130.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various actions and strategies to mitigate its impacts, they do not explicitly prioritize these actions over other policies. The documents discuss the establishment of a Climate Change Taskforce, the development of a Climate Change Impacts and Adaptation Plan, and various actions to address climate change risks. However, these are presented as part of the local government's overall policy framework, rather than as a higher priority than other policies. The documents also emphasize the need for collaboration across different levels of government and agencies, suggesting a holistic approach to policy development rather than a hierarchical prioritization of policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change adaptation and mitigation. These include the establishment of a Climate Change Taskforce, the integration of climate change risks into the Council's Corporate Risk Register, and the assessment of Council's current strategies and plans with consideration of climate change impacts. The documents also mention the need for effective communication and consultation across the Council regarding developments in climate science and local impacts. However, these actions and strategies do not necessarily imply that all council activities must be aligned with climate policy. The documents do not provide clear evidence to support a positive answer to the question."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's plan does indeed allocate funding for climate action. The documents provide evidence of budget estimations for various climate change adaptation actions. For instance, the plan outlines specific actions such as implementing a management plan for non-irrigated sports grounds and recommendations from irrigation audits, with budget estimations provided for each action. The plan also mentions the need for additional investment by the council within the duration of the plan for energy efficiency and renewable energy actions. However, it is important to note that some actions may require further analysis and consideration through the council's annual budgeting process, and some actions may attract external funding, particularly where community benefits or partnerships can be established."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for different divisions and departments within the local government. For instance, it states that General Managers will be responsible for the divisional delivery of the Adaptation Actions and for inclusion into their Manager\u2019s Performance Plans. It also mentions the role of the Climate Change Taskforce and the Corporate Governance department in assessing and reporting on climate change adaptation actions. Furthermore, the plan emphasizes the need for effective communication and consultation across the Council to keep abreast with developments in climate science and local impacts. This suggests a commitment to institutional resource mobilization, including staff time and expertise, for climate action.", "quote": {"content": "7.5 Maintain effective communication and consultation across Council to ensure Council is kept abreast with developments in climate science and local impacts.", "page": 42, "source": "Frankston-VIC-131.pdf", "search_score": 0.95}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence of a policy that aims to empower and educate the community to work together to address climate change. The policy outlines a community-based approach to climate change adaptation, emphasizing the role of individuals and community networks in preparing for and responding to climate impacts. It also highlights the importance of community education and awareness, with plans for further educational resources on climate change impacts and building community resilience. The policy also mentions the role of the government in supporting communities in building strengths, skills, and strategies to deal with climate change. This includes incentives for energy efficiency, encouraging efficient use of resources, and guidance on land use planning. The policy also outlines plans for community engagement and consultation, including workshops, surveys, and presentations to gather community input and feedback. Therefore, the policy does seem to actively empower and educate the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "Participants outlined some ideas on how they as individuals could effectively prepare and respond to climate change.", "page": 28, "source": "Frankston-VIC-131.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reducing greenhouse gas emissions and transitioning to low carbon fuel sources, with a target for zero net emissions by 2025. The plan also includes actions to improve energy efficiency and increase the use of renewable energy. Technological solutions are mentioned, such as the bulk changeover of street lights to more energy efficient lamps, energy efficiency auditing and improvements to Council\u2019s facilities, and increasing the use of renewable energy through solar power installations. The plan also includes a focus on behaviour change, with actions to support the local community in transitioning to a low emissions future, and to educate businesses at risk of climate change impacts on how they can prepare and respond.", "quote": {"content": "Significant activities undertaken by Council to reduce emissions included a bulk changeover of street lights to more energy efficient lamps, energy efficiency auditing and improvements to Council\u2019s facilities, as well as increasing the use of renewable energy through solar power installations.", "page": 3, "source": "Frankston-VIC-130.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Climate Change Impacts and Adaptation Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to addressing climate change impacts, including the identification of risks, the development of adaptation actions, and the ongoing monitoring and reassessment of these actions. The plan also includes a commitment to regularly reassess risks and adaptation actions over time. The plan is structured around seven key themes, including safeguarding community health and safety, managing assets, planning for the future, protecting the natural environment, and ensuring corporate continuity. Each theme is linked to specific risks and includes prioritized actions, responsible divisions, and budget estimations. The plan also emphasizes the importance of community education and engagement in building resilience to climate change.", "quote": {"content": "Risks that had inadequate or no controls in place were then evaluated and appropriate actions included in the Adaptation Plan. This section includes the action plan to identify appropriate adaptation actions to respond to the remaining risks identified. Actions in this Adaptation Plan have been determined through rescaling the climate change risk assessment (Appendix 4) by investigating what controls are in place to mitigate the risk and determining their adequacy22.", "page": 32, "source": "Frankston-VIC-131.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, responsible departments, and timelines. The plan is based on a risk assessment, which suggests a well-considered approach. The documents also mention the use of internal consultation, presentations to a taskforce, and a literature review to assess the implications of climate change, indicating a reliance on expert input and research. The plan includes actions such as a recycled water scheme, changeover to warm season grasses, and a Heat Wave Action Plan for Aged Services direct care workers, which are specific and actionable. The documents also reference external sources such as the 'National Climate Change Adaptation Research Facility' and 'Adapting to Climate Change: A Queensland Local Government Guide', suggesting that the plan is informed by a wider body of research and best practice. However, the documents do not provide specific evidence or data to justify the chosen targets and actions.", "quote": {"content": "Some actions that addressed climate change risks are already underway such as the recycled water scheme, changeover to warm season grasses in sporting grounds and completing a Heat Wave Action Plan for Aged Services direct care workers. The implications of climate change for specific Departments were assessed through internal consultation, presentations to the Taskforce and a literature review.", "page": 3, "source": "Frankston-VIC-131.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear process for monitoring and evaluating the progress of the plan, including annual reviews and public reporting on greenhouse gas emissions. The plan also includes a detailed implementation plan highlighting Council\u2019s energy and greenhouse emission reduction actions over a specific period. Furthermore, the plan outlines the ongoing collection, storage, and analysis of Council\u2019s utility data as a key component of the monitoring and evaluation process. This suggests that the plan has specific, measurable criteria in place to evaluate the success of its proposed actions.", "quote": {"content": "Progress against individual actions will be recorded, alongside an analysis of Council\u2019s energy usage, costs and greenhouse gas emissions.", "page": 35, "source": "Frankston-VIC-130.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a three-stage community consultation process. The first stage, pre-consultation, has been completed and involved a workshop to gather community input. The second stage involved targeted community consultation activities to gain feedback on the Climate Change Impacts and Adaptation Plan. These activities included promotion on the council's website, articles in local news, and presentations to council committees and networks. The third stage is community education, which aims to develop further educational resources on the impacts of climate change and build community resilience in the long-term. The documents also mention a 'Consultation Plan' that outlines specific actions identified within each of the communication channels. This plan will continue to be updated as actions are rolled out and new information or techniques become available.", "quote": {"content": "It also includes the results to a Stage 1.) Pre-Consultation Outcomes \n \nStage 1 has been completed. The Climate Change Community Workshop Evaluation \nReport summarises the outcomes of the workshop held on May 14th 2010 at \nMahogany Neighbourhood Centre in Frankston North.", "page": 6, "source": "Frankston-VIC-131.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. While the documents do outline a number of actions and strategies related to climate change adaptation, these largely appear to be standard responses such as risk assessments, community consultations, and the integration of climate change considerations into existing planning and risk management activities. There is mention of actions such as the implementation of energy efficiency and renewable energy measures, but these are not described in enough detail to determine whether they represent innovative approaches or policy experimentation. Furthermore, the documents do not provide evidence of novel or experimental policies being tested or implemented. Therefore, based on the provided documents, it cannot be conclusively stated that there is evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The local government recognizes the importance of collaboration across all levels of government and different agencies in responding to climate change. It is suggested that the government could act to prepare for climate change through various means, including incentives for energy efficiency and encouraging efficient use of resources. The local government also seeks partnerships and external funding as well as advocates to the Federal and State Government on opportunities and matters relating to greenhouse gas emissions and low carbon alternatives. Furthermore, the local government is committed to increasing regional collaboration and advocacy with the South East Councils Climate Change Alliance (SECCCA). This indicates a clear intent to engage with higher levels of government to support climate action.", "quote": {"content": "These included incentives for energy efficiency such as rebates, encouraging efficient use of resources such as rainwater tanks in natural reserves and building retrofits. Participants suggested ways that Government on all levels could act to prepare for climate change.", "page": 28, "source": "Frankston-VIC-131.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The local government is seen as well-positioned to address local climate change impacts and build community capacity to respond and adapt to climate change. The council is described as having a key role in facilitating local climate change initiatives, customising responses to suit local circumstances, and engaging communities in discussions about potential local impacts of climate change. The council also plans to continue educating and engaging its staff, tenants, and the broader community in energy efficiency, renewable energy technologies, and sustainable living initiatives to build local capacity. The council also plans to maintain and establish collaborative partnerships with stakeholders such as the Victorian Government and other local councils to implement collective solutions to climate change, share expertise and resources, and realise opportunities.", "quote": {"content": "Maintaining and establishing collaborative partnerships with stakeholders such as the Victorian Government and other local councils will also continue to play a key role in implementing collective solutions to climate change, sharing expertise and resources, as well as realising opportunities. Council will continue to educate and engage its staff, tenants and the broader community in energy efficiency, renewable energy technologies and sustainable living initiatives to build local capacity.", "page": 33, "source": "Frankston-VIC-130.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The South East Councils Climate Change Alliance (SECCCA) is specifically mentioned as an example of a cooperative local government alliance formed to focus on greenhouse and adaptation action. The documents also mention the International Council for Local Environmental Initiatives 'Cities for Climate Protection' program, the Municipal Association of Victoria, and the Victorian Local Government Association as entities working collaboratively with collections of councils on aspects of climate change. Furthermore, the documents highlight the importance of collaboration across different levels of government and between different agencies for a successful response to climate change. This indicates a recognition of the importance of partnerships and alliances in addressing climate change at the local government level.", "quote": {"content": "SECCCA is an example of such an alliance. To facilitate action on a regional level, cooperative local government alliances have formed to focus on greenhouse and adaptation action.", "page": 13, "source": "Frankston-VIC-131.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It highlights the potential impacts of climate change on various aspects of community wellbeing, including physical health, mental health, and access to food and water. It also discusses the potential impacts on social cohesion, cultural identity, and community participation. The document further identifies certain groups within the community that may be particularly vulnerable to the impacts of climate change, such as those with lower disposable income levels, those with health issues, and those without informal support networks. The document also mentions the potential exacerbation of existing social and health inequalities due to climate change. Therefore, it is clear that the document acknowledges the differential impacts of climate change on vulnerable communities and the need for equity and social justice in addressing these impacts.", "quote": {"content": "The following table Identifying vulnerability to climate change considers how susceptible people and \ncommunities are to the adverse impacts of climate change.", "page": 26, "source": "Frankston-VIC-131.pdf", "search_score": 1.0}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While they do mention the impacts of climate change on community wellbeing, social cohesion, and equity concerns, they do not provide specific strategies or plans on how to distribute the benefits and opportunities of a safe climate equitably. The documents focus more on the potential negative impacts of climate change, such as increased health and social service demand, exacerbated social and health inequalities, and increased disadvantage to those living in areas most exposed to climate impacts. They also mention the need for adaptation and the role of government in supporting communities to deal with climate change. However, they do not provide clear evidence or specific details on how to ensure that the benefits and opportunities of a safe climate are shared equitably."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 15, "num_questions": 20, "attribute_score": 77.5}}
+{
+  "settings": {
+    "source_files": [
+      "Frankston-VIC-130.pdf",
+      "Frankston-VIC-131.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T17:37:39.193161",
+    "lga": "Frankston"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review clearly identifies climate action as a core purpose. The policy outlines a comprehensive plan to address climate change impacts and adaptation, with a focus on reducing greenhouse gas emissions and transitioning to low carbon fuel sources. The policy also includes specific actions to address climate change risks, such as implementing water efficiency initiatives, seeking partnerships for low carbon alternatives, and integrating climate change considerations into Council's planning and operational decisions. The policy also emphasizes the importance of community engagement and education in climate change adaptation. Therefore, it is evident that the policy is not only reactive but also proactive in its approach to climate change, making climate action a core purpose.",
+          "quote": {
+            "content": "This Towards Zero Emissions Plan (2019\u20132023) documents Council\u2019s energy efficiency and renewable energy priorities in progressing towards its zero net emissions target, as well as actions that aim to deliver multiple benefits beyond financial savings, such as social and environmental values. Council is committed to reducing greenhouse gas emissions, saving energy and transitioning to low carbon fuel sources. Council has set a target for zero net emissions (carbon neutrality) by 2025.",
+            "page": 5,
+            "source": "Frankston-VIC-130.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on various aspects of community life and local government functions. The documents underscore the urgency of the situation by stating that many changes are already being felt across Australia, with scientific consensus warning of increasing temperatures, sea level rise, changing rainfall patterns, and more frequent and extreme weather events. The documents also emphasize that due to the lag time in the climatic system, climate change impacts will be felt even with severe reductions in greenhouse gas emissions. The documents further note that acting sooner rather than later will pose fewer challenges and be more cost-effective. They propose that adaptation to climate change should be built into normal planning and risk management activities of both Council and the community.",
+          "quote": {
+            "content": "Due to the lag time in the climatic system, even with severe reductions in greenhouse gas emissions, climate change impacts will be felt. Every aspect of community life and local government function that is impacted by weather could potentially be affected by climate change. Many changes are already being felt across Australia with scientific consensus warning of increasing temperatures, sea level rise, changing rainfall patterns and more frequent and extreme weather events.",
+            "page": 11,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do acknowledge the existence of climate change, its potential impacts, and the need for adaptation strategies. The documents detail various actions that are already underway, such as the recycled water scheme and the creation of a Heat Wave Action Plan. They also mention the need for more extensive adaptation to reduce vulnerability to future climate change. However, these statements do not convey a sense of urgency or immediacy. The documents do not use language that would suggest that these actions need to be taken rapidly or that the situation is urgent. Instead, the focus seems to be on careful planning, consultation, and gradual implementation of climate change adaptation strategies."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for intended actions on climate change. For instance, the document mentions that some actions are already underway, such as the recycled water scheme, changeover to warm season grasses in sporting grounds, and completing a Heat Wave Action Plan for Aged Services direct care workers. It also outlines a detailed Implementation Plan for Council\u2019s energy and greenhouse emission reduction actions over the 2019\u20132023 period. Furthermore, it mentions specific actions to be taken by 2015, such as General Managers being responsible for the divisional delivery of the Adaptation Actions and for inclusion into their Manager\u2019s Performance Plans, and the integration of climate change risks into Council's Corporate Risk Register. These instances indicate that the document does provide specific timeframes for its intended actions on climate change.",
+          "quote": {
+            "content": "A detailed Implementation Plan is outlined in Section 5 highlighting Council\u2019s energy and greenhouse emission reduction actions over the 2019\u20132023 period.",
+            "page": 15,
+            "source": "Frankston-VIC-130.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of addressing climate change and outline various actions and strategies to mitigate its impacts, they do not explicitly prioritize these actions over other policies. The documents discuss the establishment of a Climate Change Taskforce, the development of a Climate Change Impacts and Adaptation Plan, and various actions to address climate change risks. However, these are presented as part of the local government's overall policy framework, rather than as a higher priority than other policies. The documents also emphasize the need for collaboration across different levels of government and agencies, suggesting a holistic approach to policy development rather than a hierarchical prioritization of policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a number of actions and strategies related to climate change adaptation and mitigation. These include the establishment of a Climate Change Taskforce, the integration of climate change risks into the Council's Corporate Risk Register, and the assessment of Council's current strategies and plans with consideration of climate change impacts. The documents also mention the need for effective communication and consultation across the Council regarding developments in climate science and local impacts. However, these actions and strategies do not necessarily imply that all council activities must be aligned with climate policy. The documents do not provide clear evidence to support a positive answer to the question."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. The documents provide evidence of budget estimations for various climate change adaptation actions. For instance, the plan outlines specific actions such as implementing a management plan for non-irrigated sports grounds and recommendations from irrigation audits, with budget estimations provided for each action. The plan also mentions the need for additional investment by the council within the duration of the plan for energy efficiency and renewable energy actions. However, it is important to note that some actions may require further analysis and consideration through the council's annual budgeting process, and some actions may attract external funding, particularly where community benefits or partnerships can be established."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for different divisions and departments within the local government. For instance, it states that General Managers will be responsible for the divisional delivery of the Adaptation Actions and for inclusion into their Manager\u2019s Performance Plans. It also mentions the role of the Climate Change Taskforce and the Corporate Governance department in assessing and reporting on climate change adaptation actions. Furthermore, the plan emphasizes the need for effective communication and consultation across the Council to keep abreast with developments in climate science and local impacts. This suggests a commitment to institutional resource mobilization, including staff time and expertise, for climate action.",
+          "quote": {
+            "content": "7.5 Maintain effective communication and consultation across Council to ensure Council is kept abreast with developments in climate science and local impacts.",
+            "page": 42,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of a policy that aims to empower and educate the community to work together to address climate change. The policy outlines a community-based approach to climate change adaptation, emphasizing the role of individuals and community networks in preparing for and responding to climate impacts. It also highlights the importance of community education and awareness, with plans for further educational resources on climate change impacts and building community resilience. The policy also mentions the role of the government in supporting communities in building strengths, skills, and strategies to deal with climate change. This includes incentives for energy efficiency, encouraging efficient use of resources, and guidance on land use planning. The policy also outlines plans for community engagement and consultation, including workshops, surveys, and presentations to gather community input and feedback. Therefore, the policy does seem to actively empower and educate the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Participants outlined some ideas on how they as individuals could effectively prepare and respond to climate change.",
+            "page": 28,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to reducing greenhouse gas emissions and transitioning to low carbon fuel sources, with a target for zero net emissions by 2025. The plan also includes actions to improve energy efficiency and increase the use of renewable energy. Technological solutions are mentioned, such as the bulk changeover of street lights to more energy efficient lamps, energy efficiency auditing and improvements to Council\u2019s facilities, and increasing the use of renewable energy through solar power installations. The plan also includes a focus on behaviour change, with actions to support the local community in transitioning to a low emissions future, and to educate businesses at risk of climate change impacts on how they can prepare and respond.",
+          "quote": {
+            "content": "Significant activities undertaken by Council to reduce emissions included a bulk changeover of street lights to more energy efficient lamps, energy efficiency auditing and improvements to Council\u2019s facilities, as well as increasing the use of renewable energy through solar power installations.",
+            "page": 3,
+            "source": "Frankston-VIC-130.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Climate Change Impacts and Adaptation Plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to addressing climate change impacts, including the identification of risks, the development of adaptation actions, and the ongoing monitoring and reassessment of these actions. The plan also includes a commitment to regularly reassess risks and adaptation actions over time. The plan is structured around seven key themes, including safeguarding community health and safety, managing assets, planning for the future, protecting the natural environment, and ensuring corporate continuity. Each theme is linked to specific risks and includes prioritized actions, responsible divisions, and budget estimations. The plan also emphasizes the importance of community education and engagement in building resilience to climate change.",
+          "quote": {
+            "content": "Risks that had inadequate or no controls in place were then evaluated and appropriate actions included in the Adaptation Plan. This section includes the action plan to identify appropriate adaptation actions to respond to the remaining risks identified. Actions in this Adaptation Plan have been determined through rescaling the climate change risk assessment (Appendix 4) by investigating what controls are in place to mitigate the risk and determining their adequacy22.",
+            "page": 32,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide a detailed plan for addressing climate change, including specific actions, responsible departments, and timelines. The plan is based on a risk assessment, which suggests a well-considered approach. The documents also mention the use of internal consultation, presentations to a taskforce, and a literature review to assess the implications of climate change, indicating a reliance on expert input and research. The plan includes actions such as a recycled water scheme, changeover to warm season grasses, and a Heat Wave Action Plan for Aged Services direct care workers, which are specific and actionable. The documents also reference external sources such as the 'National Climate Change Adaptation Research Facility' and 'Adapting to Climate Change: A Queensland Local Government Guide', suggesting that the plan is informed by a wider body of research and best practice. However, the documents do not provide specific evidence or data to justify the chosen targets and actions.",
+          "quote": {
+            "content": "Some actions that addressed climate change risks are already underway such as the recycled water scheme, changeover to warm season grasses in sporting grounds and completing a Heat Wave Action Plan for Aged Services direct care workers. The implications of climate change for specific Departments were assessed through internal consultation, presentations to the Taskforce and a literature review.",
+            "page": 3,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The documents outline a clear process for monitoring and evaluating the progress of the plan, including annual reviews and public reporting on greenhouse gas emissions. The plan also includes a detailed implementation plan highlighting Council\u2019s energy and greenhouse emission reduction actions over a specific period. Furthermore, the plan outlines the ongoing collection, storage, and analysis of Council\u2019s utility data as a key component of the monitoring and evaluation process. This suggests that the plan has specific, measurable criteria in place to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "Progress against individual actions will be recorded, alongside an analysis of Council\u2019s energy usage, costs and greenhouse gas emissions.",
+            "page": 35,
+            "source": "Frankston-VIC-130.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a three-stage community consultation process. The first stage, pre-consultation, has been completed and involved a workshop to gather community input. The second stage involved targeted community consultation activities to gain feedback on the Climate Change Impacts and Adaptation Plan. These activities included promotion on the council's website, articles in local news, and presentations to council committees and networks. The third stage is community education, which aims to develop further educational resources on the impacts of climate change and build community resilience in the long-term. The documents also mention a 'Consultation Plan' that outlines specific actions identified within each of the communication channels. This plan will continue to be updated as actions are rolled out and new information or techniques become available.",
+          "quote": {
+            "content": "It also includes the results to a Stage 1.) Pre-Consultation Outcomes \n \nStage 1 has been completed. The Climate Change Community Workshop Evaluation \nReport summarises the outcomes of the workshop held on May 14th 2010 at \nMahogany Neighbourhood Centre in Frankston North.",
+            "page": 6,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While there are mentions of various actions and initiatives related to climate change, such as the 'Future Stories' project, the 'Local Area Action Planning Pilot', and the 'Towards Zero Emissions Plan 2019\u20132023', these are not explicitly described as experiments, pilots, test beds, demonstration projects, or urban laboratories. They are not clearly identified as initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. Therefore, based on the provided documents, it cannot be conclusively stated that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent to advocate upward to state and national governments to support climate action. The local government recognizes the importance of collaboration across all levels of government and different agencies in responding to climate change. It is suggested that the government could act to prepare for climate change through various means, including incentives for energy efficiency and encouraging efficient use of resources. The local government also seeks partnerships and external funding as well as advocates to the Federal and State Government on opportunities and matters relating to greenhouse gas emissions and low carbon alternatives. Furthermore, the local government is committed to increasing regional collaboration and advocacy with the South East Councils Climate Change Alliance (SECCCA). This indicates a clear intent to engage with higher levels of government to support climate action.",
+          "quote": {
+            "content": "These included incentives for energy efficiency such as rebates, encouraging efficient use of resources such as rainwater tanks in natural reserves and building retrofits. Participants suggested ways that Government on all levels could act to prepare for climate change.",
+            "page": 28,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The local government is seen as well-positioned to address local climate change impacts and build community capacity to respond and adapt to climate change. The council is described as having a key role in facilitating local climate change initiatives, customising responses to suit local circumstances, and engaging communities in discussions about potential local impacts of climate change. The council also plans to continue educating and engaging its staff, tenants, and the broader community in energy efficiency, renewable energy technologies, and sustainable living initiatives to build local capacity. The council also plans to maintain and establish collaborative partnerships with stakeholders such as the Victorian Government and other local councils to implement collective solutions to climate change, share expertise and resources, and realise opportunities.",
+          "quote": {
+            "content": "Maintaining and establishing collaborative partnerships with stakeholders such as the Victorian Government and other local councils will also continue to play a key role in implementing collective solutions to climate change, sharing expertise and resources, as well as realising opportunities. Council will continue to educate and engage its staff, tenants and the broader community in energy efficiency, renewable energy technologies and sustainable living initiatives to build local capacity.",
+            "page": 33,
+            "source": "Frankston-VIC-130.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents indeed refer to specific regional associations, alliances, and other partnerships related to climate change. The South East Councils Climate Change Alliance (SECCCA) is specifically mentioned as an example of a cooperative local government alliance formed to focus on greenhouse and adaptation action. The documents also mention the International Council for Local Environmental Initiatives 'Cities for Climate Protection' program, the Municipal Association of Victoria, and the Victorian Local Government Association as entities working collaboratively with collections of councils on aspects of climate change. Furthermore, the documents highlight the importance of collaboration across different levels of government and between different agencies for a successful response to climate change. This indicates a recognition of the importance of partnerships and alliances in addressing climate change at the local government level.",
+          "quote": {
+            "content": "SECCCA is an example of such an alliance. To facilitate action on a regional level, cooperative local government alliances have formed to focus on greenhouse and adaptation action.",
+            "page": 13,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It highlights the potential impacts of climate change on various aspects of community wellbeing, including physical health, mental health, and access to food and water. It also discusses the potential impacts on social cohesion, cultural identity, and community participation. The document further identifies certain groups within the community that may be particularly vulnerable to the impacts of climate change, such as those with lower disposable income levels, those with health issues, and those without informal support networks. The document also mentions the potential exacerbation of existing social and health inequalities due to climate change. Therefore, it is clear that the document acknowledges the differential impacts of climate change on vulnerable communities and the need for equity and social justice in addressing these impacts.",
+          "quote": {
+            "content": "The following table Identifying vulnerability to climate change considers how susceptible people and \ncommunities are to the adverse impacts of climate change.",
+            "page": 26,
+            "source": "Frankston-VIC-131.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While they do mention the impacts of climate change on community wellbeing, social cohesion, and equity concerns, they do not provide specific strategies or plans on how to distribute the benefits and opportunities of a safe climate equitably. The documents focus more on the potential negative impacts of climate change, such as increased health and social service demand, exacerbated social and health inequalities, and increased disadvantage to those living in areas most exposed to climate impacts. They also mention the need for adaptation and the role of government in supporting communities to deal with climate change. However, they do not provide clear evidence or specific details on how to ensure that the benefits and opportunities of a safe climate are shared equitably."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 77.5
+  }
+}

@@ -1,1 +1,317 @@
-{"settings": {"source_files": ["NorthSydney-NSW-39.pdf", "NorthSydney-NSW-40.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T23:10:29.128484", "lga": "NorthSydney"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the North Sydney Council Environmental Sustainability Strategy 2030, clearly identifies climate action as a core purpose. The policy outlines a comprehensive approach to environmental sustainability, with a significant focus on reducing greenhouse gas emissions and transitioning to renewable energy sources. The policy's action plan includes specific measures related to carbon footprint reduction, energy conservation, and renewable energy adoption. The policy also aligns with the Sustainable Development Goals of the United Nations 2030 Agenda for Sustainable Development, further emphasizing its commitment to climate action. Moreover, the policy explicitly states that it responds to the climate crisis and provides a roadmap to accelerate towards a carbon neutral future. Therefore, it is evident that climate action is a core purpose of this policy.", "quote": {"content": "Council\u2019s 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon neutral future. On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government.", "page": 6, "source": "NorthSydney-NSW-39.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The North Sydney Council has been actively reducing greenhouse gas emissions for years to lessen its energy consumption and impact on climate change. The Council set its first greenhouse gas reduction targets in 2002 and established its first Greenhouse Action Plan to provide strategic guidance for prioritizing and implementing greenhouse gas reduction activities. The Council's 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon-neutral future. The Council's actions include conducting energy audits at Council facilities, adopting and implementing Sustainable Building Standards, increasing Council's renewable energy capacity, and purchasing 100% renewable electricity. The Council also plans to advocate for the protection/increase of tree canopy cover and develop an Urban Forest Incentives program. These actions are part of the Council's broader Environmental Sustainability Strategy 2030, which aligns with local, state, federal, and international strategies and trends.", "quote": {"content": "Council\u2019s 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon neutral future. On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government. It did so noting the latest report of the Intergovernmental Panel on Climate Change (IPCC) \u2018Global Warming of 1.5 degrees Celsius\u2019 and the Federal Government\u2019s latest emissions data showed that we are increasing, not reducing, our carbon emissions.", "page": 6, "source": "NorthSydney-NSW-39.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents from the North Sydney Council indeed call for urgent action on climate change. The council declared a climate emergency on 22 July 2019, which inherently implies a need for immediate action. The council's 2030 targets and actions are described as a response to this climate crisis, indicating a sense of urgency. The council's plans include achieving 100% carbon neutrality for council operations and a 25% reduction in greenhouse gas emissions of 1996 community emission levels, both before 2030. The council also plans to meet 100% of its electricity needs from renewable energy sources before 2030. These targets, coupled with the declaration of a climate emergency, demonstrate a clear call for rapid and urgent action on climate change.", "quote": {"content": "On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government.", "page": 6, "source": "NorthSydney-NSW-39.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The North Sydney Council has outlined a detailed action plan with clear timeframes for various initiatives aimed at reducing carbon footprint and promoting environmental sustainability. For instance, the council plans to review and update energy provisions planning controls by 2022/23 and investigate opportunities for energy conservation and renewable energy rebates by 2021/22. The council also has a target to meet 100% of its electricity needs from renewable energy sources and achieve 100% carbon neutrality for council operations before 2030. These specific timeframes indicate a sense of urgency and commitment towards addressing climate change.", "quote": {"content": "Council has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030.", "page": 13, "source": "NorthSydney-NSW-40.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the North Sydney Council has declared a climate emergency and has set targets and actions to respond to this crisis, there is no explicit statement prioritizing these actions over other policies. The council's Environmental Sustainability Strategy 2030 outlines a comprehensive approach to environmental sustainability, including actions related to carbon footprint, urban ecology, and engagement in sustainability. However, these actions are presented as part of an integrated approach to sustainability, rather than as a higher priority than other policies. The documents also mention other plans and strategies, such as the Community Strategic Plan, Local Strategic Planning Statement, Development Control Plan, and others, indicating that the climate response is part of a broader policy framework."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to environmental sustainability and the reduction of greenhouse gas emissions, they do not mandate that all council activities must be in alignment with these goals. The documents outline various strategies and action plans aimed at reducing the council's environmental footprint, including the Greenhouse Action and Water Management Plans, the Community Strategic Plan, and the Environmental Sustainability Strategy 2030. These plans include specific targets and actions related to climate change, such as achieving carbon neutrality for council operations before 2030 and reducing greenhouse gas emissions. However, these are specific initiatives rather than a requirement for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines the use of an environmental levy to fund sustainability initiatives, including those related to climate change. The allocation of this levy is specifically outlined for the Greenhouse Action and Water Management Plans for the period 2010/11 \u2013 2014/15. Furthermore, the policy also mentions the use of these funds to implement various initiatives such as the installation of solar PV and energy efficient upgrades at Council buildings and facilities, stormwater re-use systems, and the purchase of 50% offset (GreenPowerTM) for street lighting and the top six energy using Council sites. These initiatives are all aimed at reducing greenhouse gas emissions and water consumption, which are key aspects of climate action. Therefore, the policy does provide clear evidence of funding allocation for climate action.", "quote": {"content": "Table 4 outlines the allocation of the levy for the Greenhouse Action and Water Management Plans for the period 2010/11 \u2013 2014/15.", "page": 17, "source": "NorthSydney-NSW-40.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines the development and implementation of a targeted Sustainability Engagement Strategy, which includes staffing to help reduce residential and business energy and water consumption. This strategy is built on Council\u2019s existing behavioural change projects for households and businesses such as Coal Loader education programs, Green Events, and GreeNSchools. The policy also mentions the continuation of forums and education programs to increase awareness and uptake of sustainability initiatives within the community. These initiatives require the allocation of staff and other institutional resources. Furthermore, the policy details a series of workshops involving North Sydney Council and its Environment Reference Group to review progress against targets and inform the development of the 2015-2020 plans. This indicates a commitment of staff time and expertise to climate action.", "quote": {"content": "This should build on Council\u2019s existing, and  explore new, behavioural change projects for households and businesses such as Coal Loader education programs, Green Events, GreeNSchools", "page": 90, "source": "NorthSydney-NSW-40.pdf", "search_score": 0.96}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence of a concerted effort by the local government to educate and mobilize the community towards climate action. Various initiatives and programs are mentioned that aim to increase awareness and uptake of sustainability initiatives within the community. These include the CitySwitch Green Office program, the Environmental Upgrade Agreement, the Climate Clever Shop, the Coal Loader education programs, and the GreeNSchools grants. The documents also mention the development and implementation of a targeted Sustainability Engagement Strategy to help reduce residential energy and water consumption. This strategy includes education programs, green events, and other behavioral change projects for households and businesses. Furthermore, the local government is also facilitating forums and education programs to increase awareness and uptake of sustainability initiatives within the community. Therefore, it can be concluded that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action.", "quote": {"content": "Developing and implementing a targeted Sustainability Engagement Strategy to continue to work with the Community to help reduce its greenhouse gas emissions, including Coal Loader education programs, Green Events, GreeNSchools, CitySwitch, Better Business Partnership, and the My Green Apartments program.", "page": 64, "source": "NorthSydney-NSW-40.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change initiatives. Technological solutions include the implementation of energy audits at Council facilities, the adoption of Sustainable Building Standards for Council-owned facilities to reduce their energy-related carbon footprint, and increasing Council's renewable energy capacity. The plan also proposes purchasing 100% renewable electricity. Behaviour change initiatives are also evident, such as the development and implementation of a targeted Sustainability Engagement Strategy. This strategy includes education programs, Green Events, and other projects aimed at reducing residential and business energy consumption. The plan also suggests active management of high-end gas users, including increasing operator awareness to adjust set points for seasons and promoting user awareness to adapt to set point changes. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific actions for climate adaptation and resilience in the local government's plan. While the documents do mention various initiatives related to greenhouse gas reduction, water management, and environmental sustainability, they do not explicitly address climate adaptation and resilience. The documents discuss the development and implementation of Greenhouse Action and Water Management Plans, with targets for reducing greenhouse gas emissions and water consumption. They also mention the implementation of sustainability practices and the development of an Urban Forest Education Program. However, these actions are more related to mitigation efforts and sustainable practices rather than specific adaptation and resilience strategies in response to a changing climate. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The North Sydney Council has engaged Energetics, a consultancy, to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030. The process involved a comprehensive review of local, state, federal and international strategies and applied them to the North Sydney context. The Council also conducted energy audits at its facilities and developed a Sustainable Building Standards for Council owned facilities to reduce their energy related carbon footprint. The Council's progress against targets was also outlined, with specific targets set for greenhouse gas emissions and water consumption. The Council's actions are consistent with the action pathways outlined in the Future Environmental Sustainability Directions Paper or are already committed to in other Council plans and strategies.", "quote": {"content": "An overview of the approach taken is outlined in Figure 5 below. Energetics worked with North Sydney Council and its Environment Reference Group to review the progress against targets and inform the development of the 2015-2020 plans.", "page": 14, "source": "NorthSydney-NSW-40.pdf", "search_score": 0.96}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of actions, each with a related target, performance measures, a timeframe, and the responsible council department(s). These performance measures provide a clear metric for evaluating the success of each action. For instance, the plan includes actions such as 'Implement the North Sydney Transport Strategy (NSTS)' with performance measures like 'Release identified NSTS modal strategies' and 'Prioritise strategic projects identified in these strategies into Council\u2019s advocacy and forward works programs.' This approach allows for a clear evaluation of whether the action has been successfully implemented based on the outlined criteria. The inclusion of timeframes and responsible departments further enhances the plan's accountability and ability to track progress.", "quote": {"content": "Prioritise strategic projects \nidentified in these strategies into \nCouncil\u2019s advocacy and forward \nworks programs.", "page": 33, "source": "NorthSydney-NSW-39.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030. The approach includes consultation workshops with the Environment Reference Group and Senior North Sydney Council staff, as well as an online community survey to provide input for plans\u2019 development. The documents also mention a feasibility study to facilitate the purchase of electricity from renewable sources for the aggregated customers of North Sydney Community. Furthermore, the local government plans to undertake a comprehensive review of local, state, federal and international strategies and apply them to the North Sydney context. This approach ensures that the local government's climate actions are informed by a thorough understanding of the local community's needs and the broader context of climate change strategies.", "quote": {"content": "Council has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030.", "page": 13, "source": "NorthSydney-NSW-40.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. While the local government has taken steps to address climate change, such as developing Greenhouse Action and Water Management Plans, conducting energy audits, and implementing sustainability engagement strategies, these actions are standard practices rather than innovative or experimental approaches. The documents mention the use of workshops, surveys, and consultations in the development of these plans, as well as the establishment of targets for greenhouse gas reduction and water savings. However, these are common methods used in policy development and do not represent a novel or experimental approach to climate action. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in innovative or experimental policy practices in relation to climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents do show an explicit intent by the North Sydney Council to advocate upward to state and national governments to support climate action. This is evident in the council's action plan, where it outlines its intention to advocate that the NSW and Federal governments respond to the climate emergency through a range of measures. These measures include higher BASIX targets and reintroducing a price on carbon, to incentivise higher resource use standards and support the transition to high performing energy buildings. This shows that the council is not only taking steps within its own jurisdiction to address climate change, but is also actively pushing for broader policy changes at the state and national level. This advocacy is a critical part of the council's overall strategy to address climate change, as it recognises that local action alone is not sufficient to tackle this global issue."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the North Sydney Council is committed to building local capacity for climate action across its operations, local communities, and potentially neighbouring councils. The council's Environmental Sustainability Strategy 2030 outlines a series of actions that involve training and supporting council staff in implementing sustainability practices, supporting and expanding community volunteer programs, and demonstrating environmental sustainability practices at community events. This indicates a commitment to building capacity within the council and local community. The council's strategy also includes a commitment to 'advocate for the protection/increase of tree canopy cover across all local and state government projects', which suggests a willingness to engage in partnerships and advocacy with other local councils and state government. However, the documents do not provide specific details on how the council plans to build capacity with neighbouring local councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations and partnerships related to climate. The North Sydney Council has been involved in various initiatives and programs to address climate change and environmental sustainability. One of these is the collaboration with the Sydney Coastal Councils Group and NSW Government to develop appropriate coastal management practices on a catchment wide scale through a Coastal Management Program (CMP). This is a clear example of a regional alliance or partnership related to climate change. The Council is also involved in the International Council for Local Environmental Initiatives (ICLEI) Cities for Climate Protection (CCP) program, which is an international alliance focused on reducing greenhouse gas emissions. Furthermore, the Council has been working with its Environment Reference Group to review progress against targets and inform the development of future plans. This indicates a partnership within the local community to address climate change."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the North Sydney Council's Environmental Sustainability Strategy 2030 does mention 'equity' and 'justice' as important principles, it does not elaborate on these terms in relation to climate change or its impact on vulnerable communities. The documents focus primarily on the council's plans and strategies for environmental sustainability, including greenhouse gas reduction, water conservation, and resource recovery. They outline specific targets, actions, and initiatives, such as the development of a Sustainability Engagement Strategy and the implementation of various environmental programs. However, they do not delve into the social implications of climate change or address the issue of vulnerability."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the North Sydney Council Environmental Sustainability Strategy 2030 does mention equity as one of the council's core values, it does not provide specific details on how this principle is applied in the context of climate change. The documents focus primarily on environmental sustainability, setting targets for reducing greenhouse gas emissions, conserving water, and protecting native plants and animals. They also outline various initiatives and programs aimed at achieving these goals. However, they do not delve into the distribution of benefits and opportunities arising from these efforts. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit discussion on how to equitably share the benefits and opportunities of a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 67.5}}
+{
+  "settings": {
+    "source_files": [
+      "NorthSydney-NSW-39.pdf",
+      "NorthSydney-NSW-40.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T23:10:29.128484",
+    "lga": "NorthSydney"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the North Sydney Council Environmental Sustainability Strategy 2030, clearly identifies climate action as a core purpose. The policy outlines a comprehensive approach to environmental sustainability, with a significant focus on reducing greenhouse gas emissions and transitioning to renewable energy sources. The policy's action plan includes specific measures related to carbon footprint reduction, energy conservation, and renewable energy adoption. The policy also aligns with the Sustainable Development Goals of the United Nations 2030 Agenda for Sustainable Development, further emphasizing its commitment to climate action. Moreover, the policy explicitly states that it responds to the climate crisis and provides a roadmap to accelerate towards a carbon neutral future. Therefore, it is evident that climate action is a core purpose of this policy.",
+          "quote": {
+            "content": "Council\u2019s 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon neutral future. On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government.",
+            "page": 6,
+            "source": "NorthSydney-NSW-39.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The North Sydney Council has been actively reducing greenhouse gas emissions for years to lessen its energy consumption and impact on climate change. The Council set its first greenhouse gas reduction targets in 2002 and established its first Greenhouse Action Plan to provide strategic guidance for prioritizing and implementing greenhouse gas reduction activities. The Council's 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon-neutral future. The Council's actions include conducting energy audits at Council facilities, adopting and implementing Sustainable Building Standards, increasing Council's renewable energy capacity, and purchasing 100% renewable electricity. The Council also plans to advocate for the protection/increase of tree canopy cover and develop an Urban Forest Incentives program. These actions are part of the Council's broader Environmental Sustainability Strategy 2030, which aligns with local, state, federal, and international strategies and trends.",
+          "quote": {
+            "content": "Council\u2019s 2030 targets and actions respond to the climate crisis and provide a roadmap to accelerate towards a carbon neutral future. On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government. It did so noting the latest report of the Intergovernmental Panel on Climate Change (IPCC) \u2018Global Warming of 1.5 degrees Celsius\u2019 and the Federal Government\u2019s latest emissions data showed that we are increasing, not reducing, our carbon emissions.",
+            "page": 6,
+            "source": "NorthSydney-NSW-39.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents from the North Sydney Council indeed call for urgent action on climate change. The council declared a climate emergency on 22 July 2019, which inherently implies a need for immediate action. The council's 2030 targets and actions are described as a response to this climate crisis, indicating a sense of urgency. The council's plans include achieving 100% carbon neutrality for council operations and a 25% reduction in greenhouse gas emissions of 1996 community emission levels, both before 2030. The council also plans to meet 100% of its electricity needs from renewable energy sources before 2030. These targets, coupled with the declaration of a climate emergency, demonstrate a clear call for rapid and urgent action on climate change.",
+          "quote": {
+            "content": "On 22 July 2019, through a unanimous vote, Council became the 30th Australian Council to declare a climate emergency requiring immediate action by all levels of government.",
+            "page": 6,
+            "source": "NorthSydney-NSW-39.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The North Sydney Council has outlined a detailed action plan with clear timeframes for various initiatives aimed at reducing carbon footprint and promoting environmental sustainability. For instance, the council plans to review and update energy provisions planning controls by 2022/23 and investigate opportunities for energy conservation and renewable energy rebates by 2021/22. The council also has a target to meet 100% of its electricity needs from renewable energy sources and achieve 100% carbon neutrality for council operations before 2030. These specific timeframes indicate a sense of urgency and commitment towards addressing climate change.",
+          "quote": {
+            "content": "Council has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030.",
+            "page": 13,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the North Sydney Council has declared a climate emergency and has set targets and actions to respond to this crisis, there is no explicit statement prioritizing these actions over other policies. The council's Environmental Sustainability Strategy 2030 outlines a comprehensive approach to environmental sustainability, including actions related to carbon footprint, urban ecology, and engagement in sustainability. However, these actions are presented as part of an integrated approach to sustainability, rather than as a higher priority than other policies. The documents also mention other plans and strategies, such as the Community Strategic Plan, Local Strategic Planning Statement, Development Control Plan, and others, indicating that the climate response is part of a broader policy framework."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to environmental sustainability and the reduction of greenhouse gas emissions, they do not mandate that all council activities must be in alignment with these goals. The documents outline various strategies and action plans aimed at reducing the council's environmental footprint, including the Greenhouse Action and Water Management Plans, the Community Strategic Plan, and the Environmental Sustainability Strategy 2030. These plans include specific targets and actions related to climate change, such as achieving carbon neutrality for council operations before 2030 and reducing greenhouse gas emissions. However, these are specific initiatives rather than a requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines the use of an environmental levy to fund sustainability initiatives, including those related to climate change. The allocation of this levy is specifically outlined for the Greenhouse Action and Water Management Plans for the period 2010/11 \u2013 2014/15. Furthermore, the policy also mentions the use of these funds to implement various initiatives such as the installation of solar PV and energy efficient upgrades at Council buildings and facilities, stormwater re-use systems, and the purchase of 50% offset (GreenPowerTM) for street lighting and the top six energy using Council sites. These initiatives are all aimed at reducing greenhouse gas emissions and water consumption, which are key aspects of climate action. Therefore, the policy does provide clear evidence of funding allocation for climate action.",
+          "quote": {
+            "content": "Table 4 outlines the allocation of the levy for the Greenhouse Action and Water Management Plans for the period 2010/11 \u2013 2014/15.",
+            "page": 17,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines the development and implementation of a targeted Sustainability Engagement Strategy, which includes staffing to help reduce residential and business energy and water consumption. This strategy is built on Council\u2019s existing behavioural change projects for households and businesses such as Coal Loader education programs, Green Events, and GreeNSchools. The policy also mentions the continuation of forums and education programs to increase awareness and uptake of sustainability initiatives within the community. These initiatives require the allocation of staff and other institutional resources. Furthermore, the policy details a series of workshops involving North Sydney Council and its Environment Reference Group to review progress against targets and inform the development of the 2015-2020 plans. This indicates a commitment of staff time and expertise to climate action.",
+          "quote": {
+            "content": "This should build on Council\u2019s existing, and  explore new, behavioural change projects for households and businesses such as Coal Loader education programs, Green Events, GreeNSchools",
+            "page": 90,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of a concerted effort by the local government to educate and mobilize the community towards climate action. Various initiatives and programs are mentioned that aim to increase awareness and uptake of sustainability initiatives within the community. These include the CitySwitch Green Office program, the Environmental Upgrade Agreement, the Climate Clever Shop, the Coal Loader education programs, and the GreeNSchools grants. The documents also mention the development and implementation of a targeted Sustainability Engagement Strategy to help reduce residential energy and water consumption. This strategy includes education programs, green events, and other behavioral change projects for households and businesses. Furthermore, the local government is also facilitating forums and education programs to increase awareness and uptake of sustainability initiatives within the community. Therefore, it can be concluded that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action.",
+          "quote": {
+            "content": "Developing and implementing a targeted Sustainability Engagement Strategy to continue to work with the Community to help reduce its greenhouse gas emissions, including Coal Loader education programs, Green Events, GreeNSchools, CitySwitch, Better Business Partnership, and the My Green Apartments program.",
+            "page": 64,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change initiatives. Technological solutions include the implementation of energy audits at Council facilities, the adoption of Sustainable Building Standards for Council-owned facilities to reduce their energy-related carbon footprint, and increasing Council's renewable energy capacity. The plan also proposes purchasing 100% renewable electricity. Behaviour change initiatives are also evident, such as the development and implementation of a targeted Sustainability Engagement Strategy. This strategy includes education programs, Green Events, and other projects aimed at reducing residential and business energy consumption. The plan also suggests active management of high-end gas users, including increasing operator awareness to adjust set points for seasons and promoting user awareness to adapt to set point changes. Therefore, the plan does include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific actions for climate adaptation and resilience in the local government's plan. While the documents do mention various initiatives related to greenhouse gas reduction, water management, and environmental sustainability, they do not explicitly address climate adaptation and resilience. The documents discuss the development and implementation of Greenhouse Action and Water Management Plans, with targets for reducing greenhouse gas emissions and water consumption. They also mention the implementation of sustainability practices and the development of an Urban Forest Education Program. However, these actions are more related to mitigation efforts and sustainable practices rather than specific adaptation and resilience strategies in response to a changing climate. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The documents provide well-sourced evidence to justify its climate targets and actions. The North Sydney Council has engaged Energetics, a consultancy, to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030. The process involved a comprehensive review of local, state, federal and international strategies and applied them to the North Sydney context. The Council also conducted energy audits at its facilities and developed a Sustainable Building Standards for Council owned facilities to reduce their energy related carbon footprint. The Council's progress against targets was also outlined, with specific targets set for greenhouse gas emissions and water consumption. The Council's actions are consistent with the action pathways outlined in the Future Environmental Sustainability Directions Paper or are already committed to in other Council plans and strategies.",
+          "quote": {
+            "content": "An overview of the approach taken is outlined in Figure 5 below. Energetics worked with North Sydney Council and its Environment Reference Group to review the progress against targets and inform the development of the 2015-2020 plans.",
+            "page": 14,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a series of actions, each with a related target, performance measures, a timeframe, and the responsible council department(s). These performance measures provide a clear metric for evaluating the success of each action. For instance, the plan includes actions such as 'Implement the North Sydney Transport Strategy (NSTS)' with performance measures like 'Release identified NSTS modal strategies' and 'Prioritise strategic projects identified in these strategies into Council\u2019s advocacy and forward works programs.' This approach allows for a clear evaluation of whether the action has been successfully implemented based on the outlined criteria. The inclusion of timeframes and responsible departments further enhances the plan's accountability and ability to track progress.",
+          "quote": {
+            "content": "Prioritise strategic projects \nidentified in these strategies into \nCouncil\u2019s advocacy and forward \nworks programs.",
+            "page": 33,
+            "source": "NorthSydney-NSW-39.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030. The approach includes consultation workshops with the Environment Reference Group and Senior North Sydney Council staff, as well as an online community survey to provide input for plans\u2019 development. The documents also mention a feasibility study to facilitate the purchase of electricity from renewable sources for the aggregated customers of North Sydney Community. Furthermore, the local government plans to undertake a comprehensive review of local, state, federal and international strategies and apply them to the North Sydney context. This approach ensures that the local government's climate actions are informed by a thorough understanding of the local community's needs and the broader context of climate change strategies.",
+          "quote": {
+            "content": "Council has engaged Energetics to review its progress against targets, develop new management plans for 2015 - 2020, assess how to achieve the 2020 targets and recommend new targets for 2030.",
+            "page": 13,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action by the local government. The council has participated in various voluntary greenhouse gas reduction and water reduction programs, which led to the development of its Greenhouse Action and Water Management plans. These plans were revised and updated for the 2015-2020 period, indicating a willingness to adapt and improve upon existing strategies. The council also implemented a five-year action plan to achieve identified emission reduction and water savings targets. This plan included a range of initiatives, such as energy and water audits of high-consuming facilities, review of contracts to ensure removal of associated carbon costs, and the development of a targeted Sustainability Engagement Strategy. These initiatives can be seen as experiments to test different approaches to reducing greenhouse gas emissions and water consumption under real-world conditions.",
+          "quote": {
+            "content": "These plans are due to come to an end in June 2015 and required an update for the 2015-2020 period to inform budget development and project delivery for the next five year period. In early 2001/02, Council participated in various voluntary greenhouse gas reduction and water reduction programs that led to the development of its Greenhouse Action and Water Management plans. In 2009, Council revised their initial Greenhouse Action Plan and Water Management Plan.",
+            "page": 17,
+            "source": "NorthSydney-NSW-40.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the North Sydney Council to advocate upward to state and national governments to support climate action. This is evident in the council's action plan, where it outlines its intention to advocate that the NSW and Federal governments respond to the climate emergency through a range of measures. These measures include higher BASIX targets and reintroducing a price on carbon, to incentivise higher resource use standards and support the transition to high performing energy buildings. This shows that the council is not only taking steps within its own jurisdiction to address climate change, but is also actively pushing for broader policy changes at the state and national level. This advocacy is a critical part of the council's overall strategy to address climate change, as it recognises that local action alone is not sufficient to tackle this global issue."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the North Sydney Council is committed to building local capacity for climate action across its operations, local communities, and potentially neighbouring councils. The council's Environmental Sustainability Strategy 2030 outlines a series of actions that involve training and supporting council staff in implementing sustainability practices, supporting and expanding community volunteer programs, and demonstrating environmental sustainability practices at community events. This indicates a commitment to building capacity within the council and local community. The council's strategy also includes a commitment to 'advocate for the protection/increase of tree canopy cover across all local and state government projects', which suggests a willingness to engage in partnerships and advocacy with other local councils and state government. However, the documents do not provide specific details on how the council plans to build capacity with neighbouring local councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and partnerships related to climate. The North Sydney Council has been involved in various initiatives and programs to address climate change and environmental sustainability. One of these is the collaboration with the Sydney Coastal Councils Group and NSW Government to develop appropriate coastal management practices on a catchment wide scale through a Coastal Management Program (CMP). This is a clear example of a regional alliance or partnership related to climate change. The Council is also involved in the International Council for Local Environmental Initiatives (ICLEI) Cities for Climate Protection (CCP) program, which is an international alliance focused on reducing greenhouse gas emissions. Furthermore, the Council has been working with its Environment Reference Group to review progress against targets and inform the development of future plans. This indicates a partnership within the local community to address climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the North Sydney Council's Environmental Sustainability Strategy 2030 does mention 'equity' and 'justice' as important principles, it does not elaborate on these terms in relation to climate change or its impact on vulnerable communities. The documents focus primarily on the council's plans and strategies for environmental sustainability, including greenhouse gas reduction, water conservation, and resource recovery. They outline specific targets, actions, and initiatives, such as the development of a Sustainability Engagement Strategy and the implementation of various environmental programs. However, they do not delve into the social implications of climate change or address the issue of vulnerability."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the North Sydney Council Environmental Sustainability Strategy 2030 does mention equity as one of the council's core values, it does not provide specific details on how this principle is applied in the context of climate change. The documents focus primarily on environmental sustainability, setting targets for reducing greenhouse gas emissions, conserving water, and protecting native plants and animals. They also outline various initiatives and programs aimed at achieving these goals. However, they do not delve into the distribution of benefits and opportunities arising from these efforts. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit discussion on how to equitably share the benefits and opportunities of a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 67.5
+  }
+}

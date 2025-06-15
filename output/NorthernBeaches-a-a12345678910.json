@@ -1,1 +1,293 @@
-{"settings": {"source_files": ["NorthernBeaches-NSW-41.pdf", "NorthernBeaches-NSW-42.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T23:07:05.682370", "lga": "NorthernBeaches"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, titled 'Climate Change Action Plan', clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the Northern Beaches, requiring action from across the community and various levels of government. The policy outlines a series of clear and ambitious aspirations and commitments to mitigate future climate change through reducing carbon emissions in both Council\u2019s operations and the community. It also includes plans to adapt to the predicted long-term effects of climate change. The policy is structured around specific actions to be implemented over the next four years to address climate change, with a focus on improvements in key areas such as energy, water and waste efficiency, renewable energy, buildings and infrastructure, transport, and planning for a future net-zero community. The policy also includes provisions for measuring, monitoring, and reporting on progress towards these commitments.", "quote": {"content": "This Action Plan responds to that resolution, community outcomes for Environmental Protection and Environmental Sustainability in Shape 2028: Northern Beaches Community Strategic Plan, actions in Towards 2040: Northern Beaches Local Strategic Planning Statement and a series of clear and ambitious Aspirations and Commitments in the Strategy.", "page": 3, "source": "NorthernBeaches-NSW-41.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It states that the Northern Beaches Council has declared a climate emergency, which requires immediate action from all levels of government. The document also mentions the Intergovernmental Panel on Climate Change (IPCC) stating that the world needs to reach carbon neutrality no later than 2050. The Council has adopted aspirations to achieve net zero emissions by 2030 both in corporate and community emissions. The document also outlines the Council's commitment to addressing climate change and the actions it has taken so far, such as installing more rainwater harvesting systems and undertaking water efficiency upgrades. The document also provides a list of actions to be implemented by the Council over the next four years to address climate change.", "quote": {"content": "In August 2019, Northern Beaches Council resolved to \u201cdeclare that we are in a state of climate emergency that requires immediate action by all levels of government\u201d.", "page": 3, "source": "NorthernBeaches-NSW-41.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. The local government has declared a state of climate emergency, which inherently implies the need for immediate action. The documents outline a Climate Change Action Plan, which is a direct response to the declared emergency. The plan includes specific actions to be taken over the next four years, indicating a sense of urgency. The documents also mention the need to 'accelerate action' to mitigate future climate change and adapt to its effects. The use of the term 'accelerate' suggests a need for rapid action. Furthermore, the documents refer to the Paris Climate Agreement, which calls for achieving net zero emissions prior to 2050, again indicating a sense of urgency.", "quote": {"content": "In August 2019, Northern Beaches Council resolved to \u201cdeclare that we are in a state of climate emergency that requires immediate action by all levels of government\u201d.", "page": 3, "source": "NorthernBeaches-NSW-41.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a four-year plan for implementing actions to address climate change, with the plan being revised every four years to maintain its relevance and alignment with the Council's Delivery Program and Operational Plan. The document also mentions a commitment to achieving net zero emissions by 2030 for both corporate and community emissions. Furthermore, it states that the Council will annually measure and report its corporate water, waste, and energy use and emissions data, and will report on community water, waste, and emissions profiles every 2-4 years. These specific timeframes indicate a sense of urgency in the Council's approach to addressing climate change.", "quote": {"content": "The plan will be revised every four years to retain its relevance and alignment with Council\u2019s Delivery Program and Operational Plan. This plan provides a list of actions to be implemented by Council over the next four years to address climate change.", "page": 2, "source": "NorthernBeaches-NSW-41.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and outline various strategies and actions to mitigate its effects, they do not explicitly rank these actions in terms of priority against other policies. The documents highlight the need for urgent action, the commitment to reducing emissions, and the aspiration to achieve net zero emissions by 2030. However, these are presented as part of the local government's overall policy framework, rather than as policies that should take precedence over others. Therefore, without explicit evidence to suggest that climate change policies are to be prioritized above all others, the question cannot be answered in the affirmative."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive climate action plan, including goals to achieve net zero emissions by 2030, actions for mitigation of climate change, and measures to adapt to the already changing climate, they do not explicitly require all council activities to align with these climate policies. The documents mention various actions and strategies, such as improving energy efficiency, upgrading street lighting, investigating carbon offsetting, and improving resource recovery. However, these are presented as part of the council's climate action plan rather than as a requirement for all council activities. Therefore, while the council's climate action plan is comprehensive and ambitious, it does not explicitly state that all council activities must align with this policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to address climate change, such as improving energy efficiency, promoting renewable electricity, and reducing emissions from transport, it does not provide specific details about the allocation of funds to support these actions. The policy does mention the need to 'seek opportunities to access grant funding and leverage external sources of funds to increase our impact', but this is a general statement and does not provide a clear commitment or plan for institutional resource mobilisation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various actions and strategies to address climate change, such as improving energy efficiency, promoting renewable electricity, and building community resilience, it does not specify the allocation of institutional resources like staff time or expertise to these efforts. The policy mentions the need for community education and engagement, collaboration with stakeholders, and data collection, but it does not detail how these tasks will be carried out or who within the institution will be responsible for them. Therefore, based on the provided documents, it cannot be confirmed that the plan allocates non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of strategies that involve community engagement and education. For instance, the policy mentions the development of a community resilience strategy, provision of community education and engagement, and connecting the community to trusted information sources. The policy also emphasizes the importance of collaboration and engagement with local environment groups, volunteers, stakeholders, and the community to amplify collective impact. Furthermore, the policy outlines plans to undertake community education and engagement to improve preparedness and resilience, and to drive innovation and research in natural hazard management and climate change mitigation and adaptation. These strategies suggest a strong focus on social mobilization as a means to achieve climate action goals."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Climate Change Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that combines both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to energy efficiency, renewable energy, and waste reduction. For instance, the plan includes actions to upgrade street lighting to LED standards, investigate carbon offsetting, and improve resource recovery from Council operations. The plan also outlines actions to transition to lower and zero-emissions alternatives for transport, including encouraging staff to reduce work-related travel trips and promoting sustainable transport. Behaviour change is encouraged through community education and engagement, such as demonstrating the economic and environmental benefits of renewable electricity and efficient appliances, and encouraging the community to reduce consumption and waste. The plan's commitment to measure, monitor, and report on its progress also ensures accountability and transparency in its efforts to mitigate greenhouse gas emissions."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to increase social, economic, and environmental resilience to climate change impacts across all sectors. It aims to enhance the community's capacity to recover quickly from disruptions and improve community safety and wellbeing. The policy also emphasizes ensuring the resilience of the built environment, particularly critical infrastructure, to natural disasters and climate change influences. Furthermore, the policy includes strategies to enhance financial performance and ensure a sustainable balance between human activity and the natural environment. The policy also outlines specific actions such as community education and engagement, driving innovation and research, incorporating best available climate change knowledge and practices into strategic land use planning, and enhancing the approach to managing natural hazards.", "quote": {"content": "By implementing adaptation measures we will:\n\u2022 \nIncrease social, economic and \nenvironmental resilience to the impacts \nof climate change across all sectors;\n\u2022 \nIncrease our capacity to recover quickly \nfrom disruptions;\n\u2022 \nImprove community safety and \nwellbeing;\n\u2022 \nEnsure the built environment, especially \ncritical infrastructure, is resilient to \nnatural disasters and climate change \ninfluences;\n\u2022 \nEnhance financial advantages and \nperformance; and\n\u2022 \nEnsure a sustainable balance between \nhuman activity and the natural \nenvironment.", "page": 37, "source": "NorthernBeaches-NSW-42.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a variety of actions and strategies to address climate change, such as reducing emissions, promoting renewable energy, and improving energy efficiency, they do not provide specific evidence or data to support these actions. The documents mention alignment with the Paris Climate Agreement and the NSW State Government's Net Zero Plan, but they do not provide detailed information about how these targets were determined or why they are appropriate for the local context. Furthermore, the documents do not provide clear metrics or benchmarks for measuring progress towards these targets. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not provide well-sourced evidence to justify the specific targets and actions outlined."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines short-term action plans that will span four years, with specific projects and actions that the Council will undertake. The plan also includes a commitment to evaluate progress against the goals, commitments, and aspirations in the strategy annually, with a detailed assessment, report, and review to be completed every two to four years. Furthermore, the plan includes a commitment to measure and report on Council\u2019s corporate water, waste, and energy use and emissions data annually, in accordance with internationally recognized approaches. The plan also promises to report on community water, waste, and emissions profiles every 2-4 years. These measures provide clear, specific criteria against which the success of the plan's actions can be evaluated."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan outlines a variety of strategies and actions that involve research and data collection to inform their climate change mitigation and adaptation efforts. For instance, the plan mentions the development of tools such as predictive modelling to better prepare for natural hazards, which implies a research component. The plan also emphasizes the importance of collecting good quality, meaningful data to support and enable decisions. Furthermore, the plan mentions driving innovation and research to be leaders in natural hazard management and climate change mitigation and adaptation. This suggests that research, including potentially community-based research, is a key part of their strategy to address climate change."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government's Climate Change Action Plan outlines a variety of strategies and actions to address climate change, demonstrating a willingness to innovate and experiment with different approaches. For instance, the plan includes actions to encourage the community to choose renewable electricity, reduce consumption and waste, and promote a circular economy. It also mentions the use of strategic land use planning and development controls, and the integration of sustainable and resilient guidelines into Council\u2019s processes. Furthermore, the plan emphasizes the importance of measuring, monitoring, and reporting on the progress of these actions, which is a critical aspect of policy experimentation. This approach allows for the evaluation of the effectiveness of different strategies and the adjustment of actions as necessary.", "quote": {"content": "We will use this data to tailor engagement, education, advocacy and collaboration actions to support and encourage our community to reduce carbon emissions and adapt to expected future risks.", "page": 14, "source": "NorthernBeaches-NSW-41.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the local government's commitment to aligning its action plan with the targets set by the NSW State Government and the Paris Climate Agreement. The local government acknowledges the need for action from various levels of government and the community to address the impacts of climate change. It also commits to lobbying and advocating on behalf of its community to ensure that local, state, and federal policies reflect and enforce the efforts needed to tackle climate change. This shows a clear intent to engage in upward advocacy to higher levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and stakeholders for climate action. The council plans to develop a community resilience strategy, provide community education and engagement, and work with key industry stakeholders to develop tools for better preparation for natural hazards. The council also plans to engage and collaborate with local environment groups, volunteers, stakeholders, the community, and other change makers to amplify the collective impact. The council acknowledges that it alone cannot achieve the goals, commitments, and aspirations in this strategy, as many of the actions needed to achieve them fall beyond the direct control of local government. Therefore, it will need to play a strong collaboration and advocacy role to bring relevant stakeholders together to deliver the outcomes. The council also plans to lobby and advocate on behalf of the community to ensure that local, state, and federal policies reflect and enforce the efforts needed to tackle climate change and protect the environment.", "quote": {"content": "As a Council we will need to play a strong collaboration and advocacy role to bring relevant stakeholders together to deliver our outcomes.", "page": 41, "source": "NorthernBeaches-NSW-42.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations and partnerships related to climate action. The Northern Beaches Council's Climate Change Action Plan mentions the council's commitment to active involvement in regional initiatives such as Resilient Sydney, and implementing the Resilient Sydney Strategy. This indicates that the council is not only aware of the importance of regional partnerships in addressing climate change, but is also actively participating in these initiatives. The council's commitment to collaboration and engagement with local environment groups, volunteers, stakeholders, and the community is also highlighted. This suggests a broad approach to partnerships, encompassing both formal alliances and informal collaborations.", "quote": {"content": "8.6 Advocate, collaborate and network with stakeholders to represent the needs of our community and environment and leverage outcomes from regional approaches and projects.", "page": 38, "source": "NorthernBeaches-NSW-42.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need for community education, engagement, and resilience in the face of climate change, they do not specifically address how climate change might disproportionately affect certain communities, particularly those that are vulnerable or disadvantaged. The documents focus more on general strategies for climate change adaptation and resilience, such as increasing social, economic, and environmental resilience, improving community safety, and ensuring a sustainable balance between human activity and the natural environment. However, they do not delve into the social justice implications of these strategies or the differential impacts of climate change on various communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the policy documents do outline various strategies for tackling climate change, including efforts to protect the environment, create sustainable homes and workplaces, and live sustainably, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents mention collaboration with the community, stakeholders, and other change makers, as well as efforts to increase social, economic, and environmental resilience. However, these references do not directly address the issue of equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 67.5}}
+{
+  "settings": {
+    "source_files": [
+      "NorthernBeaches-NSW-41.pdf",
+      "NorthernBeaches-NSW-42.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T23:07:05.682370",
+    "lga": "NorthernBeaches"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, titled 'Climate Change Action Plan', clearly identifies climate action as its core purpose. The policy is designed to address the impacts of climate change on the Northern Beaches, requiring action from across the community and various levels of government. The policy outlines a series of clear and ambitious aspirations and commitments to mitigate future climate change through reducing carbon emissions in both Council\u2019s operations and the community. It also includes plans to adapt to the predicted long-term effects of climate change. The policy is structured around specific actions to be implemented over the next four years to address climate change, with a focus on improvements in key areas such as energy, water and waste efficiency, renewable energy, buildings and infrastructure, transport, and planning for a future net-zero community. The policy also includes provisions for measuring, monitoring, and reporting on progress towards these commitments.",
+          "quote": {
+            "content": "This Action Plan responds to that resolution, community outcomes for Environmental Protection and Environmental Sustainability in Shape 2028: Northern Beaches Community Strategic Plan, actions in Towards 2040: Northern Beaches Local Strategic Planning Statement and a series of clear and ambitious Aspirations and Commitments in the Strategy.",
+            "page": 3,
+            "source": "NorthernBeaches-NSW-41.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It states that the Northern Beaches Council has declared a climate emergency, which requires immediate action from all levels of government. The document also mentions the Intergovernmental Panel on Climate Change (IPCC) stating that the world needs to reach carbon neutrality no later than 2050. The Council has adopted aspirations to achieve net zero emissions by 2030 both in corporate and community emissions. The document also outlines the Council's commitment to addressing climate change and the actions it has taken so far, such as installing more rainwater harvesting systems and undertaking water efficiency upgrades. The document also provides a list of actions to be implemented by the Council over the next four years to address climate change.",
+          "quote": {
+            "content": "In August 2019, Northern Beaches Council resolved to \u201cdeclare that we are in a state of climate emergency that requires immediate action by all levels of government\u201d.",
+            "page": 3,
+            "source": "NorthernBeaches-NSW-41.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government has declared a state of climate emergency, which inherently implies the need for immediate action. The documents outline a Climate Change Action Plan, which is a direct response to the declared emergency. The plan includes specific actions to be taken over the next four years, indicating a sense of urgency. The documents also mention the need to 'accelerate action' to mitigate future climate change and adapt to its effects. The use of the term 'accelerate' suggests a need for rapid action. Furthermore, the documents refer to the Paris Climate Agreement, which calls for achieving net zero emissions prior to 2050, again indicating a sense of urgency.",
+          "quote": {
+            "content": "In August 2019, Northern Beaches Council resolved to \u201cdeclare that we are in a state of climate emergency that requires immediate action by all levels of government\u201d.",
+            "page": 3,
+            "source": "NorthernBeaches-NSW-41.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a four-year plan for implementing actions to address climate change, with the plan being revised every four years to maintain its relevance and alignment with the Council's Delivery Program and Operational Plan. The document also mentions a commitment to achieving net zero emissions by 2030 for both corporate and community emissions. Furthermore, it states that the Council will annually measure and report its corporate water, waste, and energy use and emissions data, and will report on community water, waste, and emissions profiles every 2-4 years. These specific timeframes indicate a sense of urgency in the Council's approach to addressing climate change.",
+          "quote": {
+            "content": "The plan will be revised every four years to retain its relevance and alignment with Council\u2019s Delivery Program and Operational Plan. This plan provides a list of actions to be implemented by Council over the next four years to address climate change.",
+            "page": 2,
+            "source": "NorthernBeaches-NSW-41.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change and outline various strategies and actions to mitigate its effects, they do not explicitly rank these actions in terms of priority against other policies. The documents highlight the need for urgent action, the commitment to reducing emissions, and the aspiration to achieve net zero emissions by 2030. However, these are presented as part of the local government's overall policy framework, rather than as policies that should take precedence over others. Therefore, without explicit evidence to suggest that climate change policies are to be prioritized above all others, the question cannot be answered in the affirmative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive climate action plan, including goals to achieve net zero emissions by 2030, actions for mitigation of climate change, and measures to adapt to the already changing climate, they do not explicitly require all council activities to align with these climate policies. The documents mention various actions and strategies, such as improving energy efficiency, upgrading street lighting, investigating carbon offsetting, and improving resource recovery. However, these are presented as part of the council's climate action plan rather than as a requirement for all council activities. Therefore, while the council's climate action plan is comprehensive and ambitious, it does not explicitly state that all council activities must align with this policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions to address climate change, such as improving energy efficiency, promoting renewable electricity, and reducing emissions from transport, it does not provide specific details about the allocation of funds to support these actions. The policy does mention the need to 'seek opportunities to access grant funding and leverage external sources of funds to increase our impact', but this is a general statement and does not provide a clear commitment or plan for institutional resource mobilisation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various actions and strategies to address climate change, such as improving energy efficiency, promoting renewable electricity, and building community resilience, it does not specify the allocation of institutional resources like staff time or expertise to these efforts. The policy mentions the need for community education and engagement, collaboration with stakeholders, and data collection, but it does not detail how these tasks will be carried out or who within the institution will be responsible for them. Therefore, based on the provided documents, it cannot be confirmed that the plan allocates non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of strategies that involve community engagement and education. For instance, the policy mentions the development of a community resilience strategy, provision of community education and engagement, and connecting the community to trusted information sources. The policy also emphasizes the importance of collaboration and engagement with local environment groups, volunteers, stakeholders, and the community to amplify collective impact. Furthermore, the policy outlines plans to undertake community education and engagement to improve preparedness and resilience, and to drive innovation and research in natural hazard management and climate change mitigation and adaptation. These strategies suggest a strong focus on social mobilization as a means to achieve climate action goals."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Climate Change Action Plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that combines both technological solutions and behaviour change. Technological solutions are evident in the plan's commitment to energy efficiency, renewable energy, and waste reduction. For instance, the plan includes actions to upgrade street lighting to LED standards, investigate carbon offsetting, and improve resource recovery from Council operations. The plan also outlines actions to transition to lower and zero-emissions alternatives for transport, including encouraging staff to reduce work-related travel trips and promoting sustainable transport. Behaviour change is encouraged through community education and engagement, such as demonstrating the economic and environmental benefits of renewable electricity and efficient appliances, and encouraging the community to reduce consumption and waste. The plan's commitment to measure, monitor, and report on its progress also ensures accountability and transparency in its efforts to mitigate greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's policy indeed includes specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to increase social, economic, and environmental resilience to climate change impacts across all sectors. It aims to enhance the community's capacity to recover quickly from disruptions and improve community safety and wellbeing. The policy also emphasizes ensuring the resilience of the built environment, particularly critical infrastructure, to natural disasters and climate change influences. Furthermore, the policy includes strategies to enhance financial performance and ensure a sustainable balance between human activity and the natural environment. The policy also outlines specific actions such as community education and engagement, driving innovation and research, incorporating best available climate change knowledge and practices into strategic land use planning, and enhancing the approach to managing natural hazards.",
+          "quote": {
+            "content": "By implementing adaptation measures we will:\n\u2022 \nIncrease social, economic and \nenvironmental resilience to the impacts \nof climate change across all sectors;\n\u2022 \nIncrease our capacity to recover quickly \nfrom disruptions;\n\u2022 \nImprove community safety and \nwellbeing;\n\u2022 \nEnsure the built environment, especially \ncritical infrastructure, is resilient to \nnatural disasters and climate change \ninfluences;\n\u2022 \nEnhance financial advantages and \nperformance; and\n\u2022 \nEnsure a sustainable balance between \nhuman activity and the natural \nenvironment.",
+            "page": 37,
+            "source": "NorthernBeaches-NSW-42.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a variety of actions and strategies to address climate change, such as reducing emissions, promoting renewable energy, and improving energy efficiency, they do not provide specific evidence or data to support these actions. The documents mention alignment with the Paris Climate Agreement and the NSW State Government's Net Zero Plan, but they do not provide detailed information about how these targets were determined or why they are appropriate for the local context. Furthermore, the documents do not provide clear metrics or benchmarks for measuring progress towards these targets. Therefore, while the documents demonstrate a commitment to addressing climate change, they do not provide well-sourced evidence to justify the specific targets and actions outlined."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines short-term action plans that will span four years, with specific projects and actions that the Council will undertake. The plan also includes a commitment to evaluate progress against the goals, commitments, and aspirations in the strategy annually, with a detailed assessment, report, and review to be completed every two to four years. Furthermore, the plan includes a commitment to measure and report on Council\u2019s corporate water, waste, and energy use and emissions data annually, in accordance with internationally recognized approaches. The plan also promises to report on community water, waste, and emissions profiles every 2-4 years. These measures provide clear, specific criteria against which the success of the plan's actions can be evaluated."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do indeed describe plans to conduct research in the local community to inform climate actions. The local government's Climate Change Action Plan outlines a variety of strategies and actions that involve research and data collection to inform their climate change mitigation and adaptation efforts. For instance, the plan mentions the development of tools such as predictive modelling to better prepare for natural hazards, which implies a research component. The plan also emphasizes the importance of collecting good quality, meaningful data to support and enable decisions. Furthermore, the plan mentions driving innovation and research to be leaders in natural hazard management and climate change mitigation and adaptation. This suggests that research, including potentially community-based research, is a key part of their strategy to address climate change."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's Climate Change Action Plan outlines several initiatives that can be considered as experiments. These include encouraging the community to choose renewable electricity through education and support to install solar panels and batteries on their property, demonstrating the economic and environmental benefits of renewable electricity through case studies, and investigating the opportunity to facilitate a renewable electricity power purchase agreement for local businesses and/or industry. These initiatives are designed to test the feasibility and effectiveness of different approaches to climate action under real-world conditions. The plan also mentions the delivery of trials of innovative approaches to accelerate the uptake of low emission transport, which can be seen as another form of policy experimentation. The document also mentions the development of a community resilience strategy, which could involve testing different methods of building resilience in the face of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the local government's commitment to aligning its action plan with the targets set by the NSW State Government and the Paris Climate Agreement. The local government acknowledges the need for action from various levels of government and the community to address the impacts of climate change. It also commits to lobbying and advocating on behalf of its community to ensure that local, state, and federal policies reflect and enforce the efforts needed to tackle climate change. This shows a clear intent to engage in upward advocacy to higher levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and stakeholders for climate action. The council plans to develop a community resilience strategy, provide community education and engagement, and work with key industry stakeholders to develop tools for better preparation for natural hazards. The council also plans to engage and collaborate with local environment groups, volunteers, stakeholders, the community, and other change makers to amplify the collective impact. The council acknowledges that it alone cannot achieve the goals, commitments, and aspirations in this strategy, as many of the actions needed to achieve them fall beyond the direct control of local government. Therefore, it will need to play a strong collaboration and advocacy role to bring relevant stakeholders together to deliver the outcomes. The council also plans to lobby and advocate on behalf of the community to ensure that local, state, and federal policies reflect and enforce the efforts needed to tackle climate change and protect the environment.",
+          "quote": {
+            "content": "As a Council we will need to play a strong collaboration and advocacy role to bring relevant stakeholders together to deliver our outcomes.",
+            "page": 41,
+            "source": "NorthernBeaches-NSW-42.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and partnerships related to climate action. The Northern Beaches Council's Climate Change Action Plan mentions the council's commitment to active involvement in regional initiatives such as Resilient Sydney, and implementing the Resilient Sydney Strategy. This indicates that the council is not only aware of the importance of regional partnerships in addressing climate change, but is also actively participating in these initiatives. The council's commitment to collaboration and engagement with local environment groups, volunteers, stakeholders, and the community is also highlighted. This suggests a broad approach to partnerships, encompassing both formal alliances and informal collaborations.",
+          "quote": {
+            "content": "8.6 Advocate, collaborate and network with stakeholders to represent the needs of our community and environment and leverage outcomes from regional approaches and projects.",
+            "page": 38,
+            "source": "NorthernBeaches-NSW-42.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. While the documents do mention the need for community education, engagement, and resilience in the face of climate change, they do not specifically address how climate change might disproportionately affect certain communities, particularly those that are vulnerable or disadvantaged. The documents focus more on general strategies for climate change adaptation and resilience, such as increasing social, economic, and environmental resilience, improving community safety, and ensuring a sustainable balance between human activity and the natural environment. However, they do not delve into the social justice implications of these strategies or the differential impacts of climate change on various communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of equity and social justice. While the policy documents do outline various strategies for tackling climate change, including efforts to protect the environment, create sustainable homes and workplaces, and live sustainably, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents mention collaboration with the community, stakeholders, and other change makers, as well as efforts to increase social, economic, and environmental resilience. However, these references do not directly address the issue of equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 67.5
+  }
+}

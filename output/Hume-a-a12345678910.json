@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Hume-VIC-177.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:42:09.891480", "lga": "Hume"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 is primarily focused on climate action. The policy's core purpose is to reduce greenhouse gas emissions and tackle climate change, both within the council's operations and within the wider Hume community. The policy outlines specific strategies, action plans, and programs that support climate change action. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan. The policy also sets specific KPIs and targets under each key theme, focusing on what is realistic yet still challenging over the 2018-2022 timeframe. The policy's commitment to climate action is further demonstrated by its focus on energy conservation, energy efficiency, and renewable energy.", "quote": {"content": "The Greenhouse Action Plan focusses on reducing greenhouse gas emissions, primarily in Council operations, but also with the Hume community. Hume City Council\u2019s Greenhouse Action Plan is a key component of Hume\u2019s response to climate change along with the Climate Change Adaptation Plan.", "page": 2, "source": "Hume-VIC-177.pdf", "search_score": 0.97}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": false, "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the Hume City Council's Greenhouse Action Plan for 2018-2022, which includes various strategies, action plans, and programs to support climate change action. The documents detail the council's commitment to reducing greenhouse gas emissions, both within its own operations and within the Hume community, and they outline specific goals, key performance indicators, and targets related to this commitment. However, they do not provide a clear explanation or justification for why these actions are necessary. The documents do not discuss the impacts or potential consequences of climate change, nor do they provide any evidence or arguments to support the need for action on climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not explicitly call for rapid and urgent action on climate change. The document outlines a strategic approach to reducing greenhouse gas emissions and promoting environmental sustainability within the council's operations and the wider community. It sets out specific goals, objectives, and key performance indicators, and it details various programs and initiatives aimed at achieving these targets. However, the language used in the document is more indicative of a planned, methodical approach rather than a sense of urgency. The plan spans a four-year period from 2018 to 2022, suggesting a longer-term perspective on climate action. While the document clearly demonstrates a commitment to addressing climate change, it does not express a need for rapid or urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does provide specific timeframes for its intended actions on climate. The document outlines a four-year plan (2018 - 2022) to reduce greenhouse gas emissions in Council operations and support community emission reductions. The plan includes specific Key Performance Indicators (KPIs) and targets to be achieved within this timeframe. For instance, the plan aims to increase solar generation within Council facilities to at least 1.2 MW by 2021/22. It also sets out to improve energy efficiency and reduce greenhouse gas emissions from Council facilities, with specific targets for new buildings and the largest electricity consuming facilities. Furthermore, the plan includes ongoing actions until 2022, such as scoping and implementing energy efficiency opportunities with a sound financial return on investment in Council facilities."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Hume City Council Greenhouse Action Plan 2018-2022 outlines a comprehensive approach to reducing greenhouse gas emissions and promoting energy efficiency and renewable energy. It sets specific targets and KPIs for various aspects of this approach, such as increasing solar generation within Council facilities and improving energy efficiency in Council buildings. However, it does not explicitly prioritize these actions over other policies. The documents do indicate that the Council is committed to tackling climate change and reducing greenhouse gas emissions within its own operations, and that it has set realistic yet challenging targets for the 2018-2022 timeframe. However, the documents do not provide clear evidence that a climate emergency response is considered a higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The Hume City Council Greenhouse Action Plan 2018-2022 outlines several strategies, action plans, and programs that support climate change action both internally and externally. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan, among others. However, these are specific initiatives aimed at addressing climate change and environmental sustainability, rather than a requirement for all council activities to align with a climate policy. The documents also outline specific goals, key performance indicators, and targets related to reducing greenhouse gas emissions, improving energy efficiency, and promoting renewable energy. However, these are again specific to the Greenhouse Action Plan and do not necessarily apply to all council activities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly allocate funding for climate action. The plan outlines a variety of actions and activities aimed at reducing greenhouse gas emissions and promoting energy efficiency and renewable energy. These actions are supported by specific budgets, indicating a clear allocation of resources towards climate action. For instance, the plan mentions a Greenhouse Action Plan capital works budget of $400,000 for 2017/2018, which has already been approved by the Council. This budget supports energy efficiency and solar installation activities. Additionally, the plan proposes a further four-year program of works for energy efficiency, solar installation, and investigations of large-scale renewables and greenhouse reduction target options. The document also mentions other sources of funding that support the actions outlined in the Greenhouse Action Plan.", "quote": {"content": "This plan proposes a further four year program of works for energy efficiency, solar install and investigations of large scale renewables and greenhouse reduction target options as outlined in Appendix 2. A Greenhouse Action Plan capital works budget of $400,000 for 2017/2018 has already been approved by Council.", "page": 4, "source": "Hume-VIC-177.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities related to climate change, and for each of these, it assigns responsibility to specific roles or departments within the council. For instance, the 'Sustainable Environment' department is frequently mentioned as the lead department for various actions, such as investigating renewable energy micro-generation opportunities, scoping and implementing energy efficiency opportunities, and investigating the business case for a large solar farm. Other internal departments, such as 'Capital Works & Building Maintenance', 'Finance and Property Development', and 'Economic Development', are also mentioned as providing support for various actions. This allocation of staff roles and responsibilities indicates a clear institutional commitment to the actions outlined in the plan.", "quote": {"content": "High\nOngoing until 2022\nEnergy efficiency program implemented (output). Support (external):\nExpert Consultants.", "page": 6, "source": "Hume-VIC-177.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines several strategies and programs aimed at engaging and educating the community on environmental sustainability. For instance, the 'Live Green Action Plan' and 'Live Green Work Green program' are designed to engage and educate the Hume community and staff on environmental sustainability. The 'Business Efficiency Network' is aimed at engaging Hume businesses with energy efficiency and environmental practices. The policy also includes a goal to support 500 Hume residents to install solar by 2022, and a plan to deliver energy efficiency and renewable programs that assist to increase energy literacy, reduce household energy bills, improve thermal comfort and reduce greenhouse gas emissions particularly for low income and disadvantaged households.", "quote": {"content": "Business Efficiency Network\nEngages Hume businesses with energy efficiency and environmental practices. Live Green Work Green program\n- the Hume Green Team\nEngages and educates Hume staff on environmental sustainability.", "page": 3, "source": "Hume-VIC-177.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the installation of solar panels at council facilities, the implementation of energy efficiency opportunities with a sound financial return on investment, and the investigation of renewable energy micro-generation opportunities. The plan also mentions the exploration of new technology and alternative fuel opportunities to improve efficiency and reduce emissions from the council's fleet. Behaviour change is addressed through the 'Drive Safe' program, which supports fuel-efficient driving practices, and through the development of thermal comfort guidelines to set standard temperature ranges for heating and cooling in council facilities. The plan also sets specific targets, such as achieving at least 1.2 MW of solar generation on council facilities by 2021/22 and reducing greenhouse gas emissions of council's new large facilities by at least 25%."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": false, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 primarily focuses on reducing greenhouse gas emissions, both within council operations and the wider Hume community. The plan outlines several strategies, action plans, and programs that support climate change action. However, these primarily revolve around mitigation efforts such as energy conservation, energy efficiency, renewable energy, and reducing reliance on private cars. While the plan does mention a 'Climate Change Adaptation Plan (2013-2017)', it does not provide specific details or actions related to climate adaptation and resilience within the context provided. Therefore, based on the provided documents, it cannot be conclusively stated that the plan includes specific actions for climate adaptation and resilience."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 outlines several strategies, action plans, and programs aimed at supporting climate change action. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan. The document also sets specific Key Performance Indicators (KPIs) and targets under each key theme. However, the document does not provide well-sourced evidence to justify its climate targets and actions. The targets and actions appear to be based on the council's own assessments and objectives, rather than on external, well-sourced evidence. The document does not provide any references to scientific research, data, or expert opinions that could justify the chosen targets and actions. Therefore, while the document does provide a detailed plan for climate action, it does not meet the high standard of evidence required to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines Key Performance Indicators (KPIs) and targets for various areas such as buildings and renewables, public lighting, and fleet vehicles. For instance, under the 'Buildings & Renewables' section, the plan sets a target of at least 1.2 MW of solar generation on Council facilities by 2021/22. It also aims to reduce greenhouse gas emissions of Council\u2019s new large facilities to at least 25% below the modelled greenhouse gas emissions equivalent to compliance with Section J of the National Construction Code. The plan also includes actions for public lighting and fleet vehicles, with specific budgets, responsibilities, and levels of priority assigned. The plan's approach to setting specific, measurable targets and KPIs allows for clear evaluation of the success of its proposed actions.", "quote": {"content": "KPI 2:\nImprove energy efficiency and reduce greenhouse gas emissions from Council facilities with a particular emphasis\non new buildings and the largest electricity consuming facilities.", "page": 5, "source": "Hume-VIC-177.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does indeed outline plans to conduct research in the local community to inform climate actions. The document mentions a scoping study to determine resourcing requirements and opportunities to improve energy efficiency. This study is likely to involve research within the local community to understand the current state of energy use and potential areas for improvement. The document also mentions the goal of supporting 500 Hume residents to install solar by 2022, which would likely require research to understand the barriers and facilitators to solar installation in the community. Furthermore, the plan outlines the council's commitment to participate in joint funding applications and projects for greenhouse reductions, which would likely involve research to identify suitable projects and funding opportunities."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not provide clear evidence of innovation and policy experimentation in climate action. The document outlines a series of strategies, action plans, and programs aimed at reducing greenhouse gas emissions and promoting environmental sustainability. These include the Live Green Action Plan, the Business Efficiency Network, and the Climate Change Adaptation Plan. However, these initiatives appear to be standard approaches to climate action, focusing on education, energy efficiency, waste reduction, and adaptation to climate change risks. There is no explicit mention of innovative or experimental policies or strategies. The plan does include the investigation of renewable energy micro-generation opportunities and the development of thermal comfort guidelines, but these are presented as ongoing or future actions rather than innovative or experimental approaches."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not explicitly state an intent to advocate upward to state and national governments to support climate action. The policy does mention collaboration and advocacy, but it is primarily focused on local and regional partnerships, such as the Northern Alliance for Greenhouse Action (NAGA), and does not specify advocacy towards higher levels of government. The policy's goal is to demonstrate climate leadership, share information, and facilitate further action to reduce emissions. It also mentions participating in joint funding applications and projects for greenhouse reductions. However, these actions seem to be more focused on local and regional collaboration rather than advocating for state or national support."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The plan outlines various strategies and action plans that aim to engage and educate the Hume community and staff on environmental sustainability. It also includes actions to support the installation of solar panels at council facilities that are leased or licensed to community organizations, demonstrating a commitment to supporting local capacity for renewable energy generation. Furthermore, the council plans to continue participating in the Northern Alliance for Greenhouse Action (NAGA), which involves information sharing, advocacy, and collaborative greenhouse reduction and adaptation projects. This participation not only builds capacity within the Hume council but also fosters collaboration and capacity building with other local councils.", "quote": {"content": "Continue to participate in the Northern Alliance for Greenhouse Action (NAGA) through information sharing, advocacy and collaborative greenhouse reduction and greenhouse adaptation projects.", "page": 19, "source": "Hume-VIC-177.pdf", "search_score": 0.96}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 indeed refers to specific regional associations and alliances related to climate action. The document mentions the Northern Alliance for Greenhouse Action (NAGA), a regional partnership of local governments working collectively towards mitigating climate change. The council's involvement with NAGA is described as ongoing, with activities including information sharing, advocacy, and collaborative greenhouse reduction and adaptation projects. The council's participation in NAGA is seen as a key part of its strategy to demonstrate climate leadership and facilitate further action to reduce emissions. The document also mentions the Victorian Government\u2019s Take 2 Pledge, which is a voluntary commitment to tackling climate change. The council's participation in these initiatives indicates a commitment to collaboration and partnership in addressing climate change.", "quote": {"content": "Continue to participate in the Northern Alliance for Greenhouse Action (NAGA) through information sharing, advocacy and collaborative greenhouse reduction and greenhouse adaptation projects.", "page": 19, "source": "Hume-VIC-177.pdf", "search_score": 0.96}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents from the Hume City Council Greenhouse Action Plan 2018-2022 do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The documents primarily focus on the council's strategies and actions to reduce greenhouse gas emissions, improve energy efficiency, and promote renewable energy. These include installing solar panels at council facilities, investigating the development of thermal comfort guidelines, and maintaining GreenPower purchases. The council also plans to demonstrate climate leadership, collaborate with others, and facilitate further action to reduce emissions. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities, or any measures to address equity and social justice in this context."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents, which outline the Hume City Council Greenhouse Action Plan 2018-2022, do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on various actions and strategies to reduce greenhouse gas emissions, promote energy efficiency, and support renewable energy. These include installing solar panels at council facilities, investigating the development of thermal comfort guidelines, and keeping a watching brief on new technology and alternative fuel opportunities. However, these actions are not framed in terms of equity or social justice, nor do they outline specific strategies for ensuring that the benefits and opportunities of these climate actions are shared equitably. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 51.7}}
+{
+  "settings": {
+    "source_files": [
+      "Hume-VIC-177.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:42:09.891480",
+    "lga": "Hume"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 is primarily focused on climate action. The policy's core purpose is to reduce greenhouse gas emissions and tackle climate change, both within the council's operations and within the wider Hume community. The policy outlines specific strategies, action plans, and programs that support climate change action. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan. The policy also sets specific KPIs and targets under each key theme, focusing on what is realistic yet still challenging over the 2018-2022 timeframe. The policy's commitment to climate action is further demonstrated by its focus on energy conservation, energy efficiency, and renewable energy.",
+          "quote": {
+            "content": "The Greenhouse Action Plan focusses on reducing greenhouse gas emissions, primarily in Council operations, but also with the Hume community. Hume City Council\u2019s Greenhouse Action Plan is a key component of Hume\u2019s response to climate change along with the Climate Change Adaptation Plan.",
+            "page": 2,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the Hume City Council's Greenhouse Action Plan for 2018-2022, which includes various strategies, action plans, and programs to support climate change action. The documents detail the council's commitment to reducing greenhouse gas emissions, both within its own operations and within the Hume community, and they outline specific goals, key performance indicators, and targets related to this commitment. However, they do not provide a clear explanation or justification for why these actions are necessary. The documents do not discuss the impacts or potential consequences of climate change, nor do they provide any evidence or arguments to support the need for action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not explicitly call for rapid and urgent action on climate change. The document outlines a strategic approach to reducing greenhouse gas emissions and promoting environmental sustainability within the council's operations and the wider community. It sets out specific goals, objectives, and key performance indicators, and it details various programs and initiatives aimed at achieving these targets. However, the language used in the document is more indicative of a planned, methodical approach rather than a sense of urgency. The plan spans a four-year period from 2018 to 2022, suggesting a longer-term perspective on climate action. While the document clearly demonstrates a commitment to addressing climate change, it does not express a need for rapid or urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does provide specific timeframes for its intended actions on climate. The document outlines a four-year plan (2018 - 2022) to reduce greenhouse gas emissions in Council operations and support community emission reductions. The plan includes specific Key Performance Indicators (KPIs) and targets to be achieved within this timeframe. For instance, the plan aims to increase solar generation within Council facilities to at least 1.2 MW by 2021/22. It also sets out to improve energy efficiency and reduce greenhouse gas emissions from Council facilities, with specific targets for new buildings and the largest electricity consuming facilities. Furthermore, the plan includes ongoing actions until 2022, such as scoping and implementing energy efficiency opportunities with a sound financial return on investment in Council facilities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Hume City Council Greenhouse Action Plan 2018-2022 outlines a comprehensive approach to reducing greenhouse gas emissions and promoting energy efficiency and renewable energy. It sets specific targets and KPIs for various aspects of this approach, such as increasing solar generation within Council facilities and improving energy efficiency in Council buildings. However, it does not explicitly prioritize these actions over other policies. The documents do indicate that the Council is committed to tackling climate change and reducing greenhouse gas emissions within its own operations, and that it has set realistic yet challenging targets for the 2018-2022 timeframe. However, the documents do not provide clear evidence that a climate emergency response is considered a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. The Hume City Council Greenhouse Action Plan 2018-2022 outlines several strategies, action plans, and programs that support climate change action both internally and externally. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan, among others. However, these are specific initiatives aimed at addressing climate change and environmental sustainability, rather than a requirement for all council activities to align with a climate policy. The documents also outline specific goals, key performance indicators, and targets related to reducing greenhouse gas emissions, improving energy efficiency, and promoting renewable energy. However, these are again specific to the Greenhouse Action Plan and do not necessarily apply to all council activities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly allocate funding for climate action. The plan outlines a variety of actions and activities aimed at reducing greenhouse gas emissions and promoting energy efficiency and renewable energy. These actions are supported by specific budgets, indicating a clear allocation of resources towards climate action. For instance, the plan mentions a Greenhouse Action Plan capital works budget of $400,000 for 2017/2018, which has already been approved by the Council. This budget supports energy efficiency and solar installation activities. Additionally, the plan proposes a further four-year program of works for energy efficiency, solar installation, and investigations of large-scale renewables and greenhouse reduction target options. The document also mentions other sources of funding that support the actions outlined in the Greenhouse Action Plan.",
+          "quote": {
+            "content": "This plan proposes a further four year program of works for energy efficiency, solar install and investigations of large scale renewables and greenhouse reduction target options as outlined in Appendix 2. A Greenhouse Action Plan capital works budget of $400,000 for 2017/2018 has already been approved by Council.",
+            "page": 4,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and activities related to climate change, and for each of these, it assigns responsibility to specific roles or departments within the council. For instance, the 'Sustainable Environment' department is frequently mentioned as the lead department for various actions, such as investigating renewable energy micro-generation opportunities, scoping and implementing energy efficiency opportunities, and investigating the business case for a large solar farm. Other internal departments, such as 'Capital Works & Building Maintenance', 'Finance and Property Development', and 'Economic Development', are also mentioned as providing support for various actions. This allocation of staff roles and responsibilities indicates a clear institutional commitment to the actions outlined in the plan.",
+          "quote": {
+            "content": "High\nOngoing until 2022\nEnergy efficiency program implemented (output). Support (external):\nExpert Consultants.",
+            "page": 6,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does indeed actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines several strategies and programs aimed at engaging and educating the community on environmental sustainability. For instance, the 'Live Green Action Plan' and 'Live Green Work Green program' are designed to engage and educate the Hume community and staff on environmental sustainability. The 'Business Efficiency Network' is aimed at engaging Hume businesses with energy efficiency and environmental practices. The policy also includes a goal to support 500 Hume residents to install solar by 2022, and a plan to deliver energy efficiency and renewable programs that assist to increase energy literacy, reduce household energy bills, improve thermal comfort and reduce greenhouse gas emissions particularly for low income and disadvantaged households.",
+          "quote": {
+            "content": "Business Efficiency Network\nEngages Hume businesses with energy efficiency and environmental practices. Live Green Work Green program\n- the Hume Green Team\nEngages and educates Hume staff on environmental sustainability.",
+            "page": 3,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a multi-faceted approach that includes both technological solutions and behaviour change. Technological solutions include the installation of solar panels at council facilities, the implementation of energy efficiency opportunities with a sound financial return on investment, and the investigation of renewable energy micro-generation opportunities. The plan also mentions the exploration of new technology and alternative fuel opportunities to improve efficiency and reduce emissions from the council's fleet. Behaviour change is addressed through the 'Drive Safe' program, which supports fuel-efficient driving practices, and through the development of thermal comfort guidelines to set standard temperature ranges for heating and cooling in council facilities. The plan also sets specific targets, such as achieving at least 1.2 MW of solar generation on council facilities by 2021/22 and reducing greenhouse gas emissions of council's new large facilities by at least 25%."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": false,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 primarily focuses on reducing greenhouse gas emissions, both within council operations and the wider Hume community. The plan outlines several strategies, action plans, and programs that support climate change action. However, these primarily revolve around mitigation efforts such as energy conservation, energy efficiency, renewable energy, and reducing reliance on private cars. While the plan does mention a 'Climate Change Adaptation Plan (2013-2017)', it does not provide specific details or actions related to climate adaptation and resilience within the context provided. Therefore, based on the provided documents, it cannot be conclusively stated that the plan includes specific actions for climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 outlines several strategies, action plans, and programs aimed at supporting climate change action. These include the Live Green Action Plan, the Live Green Work Green program, the Business Efficiency Network, and the Climate Change Adaptation Plan. The document also sets specific Key Performance Indicators (KPIs) and targets under each key theme. However, the document does not provide well-sourced evidence to justify its climate targets and actions. The targets and actions appear to be based on the council's own assessments and objectives, rather than on external, well-sourced evidence. The document does not provide any references to scientific research, data, or expert opinions that could justify the chosen targets and actions. Therefore, while the document does provide a detailed plan for climate action, it does not meet the high standard of evidence required to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines Key Performance Indicators (KPIs) and targets for various areas such as buildings and renewables, public lighting, and fleet vehicles. For instance, under the 'Buildings & Renewables' section, the plan sets a target of at least 1.2 MW of solar generation on Council facilities by 2021/22. It also aims to reduce greenhouse gas emissions of Council\u2019s new large facilities to at least 25% below the modelled greenhouse gas emissions equivalent to compliance with Section J of the National Construction Code. The plan also includes actions for public lighting and fleet vehicles, with specific budgets, responsibilities, and levels of priority assigned. The plan's approach to setting specific, measurable targets and KPIs allows for clear evaluation of the success of its proposed actions.",
+          "quote": {
+            "content": "KPI 2:\nImprove energy efficiency and reduce greenhouse gas emissions from Council facilities with a particular emphasis\non new buildings and the largest electricity consuming facilities.",
+            "page": 5,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does indeed outline plans to conduct research in the local community to inform climate actions. The document mentions a scoping study to determine resourcing requirements and opportunities to improve energy efficiency. This study is likely to involve research within the local community to understand the current state of energy use and potential areas for improvement. The document also mentions the goal of supporting 500 Hume residents to install solar by 2022, which would likely require research to understand the barriers and facilitators to solar installation in the community. Furthermore, the plan outlines the council's commitment to participate in joint funding applications and projects for greenhouse reductions, which would likely involve research to identify suitable projects and funding opportunities."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not provide clear evidence of policy experimentation in climate action as defined by the question. The document outlines various strategies, action plans, and programs aimed at reducing greenhouse gas emissions and promoting environmental sustainability. However, these initiatives are not described as experiments, pilots, test beds, demonstration projects, or urban laboratories. They are rather presented as ongoing or planned actions, with specific targets and key performance indicators. The document does mention investigations into renewable energy micro-generation opportunities and new technology for fleet vehicles, but these are not framed as small-scale, real-world tests or experiments. Therefore, based on the provided context, the document does not show evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does not explicitly state an intent to advocate upward to state and national governments to support climate action. The policy does mention collaboration and advocacy, but it is primarily focused on local and regional partnerships, such as the Northern Alliance for Greenhouse Action (NAGA), and does not specify advocacy towards higher levels of government. The policy's goal is to demonstrate climate leadership, share information, and facilitate further action to reduce emissions. It also mentions participating in joint funding applications and projects for greenhouse reductions. However, these actions seem to be more focused on local and regional collaboration rather than advocating for state or national support."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The plan outlines various strategies and action plans that aim to engage and educate the Hume community and staff on environmental sustainability. It also includes actions to support the installation of solar panels at council facilities that are leased or licensed to community organizations, demonstrating a commitment to supporting local capacity for renewable energy generation. Furthermore, the council plans to continue participating in the Northern Alliance for Greenhouse Action (NAGA), which involves information sharing, advocacy, and collaborative greenhouse reduction and adaptation projects. This participation not only builds capacity within the Hume council but also fosters collaboration and capacity building with other local councils.",
+          "quote": {
+            "content": "Continue to participate in the Northern Alliance for Greenhouse Action (NAGA) through information sharing, advocacy and collaborative greenhouse reduction and greenhouse adaptation projects.",
+            "page": 19,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 0.96
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The Hume City Council Greenhouse Action Plan 2018-2022 indeed refers to specific regional associations and alliances related to climate action. The document mentions the Northern Alliance for Greenhouse Action (NAGA), a regional partnership of local governments working collectively towards mitigating climate change. The council's involvement with NAGA is described as ongoing, with activities including information sharing, advocacy, and collaborative greenhouse reduction and adaptation projects. The council's participation in NAGA is seen as a key part of its strategy to demonstrate climate leadership and facilitate further action to reduce emissions. The document also mentions the Victorian Government\u2019s Take 2 Pledge, which is a voluntary commitment to tackling climate change. The council's participation in these initiatives indicates a commitment to collaboration and partnership in addressing climate change.",
+          "quote": {
+            "content": "Continue to participate in the Northern Alliance for Greenhouse Action (NAGA) through information sharing, advocacy and collaborative greenhouse reduction and greenhouse adaptation projects.",
+            "page": 19,
+            "source": "Hume-VIC-177.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents from the Hume City Council Greenhouse Action Plan 2018-2022 do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The documents primarily focus on the council's strategies and actions to reduce greenhouse gas emissions, improve energy efficiency, and promote renewable energy. These include installing solar panels at council facilities, investigating the development of thermal comfort guidelines, and maintaining GreenPower purchases. The council also plans to demonstrate climate leadership, collaborate with others, and facilitate further action to reduce emissions. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities, or any measures to address equity and social justice in this context."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents, which outline the Hume City Council Greenhouse Action Plan 2018-2022, do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on various actions and strategies to reduce greenhouse gas emissions, promote energy efficiency, and support renewable energy. These include installing solar panels at council facilities, investigating the development of thermal comfort guidelines, and keeping a watching brief on new technology and alternative fuel opportunities. However, these actions are not framed in terms of equity or social justice, nor do they outline specific strategies for ensuring that the benefits and opportunities of these climate actions are shared equitably. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 51.7
+  }
+}

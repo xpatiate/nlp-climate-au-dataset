@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["Central-NSW-8.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T16:14:31.745897", "lga": "Central"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The core purpose of the Central Coast Council's Climate Change Policy is indeed climate action. The policy is designed to empower the council as a climate leader and enabler for change, ensuring that the risks associated with climate change are recognized, understood, and managed where practical. The policy also aims to inform the council's core functions, including strategic decision-making, planning processes, and operations. It provides direction on climate change for the council and the Central Coast region, and commits the council to strategic principles and policy statements to manage climate change risks. The policy also aligns the council's operational and strategic planning with NSW State policy setting and actions, and supports community initiatives to deal with climate change. Therefore, it is clear that climate action is the core purpose of the policy.", "quote": {"content": "To inform core functions of the Central Coast Council, including Council\u2019s response to strategic decision making, planning processes and operations. To ensure the risks associated with the changing climate on the environment and the community are recognised, understood and where practical managed by Council.", "page": 3, "source": "Central-NSW-8.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the scientific consensus that climate change is accelerated by human activities and recognizes the threat posed by climate change risks. The policy commits to a holistic and systemic approach to monitor and understand these risks and their impact on ecological, social, economic, and physical built forms systems. It also emphasizes the importance of an effective and progressive response to these risks, using the best available scientific knowledge. The policy aligns the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment and the NSW Government's objective to achieve net-zero emissions by 2050. The policy also commits to developing a Climate Change Action Plan that outlines mitigation and adaptation management actions. This demonstrates a clear recognition of the need for action on climate change.", "quote": {"content": "Recognise the need for an effective and progressive response to the threat of climate change risks with the best available scientific knowledge.", "page": 3, "source": "Central-NSW-8.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they do outline a comprehensive approach to addressing climate change, including aligning with the Australian Government's Paris commitment, establishing a Climate Change Action Plan, and committing to continually improving Council's energy efficiency, they do not express a sense of urgency or call for rapid action. The documents focus more on long-term strategies and plans, such as reducing emissions by 26-28% below the 2005 levels by 2030 and achieving net-zero emissions by 2050. They also emphasize the importance of a holistic and systemic approach, evidence-based decision making, and collaboration with stakeholders. However, the language used does not convey a sense of urgency or a need for rapid action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. It aligns the Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment to reduce emissions by 26-28% below the 2005 levels by 2030. It also aligns with the NSW Government\u2019s aspirational objective to achieve net-zero emissions by 2050. The document also mentions the development of a Central Coast greenhouse gas emissions inventory using regional data and establishing baselines for an incremental pathway to meet a net zero emissions target for Council as basis for the Climate Change Action Plan with specific years mentioned (i.e. 2025, 2030 and 2050). Furthermore, the document mentions conducting an annual corporate greenhouse gas emissions inventory. These specific timeframes indicate a sense of urgency in the policy's intended actions on climate.", "quote": {"content": "2025, 2030 and 2050).", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive approach to addressing climate change, including the establishment of a Climate Change Action Plan, the alignment of the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment, and the establishment of a Corporate Governance Framework to deal with climate change risks, they do not specifically state that these actions should take precedence over other policies. The documents emphasize a holistic and systemic approach to understanding and addressing climate change risks, suggesting that these actions are part of a broader policy framework rather than a standalone priority."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents provide clear evidence that all council activities must be aligned with the climate policy. The policy covers all elected members of Council, all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council. This suggests that all council activities, regardless of their nature, must be in line with the climate policy. Furthermore, the policy is described as a 'whole of Council commitment', which implies that it is expected to permeate all aspects of Council operations. The policy also outlines specific commitments and actions related to climate change, such as establishing a Corporate Governance Framework to lead a whole of Council approach when dealing with climate change risks, and aligning Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment.", "quote": {"content": "This Policy covers all elected members of Council, all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council.", "page": 5, "source": "Central-NSW-8.pdf", "search_score": 0.94}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the policy outlines a comprehensive approach to addressing climate change, including the development of systems and planning mechanisms, investment in climate resilience, and the establishment of energy efficiency guidelines, it does not specify the allocation of funds for these initiatives. The policy does mention the identification of opportunities to finance climate change initiatives and investing savings from climate actions towards advancing sustainable development goals. However, this does not constitute a clear allocation of funding. It is more of a strategic approach to identifying potential funding sources and opportunities for investment. Therefore, based on the provided documents, it cannot be definitively stated that the plan allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various strategies and actions related to climate change, such as developing a Climate Change Action Plan, considering climate change risks in strategic planning, and establishing systems to address climate change risks, it does not specify the allocation of staff or other non-monetary resources to these actions. The policy does mention the involvement of 'all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council' in its implementation, but this is a general statement and does not constitute a specific allocation of resources."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The policy document does indicate an intention to empower and involve the community in climate action, although it does not explicitly use the term 'social mobilisation'. The policy outlines a commitment to involve the community and stakeholders in the decision-making process for the development of a Climate Change Action Plan (D8). This suggests an intention to educate and engage the community in climate action. The policy also acknowledges the importance of shared responsibility across all levels of Council, community, and business in addressing climate change (D1). This implies a recognition of the need for collective action and community support in delivering climate action. However, the document does not provide specific details on how the community will be empowered or educated to rally and work together.", "quote": {"content": "D8 \nInvolve the community and stakeholders using a place-based approach in the decision making \nprocess for the development of a Climate Change Action Plan encompassing climate mitigation, \nadaptation and resilience.", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The policy indeed includes specific actions for the mitigation of greenhouse gas emissions. It outlines a comprehensive approach that includes both technological solutions and behaviour change. Technological solutions are addressed through the development of a greenhouse gas emissions inventory (D6), the establishment of an energy efficient and renewable energy guideline for the creation and renewal of Council\u2019s energy using assets (D16), and the commitment to continually improving Council\u2019s energy efficiency and productivity (D17). Behaviour change is addressed through the establishment of a Climate Change Action Plan that outlines mitigation and adaptation management actions across Council business (D7), and the involvement of the community and stakeholders in the decision-making process for the development of this plan (D8). The policy also recognises the need for an effective and progressive response to climate change risks with the best available scientific knowledge (D4).", "quote": {"content": "D8: Involve the community and stakeholders using a place-based approach in the decision making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience. 2025, 2030 and 2050). D7: Establish a Climate Change Action Plan for Council that outlines mitigation and adaptation management actions across Council business that are consistent with the principles of ecological sustainable development.", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a commitment to managing climate change risks using a combination of sustainable adaptation and mitigation measures. It also emphasizes the importance of a holistic approach, which involves understanding the complex interactions and interdependencies that influence the capacity to adapt and mitigate change. The policy also commits to establishing a Climate Change Action Plan that outlines mitigation and adaptation management actions across Council business. Furthermore, the policy highlights the importance of involving the community and stakeholders in the decision-making process for the development of the Climate Change Action Plan, which encompasses climate mitigation, adaptation, and resilience.", "quote": {"content": "Establish a Climate Change Action Plan for Council that outlines mitigation and adaptation management actions across Council business that are consistent with the principles of ecological sustainable development.", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies and commitments to address climate change, such as aligning the Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment and establishing a Climate Change Action Plan, it does not provide specific, well-sourced evidence to justify these targets and actions. The policy does mention the use of 'the best available scientific knowledge' and 'evidence-based decision making', but it does not detail what this evidence is, where it comes from, or how it informs the policy's targets and actions. Therefore, while the policy demonstrates a commitment to addressing climate change, it does not meet the high standard of evidence and specific detail required to affirmatively answer the question."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The policy documents provided do not include specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a number of commitments and strategies related to climate change adaptation and mitigation, such as establishing a Climate Change Action Plan, aligning the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment, and investing in climate resilience opportunities, it does not provide specific metrics or benchmarks that would be used to measure the success or effectiveness of these actions. The policy emphasizes the importance of evidence-based decision making and ongoing learning and adaptation, but it does not specify how the outcomes of its actions will be evaluated or measured over time."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy outlines a commitment to a 'place-based approach' which involves the local community in the decision-making process. This approach is context-specific and knowledge-based, suggesting that research will be conducted to understand the specific needs and circumstances of the local community. Furthermore, the policy commits to establishing a 'holistic and systemic approach to monitor and understand the climate change risks', which implies ongoing research and data collection. The policy also mentions the development of a Climate Change Action Plan that outlines mitigation and adaptation management actions, which would likely be informed by research. Finally, the policy commits to supporting initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks, which suggests a research-informed approach to education and community engagement."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The document does provide evidence of innovation and policy experimentation in climate action. The local government policy outlines a comprehensive approach to climate change, incorporating both mitigation and adaptation strategies. It emphasizes the importance of using the best available scientific knowledge to respond to climate change risks (D4). The policy also commits to aligning the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment (D5). Furthermore, the policy outlines plans to invest in climate resilience opportunities through advancing technology, innovation, and continuous improvement in the planning and management of existing built and natural assets, infrastructure renewal projects, and renewable resources (D14). The policy also mentions the establishment of an energy efficient and renewable energy guideline for the creation and renewal of Council\u2019s energy using assets (D16). These points suggest a willingness to experiment with new approaches and technologies in the pursuit of climate action.", "quote": {"content": "D14 \nInvest in climate resilience opportunities through advancing technology, innovation and continuous \nimprovement in the planning and management of existing built and natural assets, infrastructure \nrenewal projects and renewable resources.", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the policy does mention alignment with the Australian Government\u2019s Paris commitment and the NSW Government\u2019s objective to achieve net-zero emissions by 2050, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy primarily focuses on the local government's own actions and commitments, such as establishing a Climate Change Action Plan, reducing corporate greenhouse gas emissions, and creating partnerships with the business community. However, these actions seem to be more focused on local and internal efforts rather than advocacy to state and national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The policy document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy outlines a commitment to a holistic approach, which includes the ability to identify and understand complex interacting and interdependent components that build capacity to anticipate and adapt to change. It also emphasizes the importance of shared responsibility across all levels of Council, community and business in addressing climate change. The policy also mentions the establishment of climate partnerships between Council and the business community to identify and develop private investment opportunities for economic stability and growth. Furthermore, the policy encourages involving the community and stakeholders using a place-based approach in the decision-making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience.", "quote": {"content": "Involve the community and stakeholders using a place-based approach in the decision making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience.", "page": 4, "source": "Central-NSW-8.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the policy does mention the importance of shared responsibility across all levels of Council, community, and business in addressing climate change, and the establishment of climate partnerships between Council and the business community, it does not specify any particular organizations or alliances. The policy also refers to the need for collaboration with key internal and external stakeholders, but again, no specific entities are named. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy outlines the local government's approach to climate change, focusing on mitigation and adaptation strategies, greenhouse gas emissions reduction targets, and the establishment of a Climate Change Action Plan. It also emphasizes the importance of a holistic approach, evidence-based decision making, and collective decision making. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address these impacts in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the involvement of the community and stakeholders in decision-making processes (D8), and acknowledges shared responsibility across all levels of Council, community, and business in addressing climate change (D1), it does not provide specific details on how benefits and opportunities will be equitably distributed. The policy primarily focuses on mitigation and adaptation strategies, greenhouse gas emissions reduction, and climate resilience, but does not delve into the social justice aspects of these actions."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 58.3}}
+{
+  "settings": {
+    "source_files": [
+      "Central-NSW-8.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T16:14:31.745897",
+    "lga": "Central"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the Central Coast Council's Climate Change Policy is indeed climate action. The policy is designed to empower the council as a climate leader and enabler for change, ensuring that the risks associated with climate change are recognized, understood, and managed where practical. The policy also aims to inform the council's core functions, including strategic decision-making, planning processes, and operations. It provides direction on climate change for the council and the Central Coast region, and commits the council to strategic principles and policy statements to manage climate change risks. The policy also aligns the council's operational and strategic planning with NSW State policy setting and actions, and supports community initiatives to deal with climate change. Therefore, it is clear that climate action is the core purpose of the policy.",
+          "quote": {
+            "content": "To inform core functions of the Central Coast Council, including Council\u2019s response to strategic decision making, planning processes and operations. To ensure the risks associated with the changing climate on the environment and the community are recognised, understood and where practical managed by Council.",
+            "page": 3,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the scientific consensus that climate change is accelerated by human activities and recognizes the threat posed by climate change risks. The policy commits to a holistic and systemic approach to monitor and understand these risks and their impact on ecological, social, economic, and physical built forms systems. It also emphasizes the importance of an effective and progressive response to these risks, using the best available scientific knowledge. The policy aligns the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment and the NSW Government's objective to achieve net-zero emissions by 2050. The policy also commits to developing a Climate Change Action Plan that outlines mitigation and adaptation management actions. This demonstrates a clear recognition of the need for action on climate change.",
+          "quote": {
+            "content": "Recognise the need for an effective and progressive response to the threat of climate change risks with the best available scientific knowledge.",
+            "page": 3,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they do outline a comprehensive approach to addressing climate change, including aligning with the Australian Government's Paris commitment, establishing a Climate Change Action Plan, and committing to continually improving Council's energy efficiency, they do not express a sense of urgency or call for rapid action. The documents focus more on long-term strategies and plans, such as reducing emissions by 26-28% below the 2005 levels by 2030 and achieving net-zero emissions by 2050. They also emphasize the importance of a holistic and systemic approach, evidence-based decision making, and collaboration with stakeholders. However, the language used does not convey a sense of urgency or a need for rapid action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It aligns the Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment to reduce emissions by 26-28% below the 2005 levels by 2030. It also aligns with the NSW Government\u2019s aspirational objective to achieve net-zero emissions by 2050. The document also mentions the development of a Central Coast greenhouse gas emissions inventory using regional data and establishing baselines for an incremental pathway to meet a net zero emissions target for Council as basis for the Climate Change Action Plan with specific years mentioned (i.e. 2025, 2030 and 2050). Furthermore, the document mentions conducting an annual corporate greenhouse gas emissions inventory. These specific timeframes indicate a sense of urgency in the policy's intended actions on climate.",
+          "quote": {
+            "content": "2025, 2030 and 2050).",
+            "page": 4,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive approach to addressing climate change, including the establishment of a Climate Change Action Plan, the alignment of the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment, and the establishment of a Corporate Governance Framework to deal with climate change risks, they do not specifically state that these actions should take precedence over other policies. The documents emphasize a holistic and systemic approach to understanding and addressing climate change risks, suggesting that these actions are part of a broader policy framework rather than a standalone priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that all council activities must be aligned with the climate policy. The policy covers all elected members of Council, all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council. This suggests that all council activities, regardless of their nature, must be in line with the climate policy. Furthermore, the policy is described as a 'whole of Council commitment', which implies that it is expected to permeate all aspects of Council operations. The policy also outlines specific commitments and actions related to climate change, such as establishing a Corporate Governance Framework to lead a whole of Council approach when dealing with climate change risks, and aligning Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment.",
+          "quote": {
+            "content": "This Policy covers all elected members of Council, all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council.",
+            "page": 5,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the policy outlines a comprehensive approach to addressing climate change, including the development of systems and planning mechanisms, investment in climate resilience, and the establishment of energy efficiency guidelines, it does not specify the allocation of funds for these initiatives. The policy does mention the identification of opportunities to finance climate change initiatives and investing savings from climate actions towards advancing sustainable development goals. However, this does not constitute a clear allocation of funding. It is more of a strategic approach to identifying potential funding sources and opportunities for investment. Therefore, based on the provided documents, it cannot be definitively stated that the plan allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various strategies and actions related to climate change, such as developing a Climate Change Action Plan, considering climate change risks in strategic planning, and establishing systems to address climate change risks, it does not specify the allocation of staff or other non-monetary resources to these actions. The policy does mention the involvement of 'all personnel employed by Council, any person or organisation contracted to or acting on behalf of Council, any person or organisation employed to work on Council premises or facilities and all activities of the Council' in its implementation, but this is a general statement and does not constitute a specific allocation of resources."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The policy document does indicate an intention to empower and involve the community in climate action, although it does not explicitly use the term 'social mobilisation'. The policy outlines a commitment to involve the community and stakeholders in the decision-making process for the development of a Climate Change Action Plan (D8). This suggests an intention to educate and engage the community in climate action. The policy also acknowledges the importance of shared responsibility across all levels of Council, community, and business in addressing climate change (D1). This implies a recognition of the need for collective action and community support in delivering climate action. However, the document does not provide specific details on how the community will be empowered or educated to rally and work together.",
+          "quote": {
+            "content": "D8 \nInvolve the community and stakeholders using a place-based approach in the decision making \nprocess for the development of a Climate Change Action Plan encompassing climate mitigation, \nadaptation and resilience.",
+            "page": 4,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The policy indeed includes specific actions for the mitigation of greenhouse gas emissions. It outlines a comprehensive approach that includes both technological solutions and behaviour change. Technological solutions are addressed through the development of a greenhouse gas emissions inventory (D6), the establishment of an energy efficient and renewable energy guideline for the creation and renewal of Council\u2019s energy using assets (D16), and the commitment to continually improving Council\u2019s energy efficiency and productivity (D17). Behaviour change is addressed through the establishment of a Climate Change Action Plan that outlines mitigation and adaptation management actions across Council business (D7), and the involvement of the community and stakeholders in the decision-making process for the development of this plan (D8). The policy also recognises the need for an effective and progressive response to climate change risks with the best available scientific knowledge (D4).",
+          "quote": {
+            "content": "D8: Involve the community and stakeholders using a place-based approach in the decision making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience. 2025, 2030 and 2050). D7: Establish a Climate Change Action Plan for Council that outlines mitigation and adaptation management actions across Council business that are consistent with the principles of ecological sustainable development.",
+            "page": 4,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a commitment to managing climate change risks using a combination of sustainable adaptation and mitigation measures. It also emphasizes the importance of a holistic approach, which involves understanding the complex interactions and interdependencies that influence the capacity to adapt and mitigate change. The policy also commits to establishing a Climate Change Action Plan that outlines mitigation and adaptation management actions across Council business. Furthermore, the policy highlights the importance of involving the community and stakeholders in the decision-making process for the development of the Climate Change Action Plan, which encompasses climate mitigation, adaptation, and resilience.",
+          "quote": {
+            "content": "Establish a Climate Change Action Plan for Council that outlines mitigation and adaptation management actions across Council business that are consistent with the principles of ecological sustainable development.",
+            "page": 4,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a number of strategies and commitments to address climate change, such as aligning the Council\u2019s corporate greenhouse gas emissions reduction target with the Australian Government\u2019s Paris commitment and establishing a Climate Change Action Plan, it does not provide specific, well-sourced evidence to justify these targets and actions. The policy does mention the use of 'the best available scientific knowledge' and 'evidence-based decision making', but it does not detail what this evidence is, where it comes from, or how it informs the policy's targets and actions. Therefore, while the policy demonstrates a commitment to addressing climate change, it does not meet the high standard of evidence and specific detail required to affirmatively answer the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The policy documents provided do not include specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a number of commitments and strategies related to climate change adaptation and mitigation, such as establishing a Climate Change Action Plan, aligning the Council's greenhouse gas emissions reduction target with the Australian Government's Paris commitment, and investing in climate resilience opportunities, it does not provide specific metrics or benchmarks that would be used to measure the success or effectiveness of these actions. The policy emphasizes the importance of evidence-based decision making and ongoing learning and adaptation, but it does not specify how the outcomes of its actions will be evaluated or measured over time."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The policy outlines a commitment to a 'place-based approach' which involves the local community in the decision-making process. This approach is context-specific and knowledge-based, suggesting that research will be conducted to understand the specific needs and circumstances of the local community. Furthermore, the policy commits to establishing a 'holistic and systemic approach to monitor and understand the climate change risks', which implies ongoing research and data collection. The policy also mentions the development of a Climate Change Action Plan that outlines mitigation and adaptation management actions, which would likely be informed by research. Finally, the policy commits to supporting initiatives and education programs to enhance the community\u2019s understanding and resilience to climate change risks, which suggests a research-informed approach to education and community engagement."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the policy outlines various strategies and commitments related to climate change mitigation and adaptation, it does not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The policy does mention the development of a Climate Change Action Plan, the establishment of a greenhouse gas emissions inventory, and the alignment of the Council's corporate greenhouse gas emissions reduction target with the Australian Government's Paris commitment. However, these actions do not meet the criteria of 'experiments' as defined in the question."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the policy does mention alignment with the Australian Government\u2019s Paris commitment and the NSW Government\u2019s objective to achieve net-zero emissions by 2050, it does not explicitly state that the local government will advocate to these higher levels of government for further action on climate change. The policy primarily focuses on the local government's own actions and commitments, such as establishing a Climate Change Action Plan, reducing corporate greenhouse gas emissions, and creating partnerships with the business community. However, these actions seem to be more focused on local and internal efforts rather than advocacy to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The policy document does explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action. The policy outlines a commitment to a holistic approach, which includes the ability to identify and understand complex interacting and interdependent components that build capacity to anticipate and adapt to change. It also emphasizes the importance of shared responsibility across all levels of Council, community and business in addressing climate change. The policy also mentions the establishment of climate partnerships between Council and the business community to identify and develop private investment opportunities for economic stability and growth. Furthermore, the policy encourages involving the community and stakeholders using a place-based approach in the decision-making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience.",
+          "quote": {
+            "content": "Involve the community and stakeholders using a place-based approach in the decision making process for the development of a Climate Change Action Plan encompassing climate mitigation, adaptation and resilience.",
+            "page": 4,
+            "source": "Central-NSW-8.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not refer to any specific regional associations, alliances, or other partnerships related to climate change. While the policy does mention the importance of shared responsibility across all levels of Council, community, and business in addressing climate change, and the establishment of climate partnerships between Council and the business community, it does not specify any particular organizations or alliances. The policy also refers to the need for collaboration with key internal and external stakeholders, but again, no specific entities are named. Therefore, the documents do not provide clear evidence to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The policy outlines the local government's approach to climate change, focusing on mitigation and adaptation strategies, greenhouse gas emissions reduction targets, and the establishment of a Climate Change Action Plan. It also emphasizes the importance of a holistic approach, evidence-based decision making, and collective decision making. However, there is no specific mention or discussion of the effects of climate change on vulnerable communities or any measures to address these impacts in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the policy does mention the involvement of the community and stakeholders in decision-making processes (D8), and acknowledges shared responsibility across all levels of Council, community, and business in addressing climate change (D1), it does not provide specific details on how benefits and opportunities will be equitably distributed. The policy primarily focuses on mitigation and adaptation strategies, greenhouse gas emissions reduction, and climate resilience, but does not delve into the social justice aspects of these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 58.3
+  }
+}

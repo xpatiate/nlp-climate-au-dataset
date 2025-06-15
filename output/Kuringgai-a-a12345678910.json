@@ -1,1 +1,300 @@
-{"settings": {"source_files": ["Kuringgai-NSW-29.pdf", "Kuringgai-NSW-30.pdf", "Kuringgai-NSW-31.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T20:57:00.414267", "lga": "Kuringgai"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The core purpose of the policy is indeed climate action. The policy is explicitly titled 'Climate Change Policy' and it outlines a comprehensive approach to addressing climate change at the local government level. The policy's objectives are clearly stated to include reducing greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels, with no overshoot. This is a clear commitment to climate action. The policy also outlines a range of implementation activities across various sectors of the council, indicating a holistic approach to climate action. Furthermore, the policy includes a monitoring and evaluation component, which suggests a commitment to tracking progress and ensuring accountability in relation to climate action. Therefore, it is clear that climate action is the core purpose of this policy."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Policy of the Ku-ring-gai Council acknowledges the scientific consensus on climate change, noting that global heating has reached approximately 1\u00b0C above pre-industrial levels due to anthropogenic emissions of greenhouse gases. The policy also recognizes the increasing intensity and frequency of climate and weather extremes. The council has set objectives to reduce greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels. The policy also outlines the council's commitment to monitor and report against its Climate Change Policy. The council's approach is evidence-based, and it acknowledges that effective mitigation of climate change requires action by all levels of government and all sectors of the community.", "quote": {"content": "This has coincided with a trend of increasing intensity and frequency of a number of climate and weather extremes (IPCC 2018, p177).", "page": 4, "source": "Kuringgai-NSW-30.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents do explicitly call for urgent action on climate change. The Climate Change Policy document from Ku-ring-gai Council, dated 29 July 2020, cites the Intergovernmental Panel on Climate Change (IPCC) stating that 'Climate change represents an urgent and potentially irreversible threat to human societies and the planet' (IPCC 2018). This statement clearly indicates the urgency of the situation. The document also mentions that the world faces large scale collapse and loss of entire ecosystems, severe impacts to human health, increased extent of extreme weather and climate events, and severe economic loss due to aggregated and compounding impacts. These points further underline the urgency of the situation and the need for immediate action. The document also mentions the Paris Agreement, which commits signatories to holding the increase in global average temperatures to well below 2\u00b0C above pre-industrial levels, indicating a commitment to urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Climate Change Policy' document outlines that the council has set targets to reduce its greenhouse gas emissions (GHG) to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels. The specific timeframes for these targets are a reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier. Furthermore, the '2030 Action Plan' document implies that there are actions planned up until the year 2030. The 'Monitoring and evaluation' section of the 'Climate Change Policy' document also indicates that the council will monitor and report against its Climate Change Policy on a quarterly and annual basis. These specific timeframes demonstrate a sense of urgency in the council's actions towards climate change.", "quote": {"content": "Equating to - A reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier.", "page": 6, "source": "Kuringgai-NSW-30.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's climate change policy, including its objectives, principles, and planned actions. These include reducing greenhouse gas emissions, integrating sustainable design and resource efficiency into capital works programs, and considering how financial management practices enable or impede climate change mitigation. However, while these actions indicate a commitment to addressing climate change, they do not explicitly prioritize a climate emergency response over other policies. The documents also do not define a 'climate emergency response', which could potentially involve more urgent or drastic measures than those outlined in the policy."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do explicitly state that all council activities must be aligned with the climate policy. The policy outlines that the council will adopt an evidence-based approach in responding to climate change, regularly reviewing plans, strategies, and benchmarks to ensure they remain consistent with the most recent knowledge and best available science. The policy also states that the council will work with all levels of government to seek local, state, and national climate mitigation and climate adaptation solutions that are informed by the current knowledge and best available science. Furthermore, the policy emphasizes that consideration of climate change and its potential impacts must be incorporated into the council\u2019s operations, and appropriate mitigation and adaptation actions must be integrated into all strategic and operational management activities. This indicates a clear directive for all council activities to align with the climate policy."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines a roadmap for funding and resourcing, which includes an 'Environmental Levy' and 'Reinvestment of Savings' for the years 2020/21 through to 2029/30. The Environmental Levy appears to be a significant source of funding, with amounts ranging from $511,297 to $892,100 per year. The 'Reinvestment of Savings' also contributes to the funding, with amounts starting at $219,700 in 2020/21. However, the plan does not provide specific details on how these funds will be allocated to various climate actions. It is also unclear whether these funds are sufficient to meet the targets set out in the plan. Therefore, while the plan does allocate funding for climate action, the lack of detail raises questions about the effectiveness of this allocation."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines specific actions, responsibilities, and timeframes for various climate-related initiatives. For instance, the 'Action Plan 4: Energy efficiency' and 'Action Plan 3: Local generation (with renewables)' assign the responsibility of implementing and maintaining energy efficiency and renewable energy initiatives to the 'Sustainability' department of the council. This implies that staff resources within this department will be mobilized to carry out these actions. Additionally, the 'Action Plan 6: Waste Management' assigns the responsibility of developing local organics composting solutions to the 'Waste/Sustainability' department, indicating the allocation of staff resources for this task. However, the documents do not provide explicit details on the number of staff or the specific roles they will play in these initiatives."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence of a policy that actively empowers and educates the community to rally, support, and work productively together to deliver climate action. The policy outlines a program called 'Climate Wise Communities' which aims to raise awareness of local risk factors, promote resilience using a shared responsibility approach, deliver tools that utilise a shared responsibility response to climate change, and investigate potential benefits of communication/social networks that build neighbourhood capacity to prepare for, respond to and recover from extreme weather events. The program uses workshops to engage the community, focusing on preparedness and resilience, and emphasising the benefits of action rather than the negative consequences or risks of inaction. The workshops are designed to facilitate dialogue between 'expert' authorities and 'non-expert' community members, promoting the co-creation of knowledge and strengthening of social networks. This approach is intended to be more effective at building understanding and overcoming complacency than simply distributing information.", "quote": {"content": "Rather than focusing on \u2018doom and gloom\u2019, self-interest and powerlessness, the program provides a way of engaging people more widely on adapting to climate change. The Climate Wise Communities program provides a forum for communicating climate change information in a positive context that raises awareness and offers practical responses.", "page": 12, "source": "Kuringgai-NSW-31.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy, as outlined in the 'Towards Zero Emissions 2030 Action Plan', does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a combination of technological solutions and behaviour change to achieve its goals. Technological solutions include transitioning to 100% renewable energy, fleet transition, and gas fuel switching. The policy also emphasizes the importance of behaviour change, with the Council committing to review and update its information resources relating to energy efficiency in houses, apartments, and businesses. The policy also includes a commitment to work with all levels of government and the community to seek and implement climate mitigation and adaptation solutions. The policy's objectives include reducing Council\u2019s greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels, with no overshoot, by 2040 or earlier.", "quote": {"content": "A reduction in total GHG emissions to net zero by 2040, or earlier. Equating to -  A reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier.", "page": 6, "source": "Kuringgai-NSW-30.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a Climate Wise Communities (CWC) program that targets 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas. The program also focuses on particular community sectors identified as more vulnerable. The CWC program provides a way of engaging people more widely on adapting to climate change. Communication and engagement focuses on preparedness and resilience. The policy also mentions the implementation of sustainability and climate resilience provisions in planning controls and building performance standards for new and refurbished assets. These actions indicate a clear focus on climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy does mention the need for an evidence-based approach in responding to climate change and regular reviews of plans, strategies, and benchmarks to ensure they remain consistent with the most recent knowledge and best available science, it does not provide specific sources or data to back up its targets and actions. The policy also mentions the implementation of various activities across different sectors of the council, but again, no specific evidence or data is provided to justify these actions. The policy does mention monitoring and reporting against its Climate Change Policy, but it does not provide details on what this monitoring and evaluation process entails or how it will be used to inform future actions. Therefore, while the policy does outline a number of actions and targets, it does not provide well-sourced evidence to justify these."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each with a specific target or metric, and a timeframe for completion. For instance, the plan includes actions related to energy efficiency, sustainable transport, and waste management. Each action is associated with a specific target or metric, such as the number of household and business organics composting systems implemented, or the currency of online resources related to energy efficiency. The plan also outlines the additional resources required for each action, providing a clear measure of the investment needed. Furthermore, the plan includes a monitoring and evaluation section, which outlines how the impact of mitigation and adaptation activities will be measured, both for the council and the community. This includes quarterly and annual reporting against the council's delivery program and operational plan."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Climate Wise Communities (CWC) program is highlighted as a key initiative in this regard. The CWC program targets 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas. The program also focuses on particular community sectors identified as more vulnerable. The program uses workshops to engage with the community, providing a forum for communicating climate change information in a positive context that raises awareness and offers practical responses. The workshops are designed to be adaptable to meet the needs of particular sectors and are used to build awareness of local area vulnerabilities, understand the roles and responsibilities of emergency services, learn from sharing experiences, and realise the importance of planning and preparedness to increase personal and community resilience.", "quote": {"content": "The program also focuses on particular community sectors identified as more vulnerable. The Climate Wise Communities (CWC) program targets \u2018at risk\u2019 residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas.", "page": 7, "source": "Kuringgai-NSW-31.pdf", "search_score": 0.95}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The policy documents outline the local government's commitment to sustainable design and resource efficiency, as well as the integration of these principles into capital works programs and the design of parks, playgrounds, and ovals. They also mention the consideration of how financial management practices enable or impede climate change mitigation. However, these actions are standard in many climate change policies and do not necessarily indicate innovation or experimentation. The documents also mention the monitoring and evaluation of the policy's implementation, but again, this is a standard practice in policy development and does not indicate innovation or experimentation. Therefore, based on the provided documents, it cannot be affirmed that the local government is planning for informed action through innovation and policy experimentation in climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents provide clear evidence of the local government's intent to advocate upward to state and national governments to support climate action. The policy outlines proactive engagement with State and Federal Government and other relevant agencies to influence policies and reforms that affect the Council\u2019s climate change mitigation and adaptation program. This is further emphasized in the document stating that the Council will proactively respond to and engage with advocacy to State or Commonwealth governments regarding clean energy policies. The document also acknowledges that the outcomes described under grid-decarbonisation and sustainable transport, which represent the two largest abatement areas, are directly controlled through regulation and policy settings at state and federal levels of government. This underscores the Council\u2019s role in a 1.5\u00b0C scenario, is best understood through the support it can provide to the community, and its influence on the policy settings within other levels of government."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines that the council will work with all levels of government and all sectors of the community to seek climate mitigation and adaptation solutions. It also emphasizes the council's role in supporting the community in efforts to mitigate climate change and build resilience to its impacts. The policy further highlights the importance of integrating climate change considerations into all strategic and operational management activities. The Climate Wise Communities program, as mentioned in the documents, provides a forum for communicating climate change information in a positive context that raises awareness and offers practical responses. This program targets 'at risk' residents and focuses on particular community sectors identified as more vulnerable, thus building local capacity for climate action.", "quote": {"content": "Council will work with and support the community in efforts to mitigate climate change, and adapt and build resilience to climate change impacts. Council will work with all levels of government to seek local, state and national climate mitigation and climate adaptation solutions that are informed by the current knowledge and best available science.", "page": 7, "source": "Kuringgai-NSW-30.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's actions and plans regarding climate change, including engagement with state and federal government and other relevant agencies, they do not provide specific details about any partnerships or alliances. The documents also mention the council's work with the community and other levels of government to seek climate mitigation and adaptation solutions, but again, no specific partnerships or alliances are mentioned. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Climate Wise Communities (CWC) program, as mentioned in the documents, is designed to target 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events. The program also focuses on specific community sectors identified as more vulnerable. The documents also mention that certain sectors of the community are more vulnerable with variable levels of resilience to extreme weather hazards. These factors can be used to identify specific community groups requiring special attention when building community resilience. The documents also highlight the importance of community engagement and education as the most cost-effective approach to increase community resilience. Therefore, the documents clearly acknowledge the impact of climate change on vulnerable communities and propose strategies to address these impacts.", "quote": {"content": "The program also focuses on particular community sectors identified as more vulnerable. The Climate Wise Communities (CWC) program targets \u2018at risk\u2019 residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas.", "page": 7, "source": "Kuringgai-NSW-31.pdf", "search_score": 0.95}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention various strategies for climate change mitigation and adaptation, such as sustainable design, resource efficiency, and financial management practices, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents also mention the Climate Wise Communities program, which targets 'at risk' residents and focuses on community engagement and resilience. However, this does not directly address the equitable sharing of benefits and opportunities of a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 15, "num_questions": 20, "attribute_score": 81.7}}
+{
+  "settings": {
+    "source_files": [
+      "Kuringgai-NSW-29.pdf",
+      "Kuringgai-NSW-30.pdf",
+      "Kuringgai-NSW-31.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T20:57:00.414267",
+    "lga": "Kuringgai"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy is indeed climate action. The policy is explicitly titled 'Climate Change Policy' and it outlines a comprehensive approach to addressing climate change at the local government level. The policy's objectives are clearly stated to include reducing greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels, with no overshoot. This is a clear commitment to climate action. The policy also outlines a range of implementation activities across various sectors of the council, indicating a holistic approach to climate action. Furthermore, the policy includes a monitoring and evaluation component, which suggests a commitment to tracking progress and ensuring accountability in relation to climate action. Therefore, it is clear that climate action is the core purpose of this policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Climate Change Policy of the Ku-ring-gai Council acknowledges the scientific consensus on climate change, noting that global heating has reached approximately 1\u00b0C above pre-industrial levels due to anthropogenic emissions of greenhouse gases. The policy also recognizes the increasing intensity and frequency of climate and weather extremes. The council has set objectives to reduce greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels. The policy also outlines the council's commitment to monitor and report against its Climate Change Policy. The council's approach is evidence-based, and it acknowledges that effective mitigation of climate change requires action by all levels of government and all sectors of the community.",
+          "quote": {
+            "content": "This has coincided with a trend of increasing intensity and frequency of a number of climate and weather extremes (IPCC 2018, p177).",
+            "page": 4,
+            "source": "Kuringgai-NSW-30.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents do explicitly call for urgent action on climate change. The Climate Change Policy document from Ku-ring-gai Council, dated 29 July 2020, cites the Intergovernmental Panel on Climate Change (IPCC) stating that 'Climate change represents an urgent and potentially irreversible threat to human societies and the planet' (IPCC 2018). This statement clearly indicates the urgency of the situation. The document also mentions that the world faces large scale collapse and loss of entire ecosystems, severe impacts to human health, increased extent of extreme weather and climate events, and severe economic loss due to aggregated and compounding impacts. These points further underline the urgency of the situation and the need for immediate action. The document also mentions the Paris Agreement, which commits signatories to holding the increase in global average temperatures to well below 2\u00b0C above pre-industrial levels, indicating a commitment to urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The 'Climate Change Policy' document outlines that the council has set targets to reduce its greenhouse gas emissions (GHG) to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels. The specific timeframes for these targets are a reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier. Furthermore, the '2030 Action Plan' document implies that there are actions planned up until the year 2030. The 'Monitoring and evaluation' section of the 'Climate Change Policy' document also indicates that the council will monitor and report against its Climate Change Policy on a quarterly and annual basis. These specific timeframes demonstrate a sense of urgency in the council's actions towards climate change.",
+          "quote": {
+            "content": "Equating to - A reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier.",
+            "page": 6,
+            "source": "Kuringgai-NSW-30.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents outline the local government's climate change policy, including its objectives, principles, and planned actions. These include reducing greenhouse gas emissions, integrating sustainable design and resource efficiency into capital works programs, and considering how financial management practices enable or impede climate change mitigation. However, while these actions indicate a commitment to addressing climate change, they do not explicitly prioritize a climate emergency response over other policies. The documents also do not define a 'climate emergency response', which could potentially involve more urgent or drastic measures than those outlined in the policy."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do explicitly state that all council activities must be aligned with the climate policy. The policy outlines that the council will adopt an evidence-based approach in responding to climate change, regularly reviewing plans, strategies, and benchmarks to ensure they remain consistent with the most recent knowledge and best available science. The policy also states that the council will work with all levels of government to seek local, state, and national climate mitigation and climate adaptation solutions that are informed by the current knowledge and best available science. Furthermore, the policy emphasizes that consideration of climate change and its potential impacts must be incorporated into the council\u2019s operations, and appropriate mitigation and adaptation actions must be integrated into all strategic and operational management activities. This indicates a clear directive for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate funding for climate action. The plan outlines a roadmap for funding and resourcing, which includes an 'Environmental Levy' and 'Reinvestment of Savings' for the years 2020/21 through to 2029/30. The Environmental Levy appears to be a significant source of funding, with amounts ranging from $511,297 to $892,100 per year. The 'Reinvestment of Savings' also contributes to the funding, with amounts starting at $219,700 in 2020/21. However, the plan does not provide specific details on how these funds will be allocated to various climate actions. It is also unclear whether these funds are sufficient to meet the targets set out in the plan. Therefore, while the plan does allocate funding for climate action, the lack of detail raises questions about the effectiveness of this allocation."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does allocate non-monetary institutional resources to climate action. The plan outlines specific actions, responsibilities, and timeframes for various climate-related initiatives. For instance, the 'Action Plan 4: Energy efficiency' and 'Action Plan 3: Local generation (with renewables)' assign the responsibility of implementing and maintaining energy efficiency and renewable energy initiatives to the 'Sustainability' department of the council. This implies that staff resources within this department will be mobilized to carry out these actions. Additionally, the 'Action Plan 6: Waste Management' assigns the responsibility of developing local organics composting solutions to the 'Waste/Sustainability' department, indicating the allocation of staff resources for this task. However, the documents do not provide explicit details on the number of staff or the specific roles they will play in these initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of a policy that actively empowers and educates the community to rally, support, and work productively together to deliver climate action. The policy outlines a program called 'Climate Wise Communities' which aims to raise awareness of local risk factors, promote resilience using a shared responsibility approach, deliver tools that utilise a shared responsibility response to climate change, and investigate potential benefits of communication/social networks that build neighbourhood capacity to prepare for, respond to and recover from extreme weather events. The program uses workshops to engage the community, focusing on preparedness and resilience, and emphasising the benefits of action rather than the negative consequences or risks of inaction. The workshops are designed to facilitate dialogue between 'expert' authorities and 'non-expert' community members, promoting the co-creation of knowledge and strengthening of social networks. This approach is intended to be more effective at building understanding and overcoming complacency than simply distributing information.",
+          "quote": {
+            "content": "Rather than focusing on \u2018doom and gloom\u2019, self-interest and powerlessness, the program provides a way of engaging people more widely on adapting to climate change. The Climate Wise Communities program provides a forum for communicating climate change information in a positive context that raises awareness and offers practical responses.",
+            "page": 12,
+            "source": "Kuringgai-NSW-31.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy, as outlined in the 'Towards Zero Emissions 2030 Action Plan', does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a combination of technological solutions and behaviour change to achieve its goals. Technological solutions include transitioning to 100% renewable energy, fleet transition, and gas fuel switching. The policy also emphasizes the importance of behaviour change, with the Council committing to review and update its information resources relating to energy efficiency in houses, apartments, and businesses. The policy also includes a commitment to work with all levels of government and the community to seek and implement climate mitigation and adaptation solutions. The policy's objectives include reducing Council\u2019s greenhouse gas emissions to levels consistent with the international goal of limiting global heating to 1.5\u02da C above pre-industrial levels, with no overshoot, by 2040 or earlier.",
+          "quote": {
+            "content": "A reduction in total GHG emissions to net zero by 2040, or earlier. Equating to -  A reduction in total GHG emissions of 50% by 2030 (relative to 2000 levels), or earlier.",
+            "page": 6,
+            "source": "Kuringgai-NSW-30.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a Climate Wise Communities (CWC) program that targets 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas. The program also focuses on particular community sectors identified as more vulnerable. The CWC program provides a way of engaging people more widely on adapting to climate change. Communication and engagement focuses on preparedness and resilience. The policy also mentions the implementation of sustainability and climate resilience provisions in planning controls and building performance standards for new and refurbished assets. These actions indicate a clear focus on climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy does mention the need for an evidence-based approach in responding to climate change and regular reviews of plans, strategies, and benchmarks to ensure they remain consistent with the most recent knowledge and best available science, it does not provide specific sources or data to back up its targets and actions. The policy also mentions the implementation of various activities across different sectors of the council, but again, no specific evidence or data is provided to justify these actions. The policy does mention monitoring and reporting against its Climate Change Policy, but it does not provide details on what this monitoring and evaluation process entails or how it will be used to inform future actions. Therefore, while the policy does outline a number of actions and targets, it does not provide well-sourced evidence to justify these."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a variety of actions, each with a specific target or metric, and a timeframe for completion. For instance, the plan includes actions related to energy efficiency, sustainable transport, and waste management. Each action is associated with a specific target or metric, such as the number of household and business organics composting systems implemented, or the currency of online resources related to energy efficiency. The plan also outlines the additional resources required for each action, providing a clear measure of the investment needed. Furthermore, the plan includes a monitoring and evaluation section, which outlines how the impact of mitigation and adaptation activities will be measured, both for the council and the community. This includes quarterly and annual reporting against the council's delivery program and operational plan."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Climate Wise Communities (CWC) program is highlighted as a key initiative in this regard. The CWC program targets 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas. The program also focuses on particular community sectors identified as more vulnerable. The program uses workshops to engage with the community, providing a forum for communicating climate change information in a positive context that raises awareness and offers practical responses. The workshops are designed to be adaptable to meet the needs of particular sectors and are used to build awareness of local area vulnerabilities, understand the roles and responsibilities of emergency services, learn from sharing experiences, and realise the importance of planning and preparedness to increase personal and community resilience.",
+          "quote": {
+            "content": "The program also focuses on particular community sectors identified as more vulnerable. The Climate Wise Communities (CWC) program targets \u2018at risk\u2019 residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas.",
+            "page": 7,
+            "source": "Kuringgai-NSW-31.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has implemented a program called 'Climate Wise Communities' which is designed to engage people more widely on adapting to climate change. The program uses workshops to facilitate dialogue between 'expert' authorities and 'non-expert' community members, promoting the co-creation of knowledge and strengthening of social networks. This approach can be seen as a form of policy experimentation as it tests a specific governance approach under real-world conditions. The workshops are held in familiar settings and use methods that provide an environment where community members are empowered to share their experiences. This approach is designed to promote behavioural change and increase support for climate policies. The program also includes a multi-hazard format that helps participants recognise their risk exposure across different climatic hazard types, including bush fire, storm, flooding and heat stress.",
+          "quote": {
+            "content": "The model has evolved into a multi-hazard format that helps participants recognise their risk exposure across different climatic hazard types, including bush fire, storm, flooding and heat stress.",
+            "page": 10,
+            "source": "Kuringgai-NSW-31.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence of the local government's intent to advocate upward to state and national governments to support climate action. The policy outlines proactive engagement with State and Federal Government and other relevant agencies to influence policies and reforms that affect the Council\u2019s climate change mitigation and adaptation program. This is further emphasized in the document stating that the Council will proactively respond to and engage with advocacy to State or Commonwealth governments regarding clean energy policies. The document also acknowledges that the outcomes described under grid-decarbonisation and sustainable transport, which represent the two largest abatement areas, are directly controlled through regulation and policy settings at state and federal levels of government. This underscores the Council\u2019s role in a 1.5\u00b0C scenario, is best understood through the support it can provide to the community, and its influence on the policy settings within other levels of government."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government policy encourages building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines that the council will work with all levels of government and all sectors of the community to seek climate mitigation and adaptation solutions. It also emphasizes the council's role in supporting the community in efforts to mitigate climate change and build resilience to its impacts. The policy further highlights the importance of integrating climate change considerations into all strategic and operational management activities. The Climate Wise Communities program, as mentioned in the documents, provides a forum for communicating climate change information in a positive context that raises awareness and offers practical responses. This program targets 'at risk' residents and focuses on particular community sectors identified as more vulnerable, thus building local capacity for climate action.",
+          "quote": {
+            "content": "Council will work with and support the community in efforts to mitigate climate change, and adapt and build resilience to climate change impacts. Council will work with all levels of government to seek local, state and national climate mitigation and climate adaptation solutions that are informed by the current knowledge and best available science.",
+            "page": 7,
+            "source": "Kuringgai-NSW-30.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the local government's actions and plans regarding climate change, including engagement with state and federal government and other relevant agencies, they do not provide specific details about any partnerships or alliances. The documents also mention the council's work with the community and other levels of government to seek climate mitigation and adaptation solutions, but again, no specific partnerships or alliances are mentioned. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do explicitly discuss the impact of climate change on vulnerable communities. The Climate Wise Communities (CWC) program, as mentioned in the documents, is designed to target 'at risk' residents in localities assessed as particularly vulnerable to extreme weather events. The program also focuses on specific community sectors identified as more vulnerable. The documents also mention that certain sectors of the community are more vulnerable with variable levels of resilience to extreme weather hazards. These factors can be used to identify specific community groups requiring special attention when building community resilience. The documents also highlight the importance of community engagement and education as the most cost-effective approach to increase community resilience. Therefore, the documents clearly acknowledge the impact of climate change on vulnerable communities and propose strategies to address these impacts.",
+          "quote": {
+            "content": "The program also focuses on particular community sectors identified as more vulnerable. The Climate Wise Communities (CWC) program targets \u2018at risk\u2019 residents in localities assessed as particularly vulnerable to extreme weather events, such as those living in high bush fire risk areas.",
+            "page": 7,
+            "source": "Kuringgai-NSW-31.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention various strategies for climate change mitigation and adaptation, such as sustainable design, resource efficiency, and financial management practices, there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. The documents also mention the Climate Wise Communities program, which targets 'at risk' residents and focuses on community engagement and resilience. However, this does not directly address the equitable sharing of benefits and opportunities of a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 15,
+    "num_questions": 20,
+    "attribute_score": 81.7
+  }
+}

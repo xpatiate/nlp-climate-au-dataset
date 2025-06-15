@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["Armadale-WA-210.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T11:56:54.558854", "lga": "Armadale"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The core purpose of the policy, as outlined in the 'Corporate Greenhouse Action Plan 2014/15 to 2019/20', is indeed climate action. The policy is centered around the reduction of greenhouse gas emissions, with specific targets and actions outlined to achieve this goal. The policy also includes measures to monitor and adapt to climate change, indicating a comprehensive approach to climate action. The policy is not merely a general statement of intent, but includes specific actions and strategies, such as the adoption of green power, the preparation of a business case for investment in solar panels, and the creation of a procurement policy that considers environmental impact. The policy also acknowledges the changing landscape of carbon legislation and its impact on the city's emissions accounting and carbon abatement measures."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": false, "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the City of Armadale's Corporate Greenhouse Action Plan, including past and future targets for reducing greenhouse gas emissions, and various actions taken or planned to achieve these targets. However, they do not provide a clear rationale or justification for why these actions are necessary in terms of the broader issue of climate change. The documents focus more on the technical and operational aspects of the plan, such as changes in carbon legislation and accounting for emissions, rather than the underlying environmental or societal reasons for taking action on climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's Corporate Greenhouse Action Plan for 2014/15 to 2019/20, including past and future goals for reducing greenhouse gas emissions, changes in carbon legislation, and specific actions taken or planned. While the documents indicate a commitment to addressing climate change, they do not express a sense of urgency or call for rapid action. The focus is more on steady, planned progress and adherence to regulatory requirements. The documents also discuss the need to report on progress and make adjustments as necessary, but again, there is no emphasis on speed or urgency in these actions."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a Corporate Greenhouse Action Plan that spans from 2014/15 to 2019/20. This plan includes a series of recommendations and actions, each with a designated responsible party. For instance, one recommendation is to complete the preparation of a Business Case for investment in solar panels within two years of council approval of the 2014/15 to 2019/20 Corporate Greenhouse Action Plan. Another recommendation is to provide a report to Council a year after the flaring system has been commissioned. These examples demonstrate that the document does indeed provide specific timeframes for its intended actions on climate.", "quote": {"content": "Provide a report to Council a year after the flaring system has been commissioned giving an updated forecast on flaring rates and carbon liabilities.", "page": 19, "source": "Armadale-WA-210.pdf", "search_score": 0.94}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on the City of Armadale's Corporate Greenhouse Action Plan, which outlines the city's targets for reducing greenhouse gas emissions and the actions taken to achieve these targets. The documents discuss the changes in carbon legislation and how these changes have impacted the city's responsibilities and reporting of emissions. However, there is no explicit mention or suggestion that a climate emergency response should take precedence over other policies. The documents do highlight the importance of addressing climate change and reducing emissions, but they do not provide a clear hierarchy of policy priorities."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a Corporate Greenhouse Action Plan, and mention various actions and recommendations related to reducing the City's carbon footprint, they do not provide a clear mandate that all council activities must align with this climate policy. The documents discuss specific actions such as developing a building maintenance policy that emphasizes energy efficiency, monitoring Climate Change Adaption Strategies, and preparing a Procurement of Goods and Services Policy that considers environmental impact. However, these actions are specific initiatives rather than a broad requirement for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Corporate Greenhouse Action Plan 2014/15 to 2019/20 by the City of Armadale does explicitly allocate funding for climate action. The plan outlines several actions and initiatives aimed at reducing greenhouse gas emissions, and it is clear that resources have been allocated to these efforts. For instance, the plan mentions the allocation of resources towards the completion of the landfill flaring project, which is aimed at reducing the city's emissions. Additionally, the plan mentions the deposit of $100k into the Revolving Energy Fund (REF), which has been used towards lighting retrofits. These examples demonstrate that the plan not only outlines actions to address climate change but also commits financial resources to these actions. Therefore, it can be concluded that the plan does explicitly allocate funding for climate action.", "quote": {"content": "$100k deposited into the REF and has been used towards lighting retrofits.", "page": 38, "source": "Armadale-WA-210.pdf", "search_score": 0.97}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Corporate Greenhouse Action Plan 2014/15 to 2019/20 by the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to various climate actions. For instance, the Environmental Coordinator is tasked with monitoring Climate Change Adaption Strategies for their relevance to the City of Armadale and pursuing funding and other opportunities to undertake climate change adaption planning within the City. The plan also mentions the 'Switched on Staff\u2019 project, which is an educational initiative aimed at staff members. Furthermore, the plan outlines the role of the Manager Property Services in developing a building maintenance policy that emphasizes energy efficiency. These examples demonstrate that the plan not only allocates staff to climate action but also provides them with specific roles and responsibilities.", "quote": {"content": "$100k deposited into the REF and has been used towards lighting retrofits. Environmental Coordinator Completed.", "page": 38, "source": "Armadale-WA-210.pdf", "search_score": 0.97}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The provided documents do not provide any evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on the local government's internal policies and actions related to climate change, such as the Corporate Greenhouse Action Plan, the monitoring of Climate Change Adaptation Strategies, and the preparation of a Procurement of Goods and Services Policy that considers environmental impact. There is no mention of social mobilisation, community education, or community involvement in these climate action initiatives. Therefore, based on the provided documents, it cannot be affirmed that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a number of technological solutions and behaviour changes aimed at reducing emissions. One of the key actions mentioned in the plan is the construction of a flaring system at the Armadale Landfill and Recycling Facility site. This system is expected to significantly reduce carbon emissions, with an estimated reduction of 10,000tCO2-e in its first year of operation and 70,000tCO2-e over the next nine years. The plan also recommends investigating the expansion of flaring infrastructure and investment in solar panels. However, the plan does not provide specific details on the behaviour changes required to achieve these targets. It is also worth noting that the plan acknowledges that additional measures may be necessary to achieve the target of a 19% per capita reduction in 2000 levels by 2020.", "quote": {"content": "In its first full year of operation (2014/15), it is forecast that the flare will reduce carbon emissions by 10,000tCO2-e, with 70,000tCO2-e avoided over the next 9 years. Circa $400k has been allocated by Council for the construction of a flaring system at the Armadale Landfill and Recycling Facility site.", "page": 3, "source": "Armadale-WA-210.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does include specific actions for climate adaptation and resilience. The plan outlines the responsibility of the Environmental Coordinator to monitor Climate Change Adaptation Strategies for their relevance to the City of Armadale and to pursue funding and other opportunities to undertake climate change adaptation planning within the City. However, the plan does not provide specific details on what these adaptation strategies are or how they will be implemented. The plan is currently in draft form, indicating that further details may be added in the future. It is also worth noting that the plan includes a focus on reducing greenhouse gas emissions, which is a mitigation strategy rather than an adaptation strategy. While this is a positive step towards addressing climate change, it does not directly contribute to the city's adaptation and resilience to the impacts of climate change.", "quote": {"content": "Monitor Climate Change Adaption Strategies for their relevance to the City of Armadale and pursue funding and other opportunities to undertake climate change adaption planning within the City.", "page": 39, "source": "Armadale-WA-210.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the City of Armadale's Corporate Greenhouse Action Plan, including past and future targets for greenhouse gas emissions reduction, they do not provide specific sources or data to justify these targets. The documents mention that the City aims to align with national goals and that the Federal Government will provide incentives to achieve these goals, but no further details or sources are provided to support this claim. The documents also discuss various actions and strategies to reduce emissions, such as a landfill flaring system and a Green Power plan, but again, no specific evidence or sources are provided to justify these actions. Therefore, while the documents provide a detailed overview of the City's climate action plan, they do not meet the high standard of evidence required to justify the chosen targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the plan's proposed actions. While the documents do mention various actions and initiatives related to climate change, such as the implementation of a Green Power plan, the creation of a Corporate Greenhouse Action Plan, and the development of a building maintenance policy that emphasizes energy efficiency, they do not specify how the success of these actions will be measured. The documents also mention the need to report on the extent to which the targets of the 2009 to 2012 Plan have been achieved, but they do not provide specific criteria for evaluating this achievement. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The documents primarily focus on the local government's internal strategies and actions for reducing greenhouse gas emissions and adapting to climate change. These include the creation of a new Corporate Greenhouse Action Plan, the monitoring of Climate Change Adaptation Strategies, and the preparation of a Procurement of Goods and Services Policy that considers the environmental impact of procurement processes. However, there is no mention of conducting research in the local community as a means to inform these or other climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The documents primarily discuss the City of Armadale's Corporate Greenhouse Action Plan, which includes targets for reducing greenhouse gas emissions and actions to achieve these targets. However, the actions mentioned, such as the creation of a new Corporate Greenhouse Action Plan, monitoring Climate Change Adaption Strategies, and preparing a Business Case for investment in solar panels, are standard practices in climate action planning and do not indicate a high level of innovation or experimentation. The documents also mention the completion of a landfill flaring project and the deposit of funds into a Revolving Energy Fund, but these are also common practices in many local governments' climate action plans. Therefore, based on the provided documents, it cannot be concluded that the local government is engaging in innovative or experimental policy approaches to climate action."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own plans and actions to address climate change, such as reducing greenhouse gas emissions and implementing a Corporate Greenhouse Action Plan. There are mentions of regulatory changes and impacts, and the City's response to these changes, but no explicit advocacy towards higher levels of government is indicated. The documents also mention the City's monitoring of Climate Change Adaptation Strategies for their relevance to the City of Armadale, but this does not necessarily imply advocacy to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents primarily focus on the City of Armadale's internal policies and actions related to climate change, such as the development of a Climate Change Adaptation Plan, sustainable procurement practices, and greenhouse gas reduction targets. There is no mention of coordination, partnerships, or advocacy with local communities or neighbouring councils for climate action. Therefore, the documents do not provide evidence to affirmatively answer the question."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate. The documents primarily focus on the City of Armadale's Corporate Greenhouse Action Plan, which includes targets for reducing greenhouse gas emissions and strategies for achieving these targets. The documents mention the role of the Environmental Coordinator and other officers in implementing and monitoring these strategies. However, they do not mention any coordination, partnerships, or advocacy with external organizations or entities related to climate action. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."}], "score": {"num_positives": 0, "num_questions": 3, "score": 0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's plans and actions to address climate change, including a draft Climate Change Adaptation Plan, a Corporate Greenhouse Action Plan, and various strategies for reducing greenhouse gas emissions. There is no mention of specific impacts on vulnerable communities or considerations of equity and social justice in the context of climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents, which focus on the Corporate Greenhouse Action Plan of the local government, do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily discuss the strategies, actions, and recommendations for reducing greenhouse gas emissions, monitoring climate change adaptation strategies, and planning for sustainable procurement. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from these climate actions. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly addresses equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 6, "num_questions": 20, "attribute_score": 40.0}}
+{
+  "settings": {
+    "source_files": [
+      "Armadale-WA-210.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T11:56:54.558854",
+    "lga": "Armadale"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the 'Corporate Greenhouse Action Plan 2014/15 to 2019/20', is indeed climate action. The policy is centered around the reduction of greenhouse gas emissions, with specific targets and actions outlined to achieve this goal. The policy also includes measures to monitor and adapt to climate change, indicating a comprehensive approach to climate action. The policy is not merely a general statement of intent, but includes specific actions and strategies, such as the adoption of green power, the preparation of a business case for investment in solar panels, and the creation of a procurement policy that considers environmental impact. The policy also acknowledges the changing landscape of carbon legislation and its impact on the city's emissions accounting and carbon abatement measures."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly explain the need for action on climate change. They outline the City of Armadale's Corporate Greenhouse Action Plan, including past and future targets for reducing greenhouse gas emissions, and various actions taken or planned to achieve these targets. However, they do not provide a clear rationale or justification for why these actions are necessary in terms of the broader issue of climate change. The documents focus more on the technical and operational aspects of the plan, such as changes in carbon legislation and accounting for emissions, rather than the underlying environmental or societal reasons for taking action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the local government's Corporate Greenhouse Action Plan for 2014/15 to 2019/20, including past and future goals for reducing greenhouse gas emissions, changes in carbon legislation, and specific actions taken or planned. While the documents indicate a commitment to addressing climate change, they do not express a sense of urgency or call for rapid action. The focus is more on steady, planned progress and adherence to regulatory requirements. The documents also discuss the need to report on progress and make adjustments as necessary, but again, there is no emphasis on speed or urgency in these actions."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. It outlines a Corporate Greenhouse Action Plan that spans from 2014/15 to 2019/20. This plan includes a series of recommendations and actions, each with a designated responsible party. For instance, one recommendation is to complete the preparation of a Business Case for investment in solar panels within two years of council approval of the 2014/15 to 2019/20 Corporate Greenhouse Action Plan. Another recommendation is to provide a report to Council a year after the flaring system has been commissioned. These examples demonstrate that the document does indeed provide specific timeframes for its intended actions on climate.",
+          "quote": {
+            "content": "Provide a report to Council a year after the flaring system has been commissioned giving an updated forecast on flaring rates and carbon liabilities.",
+            "page": 19,
+            "source": "Armadale-WA-210.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that a climate emergency response must have higher priority than other policies. The documents focus on the City of Armadale's Corporate Greenhouse Action Plan, which outlines the city's targets for reducing greenhouse gas emissions and the actions taken to achieve these targets. The documents discuss the changes in carbon legislation and how these changes have impacted the city's responsibilities and reporting of emissions. However, there is no explicit mention or suggestion that a climate emergency response should take precedence over other policies. The documents do highlight the importance of addressing climate change and reducing emissions, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a Corporate Greenhouse Action Plan, and mention various actions and recommendations related to reducing the City's carbon footprint, they do not provide a clear mandate that all council activities must align with this climate policy. The documents discuss specific actions such as developing a building maintenance policy that emphasizes energy efficiency, monitoring Climate Change Adaption Strategies, and preparing a Procurement of Goods and Services Policy that considers environmental impact. However, these actions are specific initiatives rather than a broad requirement for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Corporate Greenhouse Action Plan 2014/15 to 2019/20 by the City of Armadale does explicitly allocate funding for climate action. The plan outlines several actions and initiatives aimed at reducing greenhouse gas emissions, and it is clear that resources have been allocated to these efforts. For instance, the plan mentions the allocation of resources towards the completion of the landfill flaring project, which is aimed at reducing the city's emissions. Additionally, the plan mentions the deposit of $100k into the Revolving Energy Fund (REF), which has been used towards lighting retrofits. These examples demonstrate that the plan not only outlines actions to address climate change but also commits financial resources to these actions. Therefore, it can be concluded that the plan does explicitly allocate funding for climate action.",
+          "quote": {
+            "content": "$100k deposited into the REF and has been used towards lighting retrofits.",
+            "page": 38,
+            "source": "Armadale-WA-210.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Corporate Greenhouse Action Plan 2014/15 to 2019/20 by the local government does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to various climate actions. For instance, the Environmental Coordinator is tasked with monitoring Climate Change Adaption Strategies for their relevance to the City of Armadale and pursuing funding and other opportunities to undertake climate change adaption planning within the City. The plan also mentions the 'Switched on Staff\u2019 project, which is an educational initiative aimed at staff members. Furthermore, the plan outlines the role of the Manager Property Services in developing a building maintenance policy that emphasizes energy efficiency. These examples demonstrate that the plan not only allocates staff to climate action but also provides them with specific roles and responsibilities.",
+          "quote": {
+            "content": "$100k deposited into the REF and has been used towards lighting retrofits. Environmental Coordinator Completed.",
+            "page": 38,
+            "source": "Armadale-WA-210.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The provided documents do not provide any evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on the local government's internal policies and actions related to climate change, such as the Corporate Greenhouse Action Plan, the monitoring of Climate Change Adaptation Strategies, and the preparation of a Procurement of Goods and Services Policy that considers environmental impact. There is no mention of social mobilisation, community education, or community involvement in these climate action initiatives. Therefore, based on the provided documents, it cannot be affirmed that the local government is actively empowering and educating the community to rally, support, and work productively together to deliver climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a number of technological solutions and behaviour changes aimed at reducing emissions. One of the key actions mentioned in the plan is the construction of a flaring system at the Armadale Landfill and Recycling Facility site. This system is expected to significantly reduce carbon emissions, with an estimated reduction of 10,000tCO2-e in its first year of operation and 70,000tCO2-e over the next nine years. The plan also recommends investigating the expansion of flaring infrastructure and investment in solar panels. However, the plan does not provide specific details on the behaviour changes required to achieve these targets. It is also worth noting that the plan acknowledges that additional measures may be necessary to achieve the target of a 19% per capita reduction in 2000 levels by 2020.",
+          "quote": {
+            "content": "In its first full year of operation (2014/15), it is forecast that the flare will reduce carbon emissions by 10,000tCO2-e, with 70,000tCO2-e avoided over the next 9 years. Circa $400k has been allocated by Council for the construction of a flaring system at the Armadale Landfill and Recycling Facility site.",
+            "page": 3,
+            "source": "Armadale-WA-210.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does include specific actions for climate adaptation and resilience. The plan outlines the responsibility of the Environmental Coordinator to monitor Climate Change Adaptation Strategies for their relevance to the City of Armadale and to pursue funding and other opportunities to undertake climate change adaptation planning within the City. However, the plan does not provide specific details on what these adaptation strategies are or how they will be implemented. The plan is currently in draft form, indicating that further details may be added in the future. It is also worth noting that the plan includes a focus on reducing greenhouse gas emissions, which is a mitigation strategy rather than an adaptation strategy. While this is a positive step towards addressing climate change, it does not directly contribute to the city's adaptation and resilience to the impacts of climate change.",
+          "quote": {
+            "content": "Monitor Climate Change Adaption Strategies for their relevance to the City of Armadale and pursue funding and other opportunities to undertake climate change adaption planning within the City.",
+            "page": 39,
+            "source": "Armadale-WA-210.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the City of Armadale's Corporate Greenhouse Action Plan, including past and future targets for greenhouse gas emissions reduction, they do not provide specific sources or data to justify these targets. The documents mention that the City aims to align with national goals and that the Federal Government will provide incentives to achieve these goals, but no further details or sources are provided to support this claim. The documents also discuss various actions and strategies to reduce emissions, such as a landfill flaring system and a Green Power plan, but again, no specific evidence or sources are provided to justify these actions. Therefore, while the documents provide a detailed overview of the City's climate action plan, they do not meet the high standard of evidence required to justify the chosen targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of specific measurable criteria to evaluate the success of the plan's proposed actions. While the documents do mention various actions and initiatives related to climate change, such as the implementation of a Green Power plan, the creation of a Corporate Greenhouse Action Plan, and the development of a building maintenance policy that emphasizes energy efficiency, they do not specify how the success of these actions will be measured. The documents also mention the need to report on the extent to which the targets of the 2009 to 2012 Plan have been achieved, but they do not provide specific criteria for evaluating this achievement. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not describe any plans to conduct research in the local community to inform climate actions. The documents primarily focus on the local government's internal strategies and actions for reducing greenhouse gas emissions and adapting to climate change. These include the creation of a new Corporate Greenhouse Action Plan, the monitoring of Climate Change Adaptation Strategies, and the preparation of a Procurement of Goods and Services Policy that considers the environmental impact of procurement processes. However, there is no mention of conducting research in the local community as a means to inform these or other climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention various actions and plans related to climate change, such as the 'Corporate Greenhouse Action Plan 2014/15 to 2019/20', the '2009 to 2012 Plan', and the 'Climate Change Adaptation Plan', there is no specific mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do not refer to pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The provided documents do not show an explicit intent to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own plans and actions to address climate change, such as reducing greenhouse gas emissions and implementing a Corporate Greenhouse Action Plan. There are mentions of regulatory changes and impacts, and the City's response to these changes, but no explicit advocacy towards higher levels of government is indicated. The documents also mention the City's monitoring of Climate Change Adaptation Strategies for their relevance to the City of Armadale, but this does not necessarily imply advocacy to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The documents primarily focus on the City of Armadale's internal policies and actions related to climate change, such as the development of a Climate Change Adaptation Plan, sustainable procurement practices, and greenhouse gas reduction targets. There is no mention of coordination, partnerships, or advocacy with local communities or neighbouring councils for climate action. Therefore, the documents do not provide evidence to affirmatively answer the question."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The provided documents do not refer to any specific regional associations, alliances, or other partnerships related to climate. The documents primarily focus on the City of Armadale's Corporate Greenhouse Action Plan, which includes targets for reducing greenhouse gas emissions and strategies for achieving these targets. The documents mention the role of the Environmental Coordinator and other officers in implementing and monitoring these strategies. However, they do not mention any coordination, partnerships, or advocacy with external organizations or entities related to climate action. Therefore, based on the provided documents, it cannot be affirmed that the policy refers to specific regional associations, alliances, or other partnerships related to climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 3,
+        "score": 0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in relation to equity and social justice. The focus of the documents is primarily on the local government's plans and actions to address climate change, including a draft Climate Change Adaptation Plan, a Corporate Greenhouse Action Plan, and various strategies for reducing greenhouse gas emissions. There is no mention of specific impacts on vulnerable communities or considerations of equity and social justice in the context of climate change. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents, which focus on the Corporate Greenhouse Action Plan of the local government, do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily discuss the strategies, actions, and recommendations for reducing greenhouse gas emissions, monitoring climate change adaptation strategies, and planning for sustainable procurement. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from these climate actions. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly addresses equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 6,
+    "num_questions": 20,
+    "attribute_score": 40.0
+  }
+}

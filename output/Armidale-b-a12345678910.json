@@ -1,1 +1,286 @@
-{"settings": {"source_files": ["Armidale-NSW-1.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T12:06:13.313742", "lga": "Armidale"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly outlines climate action as its core purpose. The policy is designed to facilitate effective cross-departmental action on climate change, with a focus on planning and facilitating action across the organisation, monitoring progress, challenging business-as-usual approaches, and finding beneficial solutions. The policy also outlines the need to identify and prioritise actions that are consistent with the goals of the Climate Emergency Declaration and with the Council's current planning framework. These actions are particularly emphasised if they are likely to have the greatest positive effect, especially in relation to current base level emissions and cost-effectiveness. The policy also outlines the need for community engagement and assistance in climate action, demonstrating a comprehensive approach to addressing climate change.", "quote": {"content": "The focus of the Champion will be to plan and facilitate action across the organisation, facilitate ongoing stakeholder engagement, monitor progress and hold people to account, challenge business-as-usual approaches, and help to find beneficial solution. In order to facilitate effective cross-departmental action, identify within Council a leader \u2013 a Climate Champion (an individual or small core team with the seniority and influence to implement change).", "page": 9, "source": "Armidale-NSW-1.pdf", "search_score": 0.98}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing the climate emergency, emphasizing the urgency of the situation and the need for immediate action. The documents detail a comprehensive plan for engaging the public, gathering feedback, and working collaboratively with various environmental and community groups. They also highlight the importance of understanding and addressing climate change issues specific to their region, as well as contributing to global efforts. The documents further underscore the need for actions that reduce greenhouse emissions, adapt to climate change impacts, and sequester carbon. They propose the development of a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan. The documents also stress the importance of considering the costs and benefits of each action, exploring funding options, and building on existing initiatives."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for urgent action on climate change. The local government has declared a 'Climate Emergency' and has set a target to reduce greenhouse emissions by 2030. The documents also highlight the need for community engagement and education to raise awareness and facilitate further discussion and action. The documents emphasize the need for urgent action by stating that the long-term cost of not taking action may be far greater down the line. The documents also refer to the Intergovernmental Panel on Climate Change (IPCC) report, which describes the enormous harm that a 2\u00b0C rise is likely to cause compared to a 1.5\u00b0C rise, further emphasizing the urgency of the situation.", "quote": {"content": "That Council therefore declares that we are in a \u2018Climate Emergency'. That Council therefore declares that we are in a \u2018Climate Emergency'.", "page": 4, "source": "Armidale-NSW-1.pdf", "search_score": 0.98}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. It mentions that a report should be prepared by February 2020, with input from a working group of the Environmental Sustainability Advisory Committee (ESAC) and the community, on current initiatives and additional future actions that can be undertaken in the short, medium, and long term. The document also sets a goal to reduce greenhouse emissions by 2030, aiming for no additional contribution from the region to the global temperature rise. However, it should be noted that while the document provides these timeframes, it does not provide specific dates for each of the actions to be undertaken within these periods. Therefore, while there is a sense of urgency implied in the document, the lack of specific deadlines for each action may affect the effectiveness and urgency of the policy's implementation."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of addressing climate change and outline a comprehensive plan for doing so, they do not explicitly rank this policy above others. The documents discuss the development of a strategy consistent with the Climate Emergency Declaration, the reduction of greenhouse emissions, community adaptation to climate change, and carbon sequestration. They also mention the need for community engagement, funding, and the development of specific projects. However, these are presented as important aspects of the local government's overall policy approach, rather than as priorities that supersede all others."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The policy outlines a comprehensive approach to climate change, with a focus on reducing greenhouse emissions, adapting to climate change, and carbon sequestration. The policy emphasizes the need for cross-departmental action and the identification of a Climate Champion within the Council to facilitate this action. The policy also calls for the prioritization of actions that are consistent with the goals of the Climate Emergency Declaration and the Council's current planning framework. Furthermore, the policy states that the Climate Emergency Declaration should provide the overarching guiding direction for all Council decisions. This suggests that all council activities should be aligned with the climate policy."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The documents provided do not explicitly allocate funding for climate action. While the policy outlines a comprehensive plan for addressing climate change, including a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan, it does not provide specific details about the allocation of funds to these initiatives. The documents mention the need for fiscal responsibility and the potential for climate actions to result in substantial net operational savings. However, they do not provide clear evidence of a specific allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. It mentions the identification of a 'Climate Champion' within the Council, an individual or small core team with the seniority and influence to implement change. This Climate Champion is tasked with planning and facilitating action across the organisation, engaging stakeholders, monitoring progress, and holding people accountable. The policy also mentions the use of ARC\u2019s Sustainability Officer in collaboration with UNE\u2019s Sustainability Officer to engage the community. These allocations of staff roles and responsibilities indicate a clear commitment to mobilising institutional resources for climate action.", "quote": {"content": "The focus of the Champion will be to plan and facilitate action across the organisation, facilitate ongoing stakeholder engagement, monitor progress and hold people to account, challenge business-as-usual approaches, and help to find beneficial solution. In order to facilitate effective cross-departmental action, identify within Council a leader \u2013 a Climate Champion (an individual or small core team with the seniority and influence to implement change).", "page": 9, "source": "Armidale-NSW-1.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to community engagement, including informing the public about the climate emergency and the need for urgent action, consulting with the public to obtain feedback and understand their perceptions and needs, and involving the public directly in the process to ensure their concerns and aspirations are consistently understood and considered. The policy also emphasizes the importance of collaboration and partnership with the public in decision-making, and the empowerment of the community to own the issue and therefore the solution. Furthermore, the policy identifies potential catalysts to community action on climate, such as knowledge regarding climate impacts and risks, and strategies to overcome barriers to climate action."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that includes both technological solutions and behaviour change. Technological solutions are evident in the plan's emphasis on the development of a Net Zero Emissions / Renewable Energy Strategy and Action Plan, which includes short, medium, and long-term targets and costed actions. This strategy is likely to involve the implementation of renewable energy technologies and other technological innovations to reduce emissions. The plan also includes a Climate Change Risk Assessment and Adaptation Plan for the council and community, which suggests a focus on behavioural change to adapt to and mitigate the impacts of climate change. The plan's emphasis on community engagement and education further underscores its commitment to promoting behaviour change as a key part of its mitigation strategy.", "quote": {"content": "Emergency Declaration and the goals of reducing greenhouse emissions, adaptation to climate change and carbon sequestration.", "page": 10, "source": "Armidale-NSW-1.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. It emphasizes the importance of identifying and understanding the risks posed by climate change, and the need for early planning and preparation to minimize long-term economic, social, and environmental costs. The policy also highlights the role of local knowledge in identifying potential threats and response options. Furthermore, the policy proposes a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan for Council. These plans are designed to reduce greenhouse emissions, sequester carbon, and adapt to climate change, thereby increasing community resilience.", "quote": {"content": "Mitigation activities are designed to reduce greenhouse emissions and/or increase the amounts of greenhouse gases removed from the atmosphere by greenhouse sinks. Mitigation includes actions taken to limit the climate changes caused in the global climate by human activities.", "page": 31, "source": "Armidale-NSW-1.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of strategies and plans related to climate change, such as a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention the need for action and the urgency of the climate emergency, but they do not provide specific data, research, or sources to support their proposed actions and targets. Furthermore, while the documents mention the involvement of the public and various community groups in the planning process, they do not provide details on how this involvement will be facilitated or how it will contribute to the justification of their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a number of actions and strategies to address climate change, such as supporting the transformation of local agricultural practices, planning for increased frequency and severity of drought, and ensuring flexibility to respond to unexpected events, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The policy emphasizes the importance of informed decision-making and fiscal responsibility, and it mentions the need for community engagement and feedback. However, it does not specify how the success of these initiatives will be measured or evaluated. Therefore, it is not possible to affirmatively answer the question based on the provided context."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government plans to engage the community and stakeholders to develop a list of current activities and future actions to reduce global warming and adapt to climate change impacts. This engagement process involves considering the costs and benefits of each action, which implies a research component. The government also plans to explore funding options, which may involve researching potential sources of funding. Furthermore, the government aims to understand and gather ideas from the local community, which involves a form of research. The government also plans to identify potential catalysts to community action on climate, which involves researching what factors might motivate the community to take action. Finally, the government plans to identify barriers to climate action and strategies to overcome these, which involves researching the challenges and potential solutions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive approach to addressing climate change, which includes a variety of innovative strategies. For instance, the government plans to work directly with the public throughout the process to ensure that public concerns and aspirations are consistently understood and considered. This approach is innovative as it involves the public in the decision-making process, which can lead to more effective and accepted policies. Additionally, the government plans to develop a Net Zero Emissions / Renewable Energy Strategy and Action Plan, which includes short, medium, and long-term targets and costed actions. This strategy is an example of policy experimentation as it involves setting ambitious targets and developing new actions to achieve these targets. Furthermore, the government plans to review the Local Environment Plan to incorporate flexibility of zoning in the context of climate change. This is another example of policy experimentation as it involves modifying existing policies to better address climate change."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the importance of community engagement, collaboration, and empowerment in addressing climate change, they do not specifically mention advocacy towards higher levels of government. The documents focus more on local actions, such as identifying a Climate Champion within the Council, prioritizing actions consistent with the Climate Emergency Declaration, and engaging the community to raise awareness and facilitate action. The documents also mention the need for funding and resources, but do not specify that this would involve advocacy to state or national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents indeed encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a comprehensive plan for climate action, which includes a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan. The policy also emphasizes the importance of community engagement in climate action, with the council playing a role in educating, raising awareness, and facilitating further discussion and action. The policy also suggests the appointment of a 'Climate Champion' within the council to facilitate cross-departmental action and stakeholder engagement. Furthermore, the policy encourages collaboration with the public in decision-making processes, including the development of alternatives and identification of preferred solutions. This suggests a commitment to building local capacity for climate action.", "quote": {"content": "Building local engagement with climate emergency action will empower the community to take action and to be proactive towards the climate emergency. While many of the recommendations already noted relate in some form to community involvement, specific whole-of-community engagement with residents, businesses (including agricultural producers) and institutions is essential for this process to successfully move forward.", "page": 34, "source": "Armidale-NSW-1.pdf", "search_score": 0.95}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The policy emphasizes the importance of collaboration and involvement with the public, environmental and community groups, and like-minded and like-skilled groups and bodies. It also mentions the need to work within the existing council framework, including the Community Strategic Plan, EcoARC GreenPrints, and with Project Zero30, RGPAAC and SLA. This suggests that the policy is not only aware of the importance of partnerships in addressing climate change but is also actively seeking to engage with these entities. The policy also mentions the role of a 'Climate Champion' who will facilitate cross-departmental action and stakeholder engagement, further emphasizing the importance of collaboration and partnerships in their approach to climate change."}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention various aspects of climate change impacts, such as on food production, water availability, energy supply, and others, there is no specific mention or discussion about how these impacts would disproportionately affect vulnerable communities. The documents also do not delve into the social justice implications of these impacts. Therefore, based on the provided documents, it cannot be affirmed that the local government's planned actions consider the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention the importance of inclusiveness, social justice, and community engagement in decision-making, it does not provide specific details on how the benefits and opportunities resulting from a safe climate will be shared equitably among all residents. The policy emphasizes the need for science-based policies, community involvement, and the empowerment of Indigenous residents. However, these points are general and do not directly address the equitable distribution of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 71.7}}
+{
+  "settings": {
+    "source_files": [
+      "Armidale-NSW-1.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T12:06:13.313742",
+    "lga": "Armidale"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly outlines climate action as its core purpose. The policy is designed to facilitate effective cross-departmental action on climate change, with a focus on planning and facilitating action across the organisation, monitoring progress, challenging business-as-usual approaches, and finding beneficial solutions. The policy also outlines the need to identify and prioritise actions that are consistent with the goals of the Climate Emergency Declaration and with the Council's current planning framework. These actions are particularly emphasised if they are likely to have the greatest positive effect, especially in relation to current base level emissions and cost-effectiveness. The policy also outlines the need for community engagement and assistance in climate action, demonstrating a comprehensive approach to addressing climate change.",
+          "quote": {
+            "content": "The focus of the Champion will be to plan and facilitate action across the organisation, facilitate ongoing stakeholder engagement, monitor progress and hold people to account, challenge business-as-usual approaches, and help to find beneficial solution. In order to facilitate effective cross-departmental action, identify within Council a leader \u2013 a Climate Champion (an individual or small core team with the seniority and influence to implement change).",
+            "page": 9,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They outline the local government's commitment to addressing the climate emergency, emphasizing the urgency of the situation and the need for immediate action. The documents detail a comprehensive plan for engaging the public, gathering feedback, and working collaboratively with various environmental and community groups. They also highlight the importance of understanding and addressing climate change issues specific to their region, as well as contributing to global efforts. The documents further underscore the need for actions that reduce greenhouse emissions, adapt to climate change impacts, and sequester carbon. They propose the development of a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan. The documents also stress the importance of considering the costs and benefits of each action, exploring funding options, and building on existing initiatives."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for urgent action on climate change. The local government has declared a 'Climate Emergency' and has set a target to reduce greenhouse emissions by 2030. The documents also highlight the need for community engagement and education to raise awareness and facilitate further discussion and action. The documents emphasize the need for urgent action by stating that the long-term cost of not taking action may be far greater down the line. The documents also refer to the Intergovernmental Panel on Climate Change (IPCC) report, which describes the enormous harm that a 2\u00b0C rise is likely to cause compared to a 1.5\u00b0C rise, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "That Council therefore declares that we are in a \u2018Climate Emergency'. That Council therefore declares that we are in a \u2018Climate Emergency'.",
+            "page": 4,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It mentions that a report should be prepared by February 2020, with input from a working group of the Environmental Sustainability Advisory Committee (ESAC) and the community, on current initiatives and additional future actions that can be undertaken in the short, medium, and long term. The document also sets a goal to reduce greenhouse emissions by 2030, aiming for no additional contribution from the region to the global temperature rise. However, it should be noted that while the document provides these timeframes, it does not provide specific dates for each of the actions to be undertaken within these periods. Therefore, while there is a sense of urgency implied in the document, the lack of specific deadlines for each action may affect the effectiveness and urgency of the policy's implementation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the importance of addressing climate change and outline a comprehensive plan for doing so, they do not explicitly rank this policy above others. The documents discuss the development of a strategy consistent with the Climate Emergency Declaration, the reduction of greenhouse emissions, community adaptation to climate change, and carbon sequestration. They also mention the need for community engagement, funding, and the development of specific projects. However, these are presented as important aspects of the local government's overall policy approach, rather than as priorities that supersede all others."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents do explicitly state that all council activities must be aligned with climate policy. The policy outlines a comprehensive approach to climate change, with a focus on reducing greenhouse emissions, adapting to climate change, and carbon sequestration. The policy emphasizes the need for cross-departmental action and the identification of a Climate Champion within the Council to facilitate this action. The policy also calls for the prioritization of actions that are consistent with the goals of the Climate Emergency Declaration and the Council's current planning framework. Furthermore, the policy states that the Climate Emergency Declaration should provide the overarching guiding direction for all Council decisions. This suggests that all council activities should be aligned with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly allocate funding for climate action. While the policy outlines a comprehensive plan for addressing climate change, including a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan, it does not provide specific details about the allocation of funds to these initiatives. The documents mention the need for fiscal responsibility and the potential for climate actions to result in substantial net operational savings. However, they do not provide clear evidence of a specific allocation of funding for climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy does explicitly allocate staff and other non-monetary institutional resources to climate action. It mentions the identification of a 'Climate Champion' within the Council, an individual or small core team with the seniority and influence to implement change. This Climate Champion is tasked with planning and facilitating action across the organisation, engaging stakeholders, monitoring progress, and holding people accountable. The policy also mentions the use of ARC\u2019s Sustainability Officer in collaboration with UNE\u2019s Sustainability Officer to engage the community. These allocations of staff roles and responsibilities indicate a clear commitment to mobilising institutional resources for climate action.",
+          "quote": {
+            "content": "The focus of the Champion will be to plan and facilitate action across the organisation, facilitate ongoing stakeholder engagement, monitor progress and hold people to account, challenge business-as-usual approaches, and help to find beneficial solution. In order to facilitate effective cross-departmental action, identify within Council a leader \u2013 a Climate Champion (an individual or small core team with the seniority and influence to implement change).",
+            "page": 9,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government policy is designed to actively empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a comprehensive approach to community engagement, including informing the public about the climate emergency and the need for urgent action, consulting with the public to obtain feedback and understand their perceptions and needs, and involving the public directly in the process to ensure their concerns and aspirations are consistently understood and considered. The policy also emphasizes the importance of collaboration and partnership with the public in decision-making, and the empowerment of the community to own the issue and therefore the solution. Furthermore, the policy identifies potential catalysts to community action on climate, such as knowledge regarding climate impacts and risks, and strategies to overcome barriers to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a comprehensive approach that includes both technological solutions and behaviour change. Technological solutions are evident in the plan's emphasis on the development of a Net Zero Emissions / Renewable Energy Strategy and Action Plan, which includes short, medium, and long-term targets and costed actions. This strategy is likely to involve the implementation of renewable energy technologies and other technological innovations to reduce emissions. The plan also includes a Climate Change Risk Assessment and Adaptation Plan for the council and community, which suggests a focus on behavioural change to adapt to and mitigate the impacts of climate change. The plan's emphasis on community engagement and education further underscores its commitment to promoting behaviour change as a key part of its mitigation strategy.",
+          "quote": {
+            "content": "Emergency Declaration and the goals of reducing greenhouse emissions, adaptation to climate change and carbon sequestration.",
+            "page": 10,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change, including both mitigation and adaptation strategies. It emphasizes the importance of identifying and understanding the risks posed by climate change, and the need for early planning and preparation to minimize long-term economic, social, and environmental costs. The policy also highlights the role of local knowledge in identifying potential threats and response options. Furthermore, the policy proposes a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan for Council. These plans are designed to reduce greenhouse emissions, sequester carbon, and adapt to climate change, thereby increasing community resilience.",
+          "quote": {
+            "content": "Mitigation activities are designed to reduce greenhouse emissions and/or increase the amounts of greenhouse gases removed from the atmosphere by greenhouse sinks. Mitigation includes actions taken to limit the climate changes caused in the global climate by human activities.",
+            "page": 31,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of strategies and plans related to climate change, such as a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention the need for action and the urgency of the climate emergency, but they do not provide specific data, research, or sources to support their proposed actions and targets. Furthermore, while the documents mention the involvement of the public and various community groups in the planning process, they do not provide details on how this involvement will be facilitated or how it will contribute to the justification of their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's policy does not provide specific measurable criteria to evaluate the success of its proposed actions. While the policy outlines a number of actions and strategies to address climate change, such as supporting the transformation of local agricultural practices, planning for increased frequency and severity of drought, and ensuring flexibility to respond to unexpected events, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The policy emphasizes the importance of informed decision-making and fiscal responsibility, and it mentions the need for community engagement and feedback. However, it does not specify how the success of these initiatives will be measured or evaluated. Therefore, it is not possible to affirmatively answer the question based on the provided context."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government plans to engage the community and stakeholders to develop a list of current activities and future actions to reduce global warming and adapt to climate change impacts. This engagement process involves considering the costs and benefits of each action, which implies a research component. The government also plans to explore funding options, which may involve researching potential sources of funding. Furthermore, the government aims to understand and gather ideas from the local community, which involves a form of research. The government also plans to identify potential catalysts to community action on climate, which involves researching what factors might motivate the community to take action. Finally, the government plans to identify barriers to climate action and strategies to overcome these, which involves researching the challenges and potential solutions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a number of strategies and actions related to climate change, including community engagement, identifying potential catalysts to community action on climate, and the establishment of a Climate Champion within the council, these do not specifically refer to initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. The documents do not mention pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of an explicit intent to advocate upward to state and national governments to support climate action. While the documents do mention the importance of community engagement, collaboration, and empowerment in addressing climate change, they do not specifically mention advocacy towards higher levels of government. The documents focus more on local actions, such as identifying a Climate Champion within the Council, prioritizing actions consistent with the Climate Emergency Declaration, and engaging the community to raise awareness and facilitate action. The documents also mention the need for funding and resources, but do not specify that this would involve advocacy to state or national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents indeed encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a comprehensive plan for climate action, which includes a Net Zero Emissions / Renewable Energy Strategy and Action Plan, a Plan for Carbon Sequestration, and a Climate Change Risk Assessment and Adaptation Plan. The policy also emphasizes the importance of community engagement in climate action, with the council playing a role in educating, raising awareness, and facilitating further discussion and action. The policy also suggests the appointment of a 'Climate Champion' within the council to facilitate cross-departmental action and stakeholder engagement. Furthermore, the policy encourages collaboration with the public in decision-making processes, including the development of alternatives and identification of preferred solutions. This suggests a commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "Building local engagement with climate emergency action will empower the community to take action and to be proactive towards the climate emergency. While many of the recommendations already noted relate in some form to community involvement, specific whole-of-community engagement with residents, businesses (including agricultural producers) and institutions is essential for this process to successfully move forward.",
+            "page": 34,
+            "source": "Armidale-NSW-1.pdf",
+            "search_score": 0.95
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The policy emphasizes the importance of collaboration and involvement with the public, environmental and community groups, and like-minded and like-skilled groups and bodies. It also mentions the need to work within the existing council framework, including the Community Strategic Plan, EcoARC GreenPrints, and with Project Zero30, RGPAAC and SLA. This suggests that the policy is not only aware of the importance of partnerships in addressing climate change but is also actively seeking to engage with these entities. The policy also mentions the role of a 'Climate Champion' who will facilitate cross-departmental action and stakeholder engagement, further emphasizing the importance of collaboration and partnerships in their approach to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention various aspects of climate change impacts, such as on food production, water availability, energy supply, and others, there is no specific mention or discussion about how these impacts would disproportionately affect vulnerable communities. The documents also do not delve into the social justice implications of these impacts. Therefore, based on the provided documents, it cannot be affirmed that the local government's planned actions consider the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate. While the policy does mention the importance of inclusiveness, social justice, and community engagement in decision-making, it does not provide specific details on how the benefits and opportunities resulting from a safe climate will be shared equitably among all residents. The policy emphasizes the need for science-based policies, community involvement, and the empowerment of Indigenous residents. However, these points are general and do not directly address the equitable distribution of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

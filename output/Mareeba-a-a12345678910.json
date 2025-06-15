@@ -1,1 +1,268 @@
-{"settings": {"source_files": ["Mareeba-QLD-275.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T21:25:13.571952", "lga": "Mareeba"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy's core purpose is indeed centered on climate action. The policy explicitly states that managing climate change risks to council services, infrastructure, operations, and supporting the community are critical responsibilities of the local government. The policy outlines the local government's planned actions to minimize the impact of climate change and to realize potential opportunities. These actions include continuing as a member of the Queensland Climate Resilient Council network, participating in the Reef Guardian program, partnering with Natural Resource Management groups, and implementing planning and building measures as climate change adaptive measures are developed. The policy also acknowledges the significant risks posed by climate change, including potential for business discontinuity, increased insurance risk, infrastructure failure, and increased local disaster management due to increased acts of nature."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a significant risk that has the potential to be damaging to the organization and presents opportunities which require action. The document further elaborates on the potential risks associated with climate change, including business discontinuity, increased insurance risk, infrastructure failure, greater workplace and safety risk to workers in prolonged heat conditions, and increased local disaster management due to increased acts of nature. The document also highlights the potential reputational risk associated with a lack of response to climate change. Furthermore, the document outlines the council's planned actions to minimize the impact of climate change and to realize potential opportunities. These actions include implementing practicable planning and building measures as climate change adaptive measures are developed, and working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the risks and potential impacts of climate change, such as increased flooding, infrastructure instability, and fire risk. The policy also outlines measures to manage these risks, such as improving efficiency in electricity usage, planning for water security, and implementing planning and building measures as climate change adaptive measures are developed. However, these measures are presented as ongoing or future actions, rather than urgent or immediate responses. The policy is to be reviewed every four years or as required by Council, suggesting a long-term approach rather than an immediate urgency."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy outlines various strategies to mitigate the impacts of climate change, such as improving efficiency in electricity usage, maintaining the reliability of drinking water schemes, and undertaking strategic planning for water security, it does not specify when these actions will be implemented. The policy does mention that it will be formally reviewed every four years or as required by the Council, but this is a review timeframe rather than an action timeframe. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of managing climate change risks and outline various strategies for climate change resilience, they do not provide a clear prioritisation of these actions over other policies. The documents discuss the potential risks and impacts of climate change on various aspects of the local government's operations and services, and outline measures to mitigate these risks and adapt to changing conditions. However, they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is prioritised above other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The Climate Change Resilience Policy of the Tablelands Regional Council explicitly states that all council activities must be aligned with the climate policy. The policy is applicable to all of the Council and its employees in all decisions and activities. This indicates that all actions undertaken by the council, regardless of their nature or scope, are expected to be in line with the climate policy. This includes not only the council's direct actions, but also its decision-making processes, suggesting that the climate policy should be a key consideration in all council decisions. The policy also outlines specific actions to be taken to minimize the impact of climate change and to realize potential opportunities, further emphasizing the council's commitment to aligning all its activities with the climate policy.", "quote": {"content": "This policy is applicable to all of Council and its employees in all decisions and activities.", "page": 1, "source": "Mareeba-QLD-275.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the policy outlines various strategies to combat climate change, such as partnering with Natural Resource Management groups, improving electricity usage efficiency, and planning for water security, there is no mention of specific budget allocations or funding sources for these initiatives. The policy does mention the responsibility of the Manager Development and Governance to monitor the adequacy of the policy and implement changes, but it does not specify that this includes financial oversight or resource mobilisation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various actions to be taken in response to climate change, such as partnering with Natural Resource Management groups, improving electricity usage efficiency, and planning for water security, it does not specify the allocation of staff or other institutional resources for these actions. The policy does mention the responsibility of the Manager Development and Governance to monitor the policy's adequacy and implement changes, but this does not necessarily imply a specific allocation of staff or resources for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence that the local government policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action. While the policy does mention partnering with Natural Resource Management (NRM) groups, industry bodies, and community groups to develop climate change resilience, it does not specify any actions towards social mobilisation, such as community education or empowerment initiatives. The policy also outlines the council's plans to undertake strategic planning for water security, improve efficiency in electricity usage, and implement planning and building measures as climate change adaptive measures. However, these actions seem to be more focused on the council's own operations and infrastructure, rather than on mobilising the community for climate action."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The policy does mention measures to adapt to climate change and build resilience, such as planning and building measures, working with the Queensland Reconstruction Authority, and improving efficiency in electricity usage. However, these are more focused on adaptation and resilience rather than mitigation of greenhouse gas emissions. Mitigation involves reducing the flow of heat-trapping greenhouse gases into the atmosphere, either by reducing sources of these gases or enhancing the 'sinks' that accumulate and store these gases. The policy does not provide details on specific actions towards this end."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a proactive approach to implementing planning and building measures as climate change adaptive measures are developed. It also includes working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters. The policy also mentions the continuation of the council's membership in the Queensland Climate Resilient Council network and participation in the Reef Guardian program, which collectively advocates in response to threats such as climate change. Furthermore, the policy includes plans for strategic water security planning, fire prevention activities, and the development of a Council Planning Scheme with regard to climate resilience matters.", "quote": {"content": "Work with Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response and recovery from disasters. Proactively implement practicable planning and building measures as climate change adaptive measures are developed.", "page": 1, "source": "Mareeba-QLD-275.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions to be taken in response to climate change, such as partnering with Natural Resource Management groups, improving efficiency in electricity usage, and planning for water security, it does not provide specific, well-sourced evidence to justify these actions. The policy does mention the potential risks and impacts of climate change, such as increased temperatures, changing rainfall patterns, and more intense cyclone events, but it does not link these risks directly to the actions it plans to take. Furthermore, the policy does not provide specific targets or benchmarks for its climate actions, making it difficult to assess the adequacy or effectiveness of these actions. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific actions and targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's Climate Change Resilience Policy does not provide specific measurable criteria to evaluate the success of its proposed actions. The policy outlines various actions to be taken, such as implementing planning and building measures as climate change adaptive measures are developed, working with the Queensland Reconstruction Authority towards resilience building, and improving efficiency in electricity usage. However, it does not provide clear, quantifiable metrics or benchmarks that would allow for the evaluation of the success of these actions. The policy does state that it is the responsibility of the Manager Development and Governance to monitor the adequacy of the policy and implement and approve appropriate changes, and that the policy will be formally reviewed every four years or as required by Council. However, without specific measurable criteria, it is unclear how the success of the policy's actions will be evaluated."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide any specific evidence of plans to conduct research in the local community to inform climate actions. The policy does outline various measures to address climate change, such as implementing planning and building measures as climate change adaptive measures are developed, working with the Queensland Reconstruction Authority towards resilience building, and partnering with various groups to develop climate change resilience. However, these actions seem to be based on existing knowledge and strategies, rather than new research conducted within the local community. The policy also mentions the process of adjustment to actual or expected climate and its effects, but this does not specifically refer to conducting research in the local community. Therefore, based on the provided documents, the answer to the question is negative."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The local government's climate change resilience policy outlines a number of measures to mitigate the impacts of climate change, such as implementing planning and building measures, working with the Queensland Reconstruction Authority for infrastructure resilience, and improving efficiency in electricity usage. However, these measures appear to be standard responses to climate change rather than innovative or experimental policies. The documents also mention the potential for climate change to present unique opportunities, but do not provide specific examples of how the local government plans to capitalize on these opportunities. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in innovative or experimental policy action in response to climate change."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the local government's planned actions in response to climate change, which include partnering with Natural Resource Management groups, industry bodies, and community groups to develop climate change resilience within the shire. It also mentions working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters. However, these actions seem to be focused on local and regional levels, and there is no clear evidence of an intent to advocate to higher levels of government for climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention partnerships with Natural Resource Management (NRM) groups, industry bodies, and community groups to develop climate change resilience within the shire, it does not specifically mention capacity building or collaboration with neighbouring local councils. The policy also mentions participation in the Queensland Climate Resilient Council network and the Reef Guardian program, but these are not explicitly linked to capacity building. Therefore, while the policy does indicate a commitment to collaboration and partnership in addressing climate change, it does not provide clear evidence of a focus on building local capacity across multiple levels of local governance."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations and partnerships related to climate change. The Mareeba Shire Council, as part of its Climate Change Resilience Policy, has outlined its commitment to continue as a member of the Queensland Climate Resilient Council network, which is administered by the Local Government Association of Queensland. This network is a platform for local governments to collaborate and share knowledge on climate change resilience. Additionally, the Council also plans to participate in the Reef Guardian program, a collaborative stewardship program that advocates in response to threats such as climate change. These partnerships and memberships indicate the Council's commitment to collaborate and advocate for climate change resilience at a regional level.", "quote": {"content": "Participate in the Reef Guardian program which is a collaborative stewardship program that collectively advocates in response to threats such as climate change.", "page": 1, "source": "Mareeba-QLD-275.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The policy focuses on the physical impacts of climate change, such as increased temperatures, extreme weather events, and infrastructure instability. It also outlines the council's response to these challenges, including measures to improve efficiency in electricity usage, maintain water infrastructure resilience, and develop climate change adaptive measures. However, there is no specific mention of how these changes might disproportionately affect vulnerable communities or any measures to address such disparities. Therefore, the policy does not meet the high standard of evidence required to affirm that it discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy primarily focuses on the actions that the Mareeba Shire Council will undertake to minimize the impact of climate change and to realize potential opportunities. These actions include participating in the Queensland Climate Resilient Council network, the Reef Guardian program, and partnering with Natural Resource Management groups. The policy also outlines measures to improve efficiency in electricity usage, maintain water infrastructure resilience, and undertake strategic planning for water security. However, there is no specific mention of how these actions will ensure the equitable distribution of benefits and opportunities arising from a safe climate."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 5, "num_questions": 20, "attribute_score": 28.3}}
+{
+  "settings": {
+    "source_files": [
+      "Mareeba-QLD-275.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T21:25:13.571952",
+    "lga": "Mareeba"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy's core purpose is indeed centered on climate action. The policy explicitly states that managing climate change risks to council services, infrastructure, operations, and supporting the community are critical responsibilities of the local government. The policy outlines the local government's planned actions to minimize the impact of climate change and to realize potential opportunities. These actions include continuing as a member of the Queensland Climate Resilient Council network, participating in the Reef Guardian program, partnering with Natural Resource Management groups, and implementing planning and building measures as climate change adaptive measures are developed. The policy also acknowledges the significant risks posed by climate change, including potential for business discontinuity, increased insurance risk, infrastructure failure, and increased local disaster management due to increased acts of nature."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a significant risk that has the potential to be damaging to the organization and presents opportunities which require action. The document further elaborates on the potential risks associated with climate change, including business discontinuity, increased insurance risk, infrastructure failure, greater workplace and safety risk to workers in prolonged heat conditions, and increased local disaster management due to increased acts of nature. The document also highlights the potential reputational risk associated with a lack of response to climate change. Furthermore, the document outlines the council's planned actions to minimize the impact of climate change and to realize potential opportunities. These actions include implementing practicable planning and building measures as climate change adaptive measures are developed, and working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the risks and potential impacts of climate change, such as increased flooding, infrastructure instability, and fire risk. The policy also outlines measures to manage these risks, such as improving efficiency in electricity usage, planning for water security, and implementing planning and building measures as climate change adaptive measures are developed. However, these measures are presented as ongoing or future actions, rather than urgent or immediate responses. The policy is to be reviewed every four years or as required by Council, suggesting a long-term approach rather than an immediate urgency."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the local government's intended actions on climate change. While the policy outlines various strategies to mitigate the impacts of climate change, such as improving efficiency in electricity usage, maintaining the reliability of drinking water schemes, and undertaking strategic planning for water security, it does not specify when these actions will be implemented. The policy does mention that it will be formally reviewed every four years or as required by the Council, but this is a review timeframe rather than an action timeframe. Therefore, the documents do not meet the high standard of evidence required to affirm that they provide specific timeframes for their intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do highlight the importance of managing climate change risks and outline various strategies for climate change resilience, they do not provide a clear prioritisation of these actions over other policies. The documents discuss the potential risks and impacts of climate change on various aspects of the local government's operations and services, and outline measures to mitigate these risks and adapt to changing conditions. However, they do not explicitly state that these actions should take precedence over other policy areas. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response is prioritised above other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The Climate Change Resilience Policy of the Tablelands Regional Council explicitly states that all council activities must be aligned with the climate policy. The policy is applicable to all of the Council and its employees in all decisions and activities. This indicates that all actions undertaken by the council, regardless of their nature or scope, are expected to be in line with the climate policy. This includes not only the council's direct actions, but also its decision-making processes, suggesting that the climate policy should be a key consideration in all council decisions. The policy also outlines specific actions to be taken to minimize the impact of climate change and to realize potential opportunities, further emphasizing the council's commitment to aligning all its activities with the climate policy.",
+          "quote": {
+            "content": "This policy is applicable to all of Council and its employees in all decisions and activities.",
+            "page": 1,
+            "source": "Mareeba-QLD-275.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The policy documents provided do not explicitly allocate funding for climate action. While the policy outlines various strategies to combat climate change, such as partnering with Natural Resource Management groups, improving electricity usage efficiency, and planning for water security, there is no mention of specific budget allocations or funding sources for these initiatives. The policy does mention the responsibility of the Manager Development and Governance to monitor the adequacy of the policy and implement changes, but it does not specify that this includes financial oversight or resource mobilisation. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy outlines various actions to be taken in response to climate change, such as partnering with Natural Resource Management groups, improving electricity usage efficiency, and planning for water security, it does not specify the allocation of staff or other institutional resources for these actions. The policy does mention the responsibility of the Manager Development and Governance to monitor the policy's adequacy and implement changes, but this does not necessarily imply a specific allocation of staff or resources for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence that the local government policy actively empowers and educates the community to rally, support, and work productively together to deliver climate action. While the policy does mention partnering with Natural Resource Management (NRM) groups, industry bodies, and community groups to develop climate change resilience, it does not specify any actions towards social mobilisation, such as community education or empowerment initiatives. The policy also outlines the council's plans to undertake strategic planning for water security, improve efficiency in electricity usage, and implement planning and building measures as climate change adaptive measures. However, these actions seem to be more focused on the council's own operations and infrastructure, rather than on mobilising the community for climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents do not contain specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The policy does mention measures to adapt to climate change and build resilience, such as planning and building measures, working with the Queensland Reconstruction Authority, and improving efficiency in electricity usage. However, these are more focused on adaptation and resilience rather than mitigation of greenhouse gas emissions. Mitigation involves reducing the flow of heat-trapping greenhouse gases into the atmosphere, either by reducing sources of these gases or enhancing the 'sinks' that accumulate and store these gases. The policy does not provide details on specific actions towards this end."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a proactive approach to implementing planning and building measures as climate change adaptive measures are developed. It also includes working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters. The policy also mentions the continuation of the council's membership in the Queensland Climate Resilient Council network and participation in the Reef Guardian program, which collectively advocates in response to threats such as climate change. Furthermore, the policy includes plans for strategic water security planning, fire prevention activities, and the development of a Council Planning Scheme with regard to climate resilience matters.",
+          "quote": {
+            "content": "Work with Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response and recovery from disasters. Proactively implement practicable planning and building measures as climate change adaptive measures are developed.",
+            "page": 1,
+            "source": "Mareeba-QLD-275.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines various actions to be taken in response to climate change, such as partnering with Natural Resource Management groups, improving efficiency in electricity usage, and planning for water security, it does not provide specific, well-sourced evidence to justify these actions. The policy does mention the potential risks and impacts of climate change, such as increased temperatures, changing rainfall patterns, and more intense cyclone events, but it does not link these risks directly to the actions it plans to take. Furthermore, the policy does not provide specific targets or benchmarks for its climate actions, making it difficult to assess the adequacy or effectiveness of these actions. Therefore, while the policy demonstrates a commitment to addressing climate change, it lacks the well-sourced evidence necessary to justify its specific actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's Climate Change Resilience Policy does not provide specific measurable criteria to evaluate the success of its proposed actions. The policy outlines various actions to be taken, such as implementing planning and building measures as climate change adaptive measures are developed, working with the Queensland Reconstruction Authority towards resilience building, and improving efficiency in electricity usage. However, it does not provide clear, quantifiable metrics or benchmarks that would allow for the evaluation of the success of these actions. The policy does state that it is the responsibility of the Manager Development and Governance to monitor the adequacy of the policy and implement and approve appropriate changes, and that the policy will be formally reviewed every four years or as required by Council. However, without specific measurable criteria, it is unclear how the success of the policy's actions will be evaluated."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide any specific evidence of plans to conduct research in the local community to inform climate actions. The policy does outline various measures to address climate change, such as implementing planning and building measures as climate change adaptive measures are developed, working with the Queensland Reconstruction Authority towards resilience building, and partnering with various groups to develop climate change resilience. However, these actions seem to be based on existing knowledge and strategies, rather than new research conducted within the local community. The policy also mentions the process of adjustment to actual or expected climate and its effects, but this does not specifically refer to conducting research in the local community. Therefore, based on the provided documents, the answer to the question is negative."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action as defined by the question. The policy outlines the local government's response to climate change, including measures such as climate smart design, avoidance of development in hazard and flood prone areas, and ensuring adequate water provision. It also mentions the implementation of planning and building measures as climate change adaptive measures are developed. However, these actions do not appear to involve testing technologies, policies, and governance approaches on a small scale and under real-world conditions. They seem to be more general strategies and measures rather than specific experimental initiatives, pilots, test beds, demonstration projects, or urban laboratories. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy outlines the local government's planned actions in response to climate change, which include partnering with Natural Resource Management groups, industry bodies, and community groups to develop climate change resilience within the shire. It also mentions working with the Queensland Reconstruction Authority towards resilience building for infrastructure and community preparation, response, and recovery from disasters. However, these actions seem to be focused on local and regional levels, and there is no clear evidence of an intent to advocate to higher levels of government for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention partnerships with Natural Resource Management (NRM) groups, industry bodies, and community groups to develop climate change resilience within the shire, it does not specifically mention capacity building or collaboration with neighbouring local councils. The policy also mentions participation in the Queensland Climate Resilient Council network and the Reef Guardian program, but these are not explicitly linked to capacity building. Therefore, while the policy does indicate a commitment to collaboration and partnership in addressing climate change, it does not provide clear evidence of a focus on building local capacity across multiple levels of local governance."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate change. The Mareeba Shire Council, as part of its Climate Change Resilience Policy, has outlined its commitment to continue as a member of the Queensland Climate Resilient Council network, which is administered by the Local Government Association of Queensland. This network is a platform for local governments to collaborate and share knowledge on climate change resilience. Additionally, the Council also plans to participate in the Reef Guardian program, a collaborative stewardship program that advocates in response to threats such as climate change. These partnerships and memberships indicate the Council's commitment to collaborate and advocate for climate change resilience at a regional level.",
+          "quote": {
+            "content": "Participate in the Reef Guardian program which is a collaborative stewardship program that collectively advocates in response to threats such as climate change.",
+            "page": 1,
+            "source": "Mareeba-QLD-275.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in terms of equity and social justice. The policy focuses on the physical impacts of climate change, such as increased temperatures, extreme weather events, and infrastructure instability. It also outlines the council's response to these challenges, including measures to improve efficiency in electricity usage, maintain water infrastructure resilience, and develop climate change adaptive measures. However, there is no specific mention of how these changes might disproportionately affect vulnerable communities or any measures to address such disparities. Therefore, the policy does not meet the high standard of evidence required to affirm that it discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The policy primarily focuses on the actions that the Mareeba Shire Council will undertake to minimize the impact of climate change and to realize potential opportunities. These actions include participating in the Queensland Climate Resilient Council network, the Reef Guardian program, and partnering with Natural Resource Management groups. The policy also outlines measures to improve efficiency in electricity usage, maintain water infrastructure resilience, and undertake strategic planning for water security. However, there is no specific mention of how these actions will ensure the equitable distribution of benefits and opportunities arising from a safe climate."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 5,
+    "num_questions": 20,
+    "attribute_score": 28.3
+  }
+}

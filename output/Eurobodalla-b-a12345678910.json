@@ -1,1 +1,317 @@
-{"settings": {"source_files": ["Eurobodalla-NSW-20.pdf", "Eurobodalla-NSW-22.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T17:33:46.120359", "lga": "Eurobodalla"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The core purpose of the policy, as outlined in the Eurobodalla Climate Action Plan 2022-2032, is indeed climate action. The policy is designed to address both mitigation of and adaptation to climate change. The plan outlines a series of actions that the Council will undertake to reduce its carbon footprint, make its operations and service delivery more resilient to the impacts of climate change, and support households and businesses in reducing their greenhouse gas emissions and building climate resilience. The policy also includes a timeframe for the implementation of these actions, indicating a commitment to ongoing climate action. The policy's focus on climate action is further emphasized by its objectives, which include transitioning to cleaner energy, preparing for zero-emission vehicles, improving the sustainability performance and climate resilience of buildings, reducing waste, and expanding areas for biodiversity enhancement."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on various aspects of life, including the health and integrity of natural systems, economic prosperity, and community health and well-being. The documents also emphasize the need for both mitigation strategies to reduce greenhouse gas emissions and adaptation strategies to prepare for the impacts of climate change. The Eurobodalla Climate Action Plan 2022-2032, for instance, outlines specific actions for the Council and the community to reduce emissions and build climate resilience. The documents also underscore the importance of strategic planning and budgeting for the implementation of these actions. Furthermore, they advocate for stronger sustainability requirements for new buildings and significant upgrades, and for the integration of climate change and greenhouse gas issues into regional waste strategies.", "quote": {"content": "Responding effectively to climate change involves both reducing greenhouse gas emissions (mitigation) and being ready to adapt to climate change impacts as they occur Climate change has the potential to affect every aspect of our lives, from the health and integrity of natural systems, to economic prosperity and community health and well-being.", "page": 5, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and targets, such as an 80% energy emissions reduction target by 2030, annual reporting of the progress of the Climate Action Plan, and the development of a Council Climate Adaptation Strategy. However, these actions are presented as part of a long-term strategy rather than an urgent response. The documents also acknowledge uncertainty regarding the feasibility of some actions and the need for time for opportunities to develop into practical solutions. While the documents clearly recognize the seriousness of climate change and the need for action, they do not convey a sense of urgency or immediate crisis."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents indeed provide specific timeframes for the intended actions on climate. The Eurobodalla Climate Action Plan 2022-2032 outlines a range of actions with associated timeframes. These timeframes are categorized as short term (1-2 years), medium term (3-5 years), long term (5+ years), and ongoing. For instance, the plan mentions the development of an Electric Vehicle (EV) Strategy in the short term, and the implementation of this strategy is planned for the medium to long term. Similarly, the plan outlines the integration of climate resilience into future updates of the Economic Development Strategy in the medium term. The plan also includes ongoing actions, such as annual reporting of the progress of the Climate Action Plan and the integration of climate change responses into Council plans. Therefore, the documents provide clear evidence of specific timeframes for the intended actions on climate.", "quote": {"content": "\uf06c\n2.2  Implement the EV Strategy: transition to an EV fleet and implement charging \ninfrastructure and changes needed in work practices. TIMEFRAME:\n\uf06c short term  (1-2 years)    \uf06c\uf06c medium term (3-5 years)    \uf06c\uf06c\uf06c long term (5+ years)    \uf084 Ongoing\nCouncil actions\n2.1  Develop an Electric Vehicle (EV) Strategy including charging infrastructure \nrequirements, operational changes and transition plan.", "page": 4, "source": "Eurobodalla-NSW-20.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of actions and strategies related to climate change mitigation and adaptation, they do not explicitly prioritize these actions over other policies. The documents discuss the development of a Climate Action Plan, an Emissions Reduction Plan, and a Climate Adaptation Strategy, and they mention the importance of integrating climate change responses into Council plans and programs. However, they do not explicitly state that these climate-related actions and strategies should take precedence over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, including the development of a Climate Action Plan, the integration of climate change responses into Council plans, and the consideration of climate change impacts on Council operations, they do not explicitly require all council activities to align with these climate policies. The documents suggest a commitment to addressing climate change and reducing emissions, but they do not provide clear evidence of a mandate that all council activities must be in alignment with these climate policies."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government's policy documents clearly indicate that funding has been allocated for climate action. The Emissions Reduction Plan 2017-2021 emphasizes the importance of resourcing adequate staff and funds to deliver on the plan's actions. It mentions that existing operational budgets will cover the costs associated with the plan in many cases. However, it also acknowledges that some actions will require additional financial support to achieve the council's goals of mitigating climate change. The plan also mentions that strategic planning for implementation over the coming years, including the prioritization of actions, will help ensure measurable progress is achieved. Furthermore, the plan outlines that all 'Core' actions will be delivered using existing budgets, and many of the 'New' actions will also be delivered via existing operational budgets or integrated into future capital projects.", "quote": {"content": "Other actions, however, will require additional financial support if Council\u2019s goals of mitigating climate change and capitalising on associated opportunities are to be achieved. It will be important for Council to prioritise and allocate adequate funding and human resources to ensure the progression of these actions. In many cases existing operational budgets will be able to cover the costs associated with the Plan.", "page": 43, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.99}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The Emissions Reduction Plan 2017-2021 document highlights the importance of resourcing adequate staff and funds for the successful implementation of the plan's actions. It emphasizes the need for the Council to prioritize and allocate sufficient funding and human resources to ensure the progression of these actions. The plan also acknowledges that while existing operational budgets will cover the costs associated with some actions, others will require additional financial support. Furthermore, the plan outlines the need for investigating the feasibility of new opportunities, which implies the allocation of staff time and expertise. The plan also mentions the development of a Council Climate Adaptation Strategy, which would require the allocation of institutional resources.", "quote": {"content": "It will be important for Council to prioritise and allocate adequate funding and human resources to ensure the progression of these actions.", "page": 43, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The government has implemented various programs and initiatives to facilitate community response to climate change. For instance, they provide climate change education and engagement programs in partnership with community and government organisations. They also support the development of local community renewable energy generation initiatives and efforts to preserve and increase local carbon farming activities. Furthermore, they encourage the community to adopt sustainable technologies by raising awareness about the availability of rebates and incentives offered by Local, NSW, and Australian Governments or by community organisations. The government also supports improved public transport linkages, which can reduce transport emissions. These actions demonstrate a clear commitment to social mobilisation for climate action.", "quote": {"content": "Continue to advocate for and support improved public transport linkages. Support and encourage climate change programs for residents, businesses, the community and staff. Support the development of local community renewable energy generation initiatives where they are deemed appropriate and feasible. Support efforts to preserve and increase local carbon farming activities. Council will encourage the community to adopt sustainable technologies by raising awareness about the availability of rebates and incentives offered by Local, NSW and Australian Governments or by community organisations.", "page": 27, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's policy, as outlined in the 'Emissions Reduction Plan 2017-2021' and the 'DRAFT Eurobodalla Climate Action Plan 2022-2032', does include specific actions for the mitigation of greenhouse gas emissions. These actions encompass both technological solutions and behaviour change. Technological solutions include the installation of solar hot water systems, the investigation of opportunities for further methane capture and flaring at landfills, and the implementation of energy management strategies. Behaviour change is encouraged through the integration of sustainability and climate resilience into the design of residential and commercial buildings, and the urban form. The policy also outlines the need for Council to lead by example in showcasing better building design and construction. The policy further emphasizes the importance of annual reporting of the progress of the Climate Action Plan and the integration of climate change responses into Council plans, programmes, and reports.", "quote": {"content": "Council will also keep a firm focus on emerging technologies and will be investigating a number of new opportunities. Key actions for Council to reduce emissions include continued efforts in energy efficiency, renewable energy, reducing methane pollution from landfill, decarbonising the fleet and developing an Adaptation Strategy.", "page": 5, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to addressing climate change, with a focus on both mitigation and adaptation strategies. The plan includes the development of a dedicated Climate Change Adaptation Strategy, which will assess climate change risks and adaptation strategies in detail. This strategy will consider the impact of climate change hazards on infrastructure, the natural environment, built assets, and health, and will develop structured policy and planning responses. The plan also includes actions to improve the Council's adaptability and responsiveness to changing climatic conditions and responsibilities related to tackling climate change. Furthermore, the plan outlines actions to manage the increased risk of natural hazards such as flooding, bushfire, and heatwaves on assets, infrastructure, and settlements. Therefore, the plan does include specific actions for climate adaptation and resilience.", "quote": {"content": "Refine adaptation strategies for further financial analysis prior \nto implementation. Develop a Council Climate \nAdaptation Strategy by June 2020. A detailed Adaptation Strategy will be developed that considers \nCouncil\u2019s response to climate change. This will include:  \n1. Analysis of risk from key climate change hazards: heat, \nbushfire, flood, coastal hazards, sea level rise. 2. Impact of these hazards on infrastructure, natural \nenvironment, built assets and health. 3. Analysis of response pathways and adaptation strategies. 4. Overview of financial impacts on Council of the hazards and \nadaptation strategies. 5. Develop a structured policy and planning responses. 6.", "page": 55, "source": "Eurobodalla-NSW-22.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of climate targets and actions, such as an 80% energy emissions reduction target by 2030, the development of a Climate Adaptation Strategy, and various actions to reduce emissions and build climate resilience, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention the need for action and the benefits of certain actions, such as improving efficiencies and accessing potential grant funds, but they do not provide detailed, evidence-based justifications for why these specific targets and actions have been chosen. Furthermore, the documents acknowledge that there is a level of uncertainty regarding the feasibility of some of these actions, which further undermines the strength of the evidence provided."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a system of regular monitoring, measuring, and reporting, with the Sustainability Matrix Group overseeing the implementation and progress of the Emissions Reduction Plan. The progress towards the implementation of relevant actions will be reviewed and reported on annually. If there is a lack of progress made towards various actions, revisions may be required. The plan also includes a risk management matrix, which outlines potential risks, their impacts, likelihood, and treatments. This matrix provides a framework for assessing the success of the plan in managing these risks. Furthermore, the plan will be reviewed in its entirety in 2021 and updated or replaced with a new plan at that time. This indicates a commitment to ongoing evaluation and improvement.", "quote": {"content": "This group will oversee the implementation and progress of the Emissions Reduction Plan. The Sustainability Matrix Group is a Council staff group with representation from all divisions and key emissions intensive asset managers.", "page": 44, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents mention various actions and strategies related to climate change, such as the development of a Climate Change Adaptation Strategy, the integration of climate change responses into Council plans, and the implementation of actions to reduce emissions, these do not specifically involve conducting research in the local community. The documents also mention a 2016 survey of local residents regarding their concerns about climate change, but this is a past activity and does not indicate a plan for future research. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has outlined a comprehensive plan to tackle climate change, which includes both mitigation and adaptation strategies. The Emissions Reduction Plan 2017-2021 and the Climate Action Plan 2022-2032 demonstrate a commitment to innovative approaches such as the development of a large-scale solar farm, the transition to zero-emission vehicles, and the integration of sustainability and climate resilience into urban design and construction. The plans also show a willingness to experiment with new ideas and technologies, as evidenced by the commitment to pilot new ideas in building design and construction, and to keep a firm focus on emerging technologies. Furthermore, the plans include a commitment to annual reviews and updates, indicating a readiness to adapt and refine strategies based on new information and changing circumstances.", "quote": {"content": "Refine adaptation strategies for further financial analysis prior to implementation. A detailed Adaptation Strategy will be developed that considers Council\u2019s response to climate change. This will include: Analysis of risk from key climate change hazards: heat, bushfire, flood, coastal hazards, sea level rise. Impact of these hazards on infrastructure, natural environment, built assets and health. Analysis of response pathways and adaptation strategies. Overview of financial impacts on Council of the hazards and adaptation strategies. Develop a structured policy and planning responses.", "page": 55, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various actions outlined in the 'DRAFT Eurobodalla Climate Action Plan 2022-2032'. For instance, the local government plans to advocate to the NSW Government to upgrade existing sustainability requirements for new buildings and significant upgrades. Similarly, they plan to advocate to the Australian Government and national bodies to improve the National Construction Code by raising energy efficiency standards and integrating new standards related to acute heat risks. Furthermore, the local government also plans to advocate to the NSW Government for support to assist in addressing barriers to enable further investment in sustainability upgrades for businesses. These actions demonstrate a clear intent to engage with higher levels of government to advance climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a number of actions that the council plans to take to support the community and businesses in their climate action efforts. For instance, the council plans to assist the business sector with information on climate change and opportunities, advocate for support to address barriers to sustainability upgrades for businesses, and develop and share community tools and initiatives to support climate action. The council also plans to work in partnership to strategically plan for the future and progress towards the community vision. While the documents do not explicitly mention neighbouring local councils, the emphasis on partnership and collaboration suggests that neighbouring councils could be included in these efforts.", "quote": {"content": "Advocate to NSW Government for support to assist in addressing barriers to enable further investment in sustainability upgrades for business.", "page": 10, "source": "Eurobodalla-NSW-20.pdf", "search_score": 0.97}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations and alliances related to climate. The South Coast Health and Sustainability Alliance (SHASA) is mentioned as an active group supporting the uptake of renewable energy. Additionally, a local chapter of the international climate change advocacy group '350.org' was established in Eurobodalla in 2015. The documents also mention the Council's intention to collaborate with the NSW Government agency, South East Local Land Services (LLS), to promote practices for low-carbon livestock and agricultural production. These references indicate that the local government is not working in isolation but is part of a broader network of organizations and agencies committed to addressing climate change.", "quote": {"content": "The South coast Health and Sustainability Alliance (SHASA) was formed in 2015 and has been active in supporting the take up of more renewable energy. A local Eurobodalla chapter of the international climate change advocacy group '350.org' was established in 2015.", "page": 8, "source": "Eurobodalla-NSW-22.pdf", "search_score": 0.97}}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address how these measures would affect or benefit vulnerable communities. The documents focus on general community concerns about climate change, plans for emissions reduction, climate resilience, and adaptation strategies. However, they do not delve into the specific impacts of these policies on different social groups, particularly those that might be disproportionately affected by climate change due to socio-economic factors. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The focus is primarily on reducing emissions, improving energy efficiency, and adapting to climate change impacts. There is mention of supporting businesses and the community in sustainable practices and climate change actions, but this does not directly relate to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 70.0}}
+{
+  "settings": {
+    "source_files": [
+      "Eurobodalla-NSW-20.pdf",
+      "Eurobodalla-NSW-22.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T17:33:46.120359",
+    "lga": "Eurobodalla"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The core purpose of the policy, as outlined in the Eurobodalla Climate Action Plan 2022-2032, is indeed climate action. The policy is designed to address both mitigation of and adaptation to climate change. The plan outlines a series of actions that the Council will undertake to reduce its carbon footprint, make its operations and service delivery more resilient to the impacts of climate change, and support households and businesses in reducing their greenhouse gas emissions and building climate resilience. The policy also includes a timeframe for the implementation of these actions, indicating a commitment to ongoing climate action. The policy's focus on climate action is further emphasized by its objectives, which include transitioning to cleaner energy, preparing for zero-emission vehicles, improving the sustainability performance and climate resilience of buildings, reducing waste, and expanding areas for biodiversity enhancement."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. They highlight the potential impacts of climate change on various aspects of life, including the health and integrity of natural systems, economic prosperity, and community health and well-being. The documents also emphasize the need for both mitigation strategies to reduce greenhouse gas emissions and adaptation strategies to prepare for the impacts of climate change. The Eurobodalla Climate Action Plan 2022-2032, for instance, outlines specific actions for the Council and the community to reduce emissions and build climate resilience. The documents also underscore the importance of strategic planning and budgeting for the implementation of these actions. Furthermore, they advocate for stronger sustainability requirements for new buildings and significant upgrades, and for the integration of climate change and greenhouse gas issues into regional waste strategies.",
+          "quote": {
+            "content": "Responding effectively to climate change involves both reducing greenhouse gas emissions (mitigation) and being ready to adapt to climate change impacts as they occur Climate change has the potential to affect every aspect of our lives, from the health and integrity of natural systems, to economic prosperity and community health and well-being.",
+            "page": 5,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline a series of planned actions and targets, such as an 80% energy emissions reduction target by 2030, annual reporting of the progress of the Climate Action Plan, and the development of a Council Climate Adaptation Strategy. However, these actions are presented as part of a long-term strategy rather than an urgent response. The documents also acknowledge uncertainty regarding the feasibility of some actions and the need for time for opportunities to develop into practical solutions. While the documents clearly recognize the seriousness of climate change and the need for action, they do not convey a sense of urgency or immediate crisis."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents indeed provide specific timeframes for the intended actions on climate. The Eurobodalla Climate Action Plan 2022-2032 outlines a range of actions with associated timeframes. These timeframes are categorized as short term (1-2 years), medium term (3-5 years), long term (5+ years), and ongoing. For instance, the plan mentions the development of an Electric Vehicle (EV) Strategy in the short term, and the implementation of this strategy is planned for the medium to long term. Similarly, the plan outlines the integration of climate resilience into future updates of the Economic Development Strategy in the medium term. The plan also includes ongoing actions, such as annual reporting of the progress of the Climate Action Plan and the integration of climate change responses into Council plans. Therefore, the documents provide clear evidence of specific timeframes for the intended actions on climate.",
+          "quote": {
+            "content": "\uf06c\n2.2  Implement the EV Strategy: transition to an EV fleet and implement charging \ninfrastructure and changes needed in work practices. TIMEFRAME:\n\uf06c short term  (1-2 years)    \uf06c\uf06c medium term (3-5 years)    \uf06c\uf06c\uf06c long term (5+ years)    \uf084 Ongoing\nCouncil actions\n2.1  Develop an Electric Vehicle (EV) Strategy including charging infrastructure \nrequirements, operational changes and transition plan.",
+            "page": 4,
+            "source": "Eurobodalla-NSW-20.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a number of actions and strategies related to climate change mitigation and adaptation, they do not explicitly prioritize these actions over other policies. The documents discuss the development of a Climate Action Plan, an Emissions Reduction Plan, and a Climate Adaptation Strategy, and they mention the importance of integrating climate change responses into Council plans and programs. However, they do not explicitly state that these climate-related actions and strategies should take precedence over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a number of actions and strategies related to climate change, including the development of a Climate Action Plan, the integration of climate change responses into Council plans, and the consideration of climate change impacts on Council operations, they do not explicitly require all council activities to align with these climate policies. The documents suggest a commitment to addressing climate change and reducing emissions, but they do not provide clear evidence of a mandate that all council activities must be in alignment with these climate policies."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government's policy documents clearly indicate that funding has been allocated for climate action. The Emissions Reduction Plan 2017-2021 emphasizes the importance of resourcing adequate staff and funds to deliver on the plan's actions. It mentions that existing operational budgets will cover the costs associated with the plan in many cases. However, it also acknowledges that some actions will require additional financial support to achieve the council's goals of mitigating climate change. The plan also mentions that strategic planning for implementation over the coming years, including the prioritization of actions, will help ensure measurable progress is achieved. Furthermore, the plan outlines that all 'Core' actions will be delivered using existing budgets, and many of the 'New' actions will also be delivered via existing operational budgets or integrated into future capital projects.",
+          "quote": {
+            "content": "Other actions, however, will require additional financial support if Council\u2019s goals of mitigating climate change and capitalising on associated opportunities are to be achieved. It will be important for Council to prioritise and allocate adequate funding and human resources to ensure the progression of these actions. In many cases existing operational budgets will be able to cover the costs associated with the Plan.",
+            "page": 43,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The Emissions Reduction Plan 2017-2021 document highlights the importance of resourcing adequate staff and funds for the successful implementation of the plan's actions. It emphasizes the need for the Council to prioritize and allocate sufficient funding and human resources to ensure the progression of these actions. The plan also acknowledges that while existing operational budgets will cover the costs associated with some actions, others will require additional financial support. Furthermore, the plan outlines the need for investigating the feasibility of new opportunities, which implies the allocation of staff time and expertise. The plan also mentions the development of a Council Climate Adaptation Strategy, which would require the allocation of institutional resources.",
+          "quote": {
+            "content": "It will be important for Council to prioritise and allocate adequate funding and human resources to ensure the progression of these actions.",
+            "page": 43,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is actively empowering and educating the community to rally, support, and work together to deliver climate action. The government has implemented various programs and initiatives to facilitate community response to climate change. For instance, they provide climate change education and engagement programs in partnership with community and government organisations. They also support the development of local community renewable energy generation initiatives and efforts to preserve and increase local carbon farming activities. Furthermore, they encourage the community to adopt sustainable technologies by raising awareness about the availability of rebates and incentives offered by Local, NSW, and Australian Governments or by community organisations. The government also supports improved public transport linkages, which can reduce transport emissions. These actions demonstrate a clear commitment to social mobilisation for climate action.",
+          "quote": {
+            "content": "Continue to advocate for and support improved public transport linkages. Support and encourage climate change programs for residents, businesses, the community and staff. Support the development of local community renewable energy generation initiatives where they are deemed appropriate and feasible. Support efforts to preserve and increase local carbon farming activities. Council will encourage the community to adopt sustainable technologies by raising awareness about the availability of rebates and incentives offered by Local, NSW and Australian Governments or by community organisations.",
+            "page": 27,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's policy, as outlined in the 'Emissions Reduction Plan 2017-2021' and the 'DRAFT Eurobodalla Climate Action Plan 2022-2032', does include specific actions for the mitigation of greenhouse gas emissions. These actions encompass both technological solutions and behaviour change. Technological solutions include the installation of solar hot water systems, the investigation of opportunities for further methane capture and flaring at landfills, and the implementation of energy management strategies. Behaviour change is encouraged through the integration of sustainability and climate resilience into the design of residential and commercial buildings, and the urban form. The policy also outlines the need for Council to lead by example in showcasing better building design and construction. The policy further emphasizes the importance of annual reporting of the progress of the Climate Action Plan and the integration of climate change responses into Council plans, programmes, and reports.",
+          "quote": {
+            "content": "Council will also keep a firm focus on emerging technologies and will be investigating a number of new opportunities. Key actions for Council to reduce emissions include continued efforts in energy efficiency, renewable energy, reducing methane pollution from landfill, decarbonising the fleet and developing an Adaptation Strategy.",
+            "page": 5,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The documents outline a comprehensive approach to addressing climate change, with a focus on both mitigation and adaptation strategies. The plan includes the development of a dedicated Climate Change Adaptation Strategy, which will assess climate change risks and adaptation strategies in detail. This strategy will consider the impact of climate change hazards on infrastructure, the natural environment, built assets, and health, and will develop structured policy and planning responses. The plan also includes actions to improve the Council's adaptability and responsiveness to changing climatic conditions and responsibilities related to tackling climate change. Furthermore, the plan outlines actions to manage the increased risk of natural hazards such as flooding, bushfire, and heatwaves on assets, infrastructure, and settlements. Therefore, the plan does include specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Refine adaptation strategies for further financial analysis prior \nto implementation. Develop a Council Climate \nAdaptation Strategy by June 2020. A detailed Adaptation Strategy will be developed that considers \nCouncil\u2019s response to climate change. This will include:  \n1. Analysis of risk from key climate change hazards: heat, \nbushfire, flood, coastal hazards, sea level rise. 2. Impact of these hazards on infrastructure, natural \nenvironment, built assets and health. 3. Analysis of response pathways and adaptation strategies. 4. Overview of financial impacts on Council of the hazards and \nadaptation strategies. 5. Develop a structured policy and planning responses. 6.",
+            "page": 55,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline a number of climate targets and actions, such as an 80% energy emissions reduction target by 2030, the development of a Climate Adaptation Strategy, and various actions to reduce emissions and build climate resilience, they do not provide specific, well-sourced evidence to justify these targets and actions. The documents mention the need for action and the benefits of certain actions, such as improving efficiencies and accessing potential grant funds, but they do not provide detailed, evidence-based justifications for why these specific targets and actions have been chosen. Furthermore, the documents acknowledge that there is a level of uncertainty regarding the feasibility of some of these actions, which further undermines the strength of the evidence provided."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a system of regular monitoring, measuring, and reporting, with the Sustainability Matrix Group overseeing the implementation and progress of the Emissions Reduction Plan. The progress towards the implementation of relevant actions will be reviewed and reported on annually. If there is a lack of progress made towards various actions, revisions may be required. The plan also includes a risk management matrix, which outlines potential risks, their impacts, likelihood, and treatments. This matrix provides a framework for assessing the success of the plan in managing these risks. Furthermore, the plan will be reviewed in its entirety in 2021 and updated or replaced with a new plan at that time. This indicates a commitment to ongoing evaluation and improvement.",
+          "quote": {
+            "content": "This group will oversee the implementation and progress of the Emissions Reduction Plan. The Sustainability Matrix Group is a Council staff group with representation from all divisions and key emissions intensive asset managers.",
+            "page": 44,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the documents mention various actions and strategies related to climate change, such as the development of a Climate Change Adaptation Strategy, the integration of climate change responses into Council plans, and the implementation of actions to reduce emissions, these do not specifically involve conducting research in the local community. The documents also mention a 2016 survey of local residents regarding their concerns about climate change, but this is a past activity and does not indicate a plan for future research. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has outlined a series of actions and initiatives that can be considered as experiments to test technologies, policies, and governance approaches on a small scale and under real-world conditions. For instance, the documents mention the investigation of emerging clean energy technologies, which may involve partnering with universities or businesses to help pilot emerging clean technologies. This suggests an experimental approach to climate action, as it involves testing new technologies in real-world conditions. Additionally, the documents mention the development of a dedicated Climate Change Adaptation Strategy, which will assess all the climate change risks and adaptation strategies required for Eurobodalla in detail. This strategy can be seen as a form of policy experimentation, as it involves testing different strategies to address climate change risks.",
+          "quote": {
+            "content": "For example, tidal power at Malabar Weir, peer-to-peer electricity trading and local network credits. Investigate emerging clean energy technologies. This may involve partnering with universities or businesses to help pilot emerging clean technologies.",
+            "page": 39,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents indeed show an explicit intent by the local government to advocate upward to state and national governments to support climate action. This is evident in the various actions outlined in the 'DRAFT Eurobodalla Climate Action Plan 2022-2032'. For instance, the local government plans to advocate to the NSW Government to upgrade existing sustainability requirements for new buildings and significant upgrades. Similarly, they plan to advocate to the Australian Government and national bodies to improve the National Construction Code by raising energy efficiency standards and integrating new standards related to acute heat risks. Furthermore, the local government also plans to advocate to the NSW Government for support to assist in addressing barriers to enable further investment in sustainability upgrades for businesses. These actions demonstrate a clear intent to engage with higher levels of government to advance climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The policy outlines a number of actions that the council plans to take to support the community and businesses in their climate action efforts. For instance, the council plans to assist the business sector with information on climate change and opportunities, advocate for support to address barriers to sustainability upgrades for businesses, and develop and share community tools and initiatives to support climate action. The council also plans to work in partnership to strategically plan for the future and progress towards the community vision. While the documents do not explicitly mention neighbouring local councils, the emphasis on partnership and collaboration suggests that neighbouring councils could be included in these efforts.",
+          "quote": {
+            "content": "Advocate to NSW Government for support to assist in addressing barriers to enable further investment in sustainability upgrades for business.",
+            "page": 10,
+            "source": "Eurobodalla-NSW-20.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations and alliances related to climate. The South Coast Health and Sustainability Alliance (SHASA) is mentioned as an active group supporting the uptake of renewable energy. Additionally, a local chapter of the international climate change advocacy group '350.org' was established in Eurobodalla in 2015. The documents also mention the Council's intention to collaborate with the NSW Government agency, South East Local Land Services (LLS), to promote practices for low-carbon livestock and agricultural production. These references indicate that the local government is not working in isolation but is part of a broader network of organizations and agencies committed to addressing climate change.",
+          "quote": {
+            "content": "The South coast Health and Sustainability Alliance (SHASA) was formed in 2015 and has been active in supporting the take up of more renewable energy. A local Eurobodalla chapter of the international climate change advocacy group '350.org' was established in 2015.",
+            "page": 8,
+            "source": "Eurobodalla-NSW-22.pdf",
+            "search_score": 0.97
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address how these measures would affect or benefit vulnerable communities. The documents focus on general community concerns about climate change, plans for emissions reduction, climate resilience, and adaptation strategies. However, they do not delve into the specific impacts of these policies on different social groups, particularly those that might be disproportionately affected by climate change due to socio-economic factors. Therefore, based on the provided documents, it cannot be affirmed that the local government policy explicitly discusses the impact of climate change on vulnerable communities in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline various strategies and actions related to climate change mitigation and adaptation, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The focus is primarily on reducing emissions, improving energy efficiency, and adapting to climate change impacts. There is mention of supporting businesses and the community in sustainable practices and climate change actions, but this does not directly relate to the equitable sharing of benefits and opportunities. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 70.0
+  }
+}

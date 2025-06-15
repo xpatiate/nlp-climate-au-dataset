@@ -1,1 +1,310 @@
-{"settings": {"source_files": ["Whittlesea-VIC-200.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T15:12:24.494574", "lga": "Whittlesea"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'Climate Ready Whittlesea', is primarily focused on climate action. The core purpose of the policy is to ensure that the City of Whittlesea is taking necessary actions to adapt to ongoing changes in climate. The policy is intended as an organisational document, focusing on ensuring that services and assets are taking into consideration the latest science to build a vibrant and resilient city. The policy also outlines the role of local government in climate change adaptation, which includes developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management at the municipal level. The policy also aims to help the community understand and get involved in climate change adaptation.", "quote": {"content": "It is intended as an organisational document, focussed on making sure that our services and assets are taking into consideration the latest science so that we can build a vibrant and resilient city. This plan has been developed to ensure that the City of Whittlesea is undertaking the necessary actions to ensure that our organisation is adapting to the ongoing changes in our climate.", "page": 2, "source": "Whittlesea-VIC-200.pdf", "search_score": 0.97}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the observed impacts of climate change in Australia, such as increased average temperatures, changing rainfall patterns, and the severity and frequency of natural disasters. The document also recognizes that while global emissions reduction is important, some level of climate change is inevitable, necessitating planning and adaptation. The purpose of the plan is to ensure that the City of Whittlesea is taking necessary actions to adapt to these ongoing changes. The plan aims to ensure that the city's services and assets are taking into consideration the latest science to build a vibrant and resilient city. The document also outlines the role of local government in developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management.", "quote": {"content": "This plan has been developed to ensure that the City of Whittlesea is undertaking the necessary actions to ensure that our organisation is adapting to the ongoing changes in our climate. Lowering our emissions globally is important as it will slow and limit the change, however we are \u2018locked in\u2019 to the next few decades of changes. The continuation of some level of climate change is certain and planning for this has become a reality.", "page": 2, "source": "Whittlesea-VIC-200.pdf", "search_score": 0.98}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the City of Whittlesea's climate change adaptation plan, which includes measures to adapt to the ongoing changes in climate, such as implementing a Heatwave Plan, using alternative water sources for park irrigation, and installing water-saving measures in Council facilities. The documents also discuss the importance of understanding the long-term trends of climate change for planning purposes and the need for place-based, community-led adaptation. However, there is no explicit call for rapid and urgent action. The documents seem to focus more on long-term planning and adaptation rather than immediate, urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the documents outline the City of Whittlesea's climate change adaptation plan, they do not specify when these actions will be implemented. The documents mention the need for ongoing adaptation to climate change and the intention to begin scoping priority projects in the 17/18FY with implementation to begin in 18/19FY. However, these are not specific timeframes for the overall plan, but rather for individual projects within the plan. Therefore, the documents do not provide clear evidence of specific timeframes for the local government's planned actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the local government's plans for climate change adaptation, including building resilience, planning for emergency management, and developing locally-appropriate responses. They also mention the use of a set of criteria to evaluate and prioritize actions related to climate change. However, there is no explicit statement indicating that a climate emergency response should take precedence over other policies. The documents emphasize the importance of climate change adaptation and mitigation, but they do not provide a clear hierarchy of policy priorities."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of climate change adaptation and the role of local government in managing the impacts of climate change. The documents outline various actions and strategies the council is taking or planning to take to address climate change, such as developing and implementing a climate change adaptation plan, assessing the impacts of climate change within the municipality, and adopting appropriate adaptation strategies. They also mention the council's efforts to build community resilience, provide education on climate change impacts, and issue alerts for extreme heat conditions. However, these actions and strategies are not explicitly required to align with a specific climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions and strategies to address climate change, such as issuing 'unsightly' notices for maintenance of vacant urban land, working with rural landholders on managing land for fire hazard, and supporting the Municipal Fire Management Committee, there is no clear mention of specific funding allocation for these actions. The policy does mention the investigation of alternative options for funding and the development of internal budget bids for high priority actions that have failed to secure external funding. However, these are general statements and do not provide specific details on the amount of funding allocated or the specific climate actions that the funding will support."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate action plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and initiatives to address climate change, and it specifies the departments or roles responsible for each action. For instance, the plan mentions 'Sustainability Planning' and 'Other departments where needed' as the entities involved in developing an itemised list of projects to build community resilience to climate change. Similarly, 'Major Projects', 'Sustainability Planning', and 'Facilities Maintenance' are tasked with piloting a tool for assessing the vulnerability of current facilities to extreme weather events and incremental climate change. These allocations indicate a clear commitment of institutional resources, including staff time and expertise, to climate action.", "quote": {"content": "Sustainability Planning, Other departments where needed What we will do \n\uf0b7 Develop an itemised list of projects that build our community\u2019s resilience to \nclimate change and advocate for release of State Government Sustainability \nFund money directly to local governments and/or regional partners to \nundertake such work \n\uf0b7 Continue to seek State and Federal Government support to meet the \ncommunity\u2019s needs and priorities in adapting to the localized impacts of \nclimate change \n \nWho will this involve?", "page": 17, "source": "Whittlesea-VIC-200.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is actively working to empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a two-pronged approach to community engagement on climate change adaptation. Firstly, it focuses on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. Secondly, it provides opportunities for the community to inform adaptation projects with their local knowledge. The policy also emphasizes the importance of partnerships, both within the community and with external stakeholders, to increase the efficiency and efficacy of climate change adaptation projects. The policy also outlines plans to engage with the community, local emergency management agencies, and health service providers on adaptation projects. Furthermore, the policy acknowledges the local expertise of communities and plans to benefit from the experience and knowledge of residents.", "quote": {"content": "The second is to provide opportunity for the community to inform adaptation projects with their local knowledge. Council will invite our communities and local organisations to participate in climate change adaptation in two distinct ways. The first is to focus on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning or fire preparedness.", "page": 13, "source": "Whittlesea-VIC-200.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's climate change adaptation plan, 'Climate Ready Whittlesea', does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change, such as building community resilience, managing specific climate impacts, and ensuring that local services and assets are taking into consideration the latest science. The plan acknowledges the importance of mitigation as a part of addressing climate change, describing it as the deliberate attempt to reduce greenhouse gases. However, it does not outline specific mitigation actions or strategies. Therefore, based on the provided documents, the plan does not include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy, 'Climate Ready Whittlesea', does include specific actions for climate adaptation and resilience. The policy outlines a plan to develop and deliver locally-appropriate adaptation responses, build the resilience of local assets and services, and plan for emergency management at the municipal level. The policy also includes a commitment to engage with the community on climate change adaptation, with a focus on managing specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. The policy emphasizes the importance of place-based, community-led adaptation as the most effective approach. Furthermore, the policy outlines a process for developing the adaptation plan, which includes research and data collection, analysis of localised data on historic trends and future predictions, and consultation with the community. Therefore, the policy does include specific actions for climate adaptation and resilience.", "quote": {"content": "Work with the community to help people understand and get involved in climate change adaptation. Develop and deliver locally-appropriate adaptation responses. Build the resilience of local assets and services. Plan for emergency management at the municipal level, provide relief and recovery services, and support emergency response operations.", "page": 3, "source": "Whittlesea-VIC-200.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a detailed plan for climate change adaptation, which includes a well-structured approach to data collection, analysis, and implementation. The plan was developed in three stages, starting with research and data collection, which included an analysis of localised data on historic trends and future predictions of the city's exposure to climate change. The plan also includes a monitoring implementation process, which involves providing annual updates on the progress of the projects. The plan also outlines specific actions, such as developing a better understanding of how heat affects the city. The document also provides a prioritisation criteria for the actions, which includes environmental sustainability, social sustainability, and effectiveness. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.", "quote": {"content": "Climate Ready Whittlesea was developed in three stages.", "page": 10, "source": "Whittlesea-VIC-200.pdf", "search_score": 1.0}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a robust system for understanding progress, which includes measuring progress through indicators and monitoring implementation. The plan is working with the Western Alliance for Greenhouse Action (WAGA) and RMIT to develop a grant extending WAGA\u2019s \u2018How well are we Adapting?\u2019 tool, which is an innovative tool that is developing best practice. Furthermore, the plan also includes an annual update to monitor the implementation of the projects. This update will contain key achievements for projects within that year, results of any deliverables within each project, and next steps. Therefore, the plan has a clear and specific system in place to evaluate the success of its proposed actions.", "quote": {"content": "1. This plan sets out two separate steps to achieve this.", "page": 11, "source": "Whittlesea-VIC-200.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to engage with the community on climate change adaptation in two ways. Firstly, they aim to build capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. Secondly, they plan to provide opportunities for the community to inform adaptation projects with their local knowledge. This approach is evident in their past actions, where they combined the knowledge of local farmers with scientific modelling to understand the implications of climate change on the local agricultural sector. Furthermore, the government plans to scope priority projects in the 17/18FY with implementation beginning in 18/19FY. This indicates a clear intention to conduct research within the community to inform their climate actions.", "quote": {"content": "The second is to provide opportunity for the community to inform adaptation projects with their local knowledge. Council will invite our communities and local organisations to participate in climate change adaptation in two distinct ways. The first is to focus on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning or fire preparedness.", "page": 13, "source": "Whittlesea-VIC-200.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's climate change adaptation plan, 'Climate Ready Whittlesea', outlines various strategies and actions to manage the impacts of climate change, such as issuing notices for maintenance of vacant urban land, working with rural landholders on fire hazard management, and implementing a planned burn program. However, these actions seem to be standard responses to climate change impacts rather than innovative or experimental policies. The plan also mentions the use of modern techniques for modelling climate change for long-term planning, but it does not provide specific details about what these techniques are or how they are innovative or experimental. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation or innovative practices in their climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The local government plans to develop an itemised list of projects that build community resilience to climate change and advocate for the release of State Government Sustainability Fund money directly to local governments and/or regional partners to undertake such work. They also plan to continue seeking State and Federal Government support to meet the community\u2019s needs and priorities in adapting to the localized impacts of climate change. Furthermore, the documents mention the local government's role in communicating the needs and priorities of the community to the State Government. The local government also plans to work with regional partners to pool resources and improve regional outcomes, indicating a commitment to partnerships and collaboration in climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a strategy for building partnerships to increase the efficiency and efficacy of climate change adaptation projects. It emphasizes the importance of pooling resources with regional partners to improve regional outcomes. The policy also highlights the need to engage the community, local emergency management agencies, and health service providers in adaptation projects. It further underscores the importance of exploring research opportunities and collaborations with universities and other relevant organizations. The policy also advocates for the development of an itemised list of projects that build community resilience to climate change and seeks state and federal government support to meet the community's needs and priorities in adapting to the localized impacts of climate change.", "quote": {"content": "The impacts of climate change are not limited to council boundaries and so working with regional partners can allow Council to pool resources with other stakeholders to improve regional outcomes. Partnerships are a powerful way to increase the efficiency and efficacy of climate change adaptation projects.", "page": 18, "source": "Whittlesea-VIC-200.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate change. The local government plans to continue supporting the NAGA, an established network of Local Governments working on climate change mitigation and adaptation activities. They also plan to work with the Western Alliance for Greenhouse Action and other regional partners to extend the 'How well are we Adapting' tool for monitoring and evaluation of organisational climate change adaptation. The document also mentions exploring research opportunities and collaborations with Universities and other relevant organisations to support the delivery of key adaptation projects. These partnerships are aimed at pooling resources and improving regional outcomes, as the impacts of climate change are not limited to council boundaries."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the importance of community engagement and adaptation to climate change, they do not specifically address how climate change impacts vulnerable communities or discuss measures to ensure equity and social justice in their climate change policies or actions. The documents focus more on general community resilience, education, and adaptation strategies without specifically addressing the needs of vulnerable communities or discussing these strategies in the context of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's actions and plans related to climate change, such as building community resilience, managing specific climate impacts, and engaging with the community on adaptation. However, they do not provide specific details on how these actions and opportunities will be distributed equitably among different social groups or how social justice will be ensured in the process. Therefore, based on the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 52.5}}
+{
+  "settings": {
+    "source_files": [
+      "Whittlesea-VIC-200.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T15:12:24.494574",
+    "lga": "Whittlesea"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Climate Ready Whittlesea', is primarily focused on climate action. The core purpose of the policy is to ensure that the City of Whittlesea is taking necessary actions to adapt to ongoing changes in climate. The policy is intended as an organisational document, focusing on ensuring that services and assets are taking into consideration the latest science to build a vibrant and resilient city. The policy also outlines the role of local government in climate change adaptation, which includes developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management at the municipal level. The policy also aims to help the community understand and get involved in climate change adaptation.",
+          "quote": {
+            "content": "It is intended as an organisational document, focussed on making sure that our services and assets are taking into consideration the latest science so that we can build a vibrant and resilient city. This plan has been developed to ensure that the City of Whittlesea is undertaking the necessary actions to ensure that our organisation is adapting to the ongoing changes in our climate.",
+            "page": 2,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the observed impacts of climate change in Australia, such as increased average temperatures, changing rainfall patterns, and the severity and frequency of natural disasters. The document also recognizes that while global emissions reduction is important, some level of climate change is inevitable, necessitating planning and adaptation. The purpose of the plan is to ensure that the City of Whittlesea is taking necessary actions to adapt to these ongoing changes. The plan aims to ensure that the city's services and assets are taking into consideration the latest science to build a vibrant and resilient city. The document also outlines the role of local government in developing and delivering locally-appropriate adaptation responses, building the resilience of local assets and services, and planning for emergency management.",
+          "quote": {
+            "content": "This plan has been developed to ensure that the City of Whittlesea is undertaking the necessary actions to ensure that our organisation is adapting to the ongoing changes in our climate. Lowering our emissions globally is important as it will slow and limit the change, however we are \u2018locked in\u2019 to the next few decades of changes. The continuation of some level of climate change is certain and planning for this has become a reality.",
+            "page": 2,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the City of Whittlesea's climate change adaptation plan, which includes measures to adapt to the ongoing changes in climate, such as implementing a Heatwave Plan, using alternative water sources for park irrigation, and installing water-saving measures in Council facilities. The documents also discuss the importance of understanding the long-term trends of climate change for planning purposes and the need for place-based, community-led adaptation. However, there is no explicit call for rapid and urgent action. The documents seem to focus more on long-term planning and adaptation rather than immediate, urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents do not provide specific timeframes for the intended actions on climate change. While the documents outline the City of Whittlesea's climate change adaptation plan, they do not specify when these actions will be implemented. The documents mention the need for ongoing adaptation to climate change and the intention to begin scoping priority projects in the 17/18FY with implementation to begin in 18/19FY. However, these are not specific timeframes for the overall plan, but rather for individual projects within the plan. Therefore, the documents do not provide clear evidence of specific timeframes for the local government's planned actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents discuss the local government's plans for climate change adaptation, including building resilience, planning for emergency management, and developing locally-appropriate responses. They also mention the use of a set of criteria to evaluate and prioritize actions related to climate change. However, there is no explicit statement indicating that a climate emergency response should take precedence over other policies. The documents emphasize the importance of climate change adaptation and mitigation, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, highlight the importance of climate change adaptation and the role of local government in managing the impacts of climate change. The documents outline various actions and strategies the council is taking or planning to take to address climate change, such as developing and implementing a climate change adaptation plan, assessing the impacts of climate change within the municipality, and adopting appropriate adaptation strategies. They also mention the council's efforts to build community resilience, provide education on climate change impacts, and issue alerts for extreme heat conditions. However, these actions and strategies are not explicitly required to align with a specific climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the policy outlines various actions and strategies to address climate change, such as issuing 'unsightly' notices for maintenance of vacant urban land, working with rural landholders on managing land for fire hazard, and supporting the Municipal Fire Management Committee, there is no clear mention of specific funding allocation for these actions. The policy does mention the investigation of alternative options for funding and the development of internal budget bids for high priority actions that have failed to secure external funding. However, these are general statements and do not provide specific details on the amount of funding allocated or the specific climate actions that the funding will support."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does explicitly allocate staff and other non-monetary institutional resources to climate action. The plan outlines various actions and initiatives to address climate change, and it specifies the departments or roles responsible for each action. For instance, the plan mentions 'Sustainability Planning' and 'Other departments where needed' as the entities involved in developing an itemised list of projects to build community resilience to climate change. Similarly, 'Major Projects', 'Sustainability Planning', and 'Facilities Maintenance' are tasked with piloting a tool for assessing the vulnerability of current facilities to extreme weather events and incremental climate change. These allocations indicate a clear commitment of institutional resources, including staff time and expertise, to climate action.",
+          "quote": {
+            "content": "Sustainability Planning, Other departments where needed What we will do \n\uf0b7 Develop an itemised list of projects that build our community\u2019s resilience to \nclimate change and advocate for release of State Government Sustainability \nFund money directly to local governments and/or regional partners to \nundertake such work \n\uf0b7 Continue to seek State and Federal Government support to meet the \ncommunity\u2019s needs and priorities in adapting to the localized impacts of \nclimate change \n \nWho will this involve?",
+            "page": 17,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is actively working to empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a two-pronged approach to community engagement on climate change adaptation. Firstly, it focuses on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. Secondly, it provides opportunities for the community to inform adaptation projects with their local knowledge. The policy also emphasizes the importance of partnerships, both within the community and with external stakeholders, to increase the efficiency and efficacy of climate change adaptation projects. The policy also outlines plans to engage with the community, local emergency management agencies, and health service providers on adaptation projects. Furthermore, the policy acknowledges the local expertise of communities and plans to benefit from the experience and knowledge of residents.",
+          "quote": {
+            "content": "The second is to provide opportunity for the community to inform adaptation projects with their local knowledge. Council will invite our communities and local organisations to participate in climate change adaptation in two distinct ways. The first is to focus on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning or fire preparedness.",
+            "page": 13,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's climate change adaptation plan, 'Climate Ready Whittlesea', does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change, such as building community resilience, managing specific climate impacts, and ensuring that local services and assets are taking into consideration the latest science. The plan acknowledges the importance of mitigation as a part of addressing climate change, describing it as the deliberate attempt to reduce greenhouse gases. However, it does not outline specific mitigation actions or strategies. Therefore, based on the provided documents, the plan does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy, 'Climate Ready Whittlesea', does include specific actions for climate adaptation and resilience. The policy outlines a plan to develop and deliver locally-appropriate adaptation responses, build the resilience of local assets and services, and plan for emergency management at the municipal level. The policy also includes a commitment to engage with the community on climate change adaptation, with a focus on managing specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. The policy emphasizes the importance of place-based, community-led adaptation as the most effective approach. Furthermore, the policy outlines a process for developing the adaptation plan, which includes research and data collection, analysis of localised data on historic trends and future predictions, and consultation with the community. Therefore, the policy does include specific actions for climate adaptation and resilience.",
+          "quote": {
+            "content": "Work with the community to help people understand and get involved in climate change adaptation. Develop and deliver locally-appropriate adaptation responses. Build the resilience of local assets and services. Plan for emergency management at the municipal level, provide relief and recovery services, and support emergency response operations.",
+            "page": 3,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for climate change adaptation, which includes a well-structured approach to data collection, analysis, and implementation. The plan was developed in three stages, starting with research and data collection, which included an analysis of localised data on historic trends and future predictions of the city's exposure to climate change. The plan also includes a monitoring implementation process, which involves providing annual updates on the progress of the projects. The plan also outlines specific actions, such as developing a better understanding of how heat affects the city. The document also provides a prioritisation criteria for the actions, which includes environmental sustainability, social sustainability, and effectiveness. Therefore, the document provides well-sourced evidence to justify its climate targets and actions.",
+          "quote": {
+            "content": "Climate Ready Whittlesea was developed in three stages.",
+            "page": 10,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a robust system for understanding progress, which includes measuring progress through indicators and monitoring implementation. The plan is working with the Western Alliance for Greenhouse Action (WAGA) and RMIT to develop a grant extending WAGA\u2019s \u2018How well are we Adapting?\u2019 tool, which is an innovative tool that is developing best practice. Furthermore, the plan also includes an annual update to monitor the implementation of the projects. This update will contain key achievements for projects within that year, results of any deliverables within each project, and next steps. Therefore, the plan has a clear and specific system in place to evaluate the success of its proposed actions.",
+          "quote": {
+            "content": "1. This plan sets out two separate steps to achieve this.",
+            "page": 11,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government has outlined a strategy to engage with the community on climate change adaptation in two ways. Firstly, they aim to build capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning, and fire preparedness. Secondly, they plan to provide opportunities for the community to inform adaptation projects with their local knowledge. This approach is evident in their past actions, where they combined the knowledge of local farmers with scientific modelling to understand the implications of climate change on the local agricultural sector. Furthermore, the government plans to scope priority projects in the 17/18FY with implementation beginning in 18/19FY. This indicates a clear intention to conduct research within the community to inform their climate actions.",
+          "quote": {
+            "content": "The second is to provide opportunity for the community to inform adaptation projects with their local knowledge. Council will invite our communities and local organisations to participate in climate change adaptation in two distinct ways. The first is to focus on building capacity to manage specific climate impacts such as thunderstorm asthma, heatwave planning or fire preparedness.",
+            "page": 13,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government has implemented a project in partnership with Deakin University and the local farming community, known as the Land Capability Project. This project is an example of a real-world experiment, testing the potential of agriculture in the rural north of the municipality under two separate climate change scenarios. The project combines scientific modelling with local farmers' knowledge to provide robust localised data on the potential for agriculture in the municipality. This approach allows the local government to understand the implications of climate change on the local agricultural sector and plan for future changes. The project is still underway, indicating an ongoing commitment to experimentation and adaptation in response to climate change.",
+          "quote": {
+            "content": "The aim of the project is to investigate the potential of agriculture in the rural north of the municipality and its role in supporting the economic and environmental sustainability, and social wellbeing of our community both now and into the future. An excellent example of utilising modelling to plan for the future is the Land Capability Project. Whittlesea Council is working in partnership with Deakin University and the local farming community.",
+            "page": 7,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly indicate an intent to advocate upward to state and national governments to support climate action. The local government plans to develop an itemised list of projects that build community resilience to climate change and advocate for the release of State Government Sustainability Fund money directly to local governments and/or regional partners to undertake such work. They also plan to continue seeking State and Federal Government support to meet the community\u2019s needs and priorities in adapting to the localized impacts of climate change. Furthermore, the documents mention the local government's role in communicating the needs and priorities of the community to the State Government. The local government also plans to work with regional partners to pool resources and improve regional outcomes, indicating a commitment to partnerships and collaboration in climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents explicitly encourage building local capacity across the council, local communities, and neighbouring local councils for climate action. The policy outlines a strategy for building partnerships to increase the efficiency and efficacy of climate change adaptation projects. It emphasizes the importance of pooling resources with regional partners to improve regional outcomes. The policy also highlights the need to engage the community, local emergency management agencies, and health service providers in adaptation projects. It further underscores the importance of exploring research opportunities and collaborations with universities and other relevant organizations. The policy also advocates for the development of an itemised list of projects that build community resilience to climate change and seeks state and federal government support to meet the community's needs and priorities in adapting to the localized impacts of climate change.",
+          "quote": {
+            "content": "The impacts of climate change are not limited to council boundaries and so working with regional partners can allow Council to pool resources with other stakeholders to improve regional outcomes. Partnerships are a powerful way to increase the efficiency and efficacy of climate change adaptation projects.",
+            "page": 18,
+            "source": "Whittlesea-VIC-200.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document indeed refers to specific regional associations, alliances, and other partnerships related to climate change. The local government plans to continue supporting the NAGA, an established network of Local Governments working on climate change mitigation and adaptation activities. They also plan to work with the Western Alliance for Greenhouse Action and other regional partners to extend the 'How well are we Adapting' tool for monitoring and evaluation of organisational climate change adaptation. The document also mentions exploring research opportunities and collaborations with Universities and other relevant organisations to support the delivery of key adaptation projects. These partnerships are aimed at pooling resources and improving regional outcomes, as the impacts of climate change are not limited to council boundaries."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents do mention the importance of community engagement and adaptation to climate change, they do not specifically address how climate change impacts vulnerable communities or discuss measures to ensure equity and social justice in their climate change policies or actions. The documents focus more on general community resilience, education, and adaptation strategies without specifically addressing the needs of vulnerable communities or discussing these strategies in the context of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the local government's actions and plans related to climate change, such as building community resilience, managing specific climate impacts, and engaging with the community on adaptation. However, they do not provide specific details on how these actions and opportunities will be distributed equitably among different social groups or how social justice will be ensured in the process. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 52.5
+  }
+}

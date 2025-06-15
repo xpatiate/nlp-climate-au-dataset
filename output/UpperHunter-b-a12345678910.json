@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["UpperHunter-NSW-52.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T14:43:28.266959", "lga": "UpperHunter"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the 'Climate Change Strategy and Action Plan' by the Upper Hunter Shire Council, clearly identifies climate action as its core purpose. The policy outlines the council's commitment to addressing climate change through a series of mitigation and adaptation actions. It aims to reduce the council's environmental impacts and support the community in doing the same. The policy also sets a target for the council to become carbon neutral by 2030. The council acknowledges the need for immediate and ongoing action to tackle climate change, recognizing it as the greatest global challenge of our time. The policy also emphasizes the council's role in educating, influencing, and assisting the community in combating climate change. Therefore, it is evident that the core purpose of this policy is climate action.", "quote": {"content": "The purpose of this document is to introduce how Upper Hunter Shire Council plans to tackle the challenge of climate change and how it will support the community to do the same.", "page": 3, "source": "UpperHunter-NSW-52.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. It acknowledges climate change as the greatest global challenge of our time, requiring immediate and ongoing action. The document emphasizes that failure to meet this challenge will lead to greater difficulty in dealing with the effects of climate change in the future. It also highlights the role of local governments and individuals in tackling this global issue. The Upper Hunter Shire Council has outlined its plans to address climate change and support the community in doing the same. The Council has also declared a state of Climate Emergency and has set a target of becoming carbon neutral by 2030. The document also mentions the need for efficient and effective measuring and monitoring practices to track progress against emissions reduction goals.", "quote": {"content": "The purpose of this document is to introduce how Upper Hunter Shire Council plans to tackle the challenge of climate change and how it will support the community to do the same. Climate change is arguably the greatest global challenge of our time. Immediate and ongoing action is required. Not meeting this challenge now will only lead to greater difficulty in dealing with the effects of climate change in the future.", "page": 3, "source": "UpperHunter-NSW-52.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The document does indeed call for urgent action on climate change. It emphasizes the severity of the climate change challenge, describing it as 'the greatest global challenge of our time' and stating that 'immediate and ongoing action is required'. The document also highlights the consequences of inaction, warning that not meeting this challenge now will lead to greater difficulty in dealing with the effects of climate change in the future. The Upper Hunter Shire Council's commitment to this urgent action is demonstrated through their Climate Change Strategy and Action Plan, which they describe as a 'major journey' that they are committed to. The document also mentions that the Council declared a state of Climate Emergency in 2019, further emphasizing the urgency of the situation.", "quote": {"content": "Not meeting this challenge now will only lead to greater difficulty in dealing with the effects of climate change in the future. Climate change is arguably the greatest global challenge of our time. Immediate and ongoing action is required.", "page": 3, "source": "UpperHunter-NSW-52.pdf", "search_score": 1.0}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents do express a sense of urgency, stating that 'immediate and ongoing action is required' and that 'this is no short-term, easy fix scenario', they do not provide concrete deadlines or timelines for the implementation of their Climate Change Strategy and Action Plan. The documents mention that the council has a target of becoming carbon neutral by 2030, but they do not break down this goal into smaller, time-bound actions. Therefore, while the documents do express a commitment to addressing climate change, they do not provide the specific timeframes necessary to answer the question in the affirmative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Upper Hunter Shire Council has indeed declared a state of Climate Emergency and has outlined a strategy and action plan to tackle the challenges of climate change. The documents mention the council's commitment to reducing its own environmental impacts and supporting the community to reduce theirs. They also mention the council's target of becoming carbon neutral by 2030. However, there is no explicit statement indicating that these climate change initiatives should take precedence over other policies. The documents emphasize the importance of the climate change issue and the council's commitment to addressing it, but they do not provide a clear hierarchy of policy priorities."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the council has shown commitment to addressing climate change through various initiatives such as the Climate Emergency declaration, the target of becoming carbon neutral by 2030, and the adoption of a Sustainability Policy, there is no specific mention that all council activities must align with these climate policies. The documents do mention that the council plans to review its Asset Management Plans to ensure adequate sustainability measures are considered and that it will monitor and track progress towards meeting climate change targets. However, these actions do not necessarily imply that all council activities will be required to align with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines several actions to be taken in response to climate change, such as reviewing asset management plans, hosting industry forums, and implementing a tree planting program, there is no clear mention of a budget or specific funding allocated for these actions. The documents do mention 'supporting the community and local business through targeted educational activities, funding and other resource sharing activities', but this is a general statement and does not provide specific details about the funding for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action. The plan outlines several initiatives that would require the allocation of staff and other institutional resources. For instance, the council plans to review its Asset Management Plans to ensure adequate sustainability measures are considered, host an industry forum to promote collaboration on environmental matters, and host an emergency services forum to discuss the potential impacts of climate change. These initiatives imply the allocation of staff time and expertise to organize, manage, and implement these actions. Furthermore, the council plans to review public spaces for increased planting of flora, which would likely involve staff from various departments. However, the plan does not provide specific details on the number of staff or the exact nature of the resources to be allocated.", "quote": {"content": "This forum will be conducted in 2022/2023.", "page": 11, "source": "UpperHunter-NSW-52.pdf", "search_score": 0.91}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government plans to empower and educate the community to work together to deliver climate action. The policy outlines that the council will support the community and local businesses through targeted educational activities, funding, and other resource sharing activities. This suggests an intention to educate and mobilize the community towards climate action. Furthermore, the council's role is described as multifaceted, including educating, influencing, and assisting the community. This includes through school programs, committees, and procurement practices. However, the document does not provide specific details on the nature of these educational activities, the amount of funding, or the specific resources to be shared. Therefore, while the policy does indicate a commitment to social mobilization, the lack of detail makes it difficult to assess the potential effectiveness of these measures."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to switch to renewable electricity supply, which is a technological solution aimed at reducing the Council's greenhouse gas emissions. The document also mentions that electricity consumption is responsible for 34% of the Council's current greenhouse gas emissions, indicating a focus on behavior change to reduce consumption. Furthermore, the plan includes a commitment to produce an annual report on the progress of the strategy and action plan, which will include the status of each project as well as any new initiatives. This suggests an ongoing commitment to monitoring and potentially adjusting actions for mitigation as necessary."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need for both mitigation and adaptation strategies in dealing with climate change. It outlines a commitment to establish a series of mitigation and adaptation actions, although the specific actions are not detailed in the provided context. The plan also mentions a review of public spaces for increased planting of flora, particularly native trees, which can be seen as an adaptation strategy to improve resilience against climate change impacts. Furthermore, the council has adopted a Sustainability Policy, which could potentially include adaptation measures, although the specifics of this policy are not provided in the context.", "quote": {"content": "We can mitigate as well as adapt. Dealing with climate change is not just about lowering emissions, but also about building resilience.", "page": 7, "source": "UpperHunter-NSW-52.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Upper Hunter Shire Council's Climate Change Strategy and Action Plan outlines a commitment to becoming carbon neutral by 2030, and details various actions such as improving measuring and monitoring practices, switching to renewable electricity supply, and conducting a tree planting program, it does not provide specific, well-sourced evidence to justify these targets and actions. The documents mention that the council will produce an annual report on the progress of the strategy and action plan, but it does not detail the sources of evidence or data that will be used to inform these reports. Furthermore, while the documents mention that some actions will be subject to a cost/benefit analysis, they do not provide details on how this analysis will be conducted or what criteria will be used to evaluate the effectiveness of the actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The provided documents from the Upper Hunter Shire Council's Climate Change Strategy and Action Plan do not provide specific measurable criteria to evaluate the success of its proposed actions. While the documents outline various initiatives such as improving measuring and monitoring practices, conducting reviews, and hosting forums, they do not specify the metrics or criteria that will be used to assess the effectiveness of these actions. The documents mention the council's target of becoming carbon neutral by 2030, but they do not detail how progress towards this goal will be measured or evaluated. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan outlines a series of mitigation and adaptation actions, including a commitment to reducing emissions, building resilience, and supporting the community in tackling climate change. The plan also mentions hosting industry and emergency services forums to promote collaboration and idea sharing on environmental matters. However, these activities do not necessarily constitute research in the local community. The documents do not provide specific details about conducting surveys, interviews, or other forms of research within the community to gather data or insights that would directly inform their climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan outlines a commitment to addressing climate change, including mitigation and adaptation strategies, and a goal of becoming carbon neutral by 2030. However, the specific actions or policies that would be implemented to achieve these goals are not detailed. The documents mention ongoing studies, improvements in measuring and monitoring practices, and a review of public spaces for increased planting of flora. However, these actions do not necessarily represent innovative or experimental policy approaches. They are fairly standard responses to climate change, and there is no mention of novel or experimental strategies being considered or implemented."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does express a commitment to dealing with climate change, including mitigation and adaptation actions, and supporting the community and local businesses through educational activities and funding. The documents also mention the council's goal of becoming carbon neutral by 2030 and the ongoing work to improve measuring and monitoring practices. However, these actions seem to be focused on the local level, and there is no specific mention of advocacy towards state and national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents from the Upper Hunter Shire Council's Climate Change Strategy and Action Plan do explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The documents outline a series of mitigation and adaptation actions, including supporting the community and local businesses through targeted educational activities, funding, and other resource sharing activities. The council also plans to host an industry forum aimed at promoting collaboration between local industries on environmental matters. While the documents do not explicitly mention neighbouring local councils, the emphasis on collaboration and participation in appropriate industry and government associations suggests a broader engagement that could include neighbouring councils."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan discusses the council's commitment to addressing climate change, including their goal of becoming carbon neutral by 2030, and their strategies for achieving this goal. The documents mention the council's role in educating, influencing, and assisting the community, and their commitment to supporting the community through targeted educational activities, funding, and other resource sharing activities. However, they do not provide any specific details about partnerships with other organizations or entities."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the Upper Hunter Shire Council's strategies and actions to mitigate and adapt to climate change. These include reducing emissions, building resilience, improving data capture and reporting, and educating the community. However, there is no specific mention of how these actions will address the needs of vulnerable communities or how climate change might disproportionately affect these groups. Therefore, the documents do not provide sufficient evidence to affirmatively answer the question."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the Upper Hunter Shire Council's Climate Change Strategy and Action Plan, which includes measures to mitigate and adapt to climate change, such as improving measuring and monitoring practices, becoming carbon neutral by 2030, and increasing tree planting. However, these measures are not discussed in the context of equity or social justice, nor is there any explicit mention of how the benefits and opportunities of these actions will be shared equitably among different groups within the community. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 53.3}}
+{
+  "settings": {
+    "source_files": [
+      "UpperHunter-NSW-52.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T14:43:28.266959",
+    "lga": "UpperHunter"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Climate Change Strategy and Action Plan' by the Upper Hunter Shire Council, clearly identifies climate action as its core purpose. The policy outlines the council's commitment to addressing climate change through a series of mitigation and adaptation actions. It aims to reduce the council's environmental impacts and support the community in doing the same. The policy also sets a target for the council to become carbon neutral by 2030. The council acknowledges the need for immediate and ongoing action to tackle climate change, recognizing it as the greatest global challenge of our time. The policy also emphasizes the council's role in educating, influencing, and assisting the community in combating climate change. Therefore, it is evident that the core purpose of this policy is climate action.",
+          "quote": {
+            "content": "The purpose of this document is to introduce how Upper Hunter Shire Council plans to tackle the challenge of climate change and how it will support the community to do the same.",
+            "page": 3,
+            "source": "UpperHunter-NSW-52.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges climate change as the greatest global challenge of our time, requiring immediate and ongoing action. The document emphasizes that failure to meet this challenge will lead to greater difficulty in dealing with the effects of climate change in the future. It also highlights the role of local governments and individuals in tackling this global issue. The Upper Hunter Shire Council has outlined its plans to address climate change and support the community in doing the same. The Council has also declared a state of Climate Emergency and has set a target of becoming carbon neutral by 2030. The document also mentions the need for efficient and effective measuring and monitoring practices to track progress against emissions reduction goals.",
+          "quote": {
+            "content": "The purpose of this document is to introduce how Upper Hunter Shire Council plans to tackle the challenge of climate change and how it will support the community to do the same. Climate change is arguably the greatest global challenge of our time. Immediate and ongoing action is required. Not meeting this challenge now will only lead to greater difficulty in dealing with the effects of climate change in the future.",
+            "page": 3,
+            "source": "UpperHunter-NSW-52.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The document does indeed call for urgent action on climate change. It emphasizes the severity of the climate change challenge, describing it as 'the greatest global challenge of our time' and stating that 'immediate and ongoing action is required'. The document also highlights the consequences of inaction, warning that not meeting this challenge now will lead to greater difficulty in dealing with the effects of climate change in the future. The Upper Hunter Shire Council's commitment to this urgent action is demonstrated through their Climate Change Strategy and Action Plan, which they describe as a 'major journey' that they are committed to. The document also mentions that the Council declared a state of Climate Emergency in 2019, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Not meeting this challenge now will only lead to greater difficulty in dealing with the effects of climate change in the future. Climate change is arguably the greatest global challenge of our time. Immediate and ongoing action is required.",
+            "page": 3,
+            "source": "UpperHunter-NSW-52.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents do express a sense of urgency, stating that 'immediate and ongoing action is required' and that 'this is no short-term, easy fix scenario', they do not provide concrete deadlines or timelines for the implementation of their Climate Change Strategy and Action Plan. The documents mention that the council has a target of becoming carbon neutral by 2030, but they do not break down this goal into smaller, time-bound actions. Therefore, while the documents do express a commitment to addressing climate change, they do not provide the specific timeframes necessary to answer the question in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The Upper Hunter Shire Council has indeed declared a state of Climate Emergency and has outlined a strategy and action plan to tackle the challenges of climate change. The documents mention the council's commitment to reducing its own environmental impacts and supporting the community to reduce theirs. They also mention the council's target of becoming carbon neutral by 2030. However, there is no explicit statement indicating that these climate change initiatives should take precedence over other policies. The documents emphasize the importance of the climate change issue and the council's commitment to addressing it, but they do not provide a clear hierarchy of policy priorities."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the council has shown commitment to addressing climate change through various initiatives such as the Climate Emergency declaration, the target of becoming carbon neutral by 2030, and the adoption of a Sustainability Policy, there is no specific mention that all council activities must align with these climate policies. The documents do mention that the council plans to review its Asset Management Plans to ensure adequate sustainability measures are considered and that it will monitor and track progress towards meeting climate change targets. However, these actions do not necessarily imply that all council activities will be required to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of funding for climate action. While the policy outlines several actions to be taken in response to climate change, such as reviewing asset management plans, hosting industry forums, and implementing a tree planting program, there is no clear mention of a budget or specific funding allocated for these actions. The documents do mention 'supporting the community and local business through targeted educational activities, funding and other resource sharing activities', but this is a general statement and does not provide specific details about the funding for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate action plan does allocate non-monetary institutional resources to climate action. The plan outlines several initiatives that would require the allocation of staff and other institutional resources. For instance, the council plans to review its Asset Management Plans to ensure adequate sustainability measures are considered, host an industry forum to promote collaboration on environmental matters, and host an emergency services forum to discuss the potential impacts of climate change. These initiatives imply the allocation of staff time and expertise to organize, manage, and implement these actions. Furthermore, the council plans to review public spaces for increased planting of flora, which would likely involve staff from various departments. However, the plan does not provide specific details on the number of staff or the exact nature of the resources to be allocated.",
+          "quote": {
+            "content": "This forum will be conducted in 2022/2023.",
+            "page": 11,
+            "source": "UpperHunter-NSW-52.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government plans to empower and educate the community to work together to deliver climate action. The policy outlines that the council will support the community and local businesses through targeted educational activities, funding, and other resource sharing activities. This suggests an intention to educate and mobilize the community towards climate action. Furthermore, the council's role is described as multifaceted, including educating, influencing, and assisting the community. This includes through school programs, committees, and procurement practices. However, the document does not provide specific details on the nature of these educational activities, the amount of funding, or the specific resources to be shared. Therefore, while the policy does indicate a commitment to social mobilization, the lack of detail makes it difficult to assess the potential effectiveness of these measures."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to switch to renewable electricity supply, which is a technological solution aimed at reducing the Council's greenhouse gas emissions. The document also mentions that electricity consumption is responsible for 34% of the Council's current greenhouse gas emissions, indicating a focus on behavior change to reduce consumption. Furthermore, the plan includes a commitment to produce an annual report on the progress of the strategy and action plan, which will include the status of each project as well as any new initiatives. This suggests an ongoing commitment to monitoring and potentially adjusting actions for mitigation as necessary."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does include specific actions for climate adaptation and resilience. The plan acknowledges the need for both mitigation and adaptation strategies in dealing with climate change. It outlines a commitment to establish a series of mitigation and adaptation actions, although the specific actions are not detailed in the provided context. The plan also mentions a review of public spaces for increased planting of flora, particularly native trees, which can be seen as an adaptation strategy to improve resilience against climate change impacts. Furthermore, the council has adopted a Sustainability Policy, which could potentially include adaptation measures, although the specifics of this policy are not provided in the context.",
+          "quote": {
+            "content": "We can mitigate as well as adapt. Dealing with climate change is not just about lowering emissions, but also about building resilience.",
+            "page": 7,
+            "source": "UpperHunter-NSW-52.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the Upper Hunter Shire Council's Climate Change Strategy and Action Plan outlines a commitment to becoming carbon neutral by 2030, and details various actions such as improving measuring and monitoring practices, switching to renewable electricity supply, and conducting a tree planting program, it does not provide specific, well-sourced evidence to justify these targets and actions. The documents mention that the council will produce an annual report on the progress of the strategy and action plan, but it does not detail the sources of evidence or data that will be used to inform these reports. Furthermore, while the documents mention that some actions will be subject to a cost/benefit analysis, they do not provide details on how this analysis will be conducted or what criteria will be used to evaluate the effectiveness of the actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The provided documents from the Upper Hunter Shire Council's Climate Change Strategy and Action Plan do not provide specific measurable criteria to evaluate the success of its proposed actions. While the documents outline various initiatives such as improving measuring and monitoring practices, conducting reviews, and hosting forums, they do not specify the metrics or criteria that will be used to assess the effectiveness of these actions. The documents mention the council's target of becoming carbon neutral by 2030, but they do not detail how progress towards this goal will be measured or evaluated. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan outlines a series of mitigation and adaptation actions, including a commitment to reducing emissions, building resilience, and supporting the community in tackling climate change. The plan also mentions hosting industry and emergency services forums to promote collaboration and idea sharing on environmental matters. However, these activities do not necessarily constitute research in the local community. The documents do not provide specific details about conducting surveys, interviews, or other forms of research within the community to gather data or insights that would directly inform their climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The provided documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention various actions and strategies related to climate change, such as switching to renewable electricity supply, reducing consumption, and conducting a climate change risk assessment, these are presented as planned or ongoing actions rather than experimental initiatives. The documents do not mention testing these approaches on a small scale or under real-world conditions, nor do they refer to them as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, based on the provided documents, it cannot be affirmed that the policy includes experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state an intent to advocate upward to state and national governments to support climate action. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan does express a commitment to dealing with climate change, including mitigation and adaptation actions, and supporting the community and local businesses through educational activities and funding. The documents also mention the council's goal of becoming carbon neutral by 2030 and the ongoing work to improve measuring and monitoring practices. However, these actions seem to be focused on the local level, and there is no specific mention of advocacy towards state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents from the Upper Hunter Shire Council's Climate Change Strategy and Action Plan do explicitly encourage building local capacity across council, their local communities, and potentially neighbouring local councils for climate action. The documents outline a series of mitigation and adaptation actions, including supporting the community and local businesses through targeted educational activities, funding, and other resource sharing activities. The council also plans to host an industry forum aimed at promoting collaboration between local industries on environmental matters. While the documents do not explicitly mention neighbouring local councils, the emphasis on collaboration and participation in appropriate industry and government associations suggests a broader engagement that could include neighbouring councils."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The Upper Hunter Shire Council's Climate Change Strategy and Action Plan discusses the council's commitment to addressing climate change, including their goal of becoming carbon neutral by 2030, and their strategies for achieving this goal. The documents mention the council's role in educating, influencing, and assisting the community, and their commitment to supporting the community through targeted educational activities, funding, and other resource sharing activities. However, they do not provide any specific details about partnerships with other organizations or entities."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the Upper Hunter Shire Council's strategies and actions to mitigate and adapt to climate change. These include reducing emissions, building resilience, improving data capture and reporting, and educating the community. However, there is no specific mention of how these actions will address the needs of vulnerable communities or how climate change might disproportionately affect these groups. Therefore, the documents do not provide sufficient evidence to affirmatively answer the question."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents focus on the Upper Hunter Shire Council's Climate Change Strategy and Action Plan, which includes measures to mitigate and adapt to climate change, such as improving measuring and monitoring practices, becoming carbon neutral by 2030, and increasing tree planting. However, these measures are not discussed in the context of equity or social justice, nor is there any explicit mention of how the benefits and opportunities of these actions will be shared equitably among different groups within the community. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 53.3
+  }
+}

@@ -1,1 +1,312 @@
-{"settings": {"source_files": ["Georges-NSW-261.pdf", "Georges-NSW-262.pdf", "Georges-NSW-263.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T09:03:20.657393", "lga": "Georges"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040', clearly identifies climate action as a core purpose. The policy outlines a comprehensive plan to address climate change risks to the council's operations and the community. It includes specific targets such as sourcing 100% of the council's electricity from renewable energy sources by 2025 and achieving net zero emissions for council operations by the same year. The policy also outlines a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized. The policy is aligned with the UN Sustainable Development Goals, further emphasizing its commitment to climate action. The policy also includes a plan for regular reviews and annual reporting to monitor progress towards its targets.", "quote": {"content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Council has identified climate change as a significant risk to its operations and the community.", "page": 30, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a significant risk to the council's operations and the community. The council plans to adopt a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized and embedded into business processes and budgeting. The council also recognizes the need to understand and mitigate the risks to its assets from a changing climate. The council has set targets such as sourcing 100% of its electricity from renewable sources and achieving net zero emissions by 2025. The document also mentions the need for flexibility to account for rapid changes in urban spaces and how they are managed, indicating an understanding of the evolving nature of climate change challenges.", "quote": {"content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Council has identified climate change as a significant risk to its operations and the community.", "page": 30, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they outline a number of actions and strategies to address climate change, such as the adoption of a new approach to design, procurement, and asset management, the sourcing of 100% of Council's electricity from renewable sources by 2025, and the achievement of net zero emissions for Council operations by 2025, they do not express a sense of urgency or immediacy in their language. The documents also mention that the Action Plan will be reviewed every five years, which suggests a measured and long-term approach rather than an urgent one. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate. The Environmental Resilience Action Plan 2022-2040 outlines a series of actions related to climate change, with specific timeframes for their implementation. For instance, the plan mentions that the actions will be reviewed every five years and annual reporting will be undertaken against each target. It also mentions short-term (next five years), medium-term (5-10 years), and long-term (beyond 10 years) timeframes for undertaking actions. Furthermore, the plan sets specific targets such as sourcing 100% of the Council's electricity from renewable sources and achieving net zero emissions for Council operations by 2025. These details indicate a clear sense of urgency and a structured approach to addressing climate change.", "quote": {"content": "Net zero emissions are achieved for Council operations by 2025. Net zero emissions are achieved for Council operations by 2025.", "page": 25, "source": "Georges-NSW-261.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including funding strategies, specific actions, and targets, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate change as a significant risk to the council's operations and the community, and outline a new approach to design, procurement, and asset management to ensure environmental resilience. However, they do not explicitly state that these actions should take precedence over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive Environmental Resilience Action Plan that includes a variety of measures to address climate change, such as transitioning to renewable energy sources, achieving net zero emissions, and implementing energy efficiency projects, they do not explicitly require all council activities to align with these climate policies. The documents do indicate that environmental resilience considerations will be embedded into business processes and budgeting, and that a new approach to design, procurement, and asset management will be adopted. However, this does not necessarily equate to a mandate that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Environmental Resilience Action Plan 2022-2040 by the Georges River Council does explicitly allocate funding for climate action. The plan outlines that the actions will be funded through the operational and capital works budgets, grants, and savings made through efficiencies. The council has identified climate change as a significant risk to its operations and the community, and in response, a new approach to design, procurement, and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Additionally, the council will seek external grant funding where available from Federal and State Governments and other agencies. However, the plan does not provide specific details on the amount of funding allocated for each action or the total budget for climate action.", "quote": {"content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. The actions outlined in this Action Plan will be funded through the operational and capital works budgets, grants and savings made through efficiencies. Council has identified climate change as a significant risk to its operations and the community.", "page": 30, "source": "Georges-NSW-261.pdf", "search_score": 1.0}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The Environmental Resilience Action Plan does allocate non-monetary institutional resources to climate action, although it does not specify the allocation of staff. The plan outlines a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized and embedded into business processes and budgeting. This implies a significant commitment of institutional resources, including staff time and expertise, to implement these changes. The plan also mentions the creation of a dedicated local Emergency Management Officer role, responsible for overseeing Council\u2019s emergency response and resilient recovery. This is a clear allocation of staff resources to climate action. However, the plan does not provide detailed information on the number of staff allocated, the specific roles they will play, or how their time will be divided between climate action and other responsibilities.", "quote": {"content": "Provide a dedicated local Emergency Management Officer responsible for overseeing Council\u2019s emergency response and resilient recovery.", "page": 27, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence of the local government's efforts to educate and empower the community to work together on climate action. The policy outlines several initiatives aimed at fostering community involvement and behaviour change. For instance, the government plans to develop education and behaviour-change programs to support local residents and businesses in tackling climate change through clean energy, energy efficiency, and sustainable transport. They also plan to offer incentives, support, or grants to encourage participation. Additionally, the policy mentions the promotion of sustainable practices such as community gardens and food rescue, and the provision of support or funding for local not-for-profits that encourage sustainable practices. These initiatives indicate a clear effort to mobilise the community and foster a collective response to climate change.", "quote": {"content": "This will include offering incentives, support or grants. Developing education and behaviour-change programs to support local residents and businesses to tackle climate change through clean energy, energy efficiency and sustainable transport.", "page": 27, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include transitioning the Council's vehicle fleet to hybrid and electric vehicles, implementing energy efficiency and renewable energy projects across Council facilities, and replacing streetlights with more energy-efficient bulbs. The plan also includes actions to encourage energy-efficient and climate-conscious development through planning controls. Behaviour change strategies include developing education and behaviour-change programs to support local residents and businesses in tackling climate change through clean energy, energy efficiency, and sustainable transport. The plan also includes targets such as achieving net zero carbon emissions by implementing energy efficiency and renewable energy measures, and ensuring 100% of Council\u2019s electricity is supplied from renewable energy sources by 2025.", "quote": {"content": "Transitioning Council\u2019s vehicle fleet to hybrid and electric. Achieving net zero carbon emissions by implementing energy efficiency, renewable energy measures. Council\u2019s electricity supplier will provide 100% renewable energy to Council and its Large-scale Generation Certificates (LGC\u2019s) will be retired.", "page": 26, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040 does include specific actions for climate adaptation and resilience. The plan outlines a range of actions that are designed to build resilience to a changing climate. These include improving the management of physical assets to build their resilience to a changing climate, developing criteria for assets to be constructed to withstand a changing climate, and reviewing the Corporate Governance Framework to integrate and embed climate change risk mitigation and adaptation strategies. The plan also includes actions to collaborate with local Rural Fire Brigades to undertake more low-moderate intensity hazard reduction burns in areas of vegetation senescence, which can help to reduce the risk of wildfires, a risk that is likely to increase with climate change. Furthermore, the plan outlines actions to encourage the use of sustainable transport methods and promote the uptake of green infrastructure, both of which can contribute to climate resilience by reducing greenhouse gas emissions.", "quote": {"content": "Reviewing the Corporate Governance Framework to integrate \nand embed climate change risk mitigation and adaptation \nstrategies. Collaborate with local Rural Fire Brigades to undertake more \nlow-moderate intensity hazard reduction burns in areas of \nvegetation senescence. Improving the management of our physical assets to build their \nresilience to a changing climate. Developing criteria for assets to be constructed to withstand a \nchanging climate.", "page": 28, "source": "Georges-NSW-261.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's Environmental Resilience Action Plan, including its targets and actions related to climate change, they do not provide specific sources or evidence to justify these targets and actions. The documents mention the implementation of the plan, the funding, and the targets such as sourcing 100% of its electricity from renewable sources and achieving net zero emissions by 2025. However, they do not provide detailed evidence or data to support these targets. The documents also mention the review and monitoring of the plan, but again, they do not provide specific evidence or sources to justify the methods or frequency of review and monitoring. Therefore, while the documents provide a detailed outline of the local government's climate change policy, they do not meet the high standard of evidence and specific detail required to justify the policy's targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's Environmental Resilience Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a review framework that includes annual reporting against each target within the document. This framework is designed to be flexible and adaptable to emerging trends, data, policy directions, and changing technologies. Each action within the plan is assigned to a specific role or department, which is then responsible for the delivery of these actions. The plan also includes Key Performance Indicators (KPIs) for each environmental resilience theme, providing a clear and measurable way to assess the success of the actions taken. Furthermore, the plan is set to be reviewed every five years, allowing for adjustments and improvements based on the evaluation of these criteria.", "quote": {"content": "Table 6 summarises the UN Sustainable Development Goals Council is working toward, its targets and Key Performance Indicators (KPIs). This Action Plan will be reviewed every five years and annual reporting will be undertaken against each target within this document in accordance with the review framework provided below. Each action will be assigned to a particular role or department, which will be responsible for delivery of these actions.", "page": 28, "source": "Georges-NSW-261.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline the Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040, which includes various strategies and actions to address climate change and promote environmental resilience. These actions include improving asset management, developing criteria for assets to withstand a changing climate, and seeking external grant funding. The plan also mentions the intention to review the plan every five years and undertake annual reporting. However, there is no specific mention of conducting research in the local community to inform these actions. The documents do mention consultation with internal stakeholders and the community in the development of the action plan, but this is not the same as conducting ongoing research in the local community to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Environmental Resilience Action Plan outlines various actions to address climate change, these largely consist of standard measures such as reducing emissions, sourcing electricity from renewable energy, and improving asset management for environmental resilience. The plan also mentions collaboration with other stakeholders, education and behaviour-change programs, and seeking external grant funding. However, these are common strategies and do not necessarily indicate innovation or policy experimentation. The documents do not detail any unique, novel, or experimental approaches that would suggest a high level of innovation in their climate action policies. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's Environmental Resilience Action Plan outlines a strategy to seek external grant funding from Federal and State Governments and other agencies. This indicates an intent to engage with higher levels of government to secure resources for climate action. Furthermore, the plan includes actions such as participating in the 'Greening Our City' project and promoting the NSW government 'Solar for Low Income Households' Program, which suggests a willingness to collaborate with state-level initiatives. The plan also mentions the need for increasing collaboration with other government and non-government stakeholders to support an accelerated response to climate change. This suggests an advocacy role, as collaboration often involves promoting certain actions or policies to partners.", "quote": {"content": "Increasing collaboration with other government and non-government stakeholders to support an accelerated response to climate change.", "page": 27, "source": "Georges-NSW-261.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The council's Environmental Resilience Action Plan outlines a comprehensive approach to addressing climate change, which includes collaboration with various stakeholders. The council is committed to working with all levels of government and the private sector to enact local change, particularly through its partnerships with groups such as Resilient Sydney, the Southern Sydney Regional Organisation of Councils (SSROC), and the Georges Riverkeeper Program. This indicates a clear intention to build capacity not only within the council but also within the broader community and neighbouring councils. The council also plans to embed environmental resilience into all aspects of its operations and influence environmental resilience in the broader community through various means, including development controls and procurement practices."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. The Georges River Council's Environmental Resilience Action Plan 2022-2040 outlines the council's commitment to collaboration with various levels of government and the private sector to enact local change. Specifically, the council is part of partnerships with groups such as Resilient Sydney, the Southern Sydney Regional Organisation of Councils (SSROC), and the Georges Riverkeeper Program. These partnerships are crucial for the council's efforts to enhance environmental resilience and respond to climate change. The council's involvement in these partnerships demonstrates its commitment to collaborative action and its recognition of the importance of working with other stakeholders to address the complex and multifaceted challenges posed by climate change."}], "score": {"num_positives": 3, "num_questions": 3, "score": 1.0}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents outline various strategies and actions related to climate change, such as reducing emissions, promoting sustainable transport, and increasing environmental resilience, they do not specifically address how these measures will affect vulnerable populations. The documents focus primarily on operational changes, environmental objectives, and funding strategies, without delving into the social implications of climate change or the specific impacts on disadvantaged communities. Therefore, based on the provided context, the question cannot be answered positively."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents outline various actions and strategies related to climate change and environmental resilience, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus on actions such as promoting sustainable urban development, reducing waste, managing water responsibly, and achieving net zero emissions for Council operations. They also mention initiatives to support low-income households to install solar energy and to promote sustainable recreation within parks. However, these actions are not framed within a context of equity and social justice, and there is no explicit discussion on how these benefits and opportunities will be shared equitably among different groups in the community."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 12, "num_questions": 20, "attribute_score": 67.5}}
+{
+  "settings": {
+    "source_files": [
+      "Georges-NSW-261.pdf",
+      "Georges-NSW-262.pdf",
+      "Georges-NSW-263.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T09:03:20.657393",
+    "lga": "Georges"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040', clearly identifies climate action as a core purpose. The policy outlines a comprehensive plan to address climate change risks to the council's operations and the community. It includes specific targets such as sourcing 100% of the council's electricity from renewable energy sources by 2025 and achieving net zero emissions for council operations by the same year. The policy also outlines a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized. The policy is aligned with the UN Sustainable Development Goals, further emphasizing its commitment to climate action. The policy also includes a plan for regular reviews and annual reporting to monitor progress towards its targets.",
+          "quote": {
+            "content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Council has identified climate change as a significant risk to its operations and the community.",
+            "page": 30,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It identifies climate change as a significant risk to the council's operations and the community. The council plans to adopt a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized and embedded into business processes and budgeting. The council also recognizes the need to understand and mitigate the risks to its assets from a changing climate. The council has set targets such as sourcing 100% of its electricity from renewable sources and achieving net zero emissions by 2025. The document also mentions the need for flexibility to account for rapid changes in urban spaces and how they are managed, indicating an understanding of the evolving nature of climate change challenges.",
+          "quote": {
+            "content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Council has identified climate change as a significant risk to its operations and the community.",
+            "page": 30,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. While they outline a number of actions and strategies to address climate change, such as the adoption of a new approach to design, procurement, and asset management, the sourcing of 100% of Council's electricity from renewable sources by 2025, and the achievement of net zero emissions for Council operations by 2025, they do not express a sense of urgency or immediacy in their language. The documents also mention that the Action Plan will be reviewed every five years, which suggests a measured and long-term approach rather than an urgent one. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate. The Environmental Resilience Action Plan 2022-2040 outlines a series of actions related to climate change, with specific timeframes for their implementation. For instance, the plan mentions that the actions will be reviewed every five years and annual reporting will be undertaken against each target. It also mentions short-term (next five years), medium-term (5-10 years), and long-term (beyond 10 years) timeframes for undertaking actions. Furthermore, the plan sets specific targets such as sourcing 100% of the Council's electricity from renewable sources and achieving net zero emissions for Council operations by 2025. These details indicate a clear sense of urgency and a structured approach to addressing climate change.",
+          "quote": {
+            "content": "Net zero emissions are achieved for Council operations by 2025. Net zero emissions are achieved for Council operations by 2025.",
+            "page": 25,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do outline a comprehensive plan for addressing climate change, including funding strategies, specific actions, and targets, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of climate change as a significant risk to the council's operations and the community, and outline a new approach to design, procurement, and asset management to ensure environmental resilience. However, they do not explicitly state that these actions should take precedence over other policies. Therefore, based on the provided documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline a comprehensive Environmental Resilience Action Plan that includes a variety of measures to address climate change, such as transitioning to renewable energy sources, achieving net zero emissions, and implementing energy efficiency projects, they do not explicitly require all council activities to align with these climate policies. The documents do indicate that environmental resilience considerations will be embedded into business processes and budgeting, and that a new approach to design, procurement, and asset management will be adopted. However, this does not necessarily equate to a mandate that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Environmental Resilience Action Plan 2022-2040 by the Georges River Council does explicitly allocate funding for climate action. The plan outlines that the actions will be funded through the operational and capital works budgets, grants, and savings made through efficiencies. The council has identified climate change as a significant risk to its operations and the community, and in response, a new approach to design, procurement, and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. Additionally, the council will seek external grant funding where available from Federal and State Governments and other agencies. However, the plan does not provide specific details on the amount of funding allocated for each action or the total budget for climate action.",
+          "quote": {
+            "content": "In addressing this, a new approach to design, procurement and asset management will be adopted to ensure environmental resilience considerations are prioritised and embedded into business processes and budgeting from the outset. The actions outlined in this Action Plan will be funded through the operational and capital works budgets, grants and savings made through efficiencies. Council has identified climate change as a significant risk to its operations and the community.",
+            "page": 30,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The Environmental Resilience Action Plan does allocate non-monetary institutional resources to climate action, although it does not specify the allocation of staff. The plan outlines a new approach to design, procurement, and asset management to ensure environmental resilience considerations are prioritized and embedded into business processes and budgeting. This implies a significant commitment of institutional resources, including staff time and expertise, to implement these changes. The plan also mentions the creation of a dedicated local Emergency Management Officer role, responsible for overseeing Council\u2019s emergency response and resilient recovery. This is a clear allocation of staff resources to climate action. However, the plan does not provide detailed information on the number of staff allocated, the specific roles they will play, or how their time will be divided between climate action and other responsibilities.",
+          "quote": {
+            "content": "Provide a dedicated local Emergency Management Officer responsible for overseeing Council\u2019s emergency response and resilient recovery.",
+            "page": 27,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence of the local government's efforts to educate and empower the community to work together on climate action. The policy outlines several initiatives aimed at fostering community involvement and behaviour change. For instance, the government plans to develop education and behaviour-change programs to support local residents and businesses in tackling climate change through clean energy, energy efficiency, and sustainable transport. They also plan to offer incentives, support, or grants to encourage participation. Additionally, the policy mentions the promotion of sustainable practices such as community gardens and food rescue, and the provision of support or funding for local not-for-profits that encourage sustainable practices. These initiatives indicate a clear effort to mobilise the community and foster a collective response to climate change.",
+          "quote": {
+            "content": "This will include offering incentives, support or grants. Developing education and behaviour-change programs to support local residents and businesses to tackle climate change through clean energy, energy efficiency and sustainable transport.",
+            "page": 27,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a combination of technological solutions and behaviour change strategies. Technological solutions include transitioning the Council's vehicle fleet to hybrid and electric vehicles, implementing energy efficiency and renewable energy projects across Council facilities, and replacing streetlights with more energy-efficient bulbs. The plan also includes actions to encourage energy-efficient and climate-conscious development through planning controls. Behaviour change strategies include developing education and behaviour-change programs to support local residents and businesses in tackling climate change through clean energy, energy efficiency, and sustainable transport. The plan also includes targets such as achieving net zero carbon emissions by implementing energy efficiency and renewable energy measures, and ensuring 100% of Council\u2019s electricity is supplied from renewable energy sources by 2025.",
+          "quote": {
+            "content": "Transitioning Council\u2019s vehicle fleet to hybrid and electric. Achieving net zero carbon emissions by implementing energy efficiency, renewable energy measures. Council\u2019s electricity supplier will provide 100% renewable energy to Council and its Large-scale Generation Certificates (LGC\u2019s) will be retired.",
+            "page": 26,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040 does include specific actions for climate adaptation and resilience. The plan outlines a range of actions that are designed to build resilience to a changing climate. These include improving the management of physical assets to build their resilience to a changing climate, developing criteria for assets to be constructed to withstand a changing climate, and reviewing the Corporate Governance Framework to integrate and embed climate change risk mitigation and adaptation strategies. The plan also includes actions to collaborate with local Rural Fire Brigades to undertake more low-moderate intensity hazard reduction burns in areas of vegetation senescence, which can help to reduce the risk of wildfires, a risk that is likely to increase with climate change. Furthermore, the plan outlines actions to encourage the use of sustainable transport methods and promote the uptake of green infrastructure, both of which can contribute to climate resilience by reducing greenhouse gas emissions.",
+          "quote": {
+            "content": "Reviewing the Corporate Governance Framework to integrate \nand embed climate change risk mitigation and adaptation \nstrategies. Collaborate with local Rural Fire Brigades to undertake more \nlow-moderate intensity hazard reduction burns in areas of \nvegetation senescence. Improving the management of our physical assets to build their \nresilience to a changing climate. Developing criteria for assets to be constructed to withstand a \nchanging climate.",
+            "page": 28,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents outline the local government's Environmental Resilience Action Plan, including its targets and actions related to climate change, they do not provide specific sources or evidence to justify these targets and actions. The documents mention the implementation of the plan, the funding, and the targets such as sourcing 100% of its electricity from renewable sources and achieving net zero emissions by 2025. However, they do not provide detailed evidence or data to support these targets. The documents also mention the review and monitoring of the plan, but again, they do not provide specific evidence or sources to justify the methods or frequency of review and monitoring. Therefore, while the documents provide a detailed outline of the local government's climate change policy, they do not meet the high standard of evidence and specific detail required to justify the policy's targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's Environmental Resilience Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a review framework that includes annual reporting against each target within the document. This framework is designed to be flexible and adaptable to emerging trends, data, policy directions, and changing technologies. Each action within the plan is assigned to a specific role or department, which is then responsible for the delivery of these actions. The plan also includes Key Performance Indicators (KPIs) for each environmental resilience theme, providing a clear and measurable way to assess the success of the actions taken. Furthermore, the plan is set to be reviewed every five years, allowing for adjustments and improvements based on the evaluation of these criteria.",
+          "quote": {
+            "content": "Table 6 summarises the UN Sustainable Development Goals Council is working toward, its targets and Key Performance Indicators (KPIs). This Action Plan will be reviewed every five years and annual reporting will be undertaken against each target within this document in accordance with the review framework provided below. Each action will be assigned to a particular role or department, which will be responsible for delivery of these actions.",
+            "page": 28,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The documents outline the Georges River Council\u2019s Environmental Resilience Action Plan 2022-2040, which includes various strategies and actions to address climate change and promote environmental resilience. These actions include improving asset management, developing criteria for assets to withstand a changing climate, and seeking external grant funding. The plan also mentions the intention to review the plan every five years and undertake annual reporting. However, there is no specific mention of conducting research in the local community to inform these actions. The documents do mention consultation with internal stakeholders and the community in the development of the action plan, but this is not the same as conducting ongoing research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents outline various actions and initiatives that the local government plans to undertake in response to climate change, these are not explicitly described as experiments, pilots, test beds, demonstration projects, or urban laboratories. The actions include efforts to reduce emissions, promote sustainable transport, and improve the management of physical assets to build resilience to a changing climate. However, these actions are presented as part of a broader strategy rather than as small-scale, real-world tests of new technologies, policies, or governance approaches. Therefore, based on the information provided in the documents, it cannot be conclusively stated that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents do show an explicit intent to advocate upward to state and national governments to support climate action. The local government's Environmental Resilience Action Plan outlines a strategy to seek external grant funding from Federal and State Governments and other agencies. This indicates an intent to engage with higher levels of government to secure resources for climate action. Furthermore, the plan includes actions such as participating in the 'Greening Our City' project and promoting the NSW government 'Solar for Low Income Households' Program, which suggests a willingness to collaborate with state-level initiatives. The plan also mentions the need for increasing collaboration with other government and non-government stakeholders to support an accelerated response to climate change. This suggests an advocacy role, as collaboration often involves promoting certain actions or policies to partners.",
+          "quote": {
+            "content": "Increasing collaboration with other government and non-government stakeholders to support an accelerated response to climate change.",
+            "page": 27,
+            "source": "Georges-NSW-261.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is indeed encouraging building local capacity across council, their local communities, and neighbouring local councils for climate action. The council's Environmental Resilience Action Plan outlines a comprehensive approach to addressing climate change, which includes collaboration with various stakeholders. The council is committed to working with all levels of government and the private sector to enact local change, particularly through its partnerships with groups such as Resilient Sydney, the Southern Sydney Regional Organisation of Councils (SSROC), and the Georges Riverkeeper Program. This indicates a clear intention to build capacity not only within the council but also within the broader community and neighbouring councils. The council also plans to embed environmental resilience into all aspects of its operations and influence environmental resilience in the broader community through various means, including development controls and procurement practices."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and partnerships related to climate action. The Georges River Council's Environmental Resilience Action Plan 2022-2040 outlines the council's commitment to collaboration with various levels of government and the private sector to enact local change. Specifically, the council is part of partnerships with groups such as Resilient Sydney, the Southern Sydney Regional Organisation of Councils (SSROC), and the Georges Riverkeeper Program. These partnerships are crucial for the council's efforts to enhance environmental resilience and respond to climate change. The council's involvement in these partnerships demonstrates its commitment to collaborative action and its recognition of the importance of working with other stakeholders to address the complex and multifaceted challenges posed by climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 3,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents outline various strategies and actions related to climate change, such as reducing emissions, promoting sustainable transport, and increasing environmental resilience, they do not specifically address how these measures will affect vulnerable populations. The documents focus primarily on operational changes, environmental objectives, and funding strategies, without delving into the social implications of climate change or the specific impacts on disadvantaged communities. Therefore, based on the provided context, the question cannot be answered positively."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents outline various actions and strategies related to climate change and environmental resilience, they do not specifically address the distribution of benefits and opportunities in an equitable manner. The documents focus on actions such as promoting sustainable urban development, reducing waste, managing water responsibly, and achieving net zero emissions for Council operations. They also mention initiatives to support low-income households to install solar energy and to promote sustainable recreation within parks. However, these actions are not framed within a context of equity and social justice, and there is no explicit discussion on how these benefits and opportunities will be shared equitably among different groups in the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 12,
+    "num_questions": 20,
+    "attribute_score": 67.5
+  }
+}

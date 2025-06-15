@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["Goulburn-NSW-25.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:19:30.560266", "lga": "Goulburn"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the 'Review of Climate Change Assessment and Adaptation Initiatives' by the Goulburn Mulwaree Council, clearly indicates that climate action is a core purpose or goal. The policy outlines the council's objectives, which include understanding the potential risks presented by climate change, undertaking a risk assessment that aligns with AS ISO 31000, understanding the impact of climate change on the organisation and the community it serves, developing strategies that focus on adaptation to potential climate change impact, and identifying strategic initiatives that can be used to inform the council\u2019s medium and long term management planning. These objectives demonstrate a clear focus on climate action, with the council taking steps to understand and mitigate the risks of climate change, and to adapt to its potential impacts. The policy also outlines specific actions to be taken, such as reducing load with new technologies and use of solar systems, which further underscores the centrality of climate action to the policy's goals."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. It outlines the objectives of the project, which include understanding the potential risks presented by climate change on the Local Government Area (LGA), developing strategies that focus on adaptation to potential climate change impact, and identifying strategic initiatives that can be used to inform the council's medium and long-term management planning. The document also acknowledges the council's corporate responsibility in understanding these risks. Furthermore, it highlights the role of local governments in dealing with and being affected by the impacts of climate change, and their critical role in ensuring that local conditions and needs are adequately considered in the overall adaptation response."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Goulburn Mulwaree Council's climate change assessments and adaptation plans, including scenarios for temperature, hot days, rainfall, fire weather, and wind. The documents detail risk impact matrices for these scenarios and propose adaptation initiatives. However, they do not express a sense of urgency or immediacy in their language. The documents focus on the identification of potential risks and the development of strategies to mitigate these risks. They also mention the possibility of identifying and incorporating opportunities arising from the changing climate in future assessments and plans. While the documents clearly acknowledge the reality of climate change and the need for action, they do not explicitly call for this action to be rapid or urgent."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines an 'Adaptation Initiatives Action Plan' which includes actions to be implemented, the accountability for these actions, and a timeframe for each. The document emphasizes that the responsibility for these actions may be delegated to an operational level, but it encourages assigning accountability to a senior or director level. The document also mentions that the proposed actions are to be implemented in accordance with the responsibility and timeframes outlined therein. However, the document does not provide the exact timeframes in the provided context, it only mentions that they exist.", "quote": {"content": "The responsibility for the specific actions may be delegated to Operational level however, it is encouraged to assign the accountability to a senior/ Director level. Finalise by completing the actions required to implement each of the initiatives and agree on a timeframe. This is a working table.", "page": 22, "source": "Goulburn-NSW-25.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of strategies and actions related to climate change risk management and adaptation, such as mapping vulnerable areas, investigating the use of planning agreements to reduce climate change impacts, and incorporating climate change considerations into strategic planning. However, these actions are presented as part of the local government's overall responsibilities and planning processes, rather than as a higher priority than other policies. The documents also mention the potential for climate change to impact various aspects of local government operations, such as public safety and infrastructure, but again, this is not framed as necessitating a higher priority for climate change responses compared to other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the Goulburn Mulwaree Council is aware of the potential impacts of climate change and is actively working towards understanding and mitigating these risks. The council has undertaken a risk assessment, developed adaptation strategies, and identified strategic initiatives for medium and long-term management planning. The documents also mention the development of an Adaptation Action Plan and the integration of the work conducted into relevant areas of the organisation. However, there is no explicit requirement stated that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents do outline various strategies and initiatives to address climate change, such as climate change risk management and adaptation plans, mapping vulnerable areas, and investigating the use of Section 94 and Voluntary Planning Agreements, there is no clear mention of specific funding allocation for these actions. The documents also mention seeking grant funding opportunities for mitigation measures, but this does not constitute a direct allocation of funding by the local government. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines various actions and strategies to address climate change, and these actions imply the allocation of staff resources. For instance, the policy mentions the review of management plans for facilities to consider climate change impacts, the adjustment of plant selection criteria, and the engagement with the State Government on research and management methods. These actions would require the involvement of staff in planning, implementation, and management. Furthermore, the policy mentions the roles of the Director of Planning & Environment and the Director of Operations, suggesting that specific staff members have been assigned responsibilities related to climate action. However, the policy does not provide explicit details on the number of staff allocated, the specific roles they will play, or the time they will dedicate to these tasks."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on the local government's own initiatives and actions in response to climate change, such as using the latest climate data and scenarios, adjusting the selection criteria of plants, and updating plans of management to consider climate change risk. While the documents mention the local government's responsibility to communicate directly with communities and respond to local changes, they do not provide specific details on how the local government is actively empowering and educating the community to rally and support climate action. Therefore, the question cannot be answered in the affirmative based on the provided context."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The provided documents from the Goulburn Mulwaree Council's Review of Climate Change Assessment and Adaptation Initiatives do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The documents focus primarily on the identification and assessment of climate change risks, such as increased temperatures, rainfall intensity, and hot days, and their potential impacts on public safety, infrastructure, and the environment. The proposed adaptation initiatives mentioned in the documents are mainly reactive measures to these risks, such as updating stormwater infrastructure, implementing a bridge replacement program, and introducing passive building design for future structures. However, these initiatives are more about adapting to the impacts of climate change rather than mitigating greenhouse gas emissions. Therefore, based on the provided context, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change risk management and adaptation planning. It includes the mapping of vulnerable areas in line with climate projections and the review of Local Environmental Plan (LEP) and Development Control Plan (DCP) controls as necessary. The policy also proposes the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Furthermore, the policy includes an Adaptation Action Plan with proposed actions to be implemented according to the responsibility and timeframes outlined. The policy also suggests the integration of adaptation initiatives into the Council\u2019s medium and long-term planning programs. Therefore, the policy not only acknowledges the risks associated with climate change but also provides specific, actionable steps to mitigate these risks and adapt to a changing climate.", "quote": {"content": "Investigate the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Include climate change risk management and adaptation plans into strategic (e.g. Council\u2019s 20 year Community Strategic Plan) and other relevant management planning and decision making processes. Map vulnerable areas in line with Climate projections and where relevant, review LEP and DCP controls as necessary.", "page": 14, "source": "Goulburn-NSW-25.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive approach to climate change risk management and adaptation planning. The policy includes specific actions such as mapping vulnerable areas in line with climate projections and reviewing Local Environmental Plan (LEP) and Development Control Plan (DCP) controls as necessary. It also proposes the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. The document also mentions the creation of an Adaptation Action Plan, which outlines proposed actions to be implemented in accordance with the responsibility and timeframes outlined therein. The document also mentions the identification of adaptation-planning initiatives where the impact levels rated HIGH. This suggests a well-structured and evidence-based approach to climate change adaptation planning.", "quote": {"content": "Investigate the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Include climate change risk management and adaptation plans into strategic (e.g. Council\u2019s 20 year Community Strategic Plan) and other relevant management planning and decision making processes. Map vulnerable areas in line with Climate projections and where relevant, review LEP and DCP controls as necessary.", "page": 14, "source": "Goulburn-NSW-25.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines 'Success Criteria' which are defined as overall typical local government long-term objectives. These criteria are used to assess the impact of climate change on the council's ability to maintain public safety, protect and enhance the local economy, protect existing community structures and the lifestyle enjoyed by the people of the region, sustain and enhance the physical and natural environment, and ensure sound public administration. Each risk identified in the plan is given a Risk Identification code, which includes the Success Criterion as one of its identifiers. This system allows for the evaluation of the success of the plan's proposed actions in relation to these criteria.", "quote": {"content": "\u2018Success Criteria\u2019 are overall typical local government long term objectives, as originally defined in Climate Change Impacts & Risk Management A Guide for Business, Australian Greenhouse Office 2006.", "page": 13, "source": "Goulburn-NSW-25.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government policy does outline a series of actions and strategies to address climate change, including mapping vulnerable areas, investigating infrastructure implementation, and integrating climate change risk management and adaptation plans into strategic planning. However, these actions seem to be based on existing data and projections, rather than new research conducted within the local community. The documents also mention the role of local governments in communicating with communities and responding to local changes, but this does not necessarily imply conducting new research in the community. Therefore, the question cannot be answered in the affirmative based on the provided context."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not show clear evidence of innovation and policy experimentation in climate action. The local government's policy appears to be focused on risk assessment and adaptation planning, with a series of actions proposed for implementation. These actions include climate change risk management, mapping vulnerable areas, and investigating the use of planning agreements to contribute to required infrastructure implementation. However, these actions seem to be standard responses to climate change risks, rather than innovative or experimental approaches. The documents also mention the possibility of identifying and incorporating opportunities arising from the changing climate in future assessments and adaptation plans, but no specific innovative or experimental policies or actions are outlined in this regard."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The local government acknowledges its role in dealing with the impacts of climate change and recognizes its position to inform State and Commonwealth Governments about the needs of local and regional communities. The document also mentions the local government's plan to engage with the State Government on research and management methods related to climate change. This indicates a clear intent to collaborate with higher levels of government to address climate change. However, the document does not provide specific details on how this advocacy will be carried out, which areas of climate action will be prioritized, or what specific support they will be seeking from state and national governments.", "quote": {"content": "They are strongly positioned to inform State and Commonwealth Governments about the on-the-ground needs of local and regional communities, to communicate directly with communities, and to respond appropriately and in a timely manner to local changes.", "page": 12, "source": "Goulburn-NSW-25.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the role of local governments in dealing with the impacts of climate change and their position to inform State and Commonwealth Governments about local needs, there is no specific mention of building local capacity or fostering partnerships with neighbouring councils for climate action. The documents focus more on the council's own plans and strategies for climate change adaptation and risk management."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The documents primarily focus on the local government's climate change assessments, adaptation plans, and risk management strategies. They detail various scenarios related to climate change, such as temperature, hot days, rainfall, fire weather, and wind, and propose adaptation initiatives for each. The documents also outline the process of risk assessment and the development of an action plan. However, they do not provide any information about coordination with, or participation in, any regional or other partnerships specifically related to climate change."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the potential risks and impacts of climate change on the local government's operations, assets, and services. They outline the council's plans to identify and incorporate opportunities arising from climate change into their assessments and adaptation plans. The documents also mention the council's responsibility to deliver a broad range of services to the community and manage a substantial number of assets and infrastructure. However, there is no specific mention or discussion about the impact of climate change on vulnerable communities or any considerations related to equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the risks and impacts of climate change, and the local government's plans for adaptation and mitigation. They outline various scenarios such as hot days, temperature changes, rainfall, wind, and fire weather, and their potential impacts on public safety, the local economy, community structures, the physical and natural environment, and public administration. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 38.3}}
+{
+  "settings": {
+    "source_files": [
+      "Goulburn-NSW-25.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:19:30.560266",
+    "lga": "Goulburn"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the 'Review of Climate Change Assessment and Adaptation Initiatives' by the Goulburn Mulwaree Council, clearly indicates that climate action is a core purpose or goal. The policy outlines the council's objectives, which include understanding the potential risks presented by climate change, undertaking a risk assessment that aligns with AS ISO 31000, understanding the impact of climate change on the organisation and the community it serves, developing strategies that focus on adaptation to potential climate change impact, and identifying strategic initiatives that can be used to inform the council\u2019s medium and long term management planning. These objectives demonstrate a clear focus on climate action, with the council taking steps to understand and mitigate the risks of climate change, and to adapt to its potential impacts. The policy also outlines specific actions to be taken, such as reducing load with new technologies and use of solar systems, which further underscores the centrality of climate action to the policy's goals."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines the objectives of the project, which include understanding the potential risks presented by climate change on the Local Government Area (LGA), developing strategies that focus on adaptation to potential climate change impact, and identifying strategic initiatives that can be used to inform the council's medium and long-term management planning. The document also acknowledges the council's corporate responsibility in understanding these risks. Furthermore, it highlights the role of local governments in dealing with and being affected by the impacts of climate change, and their critical role in ensuring that local conditions and needs are adequately considered in the overall adaptation response."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline the Goulburn Mulwaree Council's climate change assessments and adaptation plans, including scenarios for temperature, hot days, rainfall, fire weather, and wind. The documents detail risk impact matrices for these scenarios and propose adaptation initiatives. However, they do not express a sense of urgency or immediacy in their language. The documents focus on the identification of potential risks and the development of strategies to mitigate these risks. They also mention the possibility of identifying and incorporating opportunities arising from the changing climate in future assessments and plans. While the documents clearly acknowledge the reality of climate change and the need for action, they do not explicitly call for this action to be rapid or urgent."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. It outlines an 'Adaptation Initiatives Action Plan' which includes actions to be implemented, the accountability for these actions, and a timeframe for each. The document emphasizes that the responsibility for these actions may be delegated to an operational level, but it encourages assigning accountability to a senior or director level. The document also mentions that the proposed actions are to be implemented in accordance with the responsibility and timeframes outlined therein. However, the document does not provide the exact timeframes in the provided context, it only mentions that they exist.",
+          "quote": {
+            "content": "The responsibility for the specific actions may be delegated to Operational level however, it is encouraged to assign the accountability to a senior/ Director level. Finalise by completing the actions required to implement each of the initiatives and agree on a timeframe. This is a working table.",
+            "page": 22,
+            "source": "Goulburn-NSW-25.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The documents do outline a number of strategies and actions related to climate change risk management and adaptation, such as mapping vulnerable areas, investigating the use of planning agreements to reduce climate change impacts, and incorporating climate change considerations into strategic planning. However, these actions are presented as part of the local government's overall responsibilities and planning processes, rather than as a higher priority than other policies. The documents also mention the potential for climate change to impact various aspects of local government operations, such as public safety and infrastructure, but again, this is not framed as necessitating a higher priority for climate change responses compared to other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that all council activities must be aligned with climate policy. They do, however, indicate that the Goulburn Mulwaree Council is aware of the potential impacts of climate change and is actively working towards understanding and mitigating these risks. The council has undertaken a risk assessment, developed adaptation strategies, and identified strategic initiatives for medium and long-term management planning. The documents also mention the development of an Adaptation Action Plan and the integration of the work conducted into relevant areas of the organisation. However, there is no explicit requirement stated that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents do outline various strategies and initiatives to address climate change, such as climate change risk management and adaptation plans, mapping vulnerable areas, and investigating the use of Section 94 and Voluntary Planning Agreements, there is no clear mention of specific funding allocation for these actions. The documents also mention seeking grant funding opportunities for mitigation measures, but this does not constitute a direct allocation of funding by the local government. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government policy does allocate non-monetary institutional resources to climate action. The policy outlines various actions and strategies to address climate change, and these actions imply the allocation of staff resources. For instance, the policy mentions the review of management plans for facilities to consider climate change impacts, the adjustment of plant selection criteria, and the engagement with the State Government on research and management methods. These actions would require the involvement of staff in planning, implementation, and management. Furthermore, the policy mentions the roles of the Director of Planning & Environment and the Director of Operations, suggesting that specific staff members have been assigned responsibilities related to climate action. However, the policy does not provide explicit details on the number of staff allocated, the specific roles they will play, or the time they will dedicate to these tasks."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": false,
+          "answer": "The documents provided do not provide clear evidence of the local government actively empowering and educating the community to rally, support, and work productively together to deliver climate action. The documents primarily focus on the local government's own initiatives and actions in response to climate change, such as using the latest climate data and scenarios, adjusting the selection criteria of plants, and updating plans of management to consider climate change risk. While the documents mention the local government's responsibility to communicate directly with communities and respond to local changes, they do not provide specific details on how the local government is actively empowering and educating the community to rally and support climate action. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The provided documents from the Goulburn Mulwaree Council's Review of Climate Change Assessment and Adaptation Initiatives do not provide clear evidence of specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The documents focus primarily on the identification and assessment of climate change risks, such as increased temperatures, rainfall intensity, and hot days, and their potential impacts on public safety, infrastructure, and the environment. The proposed adaptation initiatives mentioned in the documents are mainly reactive measures to these risks, such as updating stormwater infrastructure, implementing a bridge replacement program, and introducing passive building design for future structures. However, these initiatives are more about adapting to the impacts of climate change rather than mitigating greenhouse gas emissions. Therefore, based on the provided context, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for climate adaptation and resilience. The policy outlines a comprehensive approach to climate change risk management and adaptation planning. It includes the mapping of vulnerable areas in line with climate projections and the review of Local Environmental Plan (LEP) and Development Control Plan (DCP) controls as necessary. The policy also proposes the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Furthermore, the policy includes an Adaptation Action Plan with proposed actions to be implemented according to the responsibility and timeframes outlined. The policy also suggests the integration of adaptation initiatives into the Council\u2019s medium and long-term planning programs. Therefore, the policy not only acknowledges the risks associated with climate change but also provides specific, actionable steps to mitigate these risks and adapt to a changing climate.",
+          "quote": {
+            "content": "Investigate the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Include climate change risk management and adaptation plans into strategic (e.g. Council\u2019s 20 year Community Strategic Plan) and other relevant management planning and decision making processes. Map vulnerable areas in line with Climate projections and where relevant, review LEP and DCP controls as necessary.",
+            "page": 14,
+            "source": "Goulburn-NSW-25.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a comprehensive approach to climate change risk management and adaptation planning. The policy includes specific actions such as mapping vulnerable areas in line with climate projections and reviewing Local Environmental Plan (LEP) and Development Control Plan (DCP) controls as necessary. It also proposes the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. The document also mentions the creation of an Adaptation Action Plan, which outlines proposed actions to be implemented in accordance with the responsibility and timeframes outlined therein. The document also mentions the identification of adaptation-planning initiatives where the impact levels rated HIGH. This suggests a well-structured and evidence-based approach to climate change adaptation planning.",
+          "quote": {
+            "content": "Investigate the use of Section 94 and Voluntary Planning Agreements to contribute to required infrastructure implementation to reduce the impacts of climate change. Include climate change risk management and adaptation plans into strategic (e.g. Council\u2019s 20 year Community Strategic Plan) and other relevant management planning and decision making processes. Map vulnerable areas in line with Climate projections and where relevant, review LEP and DCP controls as necessary.",
+            "page": 14,
+            "source": "Goulburn-NSW-25.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines 'Success Criteria' which are defined as overall typical local government long-term objectives. These criteria are used to assess the impact of climate change on the council's ability to maintain public safety, protect and enhance the local economy, protect existing community structures and the lifestyle enjoyed by the people of the region, sustain and enhance the physical and natural environment, and ensure sound public administration. Each risk identified in the plan is given a Risk Identification code, which includes the Success Criterion as one of its identifiers. This system allows for the evaluation of the success of the plan's proposed actions in relation to these criteria.",
+          "quote": {
+            "content": "\u2018Success Criteria\u2019 are overall typical local government long term objectives, as originally defined in Climate Change Impacts & Risk Management A Guide for Business, Australian Greenhouse Office 2006.",
+            "page": 13,
+            "source": "Goulburn-NSW-25.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government policy does outline a series of actions and strategies to address climate change, including mapping vulnerable areas, investigating infrastructure implementation, and integrating climate change risk management and adaptation plans into strategic planning. However, these actions seem to be based on existing data and projections, rather than new research conducted within the local community. The documents also mention the role of local governments in communicating with communities and responding to local changes, but this does not necessarily imply conducting new research in the community. Therefore, the question cannot be answered in the affirmative based on the provided context."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents discuss the development of an Adaptation Action Plan, which includes risk assessments and proposed adaptation initiatives. However, these initiatives are not described as experiments, pilots, test beds, demonstration projects, or urban laboratories. Instead, they are presented as actions to be implemented in response to identified risks. The documents also mention the need for ongoing review and adjustment of these initiatives, but this is framed as part of regular management and planning processes, rather than as a process of experimentation and learning from real-world testing of different approaches. Therefore, based on the information provided, it cannot be concluded that the local government is engaging in policy experimentation in its climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The document does show an explicit intent to advocate upward to state and national governments to support climate action. The local government acknowledges its role in dealing with the impacts of climate change and recognizes its position to inform State and Commonwealth Governments about the needs of local and regional communities. The document also mentions the local government's plan to engage with the State Government on research and management methods related to climate change. This indicates a clear intent to collaborate with higher levels of government to address climate change. However, the document does not provide specific details on how this advocacy will be carried out, which areas of climate action will be prioritized, or what specific support they will be seeking from state and national governments.",
+          "quote": {
+            "content": "They are strongly positioned to inform State and Commonwealth Governments about the on-the-ground needs of local and regional communities, to communicate directly with communities, and to respond appropriately and in a timely manner to local changes.",
+            "page": 12,
+            "source": "Goulburn-NSW-25.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the role of local governments in dealing with the impacts of climate change and their position to inform State and Commonwealth Governments about local needs, there is no specific mention of building local capacity or fostering partnerships with neighbouring councils for climate action. The documents focus more on the council's own plans and strategies for climate change adaptation and risk management."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not mention any specific regional associations, alliances, or other partnerships related to climate change. The documents primarily focus on the local government's climate change assessments, adaptation plans, and risk management strategies. They detail various scenarios related to climate change, such as temperature, hot days, rainfall, fire weather, and wind, and propose adaptation initiatives for each. The documents also outline the process of risk assessment and the development of an action plan. However, they do not provide any information about coordination with, or participation in, any regional or other partnerships specifically related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the potential risks and impacts of climate change on the local government's operations, assets, and services. They outline the council's plans to identify and incorporate opportunities arising from climate change into their assessments and adaptation plans. The documents also mention the council's responsibility to deliver a broad range of services to the community and manage a substantial number of assets and infrastructure. However, there is no specific mention or discussion about the impact of climate change on vulnerable communities or any considerations related to equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. The documents primarily focus on the risks and impacts of climate change, and the local government's plans for adaptation and mitigation. They outline various scenarios such as hot days, temperature changes, rainfall, wind, and fire weather, and their potential impacts on public safety, the local economy, community structures, the physical and natural environment, and public administration. However, there is no specific mention or discussion on the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, based on the provided documents, the question cannot be answered in the affirmative."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 38.3
+  }
+}

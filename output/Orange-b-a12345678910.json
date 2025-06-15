@@ -1,1 +1,317 @@
-{"settings": {"source_files": ["Orange-NSW-43.pdf", "Orange-NSW-44.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T13:17:19.501231", "lga": "Orange"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly states that climate action is a core purpose. The policy outlines the local government's planned actions in response to climate change, with a focus on both mitigation and adaptation strategies. The policy is designed to align with the Paris Agreement and is based on evidence and data. It includes a detailed understanding of the most relevant and effective approaches available to the council, and the relative costs and carbon abatement potential of these interventions. This allows the council to make informed decisions and drive significant and measurable carbon reductions within the community. The policy also includes a commitment to reporting annually to the community on progress in delivering these actions. The policy aims to encourage the broader community and other cities and towns to also work towards adapting to a changing climate and mitigating their impacts.", "quote": {"content": "Sources of further information for Council employees and others and, To provide the mechanism to implement Council\u2019s Climate Change Strategic Policy. The purpose of this plan is to outline: The role of Council in adapting and mitigating impacts of climate change to Council. Council\u2019s approach to adapting to and mitigating the impacts of Climate Change.", "page": 4, "source": "Orange-NSW-43.pdf", "search_score": 0.97}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The local government's policy and plan outline the role of the council in adapting to and mitigating the impacts of climate change. The documents highlight the council's commitment to reducing emissions from its operations and addressing the expected effects of climate change. The council acknowledges the shared responsibility to address the causes of climate change that will impact present and future generations and the environment. The documents also emphasize the importance of evidence-based action planning, which should be based on data that demonstrates the available opportunity, future projections, and the reductions possible. This approach enables the council to make informed decisions and drive significant and measurable carbon reductions within the community.", "quote": {"content": "This Climate Change Management plan for Council\u2019s operations summarises the drivers and actions that Orange City Council will take to reduce emissions from our activities and address the expected effects of climate change on Council over the next 5 years.", "page": 2, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the local government's commitment to implementing a climate change management plan, which includes understanding and reducing operational emissions, adapting to climate change, and reporting annually on progress. The documents also mention the establishment of a Climate Change Operational Management Plan and the undertaking of detailed risk assessments. However, these actions are presented as part of a strategic approach rather than an urgent response. The documents also refer to the broader context of climate change, including the Paris Agreement and the impacts of climate change, but do not express a sense of urgency in their proposed actions."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Management Plan outlines a five-year plan for reducing emissions from Council operations and building community capacity to deliver key objectives of the climate change strategic policy. The plan also includes a review of the Council's Climate Change Risk Assessment in 2026. The Council has committed to reporting annually to the community on progress in delivering these actions. This indicates a clear timeline for both the implementation of actions and the review and reporting of progress, demonstrating an understanding of the urgency of action on climate change.", "quote": {"content": "Development Services Future Planning 2026", "page": 46, "source": "Orange-NSW-43.pdf", "search_score": 0.91}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents detail the local government's plan to mitigate and adapt to climate change, including understanding operational emissions, reducing emissions, and reporting annually on progress. They also mention the importance of evidence-based action planning and collaborative planning processes. However, these are presented as part of the local government's overall policy framework, not as policies that supersede all others. Therefore, without explicit mention of climate change policies taking precedence over other policies, it cannot be affirmed that a climate emergency response is given higher priority."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate a strong commitment to addressing climate change, including the implementation of a Climate Change Management Plan and a Climate Change Operational Management Plan, they do not explicitly require all council activities to align with these policies. The documents outline various actions and strategies to mitigate and adapt to climate change, such as reducing operational emissions, establishing robust emissions data collection systems, and conducting climate change risk assessments. However, these actions seem to be specific initiatives rather than a requirement for all council activities. Furthermore, the documents mention the integration of climate change-related risks within Council\u2019s Integrated Planning and Reporting Framework and the consideration of climate change in operational, strategic planning and management decisions. Yet, these do not necessarily equate to a mandate for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various actions and strategies related to climate change mitigation and adaptation, they do not provide specific details about the allocation of funds for these actions. The documents mention the pursuit of grant and other funding opportunities, but they do not specify the amount of funding that will be allocated for climate action. The documents also mention the establishment of a Climate Change Operational Management Plan and the implementation of various climate change actions, but again, they do not provide specific details about the funding for these initiatives. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's climate change management plan does indeed allocate non-monetary institutional resources, specifically staff, to climate action. The plan outlines various actions to be taken, each of which is assigned to a specific work area or department within the local government. For instance, the 'Development Services' and 'Development & Corporate Services' are tasked with actions such as internal monitoring and reporting for the implementation of the climate change management plan, engaging with the community, conducting council staff training, and establishing an internal staff committee for the management and implementation of the plan. These actions clearly indicate that staff resources are being allocated to the implementation of the plan. Furthermore, the plan also mentions 'collaborative planning processes across all council departments', which suggests a broad institutional commitment to climate action.", "quote": {"content": "Establish internal monitoring and reporting for the implementation of this climate change management plan.", "page": 39, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents provide evidence that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a range of initiatives aimed at engaging the community in climate change mitigation and adaptation. These include the development of education and behaviour-change programs to support local residents and businesses to tackle climate change through clean energy, energy efficiency, and sustainable transport. The policy also highlights the importance of promoting Council\u2019s emission reduction aims and achievements to the broader community, and encouraging emissions reduction actions by the community. Furthermore, the policy emphasizes the need to engage with the community in making a low carbon culture a source of community pride. These initiatives suggest a concerted effort to mobilize the community around climate action.", "quote": {"content": "Develop education and \nbehaviour-change programs \nto support local residents \nand businesses to tackle \nclimate change through \nclean energy, energy \nefficiency and sustainable \ntransport.", "page": 14, "source": "Orange-NSW-43.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The Orange City Council Climate Change Management Plan 2021 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of technological solutions and behaviour changes to achieve this goal. For instance, the plan mentions the installation of solar systems on seven sites, which have produced significant amounts of energy since their installation. This is a clear example of a technological solution aimed at reducing greenhouse gas emissions. The plan also outlines future strategies for emissions reduction, which include carbon-positive energy efficient buildings, smarter infrastructure, renewable energy technologies, waste solutions, sustainable transport services, and increasing canopy cover and green restoration projects. These strategies indicate a comprehensive approach to emissions reduction that includes both technological solutions and behaviour changes. Furthermore, the plan includes a commitment to reporting annually to the community on progress in delivering these actions, demonstrating a commitment to transparency and accountability.", "quote": {"content": "Mitigation activities are designed to reduce Green House Gas (GHG) emissions and/or increase the amounts of GHGs removed from the atmosphere by greenhouse sinks (Adapt NSW, 2014).", "page": 15, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes conducting a Climate Change Risk Assessment in line with Council\u2019s existing Corporate Risk Management policy. This assessment is aimed at identifying climate change risks and developing appropriate adaptation strategies. The plan also includes the incorporation of identified climate change risks and adaptation options into existing corporate risk management frameworks and 'business as usual' operations. Furthermore, the plan outlines the development of communication materials and online campaigns to promote climate adaptation actions at community facilities, information centres, and events. The plan also includes a review and update every five years or when new data or events trigger the need to reassess climate risks. These actions demonstrate a clear commitment to climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a detailed process for establishing robust planning and action on climate change, which includes insight, target, strategy, action, and evaluation. This process is based on the work of Ironbark Sustainability, a consultancy that has worked with 260 councils across Australia since 2004 to reduce greenhouse emissions and implement sustainability projects. The document also emphasizes the importance of evidence-based action planning, which should be based on data that demonstrates the available opportunity, future projections, and the reductions possible. This approach allows the council to understand its current impacts on climate change and plan effective mitigation actions. Furthermore, the document outlines specific actions, such as developing and analyzing the council's full operational emissions profile and establishing robust emissions data collection systems and methodology.", "quote": {"content": "Evidence-based action planning framework can provide a detailed understanding of the most relevant, and effective approaches available to our council, and the relative costs and carbon abatement potential of these interventions.", "page": 26, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's climate change management plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines the use of Key Performance Indicators (KPIs), monitoring frequency, and Trigger Points to evaluate if a project is going according to plan. These elements express what the government wants to achieve and by when, providing quantifiable, outcome-based statements to measure progress towards goals or objectives. The plan also includes a commitment to report the progress on implementing the plan to the public and to Councillors annually, which indicates a system of accountability and transparency. Furthermore, the plan mentions a review and update every five years, or when new data or events trigger the need to reassess climate risks. This suggests a commitment to ongoing evaluation and adaptation based on measurable outcomes and changing circumstances.", "quote": {"content": "They are the quantifiable, outcome-based statements you\u2019ll use to measure if you\u2019re on track to meet your goals or objectives. Elements of your plan that express what you want to achieve by when. Elements of your plan that express what you want to achieve by when.", "page": 26, "source": "Orange-NSW-43.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a comprehensive approach to climate action planning, which is based on evidence and data. This approach, referred to as 'evidence-based action planning', involves the use of data to understand the available opportunities, future projections, and possible reductions. This data-driven approach is designed to provide a detailed understanding of the most relevant and effective approaches available to the council. The policy also mentions the development of a 'Climate Change Operational Management Plan' and the undertaking of detailed risk assessments of climate change hazards. Furthermore, the policy outlines plans for community engagement, such as making a low carbon culture a source of community pride, and reporting the progress on implementing the plan to the public annually. These actions suggest a commitment to conducting research and gathering data from the local community to inform climate actions.", "quote": {"content": "Evidence-based action planning framework can provide a detailed understanding of the most relevant, and effective approaches available to our council, and the relative costs and carbon abatement potential of these interventions.", "page": 26, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The documents provide evidence of innovation and policy experimentation in climate action. The local government has adopted an evidence-based action planning framework, which is based on data that demonstrates the available opportunity, future projections, and the reductions possible. This approach allows for a detailed understanding of the most relevant and effective approaches available to the council, and the relative costs and carbon abatement potential of these interventions. This data-driven approach enables the council to make informed decisions and drive significant and measurable carbon reductions within the community. The council also plans to implement a strategic energy management plan for local government operations, which could include an energy usage reduction goal. This approach demonstrates a commitment to innovation and policy experimentation in climate action.", "quote": {"content": "Evidence-based action planning framework can provide a detailed understanding of the most relevant, and effective approaches available to our council, and the relative costs and carbon abatement potential of these interventions.", "page": 26, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}], "score": {"num_positives": 4, "num_questions": 4, "score": 1.0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the local government policy does express a commitment to climate change mitigation and adaptation, and outlines a plan for implementing actions to meet the objectives of the Council\u2019s Climate Change Strategic Policy, it does not specifically mention advocacy towards higher levels of government. The policy does mention collaboration and establishing partnerships with the community, key stakeholders, and other local councils, but it does not explicitly state an intent to advocate to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to implementing a consolidated climate and adaptation management plan, with an emphasis on reporting annually to the community on progress. This indicates an intention to build capacity within the council and the local community. The policy also aims to encourage other cities and towns to work towards adapting to a changing climate and mitigating their impacts, suggesting an advocacy for action among neighbouring local councils. Furthermore, the policy emphasizes the importance of collaboration and partnerships with community, key stakeholders, other Local Councils and other tiers of government to strengthen Council\u2019s adaptive capacity in response to climate change. This further underscores the policy's commitment to building local capacity and fostering partnerships for climate action.", "quote": {"content": "Not only do we aim to encourage the broader community, but we also aim to encourage other cities and towns to also work towards adapting to a changing climate and mitigating their impacts. Council is committed to implementing this plan to meet the objectives of Council\u2019s Climate Change Strategic Policy and is committed to reporting annually to the community on our progress in delivering these actions. By sharing the approach, we are aiming to mitigate and adapt to climate change while also setting an example and demonstrating what is possible.", "page": 2, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific partnerships related to climate action. The local government is part of the Cities Power Partnership, which is Australia\u2019s largest local government climate network. This partnership involves making five action pledges in areas such as renewable energy, efficiency, transport, or working in partnership to tackle climate change. The local government has made specific pledges under this partnership, demonstrating its commitment to collaborative action on climate change. Furthermore, the documents mention the National Climate Change Adaptation Research Facility (NCCARF) and other research and development programs funded by the Commonwealth Government. These programs provide the science needed to understand climate change and implement adaptation across Australia. The local government's involvement in these partnerships and its commitment to the pledges made under the Cities Power Partnership demonstrate its active participation in coordinated, collaborative efforts to address climate change.", "quote": {"content": "Orange City Council is a Power Partner and has pledged to take actions found in the table below (Cities Power Partnership, 2018). Local Councils who join the partnership make five action pledges in either renewable energy, efficiency, transport or working in partnership to tackle climate change.", "page": 14, "source": "Orange-NSW-43.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention aspects such as 'increasing inequality and disadvantage', 'social equity', and 'community health', they do not provide specific details on how climate change impacts these areas or how it specifically affects vulnerable communities. The documents primarily focus on the local government's plans and strategies to mitigate and adapt to climate change, including reducing greenhouse gas emissions, adapting existing activities, and considering climate change implications in decision-making. However, the specifics of how these actions address the needs of vulnerable communities in terms of equity and social justice are not clearly outlined."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The documents do discuss the equitable sharing of benefits and opportunities related to climate change, albeit not in explicit terms. The policy outlines the local government's commitment to integrating social inclusion into their climate change actions, as well as their intention to work with the local Aboriginal community. This suggests an effort to ensure that the benefits of climate change action are shared equitably among different social groups. The policy also mentions the aim to adapt existing activities and practices to realize the economic opportunities that climate change action can provide, which could be interpreted as an attempt to distribute the economic benefits of climate change action equitably. However, the documents do not provide specific details on how these benefits and opportunities will be equitably shared, and there is no explicit mention of 'equity and social justice'."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 14, "num_questions": 20, "attribute_score": 71.7}}
+{
+  "settings": {
+    "source_files": [
+      "Orange-NSW-43.pdf",
+      "Orange-NSW-44.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T13:17:19.501231",
+    "lga": "Orange"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly states that climate action is a core purpose. The policy outlines the local government's planned actions in response to climate change, with a focus on both mitigation and adaptation strategies. The policy is designed to align with the Paris Agreement and is based on evidence and data. It includes a detailed understanding of the most relevant and effective approaches available to the council, and the relative costs and carbon abatement potential of these interventions. This allows the council to make informed decisions and drive significant and measurable carbon reductions within the community. The policy also includes a commitment to reporting annually to the community on progress in delivering these actions. The policy aims to encourage the broader community and other cities and towns to also work towards adapting to a changing climate and mitigating their impacts.",
+          "quote": {
+            "content": "Sources of further information for Council employees and others and, To provide the mechanism to implement Council\u2019s Climate Change Strategic Policy. The purpose of this plan is to outline: The role of Council in adapting and mitigating impacts of climate change to Council. Council\u2019s approach to adapting to and mitigating the impacts of Climate Change.",
+            "page": 4,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.97
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government's policy and plan outline the role of the council in adapting to and mitigating the impacts of climate change. The documents highlight the council's commitment to reducing emissions from its operations and addressing the expected effects of climate change. The council acknowledges the shared responsibility to address the causes of climate change that will impact present and future generations and the environment. The documents also emphasize the importance of evidence-based action planning, which should be based on data that demonstrates the available opportunity, future projections, and the reductions possible. This approach enables the council to make informed decisions and drive significant and measurable carbon reductions within the community.",
+          "quote": {
+            "content": "This Climate Change Management plan for Council\u2019s operations summarises the drivers and actions that Orange City Council will take to reduce emissions from our activities and address the expected effects of climate change on Council over the next 5 years.",
+            "page": 2,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents do not explicitly call for rapid and urgent action on climate change. They outline the local government's commitment to implementing a climate change management plan, which includes understanding and reducing operational emissions, adapting to climate change, and reporting annually on progress. The documents also mention the establishment of a Climate Change Operational Management Plan and the undertaking of detailed risk assessments. However, these actions are presented as part of a strategic approach rather than an urgent response. The documents also refer to the broader context of climate change, including the Paris Agreement and the impacts of climate change, but do not express a sense of urgency in their proposed actions."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents do provide specific timeframes for the local government's intended actions on climate change. The Climate Change Management Plan outlines a five-year plan for reducing emissions from Council operations and building community capacity to deliver key objectives of the climate change strategic policy. The plan also includes a review of the Council's Climate Change Risk Assessment in 2026. The Council has committed to reporting annually to the community on progress in delivering these actions. This indicates a clear timeline for both the implementation of actions and the review and reporting of progress, demonstrating an understanding of the urgency of action on climate change.",
+          "quote": {
+            "content": "Development Services Future Planning 2026",
+            "page": 46,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.91
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various strategies and actions, they do not explicitly prioritize these actions over other policies. The documents detail the local government's plan to mitigate and adapt to climate change, including understanding operational emissions, reducing emissions, and reporting annually on progress. They also mention the importance of evidence-based action planning and collaborative planning processes. However, these are presented as part of the local government's overall policy framework, not as policies that supersede all others. Therefore, without explicit mention of climate change policies taking precedence over other policies, it cannot be affirmed that a climate emergency response is given higher priority."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do indicate a strong commitment to addressing climate change, including the implementation of a Climate Change Management Plan and a Climate Change Operational Management Plan, they do not explicitly require all council activities to align with these policies. The documents outline various actions and strategies to mitigate and adapt to climate change, such as reducing operational emissions, establishing robust emissions data collection systems, and conducting climate change risk assessments. However, these actions seem to be specific initiatives rather than a requirement for all council activities. Furthermore, the documents mention the integration of climate change-related risks within Council\u2019s Integrated Planning and Reporting Framework and the consideration of climate change in operational, strategic planning and management decisions. Yet, these do not necessarily equate to a mandate for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate funding for climate action. While the documents outline various actions and strategies related to climate change mitigation and adaptation, they do not provide specific details about the allocation of funds for these actions. The documents mention the pursuit of grant and other funding opportunities, but they do not specify the amount of funding that will be allocated for climate action. The documents also mention the establishment of a Climate Change Operational Management Plan and the implementation of various climate change actions, but again, they do not provide specific details about the funding for these initiatives. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's climate change management plan does indeed allocate non-monetary institutional resources, specifically staff, to climate action. The plan outlines various actions to be taken, each of which is assigned to a specific work area or department within the local government. For instance, the 'Development Services' and 'Development & Corporate Services' are tasked with actions such as internal monitoring and reporting for the implementation of the climate change management plan, engaging with the community, conducting council staff training, and establishing an internal staff committee for the management and implementation of the plan. These actions clearly indicate that staff resources are being allocated to the implementation of the plan. Furthermore, the plan also mentions 'collaborative planning processes across all council departments', which suggests a broad institutional commitment to climate action.",
+          "quote": {
+            "content": "Establish internal monitoring and reporting for the implementation of this climate change management plan.",
+            "page": 39,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents provide evidence that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a range of initiatives aimed at engaging the community in climate change mitigation and adaptation. These include the development of education and behaviour-change programs to support local residents and businesses to tackle climate change through clean energy, energy efficiency, and sustainable transport. The policy also highlights the importance of promoting Council\u2019s emission reduction aims and achievements to the broader community, and encouraging emissions reduction actions by the community. Furthermore, the policy emphasizes the need to engage with the community in making a low carbon culture a source of community pride. These initiatives suggest a concerted effort to mobilize the community around climate action.",
+          "quote": {
+            "content": "Develop education and \nbehaviour-change programs \nto support local residents \nand businesses to tackle \nclimate change through \nclean energy, energy \nefficiency and sustainable \ntransport.",
+            "page": 14,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The Orange City Council Climate Change Management Plan 2021 indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a variety of technological solutions and behaviour changes to achieve this goal. For instance, the plan mentions the installation of solar systems on seven sites, which have produced significant amounts of energy since their installation. This is a clear example of a technological solution aimed at reducing greenhouse gas emissions. The plan also outlines future strategies for emissions reduction, which include carbon-positive energy efficient buildings, smarter infrastructure, renewable energy technologies, waste solutions, sustainable transport services, and increasing canopy cover and green restoration projects. These strategies indicate a comprehensive approach to emissions reduction that includes both technological solutions and behaviour changes. Furthermore, the plan includes a commitment to reporting annually to the community on progress in delivering these actions, demonstrating a commitment to transparency and accountability.",
+          "quote": {
+            "content": "Mitigation activities are designed to reduce Green House Gas (GHG) emissions and/or increase the amounts of GHGs removed from the atmosphere by greenhouse sinks (Adapt NSW, 2014).",
+            "page": 15,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a comprehensive approach to climate change adaptation, which includes conducting a Climate Change Risk Assessment in line with Council\u2019s existing Corporate Risk Management policy. This assessment is aimed at identifying climate change risks and developing appropriate adaptation strategies. The plan also includes the incorporation of identified climate change risks and adaptation options into existing corporate risk management frameworks and 'business as usual' operations. Furthermore, the plan outlines the development of communication materials and online campaigns to promote climate adaptation actions at community facilities, information centres, and events. The plan also includes a review and update every five years or when new data or events trigger the need to reassess climate risks. These actions demonstrate a clear commitment to climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines a detailed process for establishing robust planning and action on climate change, which includes insight, target, strategy, action, and evaluation. This process is based on the work of Ironbark Sustainability, a consultancy that has worked with 260 councils across Australia since 2004 to reduce greenhouse emissions and implement sustainability projects. The document also emphasizes the importance of evidence-based action planning, which should be based on data that demonstrates the available opportunity, future projections, and the reductions possible. This approach allows the council to understand its current impacts on climate change and plan effective mitigation actions. Furthermore, the document outlines specific actions, such as developing and analyzing the council's full operational emissions profile and establishing robust emissions data collection systems and methodology.",
+          "quote": {
+            "content": "Evidence-based action planning framework can provide a detailed understanding of the most relevant, and effective approaches available to our council, and the relative costs and carbon abatement potential of these interventions.",
+            "page": 26,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's climate change management plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines the use of Key Performance Indicators (KPIs), monitoring frequency, and Trigger Points to evaluate if a project is going according to plan. These elements express what the government wants to achieve and by when, providing quantifiable, outcome-based statements to measure progress towards goals or objectives. The plan also includes a commitment to report the progress on implementing the plan to the public and to Councillors annually, which indicates a system of accountability and transparency. Furthermore, the plan mentions a review and update every five years, or when new data or events trigger the need to reassess climate risks. This suggests a commitment to ongoing evaluation and adaptation based on measurable outcomes and changing circumstances.",
+          "quote": {
+            "content": "They are the quantifiable, outcome-based statements you\u2019ll use to measure if you\u2019re on track to meet your goals or objectives. Elements of your plan that express what you want to achieve by when. Elements of your plan that express what you want to achieve by when.",
+            "page": 26,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The local government's policy outlines a comprehensive approach to climate action planning, which is based on evidence and data. This approach, referred to as 'evidence-based action planning', involves the use of data to understand the available opportunities, future projections, and possible reductions. This data-driven approach is designed to provide a detailed understanding of the most relevant and effective approaches available to the council. The policy also mentions the development of a 'Climate Change Operational Management Plan' and the undertaking of detailed risk assessments of climate change hazards. Furthermore, the policy outlines plans for community engagement, such as making a low carbon culture a source of community pride, and reporting the progress on implementing the plan to the public annually. These actions suggest a commitment to conducting research and gathering data from the local community to inform climate actions.",
+          "quote": {
+            "content": "Evidence-based action planning framework can provide a detailed understanding of the most relevant, and effective approaches available to our council, and the relative costs and carbon abatement potential of these interventions.",
+            "page": 26,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do outline a number of strategies and actions related to climate change mitigation and adaptation, they do not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents discuss the use of evidence-based action planning, the implementation of renewable energy, and the development of a climate change management plan. However, these actions are presented as part of a broader strategy rather than as specific, small-scale experiments or pilot projects. Therefore, based on the provided documents, it cannot be conclusively stated that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 4,
+        "num_questions": 4,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the local government policy does express a commitment to climate change mitigation and adaptation, and outlines a plan for implementing actions to meet the objectives of the Council\u2019s Climate Change Strategic Policy, it does not specifically mention advocacy towards higher levels of government. The policy does mention collaboration and establishing partnerships with the community, key stakeholders, and other local councils, but it does not explicitly state an intent to advocate to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy encourages building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to implementing a consolidated climate and adaptation management plan, with an emphasis on reporting annually to the community on progress. This indicates an intention to build capacity within the council and the local community. The policy also aims to encourage other cities and towns to work towards adapting to a changing climate and mitigating their impacts, suggesting an advocacy for action among neighbouring local councils. Furthermore, the policy emphasizes the importance of collaboration and partnerships with community, key stakeholders, other Local Councils and other tiers of government to strengthen Council\u2019s adaptive capacity in response to climate change. This further underscores the policy's commitment to building local capacity and fostering partnerships for climate action.",
+          "quote": {
+            "content": "Not only do we aim to encourage the broader community, but we also aim to encourage other cities and towns to also work towards adapting to a changing climate and mitigating their impacts. Council is committed to implementing this plan to meet the objectives of Council\u2019s Climate Change Strategic Policy and is committed to reporting annually to the community on our progress in delivering these actions. By sharing the approach, we are aiming to mitigate and adapt to climate change while also setting an example and demonstrating what is possible.",
+            "page": 2,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific partnerships related to climate action. The local government is part of the Cities Power Partnership, which is Australia\u2019s largest local government climate network. This partnership involves making five action pledges in areas such as renewable energy, efficiency, transport, or working in partnership to tackle climate change. The local government has made specific pledges under this partnership, demonstrating its commitment to collaborative action on climate change. Furthermore, the documents mention the National Climate Change Adaptation Research Facility (NCCARF) and other research and development programs funded by the Commonwealth Government. These programs provide the science needed to understand climate change and implement adaptation across Australia. The local government's involvement in these partnerships and its commitment to the pledges made under the Cities Power Partnership demonstrate its active participation in coordinated, collaborative efforts to address climate change.",
+          "quote": {
+            "content": "Orange City Council is a Power Partner and has pledged to take actions found in the table below (Cities Power Partnership, 2018). Local Councils who join the partnership make five action pledges in either renewable energy, efficiency, transport or working in partnership to tackle climate change.",
+            "page": 14,
+            "source": "Orange-NSW-43.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. While the documents do mention aspects such as 'increasing inequality and disadvantage', 'social equity', and 'community health', they do not provide specific details on how climate change impacts these areas or how it specifically affects vulnerable communities. The documents primarily focus on the local government's plans and strategies to mitigate and adapt to climate change, including reducing greenhouse gas emissions, adapting existing activities, and considering climate change implications in decision-making. However, the specifics of how these actions address the needs of vulnerable communities in terms of equity and social justice are not clearly outlined."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The documents do discuss the equitable sharing of benefits and opportunities related to climate change, albeit not in explicit terms. The policy outlines the local government's commitment to integrating social inclusion into their climate change actions, as well as their intention to work with the local Aboriginal community. This suggests an effort to ensure that the benefits of climate change action are shared equitably among different social groups. The policy also mentions the aim to adapt existing activities and practices to realize the economic opportunities that climate change action can provide, which could be interpreted as an attempt to distribute the economic benefits of climate change action equitably. However, the documents do not provide specific details on how these benefits and opportunities will be equitably shared, and there is no explicit mention of 'equity and social justice'."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 14,
+    "num_questions": 20,
+    "attribute_score": 71.7
+  }
+}

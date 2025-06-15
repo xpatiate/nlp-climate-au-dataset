@@ -1,1 +1,310 @@
-{"settings": {"source_files": ["Hornsby-NSW-49.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:38:48.861643", "lga": "Hornsby"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, the Climate Wise Plan, clearly identifies climate action as its core purpose. The policy is designed to guide the local government's response to climate change, with a focus on both mitigation and adaptation strategies. The policy outlines a commitment to reducing greenhouse gas emissions, with a target of net zero emissions by 2050. It also emphasizes the need to adapt to the impacts of climate change, with a focus on reducing vulnerability and increasing resilience. The policy is guided by strategic principles that include factoring climate change into decision making and operations, balancing mitigation and adaptation efforts, acting even in the face of uncertainty, and building regular reviews into the plan's implementation. The policy also aligns with broader climate action goals at the national and international level, including the Paris Agreement and the United Nations' Sustainable Development Goals.", "quote": {"content": "Both approaches are needed, and Council will continue to implement mitigation and adaptation measures to reduce and manage the risks of climate change and play a leading role in the community. Hornsby Shire Council recognises that climate change is a global issue that requires significant and immediate action. Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change.", "page": 5, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The local government recognizes climate change as a global issue requiring significant and immediate action. The Climate Wise Plan is designed to guide the council's actions towards becoming a low carbon organization and community that is resilient to climate impacts. The plan outlines immediate actions to be taken and a monitoring pathway up to 2050. The council aims to reduce corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030. The community is tasked to reduce their emissions by 31% from 2017 levels by 2025 and 53% by 2030. The council also acknowledges the need to adapt to climate change, with a focus on reducing vulnerability and increasing resilience. The council plans to regularly review hazards and risks to prevent and mitigate climate risks.", "quote": {"content": "Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change. Hornsby Shire Council recognises that climate change is a global issue that requires significant and immediate action.", "page": 5, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. The local government recognizes climate change as a global issue that requires 'significant and immediate action'. The documents outline a Climate Wise Plan that sets out the future direction for the council to operate as a low carbon organization and community that is resilient to climate impacts. The plan includes immediate actions to be taken and a monitoring pathway up to 2050. The documents also highlight the urgency of acting now to mitigate the impacts of climate change, which have already been experienced in the form of drought, bushfires, and floods. The council has identified a number of high and extreme rated climate impact risks, further emphasizing the urgency of the situation.", "quote": {"content": "Both approaches are needed, and Council will continue to implement mitigation and adaptation measures to reduce and manage the risks of climate change and play a leading role in the community. Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change.", "page": 5, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Climate Wise Plan outlines immediate actions to be taken and a monitoring pathway up to 2050, indicating a long-term commitment to climate action. The plan also sets specific targets for reducing greenhouse gas emissions, with a 32% reduction from 2018 levels by 2025 and a 53% reduction by 2030 for corporate emissions. The community is also tasked with reducing their emissions by 31% from 2017 levels by 2025 and 53% by 2030. Furthermore, the documents mention that every four years, the council will revise the actions in the plan and identify new ones, indicating a commitment to regular review and adjustment of their climate action strategies.", "quote": {"content": "Our community are tasked to reduce their emissions by 31% from 2017 levels by 2025 and 53% by 2030. Bold actions are required if we are to meet our target of net zero emissions by 2050. We will need to reduce our corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030.", "page": 5, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various mitigation and adaptation strategies, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of integrating climate change considerations into decision-making and operations, and of balancing mitigation and adaptation efforts. They also highlight the need for immediate action, regular reviews, and flexibility in implementing the Climate Wise Plan. However, these statements do not necessarily imply that climate change actions should supersede all other policy areas. Therefore, without explicit evidence in the documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to climate change mitigation and adaptation, and outline various strategies and plans to achieve this, there is no explicit requirement stated that all council activities must align with these climate policies. The documents mention the council's intention to embed considerations of climate change into everyday practices, and the importance of all areas of council in implementing mitigation and adaptation measures. However, these statements do not necessarily equate to a mandate that all council activities must align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy repeatedly acknowledges the financial risk associated with climate change and outlines strategies to mitigate this risk. These strategies include long-term financial planning, applying for grant funding, and investigating the employment of a Grants Officer. The policy also mentions the investigation of alternative funding sources for climate change and the allocation of Developer Contributions. These strategies indicate a clear intention to allocate resources for climate action. However, the policy does not provide specific details on the amount of funding to be allocated or the exact sources of this funding. The policy's emphasis on investigating and applying for funding suggests that the exact details of funding allocation may be contingent on the success of these investigations and applications."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The policy documents indicate that the local government is planning to allocate staff resources to climate action. Specifically, the documents mention the investigation into the employment of a Grants Officer, who would presumably be responsible for securing grant funding for climate change initiatives. This suggests that the local government is considering the allocation of staff resources to support its climate change strategies. However, the documents do not provide specific details about the role of the Grants Officer or other potential staff allocations. Furthermore, the documents do not mention the allocation of other non-monetary institutional resources. Therefore, while the policy does indicate some level of staff resource allocation, it is not explicit about the extent or nature of this allocation."}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a cycle of engagement that includes mapping existing networks, identifying key champions within these networks, supporting engagement by these champions, and supporting adaptation initiatives. This approach suggests a focus on social mobilisation, as it involves identifying and empowering community leaders to drive engagement and action. The policy also mentions the use of an online interactive collaborative mapping tool, which received significant engagement from the community. This tool could be seen as an educational resource, helping community members to understand and engage with local environmental sustainability challenges. However, the documents do not provide specific details on the nature of the education provided to the community, or how the community is being empowered to rally and support climate action.", "quote": {"content": "Support adaptation initiatives Map existing networks 2. Identify key champions within networks 3. Support engagement by key champions 4. Support engagement by key champions 4. Support adaptation initiatives Support adaptation initiatives", "page": 30, "source": "Hornsby-NSW-49.pdf", "search_score": 0.95}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach of both mitigation and adaptation to address climate change. Mitigation efforts are aimed at reducing or removing greenhouse gas emissions from the atmosphere. The plan includes a range of actions such as sustainable transportation, clean energy, energy efficiency, and waste reduction. The plan also sets a target of net zero emissions by 2050, with interim goals of reducing emissions by 32% from 2018 levels by 2025 and 53% by 2030. The plan also emphasizes the importance of technological solutions and behaviour change, with the intention to embed considerations of climate change into everyday practices from 2020 onwards. The plan also includes a commitment to monitor and report on performance, assess emerging technologies and solutions, and regularly review hazards and risks.", "quote": {"content": "Our intention is to embed considerations of climate change into every day practices from 2020 onwards so that it becomes \u2018business as usual\u2019 across the organisation. Bold actions are required if we are to meet our target of net zero emissions by 2050. We will need to reduce our corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030.", "page": 5, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic approach to climate change adaptation, which includes both corporate and community adaptation measures. The corporate adaptation measures involve monitoring and reporting on performance, assessing emergent technologies and solutions, and regularly reviewing hazards and risks to prevent and mitigate climate risks. The community adaptation measures involve a six-step process to build resilience and assist residents to adapt. This includes mapping existing networks, identifying key champions within networks, supporting engagement by key champions, and supporting adaptation initiatives. The plan also includes a commitment to regularly review all risks, including low and medium risks, to ensure any new impacts or risks are identified. Furthermore, the plan outlines the need to factor climate change into decision making and operations, and to consider climate change mitigation as they develop adaptation solutions.", "quote": {"content": "Support adaptation initiatives. Map existing networks 2. Identify key champions within networks 3. Support engagement by key champions 4. Support engagement by key champions 4. Support adaptation initiatives. Support adaptation initiatives.", "page": 30, "source": "Hornsby-NSW-49.pdf", "search_score": 0.96}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a Climate Wise Plan with strategic principles such as factoring climate change into decision making, balancing mitigation and adaptation, and acting even with uncertainty, it does not provide specific sources or data to justify these principles or the targets set. The policy mentions targets such as reducing corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030, and embedding considerations of climate change into everyday practices from 2020 onwards. However, it does not provide the evidence or data that led to the establishment of these targets. The policy also mentions the intention to review and update actions every four years, but does not provide a clear methodology or criteria for this review process. Therefore, while the policy outlines a plan and targets for addressing climate change, it does not provide well-sourced evidence to justify these actions and targets."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various strategies and actions related to climate change, such as incorporating climate change projections into asset management plans, developing community resilience programs, and considering climate change in decision making, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The plan does mention that it will be dynamic, collaborative, and flexible, and that it will respond to changes and learn from experiences. However, these are general statements and do not constitute specific measurable criteria. Furthermore, the plan mentions a review process every four years, but it does not specify what criteria will be used in this review. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Wise Plan that includes immediate actions, a monitoring pathway, and the flexibility to adapt to evolving data and projections. This plan indicates a commitment to informed action based on research and data. The documents also mention specific studies being undertaken to improve preparedness for climate change and to help residents adjust to its impacts. Furthermore, the documents highlight the importance of community engagement in implementing mitigation and adaptation measures. This suggests that the local government is not only conducting research but also actively involving the community in its climate actions.", "quote": {"content": "Council is currently undertaking a range of specific studies to ensure that we are better informed and able to help our residents adjust to the impacts of climate change.", "page": 30, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. The local government's Climate Wise Plan outlines a series of strategic principles and actions to address climate change, including factoring climate change into decision making, balancing mitigation and adaptation, acting even with uncertainty, and building regular reviews into the plan. The plan also outlines a series of focus areas, such as biodiversity conservation, urban forest strategy, and water sensitive strategy. However, these actions and focus areas are largely standard approaches to climate change mitigation and adaptation, and do not clearly demonstrate innovation or policy experimentation. The documents also mention the potential for emerging information and technologies to be considered throughout the plan's implementation, but do not provide specific examples of innovative technologies or experimental policies being used or planned for use."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the local government policy acknowledges the role of the Intergovernmental Panel on Climate Change and the Paris Agreement, and aligns its actions with the broader goals of these international agreements, there is no specific mention of advocacy towards state and national governments. The policy outlines the local government's commitment to climate change mitigation and adaptation, including strategic principles, specific focus areas, and monitoring and reporting mechanisms. However, these actions seem to be primarily directed towards local implementation and do not explicitly involve advocating for state or national support."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The council is actively reviewing its community and corporate emissions, taking stock of energy consumption, waste production, and internal procedures. The council also plans to partner and collaborate with like-minded organisations locally, nationally, and internationally to ensure best practice projects and programs. The council is also working on community adaptation, where it plans to engage with the community using five types of engagement: inform, consult, involve, collaborate, and empower. The council also plans to use a community engagement cycle consisting of six steps, which includes mapping existing networks, identifying key champions within networks, supporting engagement by key champions, and supporting adaptation initiatives. This shows a clear intent to build local capacity for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The local government has partnered with the CSIRO and the Sydney Coastal Councils Group (SCCG) in a vulnerability study. The SCCG is a regional organization of local governments committed to sustainable coastal management. The documents also mention collaboration with Council\u2019s insurer Statewide Mutual and Echelon Australia Pty Ltd for a risk assessment to determine potential impacts on Council operations, asset management, and corporate vulnerability. This indicates a multi-stakeholder approach to climate change adaptation, involving both public and private entities. The documents also mention the United Nations Intergovernmental Panel on Climate Change (IPCC) and the Paris Agreement, indicating alignment with international climate change frameworks.", "quote": {"content": "In 2008 Council partnered with the CSIRO and the Sydney Coastal Councils Group (SCCG) in a vulnerability study (Preston et al 2008).", "page": 27, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 3, "score": 0.67}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate-related impacts are not evenly distributed across the Shire and that marginalized communities are often in flood, fire, or drought-prone areas. These communities are often the last to receive meaningful support and are the most affected by the disaster. The document also mentions the need for the Council to engage with these communities and utilize various types of engagement to build resilience and assist residents to adapt to climate change. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities.", "quote": {"content": "Council will need to engage Climate related impacts are not evenly distributed across the Shire and marginalised communities are often in flood, fire or drought prone areas. They are often the last to receive meaninful support and the most affected by the disaster.", "page": 30, "source": "Hornsby-NSW-49.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's strategies to mitigate climate change impacts, such as transitioning to renewable energy, measuring carbon emissions, and managing the financial implications of climate change. They also mention the potential risks associated with climate change, such as increased temperatures and extreme weather events, and the potential financial challenges in managing these risks. However, there is no explicit discussion or policy regarding the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 13, "num_questions": 20, "attribute_score": 74.2}}
+{
+  "settings": {
+    "source_files": [
+      "Hornsby-NSW-49.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:38:48.861643",
+    "lga": "Hornsby"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, the Climate Wise Plan, clearly identifies climate action as its core purpose. The policy is designed to guide the local government's response to climate change, with a focus on both mitigation and adaptation strategies. The policy outlines a commitment to reducing greenhouse gas emissions, with a target of net zero emissions by 2050. It also emphasizes the need to adapt to the impacts of climate change, with a focus on reducing vulnerability and increasing resilience. The policy is guided by strategic principles that include factoring climate change into decision making and operations, balancing mitigation and adaptation efforts, acting even in the face of uncertainty, and building regular reviews into the plan's implementation. The policy also aligns with broader climate action goals at the national and international level, including the Paris Agreement and the United Nations' Sustainable Development Goals.",
+          "quote": {
+            "content": "Both approaches are needed, and Council will continue to implement mitigation and adaptation measures to reduce and manage the risks of climate change and play a leading role in the community. Hornsby Shire Council recognises that climate change is a global issue that requires significant and immediate action. Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change.",
+            "page": 5,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The local government recognizes climate change as a global issue requiring significant and immediate action. The Climate Wise Plan is designed to guide the council's actions towards becoming a low carbon organization and community that is resilient to climate impacts. The plan outlines immediate actions to be taken and a monitoring pathway up to 2050. The council aims to reduce corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030. The community is tasked to reduce their emissions by 31% from 2017 levels by 2025 and 53% by 2030. The council also acknowledges the need to adapt to climate change, with a focus on reducing vulnerability and increasing resilience. The council plans to regularly review hazards and risks to prevent and mitigate climate risks.",
+          "quote": {
+            "content": "Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change. Hornsby Shire Council recognises that climate change is a global issue that requires significant and immediate action.",
+            "page": 5,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. The local government recognizes climate change as a global issue that requires 'significant and immediate action'. The documents outline a Climate Wise Plan that sets out the future direction for the council to operate as a low carbon organization and community that is resilient to climate impacts. The plan includes immediate actions to be taken and a monitoring pathway up to 2050. The documents also highlight the urgency of acting now to mitigate the impacts of climate change, which have already been experienced in the form of drought, bushfires, and floods. The council has identified a number of high and extreme rated climate impact risks, further emphasizing the urgency of the situation.",
+          "quote": {
+            "content": "Both approaches are needed, and Council will continue to implement mitigation and adaptation measures to reduce and manage the risks of climate change and play a leading role in the community. Climate actions have often fallen into one of two categories: mitigation efforts to lower or remove greenhouse gas emissions from the atmosphere, and adaptation measures to reduce our vulnerability to the effects of climate change.",
+            "page": 5,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The documents provide specific timeframes for the local government's intended actions on climate change. The Climate Wise Plan outlines immediate actions to be taken and a monitoring pathway up to 2050, indicating a long-term commitment to climate action. The plan also sets specific targets for reducing greenhouse gas emissions, with a 32% reduction from 2018 levels by 2025 and a 53% reduction by 2030 for corporate emissions. The community is also tasked with reducing their emissions by 31% from 2017 levels by 2025 and 53% by 2030. Furthermore, the documents mention that every four years, the council will revise the actions in the plan and identify new ones, indicating a commitment to regular review and adjustment of their climate action strategies.",
+          "quote": {
+            "content": "Our community are tasked to reduce their emissions by 31% from 2017 levels by 2025 and 53% by 2030. Bold actions are required if we are to meet our target of net zero emissions by 2050. We will need to reduce our corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030.",
+            "page": 5,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents clearly outline the local government's commitment to addressing climate change through various mitigation and adaptation strategies, they do not explicitly prioritize these actions over other policies. The documents emphasize the importance of integrating climate change considerations into decision-making and operations, and of balancing mitigation and adaptation efforts. They also highlight the need for immediate action, regular reviews, and flexibility in implementing the Climate Wise Plan. However, these statements do not necessarily imply that climate change actions should supersede all other policy areas. Therefore, without explicit evidence in the documents, it cannot be affirmed that a climate emergency response must have higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do highlight the council's commitment to climate change mitigation and adaptation, and outline various strategies and plans to achieve this, there is no explicit requirement stated that all council activities must align with these climate policies. The documents mention the council's intention to embed considerations of climate change into everyday practices, and the importance of all areas of council in implementing mitigation and adaptation measures. However, these statements do not necessarily equate to a mandate that all council activities must align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy repeatedly acknowledges the financial risk associated with climate change and outlines strategies to mitigate this risk. These strategies include long-term financial planning, applying for grant funding, and investigating the employment of a Grants Officer. The policy also mentions the investigation of alternative funding sources for climate change and the allocation of Developer Contributions. These strategies indicate a clear intention to allocate resources for climate action. However, the policy does not provide specific details on the amount of funding to be allocated or the exact sources of this funding. The policy's emphasis on investigating and applying for funding suggests that the exact details of funding allocation may be contingent on the success of these investigations and applications."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The policy documents indicate that the local government is planning to allocate staff resources to climate action. Specifically, the documents mention the investigation into the employment of a Grants Officer, who would presumably be responsible for securing grant funding for climate change initiatives. This suggests that the local government is considering the allocation of staff resources to support its climate change strategies. However, the documents do not provide specific details about the role of the Grants Officer or other potential staff allocations. Furthermore, the documents do not mention the allocation of other non-monetary institutional resources. Therefore, while the policy does indicate some level of staff resource allocation, it is not explicit about the extent or nature of this allocation."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a cycle of engagement that includes mapping existing networks, identifying key champions within these networks, supporting engagement by these champions, and supporting adaptation initiatives. This approach suggests a focus on social mobilisation, as it involves identifying and empowering community leaders to drive engagement and action. The policy also mentions the use of an online interactive collaborative mapping tool, which received significant engagement from the community. This tool could be seen as an educational resource, helping community members to understand and engage with local environmental sustainability challenges. However, the documents do not provide specific details on the nature of the education provided to the community, or how the community is being empowered to rally and support climate action.",
+          "quote": {
+            "content": "Support adaptation initiatives Map existing networks 2. Identify key champions within networks 3. Support engagement by key champions 4. Support engagement by key champions 4. Support adaptation initiatives Support adaptation initiatives",
+            "page": 30,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.95
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan indeed includes specific actions for the mitigation of greenhouse gas emissions. The plan outlines a dual approach of both mitigation and adaptation to address climate change. Mitigation efforts are aimed at reducing or removing greenhouse gas emissions from the atmosphere. The plan includes a range of actions such as sustainable transportation, clean energy, energy efficiency, and waste reduction. The plan also sets a target of net zero emissions by 2050, with interim goals of reducing emissions by 32% from 2018 levels by 2025 and 53% by 2030. The plan also emphasizes the importance of technological solutions and behaviour change, with the intention to embed considerations of climate change into everyday practices from 2020 onwards. The plan also includes a commitment to monitor and report on performance, assess emerging technologies and solutions, and regularly review hazards and risks.",
+          "quote": {
+            "content": "Our intention is to embed considerations of climate change into every day practices from 2020 onwards so that it becomes \u2018business as usual\u2019 across the organisation. Bold actions are required if we are to meet our target of net zero emissions by 2050. We will need to reduce our corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030.",
+            "page": 5,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for climate adaptation and resilience. The plan outlines a strategic approach to climate change adaptation, which includes both corporate and community adaptation measures. The corporate adaptation measures involve monitoring and reporting on performance, assessing emergent technologies and solutions, and regularly reviewing hazards and risks to prevent and mitigate climate risks. The community adaptation measures involve a six-step process to build resilience and assist residents to adapt. This includes mapping existing networks, identifying key champions within networks, supporting engagement by key champions, and supporting adaptation initiatives. The plan also includes a commitment to regularly review all risks, including low and medium risks, to ensure any new impacts or risks are identified. Furthermore, the plan outlines the need to factor climate change into decision making and operations, and to consider climate change mitigation as they develop adaptation solutions.",
+          "quote": {
+            "content": "Support adaptation initiatives. Map existing networks 2. Identify key champions within networks 3. Support engagement by key champions 4. Support engagement by key champions 4. Support adaptation initiatives. Support adaptation initiatives.",
+            "page": 30,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.96
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the policy outlines a Climate Wise Plan with strategic principles such as factoring climate change into decision making, balancing mitigation and adaptation, and acting even with uncertainty, it does not provide specific sources or data to justify these principles or the targets set. The policy mentions targets such as reducing corporate emissions by 32% from 2018 levels by 2025 and 53% by 2030, and embedding considerations of climate change into everyday practices from 2020 onwards. However, it does not provide the evidence or data that led to the establishment of these targets. The policy also mentions the intention to review and update actions every four years, but does not provide a clear methodology or criteria for this review process. Therefore, while the policy outlines a plan and targets for addressing climate change, it does not provide well-sourced evidence to justify these actions and targets."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines various strategies and actions related to climate change, such as incorporating climate change projections into asset management plans, developing community resilience programs, and considering climate change in decision making, it does not provide clear, quantifiable metrics for assessing the effectiveness of these actions. The plan does mention that it will be dynamic, collaborative, and flexible, and that it will respond to changes and learn from experiences. However, these are general statements and do not constitute specific measurable criteria. Furthermore, the plan mentions a review process every four years, but it does not specify what criteria will be used in this review. Therefore, based on the provided documents, it cannot be affirmed that the plan includes specific measurable criteria to evaluate the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The local government has outlined a Climate Wise Plan that includes immediate actions, a monitoring pathway, and the flexibility to adapt to evolving data and projections. This plan indicates a commitment to informed action based on research and data. The documents also mention specific studies being undertaken to improve preparedness for climate change and to help residents adjust to its impacts. Furthermore, the documents highlight the importance of community engagement in implementing mitigation and adaptation measures. This suggests that the local government is not only conducting research but also actively involving the community in its climate actions.",
+          "quote": {
+            "content": "Council is currently undertaking a range of specific studies to ensure that we are better informed and able to help our residents adjust to the impacts of climate change.",
+            "page": 30,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show clear evidence of policy experimentation in climate action as defined by the question. While the local government's Climate Wise Plan outlines strategic principles for addressing climate change, including the consideration of emerging information and technologies, it does not specifically mention initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do mention the implementation of mitigation and adaptation measures, the development of an emissions reduction action plan, and a climate change risk assessment. However, these do not necessarily constitute policy experimentation as they do not explicitly involve testing or piloting new approaches. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the local government policy acknowledges the role of the Intergovernmental Panel on Climate Change and the Paris Agreement, and aligns its actions with the broader goals of these international agreements, there is no specific mention of advocacy towards state and national governments. The policy outlines the local government's commitment to climate change mitigation and adaptation, including strategic principles, specific focus areas, and monitoring and reporting mechanisms. However, these actions seem to be primarily directed towards local implementation and do not explicitly involve advocating for state or national support."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The council is actively reviewing its community and corporate emissions, taking stock of energy consumption, waste production, and internal procedures. The council also plans to partner and collaborate with like-minded organisations locally, nationally, and internationally to ensure best practice projects and programs. The council is also working on community adaptation, where it plans to engage with the community using five types of engagement: inform, consult, involve, collaborate, and empower. The council also plans to use a community engagement cycle consisting of six steps, which includes mapping existing networks, identifying key champions within networks, supporting engagement by key champions, and supporting adaptation initiatives. This shows a clear intent to build local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The documents do refer to specific regional associations, alliances, or other partnerships related to climate. The local government has partnered with the CSIRO and the Sydney Coastal Councils Group (SCCG) in a vulnerability study. The SCCG is a regional organization of local governments committed to sustainable coastal management. The documents also mention collaboration with Council\u2019s insurer Statewide Mutual and Echelon Australia Pty Ltd for a risk assessment to determine potential impacts on Council operations, asset management, and corporate vulnerability. This indicates a multi-stakeholder approach to climate change adaptation, involving both public and private entities. The documents also mention the United Nations Intergovernmental Panel on Climate Change (IPCC) and the Paris Agreement, indicating alignment with international climate change frameworks.",
+          "quote": {
+            "content": "In 2008 Council partnered with the CSIRO and the Sydney Coastal Councils Group (SCCG) in a vulnerability study (Preston et al 2008).",
+            "page": 27,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 3,
+        "score": 0.67
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document does explicitly discuss the impact of climate change on vulnerable communities. It acknowledges that climate-related impacts are not evenly distributed across the Shire and that marginalized communities are often in flood, fire, or drought-prone areas. These communities are often the last to receive meaningful support and are the most affected by the disaster. The document also mentions the need for the Council to engage with these communities and utilize various types of engagement to build resilience and assist residents to adapt to climate change. This indicates a recognition of the disproportionate impact of climate change on vulnerable communities and a commitment to addressing these inequities.",
+          "quote": {
+            "content": "Council will need to engage Climate related impacts are not evenly distributed across the Shire and marginalised communities are often in flood, fire or drought prone areas. They are often the last to receive meaninful support and the most affected by the disaster.",
+            "page": 30,
+            "source": "Hornsby-NSW-49.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The documents primarily focus on the local government's strategies to mitigate climate change impacts, such as transitioning to renewable energy, measuring carbon emissions, and managing the financial implications of climate change. They also mention the potential risks associated with climate change, such as increased temperatures and extreme weather events, and the potential financial challenges in managing these risks. However, there is no explicit discussion or policy regarding the equitable distribution of benefits and opportunities arising from a safe climate. Therefore, the question cannot be answered positively based on the provided context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 13,
+    "num_questions": 20,
+    "attribute_score": 74.2
+  }
+}

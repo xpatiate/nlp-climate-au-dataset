@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Walkerville-SA-95.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-30T14:58:19.770387", "lga": "Walkerville"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The core purpose of the policy is not explicitly stated as climate action. The policy is primarily focused on the growth, protection, and management of the urban forest in the Town of Walkerville. The policy outlines goals and objectives related to increasing tree canopy coverage, engaging with the community, and managing the urban forest in a sustainable way. While the policy does acknowledge the impacts of climate change, such as increasing temperatures and decreasing rainfall, and the role of urban greening in mitigating these impacts, it does not explicitly state that climate action is its core purpose. Instead, the policy seems to be driven by a broader aim of maximizing the social, economic, and environmental benefits of trees and urban greening."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document clearly outlines the need for action on climate change. It acknowledges the impact of climate change on local conditions, stating that it is causing warmer and drier conditions, with temperatures projected to increase by up to 1.6\u00baC on average in Eastern Adelaide by 2050, and a reduction in Spring rainfall of at least 20%. The document also highlights the importance of trees in mitigating the effects of climate change, providing benefits such as carbon capture and storage, energy savings, and shade. The policy outlines a strategy to grow the urban forest on public and private land, protect the urban forest from threats and loss, and engage with the community, businesses, and government to care for the urban forest. This strategy is in response to the projected increase in temperatures and decrease in rainfall due to climate change.", "quote": {"content": "Temperature is projected to increase by up to 1.6\u00baC on average in Eastern Adelaide by 2050 coupled with a reduction in Spring rainfall of at least 20%. In turn this is causing a change in the global climate. For example, evidence from the CSIRO and BoM* indicate that temperatures in Adelaide have already increased by approximately 1\u00b0C from 1910 to 2013. At a local scale, climate change is creating warmer and drier conditions.", "page": 22, "source": "Walkerville-SA-95.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do discuss the importance of the urban forest in mitigating the effects of climate change, such as increasing temperatures and decreasing rainfall. The documents also mention the development of an Urban Forest Strategy, which includes a plan for increasing tree canopy cover by 2045 and an Urban Forest Action Plan to monitor and evaluate the success of the strategy. However, these plans are presented as long-term strategies rather than urgent actions. The documents also do not use language that conveys a sense of urgency or immediate need for action. Therefore, while the documents acknowledge the impacts of climate change and propose strategies to address them, they do not explicitly call for rapid and urgent action."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate. The policy outlines a 30 Year Plan for Greater Adelaide with a target of increasing tree canopy cover by 2045. This is a clear, long-term goal with a specific deadline. Additionally, the Urban Forest Strategy was formally endorsed by the Council on the 15th July 2019, indicating that actions related to this strategy have a starting point. The document also mentions an annual business plan and budget process, which will be used to revise and update an Urban Forest Action Plan. This suggests that the policy's actions are not only long-term but are also regularly reviewed and updated. However, it should be noted that while these timeframes are specific, they are quite broad and long-term, which may not convey a sense of immediate urgency.", "quote": {"content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.", "page": 3, "source": "Walkerville-SA-95.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do discuss the importance of addressing climate change, particularly through the Urban Forest Strategy and the Resilient East Regional Climate Change Adaptation Plan, they do not explicitly prioritize these actions over other policies. The documents mention the need for urban greening, increasing tree canopy cover, and addressing the impacts of temperature increases. However, these are presented as part of a broader strategic plan, not as urgent actions that supersede all other policies. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a strategy for managing and growing the urban forest, which is indirectly related to climate policy. The strategy includes goals such as increasing tree canopy cover, implementing water-sensitive urban design infrastructure, and engaging with the community to care for the urban forest. These actions are likely to contribute to climate change mitigation by increasing carbon sequestration and reducing urban heat island effects. However, the documents do not explicitly state that these actions are part of a broader climate policy, nor do they state that all council activities must align with such a policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Urban Forest Strategy of the Town of Walkerville does allocate funding for climate action, although it does not specify the exact amount or percentage of the budget that will be allocated. The strategy outlines that it will inform the annual business plan and budget process, and it will be used to revise and update an Urban Forest Action Plan each year. This plan will provide details about actions to be taken to achieve goals and objectives, guidelines for implementing the actions, and an adaptive monitoring and evaluation program to assess implementation and relative success of actions in achieving objectives. Furthermore, the strategy includes a goal to 'Fund on-ground actions that manage and grow the urban forest by continuing to develop funding mechanisms that enable further investment.' This indicates a commitment to allocate resources for the implementation of the strategy, which includes climate action measures such as increasing urban greening and tree canopy cover."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the Urban Forest Strategy of the Town of Walkerville does outline a plan for increasing urban greening and managing the urban forest, it does not specify the allocation of staff or other non-monetary resources for these actions. The strategy does mention the development of an Urban Forest Action Plan and a Monitoring and Evaluation Program, but it does not detail the resources that will be allocated for these programs. The documents also mention the involvement of the community, businesses, and government in caring for the urban forest, but again, no specific allocation of institutional resources is mentioned."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a clear strategy for engaging with the community, businesses, schools, and the government to care for the urban forest and broaden the understanding of the benefits it provides. This includes running tree engagement activities to educate and inspire the community, investigating incentive schemes for protecting trees on private land, and inviting community volunteers to participate in tree audit and planting programs on public land. The policy also acknowledges the importance of resident support in maintaining the existing level of canopy cover. This approach not only educates the community about the importance of urban forests in climate action but also actively involves them in the process, thereby fostering a sense of ownership and responsibility.", "quote": {"content": "Engage with the community, businesses, schools and the government to care for the urban forest and broaden the understanding of the benefits it provides.", "page": 25, "source": "Walkerville-SA-95.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The policy primarily focuses on the urban forest strategy, which includes increasing tree canopy cover and the maintenance and regeneration of the urban forest. While these actions can indirectly contribute to the mitigation of greenhouse gas emissions by absorbing CO2, they do not represent a comprehensive approach to emission reduction. The policy does not mention any technological solutions or behaviour changes aimed at reducing emissions. Therefore, the policy does not meet the high standard of evidence required to affirm that it includes specific actions for greenhouse gas mitigation."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a strategy to increase urban greening as a way of addressing the impacts of current and future projected temperature increases. This is part of the Resilient East Regional Climate Change Adaptation Plan. The policy also mentions the 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045. This will require significant plantings on both public and private land. The policy acknowledges that warmer and drier conditions by mid-century will make growing trees more difficult, but also increase their importance for cooling. The policy also outlines goals and strategies for maintaining and growing the urban forest, which will be informed by the Council\u2019s Street tree management policy and procedures manual.", "quote": {"content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.", "page": 3, "source": "Walkerville-SA-95.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document provides a detailed plan for managing and growing the urban forest, which is a key aspect of climate change mitigation. The strategy includes specific objectives such as implementing water-sensitive urban design infrastructure, developing guidelines for tree species selection, and implementing solutions for infrastructure and community conflicts with existing mature trees. The strategy also includes a Monitoring and Evaluation Program (MEP) to assess whether the strategy is meeting its goals and objectives. The MEP includes a detailed program of works, which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests that the strategy is based on well-sourced evidence and is designed to be adaptive, allowing for changes to objectives and actions to ensure greater ongoing success. However, the document does not provide specific sources or references to justify its climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a Monitoring and Evaluation Program (MEP) as a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives. The MEP is described as a detailed program of works which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests a systematic approach to tracking progress and adjusting actions as necessary. Furthermore, the policy includes specific objectives such as increasing the existing Council-wide canopy cover by 1%, which will be measured in the four-yearly review. This is a clear, quantifiable target that can be used to assess the success of the policy's implementation.", "quote": {"content": "Specifically, an MEP is \u201c\u2026 a detailed program of works which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions\u201d. A Monitoring and Evaluation Program (MEP) is a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives through the outlined actions in the Urban Forest Action Plan.", "page": 27, "source": "Walkerville-SA-95.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Urban Forest Strategy of the Town of Walkerville outlines a comprehensive approach to managing and growing the urban forest, which is a key aspect of local climate action. The strategy includes a Monitoring and Evaluation Program (MEP) which is a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives. The MEP defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests a commitment to ongoing research and evaluation to inform the implementation of the strategy. Furthermore, the strategy was developed based on consultation with the community and technical analyses of tree canopy cover and ecosystem services evaluations. This indicates that the local government has already conducted research in the local community to inform the development of the strategy and plans to continue doing so in its implementation.", "quote": {"content": "It was also informed by technical analyses of tree canopy cover and ecosystem services evaluations. The development of the Urban forest strategy was informed by face-to-face and online consultation with the community.", "page": 6, "source": "Walkerville-SA-95.pdf", "search_score": 1.0}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. They outline the Urban Forest Strategy of the Town of Walkerville, which includes plans for increasing tree canopy coverage, monitoring and evaluation programs, and community consultation. While these actions are important for addressing climate change and improving urban environments, they are not necessarily innovative or experimental. They are standard practices in urban forestry and climate action planning. The documents also mention the Resilient East Regional Climate Change Adaptation Plan and the 30 Year Plan for Greater Adelaide, but do not provide details about these plans or any innovative or experimental policies they might include. Therefore, based on the provided documents, it cannot be affirmed that there is evidence of innovation and policy experimentation in climate action."}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy documents focus primarily on local initiatives such as increasing tree canopy cover, engaging with the community, and managing the urban forest. While the documents do mention the Resilient East Regional Climate Change Adaptation Plan and the 30 Year Plan for Greater Adelaide, these are referenced as strategic plans that the local government is aligning with, rather than as targets of advocacy. The documents also mention the need for community support and involvement, but there is no explicit mention of advocating to higher levels of government for climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the importance of community engagement and the need for residents, schools, businesses, and other stakeholders to care for and protect the shared urban forest, it does not specifically address building local capacity for climate action. The policy also outlines plans for increasing tree canopy cover and managing the urban forest, but these are not explicitly linked to building local capacity for climate action. Furthermore, there is no mention of coordination, partnerships, or advocacy with neighbouring local councils for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations and alliances related to climate. The Resilient East Regional Climate Change Adaptation Plan is mentioned as a strategic plan that the local government's strategy connects with. This plan aims to increase urban greening as a way of addressing the impacts of current and future projected temperature increases. This indicates a partnership or alliance with the Resilient East Regional Climate Change Adaptation Plan, which is a regional initiative. The document also refers to the 30 Year Plan for Greater Adelaide, which sets a target of increasing tree canopy cover by 2045. This suggests a connection with a broader regional policy framework. Therefore, the document does provide evidence of coordination, partnerships, and advocacy for action in relation to climate change.", "quote": {"content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.", "page": 3, "source": "Walkerville-SA-95.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The documents primarily focus on the local government's strategies and plans related to urban greening, tree canopy coverage, and the benefits of trees in addressing climate change impacts such as temperature increases and air pollution. They also mention the threats to trees from urban development and climate change. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures being taken to address such impacts in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the benefits of urban greening and the role of trees in addressing climate change, they do not delve into the distribution of these benefits among different social groups or how to ensure equitable access to these opportunities. The documents focus more on the environmental and health benefits of urban greening, the importance of community engagement, and the need for strategic planning to increase tree canopy cover. However, they do not provide specific strategies or policies on how to ensure that these benefits are shared equitably among all members of the community."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 9, "num_questions": 20, "attribute_score": 45.8}}
+{
+  "settings": {
+    "source_files": [
+      "Walkerville-SA-95.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-30T14:58:19.770387",
+    "lga": "Walkerville"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The core purpose of the policy is not explicitly stated as climate action. The policy is primarily focused on the growth, protection, and management of the urban forest in the Town of Walkerville. The policy outlines goals and objectives related to increasing tree canopy coverage, engaging with the community, and managing the urban forest in a sustainable way. While the policy does acknowledge the impacts of climate change, such as increasing temperatures and decreasing rainfall, and the role of urban greening in mitigating these impacts, it does not explicitly state that climate action is its core purpose. Instead, the policy seems to be driven by a broader aim of maximizing the social, economic, and environmental benefits of trees and urban greening."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document clearly outlines the need for action on climate change. It acknowledges the impact of climate change on local conditions, stating that it is causing warmer and drier conditions, with temperatures projected to increase by up to 1.6\u00baC on average in Eastern Adelaide by 2050, and a reduction in Spring rainfall of at least 20%. The document also highlights the importance of trees in mitigating the effects of climate change, providing benefits such as carbon capture and storage, energy savings, and shade. The policy outlines a strategy to grow the urban forest on public and private land, protect the urban forest from threats and loss, and engage with the community, businesses, and government to care for the urban forest. This strategy is in response to the projected increase in temperatures and decrease in rainfall due to climate change.",
+          "quote": {
+            "content": "Temperature is projected to increase by up to 1.6\u00baC on average in Eastern Adelaide by 2050 coupled with a reduction in Spring rainfall of at least 20%. In turn this is causing a change in the global climate. For example, evidence from the CSIRO and BoM* indicate that temperatures in Adelaide have already increased by approximately 1\u00b0C from 1910 to 2013. At a local scale, climate change is creating warmer and drier conditions.",
+            "page": 22,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They do discuss the importance of the urban forest in mitigating the effects of climate change, such as increasing temperatures and decreasing rainfall. The documents also mention the development of an Urban Forest Strategy, which includes a plan for increasing tree canopy cover by 2045 and an Urban Forest Action Plan to monitor and evaluate the success of the strategy. However, these plans are presented as long-term strategies rather than urgent actions. The documents also do not use language that conveys a sense of urgency or immediate need for action. Therefore, while the documents acknowledge the impacts of climate change and propose strategies to address them, they do not explicitly call for rapid and urgent action."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate. The policy outlines a 30 Year Plan for Greater Adelaide with a target of increasing tree canopy cover by 2045. This is a clear, long-term goal with a specific deadline. Additionally, the Urban Forest Strategy was formally endorsed by the Council on the 15th July 2019, indicating that actions related to this strategy have a starting point. The document also mentions an annual business plan and budget process, which will be used to revise and update an Urban Forest Action Plan. This suggests that the policy's actions are not only long-term but are also regularly reviewed and updated. However, it should be noted that while these timeframes are specific, they are quite broad and long-term, which may not convey a sense of immediate urgency.",
+          "quote": {
+            "content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.",
+            "page": 3,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do discuss the importance of addressing climate change, particularly through the Urban Forest Strategy and the Resilient East Regional Climate Change Adaptation Plan, they do not explicitly prioritize these actions over other policies. The documents mention the need for urban greening, increasing tree canopy cover, and addressing the impacts of temperature increases. However, these are presented as part of a broader strategic plan, not as urgent actions that supersede all other policies. Therefore, without explicit mention of prioritizing climate emergency response over other policies, the answer to the question is negative."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. They do, however, outline a strategy for managing and growing the urban forest, which is indirectly related to climate policy. The strategy includes goals such as increasing tree canopy cover, implementing water-sensitive urban design infrastructure, and engaging with the community to care for the urban forest. These actions are likely to contribute to climate change mitigation by increasing carbon sequestration and reducing urban heat island effects. However, the documents do not explicitly state that these actions are part of a broader climate policy, nor do they state that all council activities must align with such a policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Urban Forest Strategy of the Town of Walkerville does allocate funding for climate action, although it does not specify the exact amount or percentage of the budget that will be allocated. The strategy outlines that it will inform the annual business plan and budget process, and it will be used to revise and update an Urban Forest Action Plan each year. This plan will provide details about actions to be taken to achieve goals and objectives, guidelines for implementing the actions, and an adaptive monitoring and evaluation program to assess implementation and relative success of actions in achieving objectives. Furthermore, the strategy includes a goal to 'Fund on-ground actions that manage and grow the urban forest by continuing to develop funding mechanisms that enable further investment.' This indicates a commitment to allocate resources for the implementation of the strategy, which includes climate action measures such as increasing urban greening and tree canopy cover."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the Urban Forest Strategy of the Town of Walkerville does outline a plan for increasing urban greening and managing the urban forest, it does not specify the allocation of staff or other non-monetary resources for these actions. The strategy does mention the development of an Urban Forest Action Plan and a Monitoring and Evaluation Program, but it does not detail the resources that will be allocated for these programs. The documents also mention the involvement of the community, businesses, and government in caring for the urban forest, but again, no specific allocation of institutional resources is mentioned."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed empower and educate the community to rally, support, and work productively together to deliver climate action. The policy outlines a clear strategy for engaging with the community, businesses, schools, and the government to care for the urban forest and broaden the understanding of the benefits it provides. This includes running tree engagement activities to educate and inspire the community, investigating incentive schemes for protecting trees on private land, and inviting community volunteers to participate in tree audit and planting programs on public land. The policy also acknowledges the importance of resident support in maintaining the existing level of canopy cover. This approach not only educates the community about the importance of urban forests in climate action but also actively involves them in the process, thereby fostering a sense of ownership and responsibility.",
+          "quote": {
+            "content": "Engage with the community, businesses, schools and the government to care for the urban forest and broaden the understanding of the benefits it provides.",
+            "page": 25,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government policy does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change, in the context of 'restoring a safe climate'. The policy primarily focuses on the urban forest strategy, which includes increasing tree canopy cover and the maintenance and regeneration of the urban forest. While these actions can indirectly contribute to the mitigation of greenhouse gas emissions by absorbing CO2, they do not represent a comprehensive approach to emission reduction. The policy does not mention any technological solutions or behaviour changes aimed at reducing emissions. Therefore, the policy does not meet the high standard of evidence required to affirm that it includes specific actions for greenhouse gas mitigation."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a strategy to increase urban greening as a way of addressing the impacts of current and future projected temperature increases. This is part of the Resilient East Regional Climate Change Adaptation Plan. The policy also mentions the 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045. This will require significant plantings on both public and private land. The policy acknowledges that warmer and drier conditions by mid-century will make growing trees more difficult, but also increase their importance for cooling. The policy also outlines goals and strategies for maintaining and growing the urban forest, which will be informed by the Council\u2019s Street tree management policy and procedures manual.",
+          "quote": {
+            "content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.",
+            "page": 3,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document provides a detailed plan for managing and growing the urban forest, which is a key aspect of climate change mitigation. The strategy includes specific objectives such as implementing water-sensitive urban design infrastructure, developing guidelines for tree species selection, and implementing solutions for infrastructure and community conflicts with existing mature trees. The strategy also includes a Monitoring and Evaluation Program (MEP) to assess whether the strategy is meeting its goals and objectives. The MEP includes a detailed program of works, which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests that the strategy is based on well-sourced evidence and is designed to be adaptive, allowing for changes to objectives and actions to ensure greater ongoing success. However, the document does not provide specific sources or references to justify its climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's policy does indeed include specific measurable criteria to evaluate the success of its proposed actions. The policy outlines a Monitoring and Evaluation Program (MEP) as a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives. The MEP is described as a detailed program of works which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests a systematic approach to tracking progress and adjusting actions as necessary. Furthermore, the policy includes specific objectives such as increasing the existing Council-wide canopy cover by 1%, which will be measured in the four-yearly review. This is a clear, quantifiable target that can be used to assess the success of the policy's implementation.",
+          "quote": {
+            "content": "Specifically, an MEP is \u201c\u2026 a detailed program of works which defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions\u201d. A Monitoring and Evaluation Program (MEP) is a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives through the outlined actions in the Urban Forest Action Plan.",
+            "page": 27,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents do describe plans to conduct research in the local community to inform climate actions. The Urban Forest Strategy of the Town of Walkerville outlines a comprehensive approach to managing and growing the urban forest, which is a key aspect of local climate action. The strategy includes a Monitoring and Evaluation Program (MEP) which is a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives. The MEP defines what monitoring activities will take place, when and by whom, and how that information will feed back into actions and management decisions. This suggests a commitment to ongoing research and evaluation to inform the implementation of the strategy. Furthermore, the strategy was developed based on consultation with the community and technical analyses of tree canopy cover and ecosystem services evaluations. This indicates that the local government has already conducted research in the local community to inform the development of the strategy and plans to continue doing so in its implementation.",
+          "quote": {
+            "content": "It was also informed by technical analyses of tree canopy cover and ecosystem services evaluations. The development of the Urban forest strategy was informed by face-to-face and online consultation with the community.",
+            "page": 6,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show any evidence of policy experimentation in climate action. They outline the development of an Urban Forest Action Plan, which includes quantifiable, time-based, and prioritised actions, as well as a defined procedure for tracking progress. The documents also mention a Monitoring and Evaluation Program (MEP) as a strategic mechanism for assessing whether the Strategy is meeting its goals and objectives. However, these are standard policy implementation and evaluation procedures, not experiments. There is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions, such as pilots, initiatives, test beds, demonstration projects, or urban laboratories. Therefore, the documents do not provide evidence of policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. The policy documents focus primarily on local initiatives such as increasing tree canopy cover, engaging with the community, and managing the urban forest. While the documents do mention the Resilient East Regional Climate Change Adaptation Plan and the 30 Year Plan for Greater Adelaide, these are referenced as strategic plans that the local government is aligning with, rather than as targets of advocacy. The documents also mention the need for community support and involvement, but there is no explicit mention of advocating to higher levels of government for climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the policy does mention the importance of community engagement and the need for residents, schools, businesses, and other stakeholders to care for and protect the shared urban forest, it does not specifically address building local capacity for climate action. The policy also outlines plans for increasing tree canopy cover and managing the urban forest, but these are not explicitly linked to building local capacity for climate action. Furthermore, there is no mention of coordination, partnerships, or advocacy with neighbouring local councils for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations and alliances related to climate. The Resilient East Regional Climate Change Adaptation Plan is mentioned as a strategic plan that the local government's strategy connects with. This plan aims to increase urban greening as a way of addressing the impacts of current and future projected temperature increases. This indicates a partnership or alliance with the Resilient East Regional Climate Change Adaptation Plan, which is a regional initiative. The document also refers to the 30 Year Plan for Greater Adelaide, which sets a target of increasing tree canopy cover by 2045. This suggests a connection with a broader regional policy framework. Therefore, the document does provide evidence of coordination, partnerships, and advocacy for action in relation to climate change.",
+          "quote": {
+            "content": "The 30 Year Plan for Greater Adelaide\u2019s target of increasing tree canopy cover by 2045.",
+            "page": 3,
+            "source": "Walkerville-SA-95.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss the impact of climate change on vulnerable communities in the context of equity and social justice. The documents primarily focus on the local government's strategies and plans related to urban greening, tree canopy coverage, and the benefits of trees in addressing climate change impacts such as temperature increases and air pollution. They also mention the threats to trees from urban development and climate change. However, there is no specific mention or discussion of how climate change affects vulnerable communities, or any measures being taken to address such impacts in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do mention the benefits of urban greening and the role of trees in addressing climate change, they do not delve into the distribution of these benefits among different social groups or how to ensure equitable access to these opportunities. The documents focus more on the environmental and health benefits of urban greening, the importance of community engagement, and the need for strategic planning to increase tree canopy cover. However, they do not provide specific strategies or policies on how to ensure that these benefits are shared equitably among all members of the community."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 45.8
+  }
+}

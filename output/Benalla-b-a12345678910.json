@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["Benalla-VIC-125.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T12:58:22.931040", "lga": "Benalla"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy, titled 'Climate Change Adaptation Action Plan 2013-2025', clearly indicates that climate action is the core purpose or goal. The policy is designed to help the Benalla Rural City Council adapt to future changes in climate, and it focuses on all areas of Council business across the Benalla Rural City. The policy outlines specific actions related to climate change adaptation, such as the implementation of energy targets for council operations, the consideration of climate change risks in strategic planning and reporting, and the inclusion of climate change considerations in council documents. The policy also includes a commitment to monitor progress and report to the community, indicating a commitment to transparency and accountability in its climate action efforts. Therefore, it is evident that climate action is the central purpose of this policy.", "quote": {"content": "This Action Plan will assist Council to make the necessary changes it needs to make to adequately prepare for the impacts of a changing climate. This project seeks to develop an Action Plan that will help the Benalla Rural City Council to adapt to future changes in climate.", "page": 3, "source": "Benalla-VIC-125.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. It outlines a Climate Change Adaptation Action Plan, which is a strategic response to the anticipated impacts of climate change. The plan is designed to be integrated into all aspects of the local government's operations, indicating a recognition of the pervasive influence of climate change on various sectors. The document also mentions the need for continuous improvement and community involvement in planning for climate change adaptation. It further emphasizes the need to incorporate climate change considerations into future strategic planning and reporting. The document also outlines specific actions, such as setting energy targets for council operations and considering climate change impacts in future policies.", "quote": {"content": "Actions 8.1 and 8.2 support the mainstreaming of climate change into all Council business through the incorporation of climate change considerations into current reporting arrangements. In addition, Council will include consideration of climate change risks, where relevant, in all future strategic planning and reporting.", "page": 9, "source": "Benalla-VIC-125.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a Climate Change Adaptation Action Plan for the period of 2013-2025, indicating a long-term approach rather than immediate urgency. The documents discuss the impacts of climate change on the local council's operations, the economy, and the community, and they propose various strategies for adaptation. These include incorporating climate change considerations into strategic planning and reporting, setting energy targets, and advocating for efficient infrastructure. However, these actions are framed as part of a continuous improvement process and a commitment to dealing with climate change over time, rather than as urgent measures that need to be implemented rapidly. Therefore, based on the provided documents, the local government policy does not explicitly call for rapid and urgent action on climate change."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Climate Change Adaptation Action Plan for the period of 2013-2025, indicating a 12-year timeframe for the implementation of the plan. The document also mentions specific years for certain actions. For instance, it states that the Council should set energy targets for its own operations by 2013 and implement them by 2014. This suggests a clear timeline for the execution of these actions. However, it should be noted that the document does not provide specific timeframes for all its actions, and the effectiveness of the policy would depend on the timely implementation of these actions."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly state that it should take precedence over other policies. The Climate Change Adaptation Action Plan is mentioned as a key part of the Council's strategic planning and is said to inform many other Council strategic documents. However, this does not necessarily imply that it is of higher priority than other policies. The documents also mention the integration of climate change considerations into all aspects of Council business, but again, this does not explicitly state that climate change response is a higher priority than other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": true, "answer": "The documents provide clear evidence that the local government policy requires all council activities to be aligned with climate policy. The policy explicitly states that climate change considerations will be mainstreamed into all council business through the incorporation of climate change considerations into current reporting arrangements. This is supported by Actions 8.1 and 8.2. Furthermore, the policy mandates that staff should report on how climate change risk has been addressed in annual reports and performance reviews. This indicates a clear requirement for all council activities to consider and align with climate policy. The policy also includes specific actions related to climate change, such as setting energy targets for council operations and considering climate change risks in strategic planning and reporting.", "quote": {"content": "Actions 8.1 and 8.2 support the mainstreaming of climate change into all Council business through the incorporation of climate change considerations into current reporting arrangements. In addition, Council will include consideration of climate change risks, where relevant, in all future strategic planning and reporting.", "page": 9, "source": "Benalla-VIC-125.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The Climate Change Adaptation Action Plan does explicitly allocate funding for climate action. The plan outlines various actions to be taken, and for each action, it mentions the funding required. For instance, the plan mentions 'Low to medium funding required' for providing information to the community and assisting with mental health issues, particularly for the farming community. Another action, 'Open spaces are well cared for and priorities for management in a changing climate are established', is subject to additional funding. The plan also mentions that existing resources will be used for the maintenance and upgrade of green space assets, but additional funds may be needed. Therefore, the plan does allocate funding for climate action, although the exact amounts are not specified.", "quote": {"content": "May need additional funds. Existing resources if original maintenance scheduling is kept.", "page": 19, "source": "Benalla-VIC-125.pdf", "search_score": 0.98}}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": true, "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to climate change mitigation and adaptation. For instance, the General Manager of Development and Environment is tasked with implementing energy targets. The Manager of Economic Development is responsible for promoting energy efficiency with households and businesses. The plan also mentions the use of existing resources to ensure climate change risk and adaptation opportunities are addressed in every new report and annual reports. Furthermore, the plan indicates that staff training in sustainability has been provided through the Goulburn Broken Greenhouse Alliance. This demonstrates a clear allocation of staff resources towards climate action.", "quote": {"content": "8.1  Processes are in place to ensure climate change risk and adaptation opportunities are addressed in every new report.", "page": 5, "source": "Benalla-VIC-125.pdf", "search_score": 0.94}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indeed provide evidence of empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at fostering community engagement and collaboration. For instance, it mentions the provision of information to the community about available services and assistance with mental health issues, particularly for the farming community. It also advocates for the development of peer-support groups. Furthermore, the policy encourages health services to be more accessible in the provision of climate-related health care. It also supports local leadership on climate change by providing practical support such as training and funding opportunities. These initiatives suggest a concerted effort to mobilize the community and foster a collective response to climate change.", "quote": {"content": "Particularly for the farming community.", "page": 14, "source": "Benalla-VIC-125.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": false, "answer": "The local government's Climate Change Adaptation Action Plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change rather than mitigation efforts. It includes actions such as addressing climate change risk in annual reports and performance reviews, setting energy targets for council operations, and considering climate change impacts in future strategic planning and reporting. However, these actions are more about managing and adapting to the impacts of climate change rather than actively reducing greenhouse gas emissions. The plan does not provide specific technological solutions or behaviour changes aimed at mitigating climate change. Therefore, in the context of 'restoring a safe climate', the plan does not include specific actions for mitigation of greenhouse gas emissions."}], "score": {"num_positives": 0, "num_questions": 1, "score": 0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Climate Change Adaptation Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address the impacts of climate change. For instance, it mentions the development of partnerships with education providers, industry associations, and government agencies to deliver the latest business training. It also includes actions to increase community capacity to adapt to changes in climate, such as providing practical support like training and funding opportunities. Furthermore, the plan discusses the provision of information to the community, particularly for the farming community, and advocates for the development of peer-support groups. The plan also outlines actions for the management of open spaces in a changing climate, prioritizing management based on resource significance, risk, and usage to maximize results."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention the incorporation of climate change considerations into strategic planning and reporting, and the implementation of a Climate Change Adaptation Action Plan, they do not provide specific, well-sourced evidence to justify the targets and actions set forth. The documents mention the use of a risk assessment phase to establish the expected impacts of climate change, but they do not detail the methodology or sources used in this assessment. Furthermore, the documents mention the review of key municipal documents to ensure they include relevant climate considerations, but they do not provide specific evidence or sources to justify the recommendations made. Therefore, while the documents indicate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Climate Change Adaptation Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that staff will be required to report on the actions they are responsible for, indicating a system of accountability and measurement. Additionally, the plan details that success indicators have been built into the Action Plan. This suggests that there are specific criteria against which the success of the actions can be evaluated. Furthermore, the plan also mentions that it will be reviewed at the four and eight year mark, consistent with the Council planning cycle. This review process would likely involve an evaluation of the success of the actions based on the specified success indicators.", "quote": {"content": "Staff will be required to report on those actions they are responsible for.", "page": 5, "source": "Benalla-VIC-125.pdf", "search_score": 0.99}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the policy does mention the involvement of the community in planning for improvement and the provision of information to the community, it does not explicitly state that research will be conducted within the local community to inform these actions. The policy does outline a process of monitoring and reviewing the Adaptation Action Plan, which includes reporting on climate change risks and adaptation opportunities in all new reports. However, this seems to be more of an internal process rather than a community-based research initiative. Therefore, based on the provided documents, it cannot be conclusively stated that there are plans to conduct research in the local community to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. While the local government's Climate Change Adaptation Action Plan 2013-2025 does outline a commitment to addressing climate change risks in future strategic planning and reporting, it does not explicitly mention any innovative or experimental policies. The plan includes monitoring and reviewing progress, involving the community in planning for improvement, and incorporating climate change considerations into current reporting arrangements. However, these actions seem to be standard practices rather than innovative or experimental approaches. The documents also mention a review of key municipal documents to ensure they include relevant climate considerations, but again, this is a standard practice rather than an innovative approach. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 1, "num_questions": 4, "score": 0.25}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do discuss the local government's plans and actions regarding climate change adaptation, they do not specifically mention advocacy towards higher levels of government. The documents focus on the local government's own strategies, such as monitoring progress, involving the community, and incorporating climate change considerations into strategic planning and reporting. They also mention partnerships with education providers, industry associations, and government agencies to deliver training, but this does not necessarily imply advocacy to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to 'mainstreaming' climate change considerations into all council business, including strategic planning and reporting. It also emphasizes the importance of community involvement in planning for improvement and monitoring progress. The policy further advocates for local leadership on climate change by providing practical support such as training and funding opportunities. It also encourages collaboration on projects that increase community resilience and provide economies of scale for initiatives that reduce risks from climate change. However, the documents do not provide specific details on how the council plans to engage neighbouring local councils in these efforts."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not contain specific references to regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of partnerships and collaboration in addressing climate change, they do not name any specific organizations or entities with which the local government is partnering. The documents also mention the need for advocacy and coordination in addressing climate change, but again, no specific partnerships or alliances are named in this context. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate change."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in a comprehensive manner. The documents highlight the need for climate change considerations in strategic planning and reporting, and the importance of addressing climate change risks in all future strategic planning. The documents also suggest that climate change can exacerbate existing issues, such as community satisfaction with council services, and infrastructure provision. The documents recommend explicitly stating in the first ten pages of the Plan that the impacts of climate change can affect public health, and incorporating the role of climate change in relation to disadvantage and mental health. However, the documents do not provide specific details on how climate change impacts vulnerable communities, or how the local government plans to address these impacts.", "quote": {"content": "Consider incorporating the role of climate change in relation to disadvantage in KRA 5 and to mental health in KRA 6.", "page": 38, "source": "Benalla-VIC-125.pdf", "search_score": 1.0}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. While the documents do mention the incorporation of climate change considerations into strategic planning and reporting, and the need to address climate change risks, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents also mention the need to consider the role of climate change in relation to disadvantage and mental health, but again, there is no explicit discussion on the equitable distribution of benefits and opportunities. Therefore, based on the provided documents, the answer to the question is negative."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}], "results": {"num_positives": 11, "num_questions": 20, "attribute_score": 60.8}}
+{
+  "settings": {
+    "source_files": [
+      "Benalla-VIC-125.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T12:58:22.931040",
+    "lga": "Benalla"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy, titled 'Climate Change Adaptation Action Plan 2013-2025', clearly indicates that climate action is the core purpose or goal. The policy is designed to help the Benalla Rural City Council adapt to future changes in climate, and it focuses on all areas of Council business across the Benalla Rural City. The policy outlines specific actions related to climate change adaptation, such as the implementation of energy targets for council operations, the consideration of climate change risks in strategic planning and reporting, and the inclusion of climate change considerations in council documents. The policy also includes a commitment to monitor progress and report to the community, indicating a commitment to transparency and accountability in its climate action efforts. Therefore, it is evident that climate action is the central purpose of this policy.",
+          "quote": {
+            "content": "This Action Plan will assist Council to make the necessary changes it needs to make to adequately prepare for the impacts of a changing climate. This project seeks to develop an Action Plan that will help the Benalla Rural City Council to adapt to future changes in climate.",
+            "page": 3,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It outlines a Climate Change Adaptation Action Plan, which is a strategic response to the anticipated impacts of climate change. The plan is designed to be integrated into all aspects of the local government's operations, indicating a recognition of the pervasive influence of climate change on various sectors. The document also mentions the need for continuous improvement and community involvement in planning for climate change adaptation. It further emphasizes the need to incorporate climate change considerations into future strategic planning and reporting. The document also outlines specific actions, such as setting energy targets for council operations and considering climate change impacts in future policies.",
+          "quote": {
+            "content": "Actions 8.1 and 8.2 support the mainstreaming of climate change into all Council business through the incorporation of climate change considerations into current reporting arrangements. In addition, Council will include consideration of climate change risks, where relevant, in all future strategic planning and reporting.",
+            "page": 9,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They outline a Climate Change Adaptation Action Plan for the period of 2013-2025, indicating a long-term approach rather than immediate urgency. The documents discuss the impacts of climate change on the local council's operations, the economy, and the community, and they propose various strategies for adaptation. These include incorporating climate change considerations into strategic planning and reporting, setting energy targets, and advocating for efficient infrastructure. However, these actions are framed as part of a continuous improvement process and a commitment to dealing with climate change over time, rather than as urgent measures that need to be implemented rapidly. Therefore, based on the provided documents, the local government policy does not explicitly call for rapid and urgent action on climate change."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does provide specific timeframes for its intended actions on climate change. It outlines a Climate Change Adaptation Action Plan for the period of 2013-2025, indicating a 12-year timeframe for the implementation of the plan. The document also mentions specific years for certain actions. For instance, it states that the Council should set energy targets for its own operations by 2013 and implement them by 2014. This suggests a clear timeline for the execution of these actions. However, it should be noted that the document does not provide specific timeframes for all its actions, and the effectiveness of the policy would depend on the timely implementation of these actions."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents do emphasize the importance of addressing climate change, they do not explicitly state that it should take precedence over other policies. The Climate Change Adaptation Action Plan is mentioned as a key part of the Council's strategic planning and is said to inform many other Council strategic documents. However, this does not necessarily imply that it is of higher priority than other policies. The documents also mention the integration of climate change considerations into all aspects of Council business, but again, this does not explicitly state that climate change response is a higher priority than other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": true,
+          "answer": "The documents provide clear evidence that the local government policy requires all council activities to be aligned with climate policy. The policy explicitly states that climate change considerations will be mainstreamed into all council business through the incorporation of climate change considerations into current reporting arrangements. This is supported by Actions 8.1 and 8.2. Furthermore, the policy mandates that staff should report on how climate change risk has been addressed in annual reports and performance reviews. This indicates a clear requirement for all council activities to consider and align with climate policy. The policy also includes specific actions related to climate change, such as setting energy targets for council operations and considering climate change risks in strategic planning and reporting.",
+          "quote": {
+            "content": "Actions 8.1 and 8.2 support the mainstreaming of climate change into all Council business through the incorporation of climate change considerations into current reporting arrangements. In addition, Council will include consideration of climate change risks, where relevant, in all future strategic planning and reporting.",
+            "page": 9,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The Climate Change Adaptation Action Plan does explicitly allocate funding for climate action. The plan outlines various actions to be taken, and for each action, it mentions the funding required. For instance, the plan mentions 'Low to medium funding required' for providing information to the community and assisting with mental health issues, particularly for the farming community. Another action, 'Open spaces are well cared for and priorities for management in a changing climate are established', is subject to additional funding. The plan also mentions that existing resources will be used for the maintenance and upgrade of green space assets, but additional funds may be needed. Therefore, the plan does allocate funding for climate action, although the exact amounts are not specified.",
+          "quote": {
+            "content": "May need additional funds. Existing resources if original maintenance scheduling is kept.",
+            "page": 19,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": true,
+          "answer": "The local government's plan does indeed allocate staff and other non-monetary institutional resources to climate action. The plan outlines specific roles and responsibilities for staff members in relation to climate change mitigation and adaptation. For instance, the General Manager of Development and Environment is tasked with implementing energy targets. The Manager of Economic Development is responsible for promoting energy efficiency with households and businesses. The plan also mentions the use of existing resources to ensure climate change risk and adaptation opportunities are addressed in every new report and annual reports. Furthermore, the plan indicates that staff training in sustainability has been provided through the Goulburn Broken Greenhouse Alliance. This demonstrates a clear allocation of staff resources towards climate action.",
+          "quote": {
+            "content": "8.1  Processes are in place to ensure climate change risk and adaptation opportunities are addressed in every new report.",
+            "page": 5,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 0.94
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indeed provide evidence of empowering and educating the community to rally, support, and work together to deliver climate action. The policy outlines a number of initiatives aimed at fostering community engagement and collaboration. For instance, it mentions the provision of information to the community about available services and assistance with mental health issues, particularly for the farming community. It also advocates for the development of peer-support groups. Furthermore, the policy encourages health services to be more accessible in the provision of climate-related health care. It also supports local leadership on climate change by providing practical support such as training and funding opportunities. These initiatives suggest a concerted effort to mobilize the community and foster a collective response to climate change.",
+          "quote": {
+            "content": "Particularly for the farming community.",
+            "page": 14,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": false,
+          "answer": "The local government's Climate Change Adaptation Action Plan does not provide specific actions for the mitigation of greenhouse gas emissions, including technological solutions and behaviour change. The plan primarily focuses on adaptation strategies to climate change rather than mitigation efforts. It includes actions such as addressing climate change risk in annual reports and performance reviews, setting energy targets for council operations, and considering climate change impacts in future strategic planning and reporting. However, these actions are more about managing and adapting to the impacts of climate change rather than actively reducing greenhouse gas emissions. The plan does not provide specific technological solutions or behaviour changes aimed at mitigating climate change. Therefore, in the context of 'restoring a safe climate', the plan does not include specific actions for mitigation of greenhouse gas emissions."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 1,
+        "score": 0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Climate Change Adaptation Action Plan indeed includes specific actions for climate adaptation and resilience. The plan outlines a variety of strategies and actions to address the impacts of climate change. For instance, it mentions the development of partnerships with education providers, industry associations, and government agencies to deliver the latest business training. It also includes actions to increase community capacity to adapt to changes in climate, such as providing practical support like training and funding opportunities. Furthermore, the plan discusses the provision of information to the community, particularly for the farming community, and advocates for the development of peer-support groups. The plan also outlines actions for the management of open spaces in a changing climate, prioritizing management based on resource significance, risk, and usage to maximize results."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention the incorporation of climate change considerations into strategic planning and reporting, and the implementation of a Climate Change Adaptation Action Plan, they do not provide specific, well-sourced evidence to justify the targets and actions set forth. The documents mention the use of a risk assessment phase to establish the expected impacts of climate change, but they do not detail the methodology or sources used in this assessment. Furthermore, the documents mention the review of key municipal documents to ensure they include relevant climate considerations, but they do not provide specific evidence or sources to justify the recommendations made. Therefore, while the documents indicate a commitment to addressing climate change, they do not meet the high standard of evidence required to justify their climate targets and actions."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Climate Change Adaptation Action Plan does include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines that staff will be required to report on the actions they are responsible for, indicating a system of accountability and measurement. Additionally, the plan details that success indicators have been built into the Action Plan. This suggests that there are specific criteria against which the success of the actions can be evaluated. Furthermore, the plan also mentions that it will be reviewed at the four and eight year mark, consistent with the Council planning cycle. This review process would likely involve an evaluation of the success of the actions based on the specified success indicators.",
+          "quote": {
+            "content": "Staff will be required to report on those actions they are responsible for.",
+            "page": 5,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. While the policy does mention the involvement of the community in planning for improvement and the provision of information to the community, it does not explicitly state that research will be conducted within the local community to inform these actions. The policy does outline a process of monitoring and reviewing the Adaptation Action Plan, which includes reporting on climate change risks and adaptation opportunities in all new reports. However, this seems to be more of an internal process rather than a community-based research initiative. Therefore, based on the provided documents, it cannot be conclusively stated that there are plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents provided do not show evidence of policy experimentation in climate action as defined by the question. The documents discuss the development and implementation of a Climate Change Adaptation Action Plan, which includes risk assessments, adaptation actions, and strategic planning. However, there is no mention of initiatives to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The documents do not refer to pilots, initiatives, test beds, demonstration projects, or urban laboratories. Instead, the focus is on integrating climate change considerations into existing council business and strategic documents, and on monitoring and reviewing the progress of the Climate Change Adaptation Action Plan."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 4,
+        "score": 0.25
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent to advocate upward to state and national governments to support climate action. While the documents do discuss the local government's plans and actions regarding climate change adaptation, they do not specifically mention advocacy towards higher levels of government. The documents focus on the local government's own strategies, such as monitoring progress, involving the community, and incorporating climate change considerations into strategic planning and reporting. They also mention partnerships with education providers, industry associations, and government agencies to deliver training, but this does not necessarily imply advocacy to state and national governments. Therefore, based on the provided documents, it cannot be affirmed that there is an explicit intent to advocate upward to state and national governments to support climate action."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The documents do explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines a commitment to 'mainstreaming' climate change considerations into all council business, including strategic planning and reporting. It also emphasizes the importance of community involvement in planning for improvement and monitoring progress. The policy further advocates for local leadership on climate change by providing practical support such as training and funding opportunities. It also encourages collaboration on projects that increase community resilience and provide economies of scale for initiatives that reduce risks from climate change. However, the documents do not provide specific details on how the council plans to engage neighbouring local councils in these efforts."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not contain specific references to regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of partnerships and collaboration in addressing climate change, they do not name any specific organizations or entities with which the local government is partnering. The documents also mention the need for advocacy and coordination in addressing climate change, but again, no specific partnerships or alliances are named in this context. Therefore, based on the provided documents, it cannot be affirmed that the local government policy refers to specific regional associations, alliances, or other partnerships related to climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The documents do discuss the impact of climate change on vulnerable communities, albeit not in a comprehensive manner. The documents highlight the need for climate change considerations in strategic planning and reporting, and the importance of addressing climate change risks in all future strategic planning. The documents also suggest that climate change can exacerbate existing issues, such as community satisfaction with council services, and infrastructure provision. The documents recommend explicitly stating in the first ten pages of the Plan that the impacts of climate change can affect public health, and incorporating the role of climate change in relation to disadvantage and mental health. However, the documents do not provide specific details on how climate change impacts vulnerable communities, or how the local government plans to address these impacts.",
+          "quote": {
+            "content": "Consider incorporating the role of climate change in relation to disadvantage in KRA 5 and to mental health in KRA 6.",
+            "page": 38,
+            "source": "Benalla-VIC-125.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in relation to 'equity and social justice'. While the documents do mention the incorporation of climate change considerations into strategic planning and reporting, and the need to address climate change risks, they do not provide specific details on how the benefits and opportunities of a safe climate will be shared equitably. The documents also mention the need to consider the role of climate change in relation to disadvantage and mental health, but again, there is no explicit discussion on the equitable distribution of benefits and opportunities. Therefore, based on the provided documents, the answer to the question is negative."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 11,
+    "num_questions": 20,
+    "attribute_score": 60.8
+  }
+}

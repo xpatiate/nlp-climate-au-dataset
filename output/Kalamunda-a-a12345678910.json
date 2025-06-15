@@ -1,1 +1,292 @@
-{"settings": {"source_files": ["Kalamunda-WA-234.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T20:33:51.647254", "lga": "Kalamunda"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy clearly identifies climate action as a core purpose. It is designed to address the impacts of climate change on local government operations and responsibilities. The policy encourages individual local governments to develop and implement their own climate change strategies and programs. It also calls for strong climate change action, leadership, and coordination at all levels of government. The policy further urges the Western Australian and Commonwealth Governments to develop a formalized coordinated approach to address climate change. It also advocates for the removal of existing barriers to climate mitigation and adaptation actions by local government. Therefore, it is evident that the policy is centered around climate action.", "quote": {"content": "This Policy Statement represents the consolidated position of Western Australian Local Governments regarding this important issue.", "page": 3, "source": "Kalamunda-WA-234.pdf", "search_score": 1.0}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document explicitly explains the need for action on climate change. It acknowledges that climate change is occurring and that human activities are the dominant cause. It also recognizes that climate change threatens human societies and the Earth\u2019s ecosystems, and that urgent action is required to reduce emissions and adapt to the impacts from climate change that are now unavoidable. The document further states that a failure to adequately address this climate change emergency places an unacceptable burden on future generations. It calls for strong climate change action, leadership, and coordination at all levels of government. The document also notes that Local Government is committed to addressing climate change and to meeting international obligations through Australia\u2019s participation in protocols and agreements established under the UNFCCC, including but not limited to the Paris Agreement and successive international treaties.", "quote": {"content": "A failure to adequately address this climate change emergency places an unacceptable burden on future generations. The science is clear: climate change is occurring and greenhouse gas emissions from human activities are the dominant cause. Climate change threatens human societies and the Earth\u2019s ecosystems. Urgent action is required to reduce emissions, and to adapt to the impacts from climate change that are now unavoidable.", "page": 2, "source": "Kalamunda-WA-234.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": true, "answer": "The documents indeed call for rapid and urgent action on climate change. They emphasize the need for strong climate change action, leadership, and coordination at all levels of government. The documents also recognize a global climate emergency that requires urgent action. They highlight the need for effective and adequately funded Commonwealth and State Government climate change policies and programs. The documents further call for a formalized coordinated approach, such as a Commonwealth/State/Local Government partnership agreement or Intergovernmental Agreement, to provide for long-term planning to address climate change. The documents also call for the development and implementation of a national plan for action to meet Australia\u2019s international obligations, ensure Australia is prepared to adapt to the impacts of climate change, and navigate the pathway to a low carbon economy."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents repeatedly emphasize the urgency of action on climate change, they do not provide concrete deadlines or timelines for the implementation of their climate change policies or programs. The documents call for 'urgent action', 'effective mitigation action', and 'strong climate change action', but these calls to action are not accompanied by specific dates or timeframes. The documents also express a commitment to reducing greenhouse gas emissions and to contributing to national and international efforts to address climate change, but again, no specific timeframes are given for these commitments."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the urgency of climate change action and the need for strong leadership and coordination at all levels of government, they do not explicitly prioritize climate change response over other policies. The documents call for effective and adequately funded Commonwealth and State Government climate change policies and programs, and for the development of a national plan for action to meet Australia\u2019s international obligations, adapt to the impacts of climate change, and transition to a low carbon economy. However, they do not explicitly state that these actions should take precedence over other policy areas."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents emphasize the importance of climate change action and the need for leadership and coordination at all levels of government, they do not specifically mandate that all council activities align with climate policy. The documents do encourage local governments to support and utilize the policy statement in developing and implementing their own climate change strategies and programs, but they are not bound by the policy. The documents also call for a formalized coordinated approach, such as a partnership agreement or intergovernmental agreement, to address climate change. However, these are suggestions and calls to action rather than explicit requirements for all council activities to align with climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": true, "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines the need for 'adequate ongoing funding for essential research, science and innovation to underpin climate change policy initiatives and program design.' This indicates a clear allocation of resources towards climate action. Furthermore, the policy calls for 'adequate assistance, including funding, for Local Governments and Commonwealth and State agencies engaged in adaptation action.' This further emphasizes the policy's commitment to mobilizing institutional resources for climate action. However, the policy does not provide specific details on the amount of funding to be allocated or the exact mechanisms for its distribution."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly state that the local government's plan allocates staff or other non-monetary institutional resources to climate action. The documents do outline a variety of strategies and actions related to climate change, including mitigation efforts, adaptation and resilience planning, and calls for funding and resources from the Western Australian and Commonwealth Governments. However, these documents do not specify the allocation of staff or other non-monetary institutional resources to these efforts. The documents emphasize the need for collaboration across sectors and levels of government, but they do not provide specific details about the mobilization of institutional resources within the local government."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is actively involved in educating and encouraging awareness and behaviour change among residents regarding climate change. It also mentions that the local government has been engaged in a range of climate change mitigation and adaptation activities. However, the document does not provide specific details on how the community is being empowered to rally, support, and work together to deliver climate action. It does mention that the local government supports the United Nations Sustainable Development Goals and climate change action, which could imply a commitment to social mobilisation, but the specifics of this commitment are not outlined.", "quote": {"content": "been actively engaged in a range of climate change mitigation and adaptation activity, together with education and encouraging awareness and behaviour change amongst residents.", "page": 12, "source": "Kalamunda-WA-234.pdf", "search_score": 0.93}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to reducing operational GHG emissions and supporting the reduction of GHG emissions in the community. It also acknowledges the need for cross-sectoral action by government, business, and the community. The policy calls for the implementation of mitigation programs, fostering innovation, and supporting sustainability at the community level. It also calls for the Commonwealth Government to partner with Local Government in efforts to further reduce GHG emissions through renewable energy projects and energy efficiency projects. The policy also calls for the Western Australian Government to introduce a State-level renewable energy and/or emissions reduction target, ensure that statutory planning policies are consistent with climate change mitigation priorities, and drive mass LED public lighting retrofits.", "quote": {"content": "Local Government calls on the Commonwealth Government to partner with Local Government in its efforts to further reduce GHG emissions, including through: renewable energy projects (small scale and large scale); energy efficiency projects (eg, mass LED public lighting retrofits); Local Government is committed to reducing operational GHG emissions and supporting the reduction of GHG emissions in the community.", "page": 6, "source": "Kalamunda-WA-234.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a strategic approach to progressing and funding action for climate change adaptation and building resilience. It also includes adequate assistance, including funding, for Local Governments and Commonwealth and State agencies engaged in adaptation action. The policy recognizes and plans for the impacts of climate change on biodiversity and agricultural productivity, particularly in relation to biosecurity. It also includes sustainable management of water resources and provides greater certainty for Local Governments managing their risk and liability flowing from adaptation planning decisions. However, the policy also notes that there is currently only minimal capacity and resourcing available to adapt to other effects of climate change, such as changes in temperature and rainfall, extreme weather events such as heatwaves and floods, and flow-on effects such as the health and social impacts of climate change."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The document does not provide well-sourced evidence to justify its climate targets and actions. While it does outline a number of actions and strategies related to climate change, such as reducing operational GHG emissions, supporting community emissions reduction programs, and advocating for effective mitigation action, it does not provide specific, well-sourced evidence to justify these targets and actions. The document does not provide any specific data, research findings, or other forms of evidence to support its claims or to demonstrate that its proposed actions will effectively address the issue of climate change. Furthermore, the document does not provide any clear, measurable targets for its proposed actions, making it difficult to assess their potential effectiveness or impact."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": false, "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a strategic approach to climate change adaptation and resilience, including funding, planning for impacts on biodiversity and agricultural productivity, sustainable management of water resources, and more, it does not specify how the success of these actions will be measured. The plan also calls for long-term planning, adequate ongoing funding for research, and the removal of barriers to climate mitigation and adaptation actions by local government. However, it does not provide specific, measurable criteria or benchmarks that would allow for the evaluation of the success of these actions. Therefore, while the plan outlines a comprehensive approach to addressing climate change, it lacks the necessary detail to ensure that its effectiveness can be accurately assessed."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government policy does emphasize the importance of 'adequate ongoing funding for essential research, science and innovation to underpin climate change policy initiatives and program design'. However, this statement does not specify that the research will be conducted within the local community. The policy also mentions the need for 'partnering with and resourcing Local Government to deliver community emissions reduction programs', but this does not necessarily imply conducting research in the local community. Therefore, based on the provided documents, it cannot be definitively stated that there are plans to conduct research in the local community to inform climate actions."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents do not provide clear evidence of innovation and policy experimentation in climate action. They outline the local government's commitment to climate change mitigation and adaptation, and call for strong climate change action, leadership, and coordination at all levels of government. They also highlight the need for adequate funding for research, science, and innovation to underpin climate change policy initiatives and program design. However, they do not detail specific innovative or experimental policies or actions being undertaken or planned. The documents primarily focus on advocating for more robust and coordinated climate change policies and actions at the state and commonwealth government levels, and on outlining the local government's general stance and commitments regarding climate change."}], "score": {"num_positives": 0, "num_questions": 4, "score": 0}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": true, "answer": "The documents clearly show an explicit intent to advocate upward to state and national governments to support climate action. The local government is calling for strong climate change action, leadership, and coordination at all levels of government. They are urging the Western Australian and Commonwealth Governments to develop a formalized coordinated approach, such as a partnership agreement or Intergovernmental Agreement, to establish consistent and coordinated principles, objectives, and actions across Australia for long-term planning to address climate change. They are also calling on the Commonwealth Government to develop and implement a national plan for action to meet Australia\u2019s international obligations, ensure Australia is prepared to adapt to the impacts of climate change, and navigate the pathway to a low carbon economy. Furthermore, they are calling on the Western Australian Government for a major revision and update of the 2012 climate change strategy.", "quote": {"content": "Local Government calls on the Western Australian and Commonwealth Governments to develop a formalised coordinated approach, such as in the form of a Commonwealth/State/Local Government partnership agreement or Intergovernmental Agreement, establishing consistent and coordinated principles, objectives and actions across Australia that provides for long-term planning to address climate change.", "page": 5, "source": "Kalamunda-WA-234.pdf", "search_score": 0.99}}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the need for a coordinated approach to climate change, including partnerships between different levels of government and the community, they do not specifically mention capacity building within local councils or between neighbouring councils. The documents focus more on the need for strategic, long-term planning, adequate funding, and the removal of barriers to climate mitigation and adaptation actions. They also call for the Commonwealth and Western Australian Governments to take direct responsibility for the delivery of mitigation actions, adaptation, and resilience planning."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents do not provide any specific references to regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the need for coordination and partnerships at all levels of government, including local, state, and commonwealth, they do not mention any specific entities or organizations that the local government is or plans to be partnered with in relation to climate change action. The documents also highlight the need for a formalized coordinated approach and long-term planning to address climate change, but again, no specific partnerships or alliances are mentioned."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": true, "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that climate change disproportionately affects disadvantaged and marginalized groups, including the poor and rural and regional communities. The policy supports an equitable transition to a carbon-constrained world, both globally and domestically. It emphasizes the need to equitably share the cost of climate change adaptation and mitigation and ensure that disadvantaged and marginalized groups receive adequate support. This includes providing support and incentives for communities impacted by the transition, such as fostering innovation and supporting workforce adjustment packages and new employment opportunities. The policy also supports the United Nations Sustainable Development Goals and climate change action.", "quote": {"content": "Local Government supports an equitable transition to a carbon constrained world: globally, the right of developing countries to increase their share of global wealth in ways that remain within the ecological capacities of the planet; domestically, the need to equitably share the cost of climate change adaptation and mitigation and ensure disadvantaged and marginalised groups receive adequate support. Climate change disproportionately affects disadvantaged and marginalised groups including the poor and rural and regional communities.", "page": 4, "source": "Kalamunda-WA-234.pdf", "search_score": 0.99}}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": true, "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the need for an equitable transition to a carbon-constrained world, both globally and domestically. Globally, it supports the right of developing countries to increase their share of global wealth in ways that remain within the ecological capacities of the planet. Domestically, it advocates for the equitable sharing of the cost of climate change adaptation and mitigation. It also emphasizes the need to ensure that disadvantaged and marginalized groups receive adequate support. This includes providing support and incentives for communities impacted by the transition, such as fostering innovation, supporting workforce adjustment packages, and creating new employment opportunities. The document also supports the United Nations Sustainable Development Goals, which include equitable and sustainable development as key objectives.", "quote": {"content": "This includes provision of support and incentives for communities impacted by \nthe transition (eg, by fostering innovation, and supporting workforce adjustment \npackages and new employment opportunities). Local Government supports an equitable transition to a carbon constrained world: \n\uf0d8 globally, the right of developing countries to increase their share of global wealth in \nways that remain within the ecological capacities of the planet;  \n\uf0d8 domestically, the need to equitably share the cost of climate change adaptation and \nmitigation and ensure disadvantaged and marginalised groups receive adequate \nsupport.", "page": 4, "source": "Kalamunda-WA-234.pdf", "search_score": 1.0}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}], "results": {"num_positives": 10, "num_questions": 20, "attribute_score": 63.3}}
+{
+  "settings": {
+    "source_files": [
+      "Kalamunda-WA-234.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T20:33:51.647254",
+    "lga": "Kalamunda"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy clearly identifies climate action as a core purpose. It is designed to address the impacts of climate change on local government operations and responsibilities. The policy encourages individual local governments to develop and implement their own climate change strategies and programs. It also calls for strong climate change action, leadership, and coordination at all levels of government. The policy further urges the Western Australian and Commonwealth Governments to develop a formalized coordinated approach to address climate change. It also advocates for the removal of existing barriers to climate mitigation and adaptation actions by local government. Therefore, it is evident that the policy is centered around climate action.",
+          "quote": {
+            "content": "This Policy Statement represents the consolidated position of Western Australian Local Governments regarding this important issue.",
+            "page": 3,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document explicitly explains the need for action on climate change. It acknowledges that climate change is occurring and that human activities are the dominant cause. It also recognizes that climate change threatens human societies and the Earth\u2019s ecosystems, and that urgent action is required to reduce emissions and adapt to the impacts from climate change that are now unavoidable. The document further states that a failure to adequately address this climate change emergency places an unacceptable burden on future generations. It calls for strong climate change action, leadership, and coordination at all levels of government. The document also notes that Local Government is committed to addressing climate change and to meeting international obligations through Australia\u2019s participation in protocols and agreements established under the UNFCCC, including but not limited to the Paris Agreement and successive international treaties.",
+          "quote": {
+            "content": "A failure to adequately address this climate change emergency places an unacceptable burden on future generations. The science is clear: climate change is occurring and greenhouse gas emissions from human activities are the dominant cause. Climate change threatens human societies and the Earth\u2019s ecosystems. Urgent action is required to reduce emissions, and to adapt to the impacts from climate change that are now unavoidable.",
+            "page": 2,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": true,
+          "answer": "The documents indeed call for rapid and urgent action on climate change. They emphasize the need for strong climate change action, leadership, and coordination at all levels of government. The documents also recognize a global climate emergency that requires urgent action. They highlight the need for effective and adequately funded Commonwealth and State Government climate change policies and programs. The documents further call for a formalized coordinated approach, such as a Commonwealth/State/Local Government partnership agreement or Intergovernmental Agreement, to provide for long-term planning to address climate change. The documents also call for the development and implementation of a national plan for action to meet Australia\u2019s international obligations, ensure Australia is prepared to adapt to the impacts of climate change, and navigate the pathway to a low carbon economy."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents repeatedly emphasize the urgency of action on climate change, they do not provide concrete deadlines or timelines for the implementation of their climate change policies or programs. The documents call for 'urgent action', 'effective mitigation action', and 'strong climate change action', but these calls to action are not accompanied by specific dates or timeframes. The documents also express a commitment to reducing greenhouse gas emissions and to contributing to national and international efforts to address climate change, but again, no specific timeframes are given for these commitments."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents emphasize the urgency of climate change action and the need for strong leadership and coordination at all levels of government, they do not explicitly prioritize climate change response over other policies. The documents call for effective and adequately funded Commonwealth and State Government climate change policies and programs, and for the development of a national plan for action to meet Australia\u2019s international obligations, adapt to the impacts of climate change, and transition to a low carbon economy. However, they do not explicitly state that these actions should take precedence over other policy areas."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents emphasize the importance of climate change action and the need for leadership and coordination at all levels of government, they do not specifically mandate that all council activities align with climate policy. The documents do encourage local governments to support and utilize the policy statement in developing and implementing their own climate change strategies and programs, but they are not bound by the policy. The documents also call for a formalized coordinated approach, such as a partnership agreement or intergovernmental agreement, to address climate change. However, these are suggestions and calls to action rather than explicit requirements for all council activities to align with climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": true,
+          "answer": "The local government policy does explicitly allocate funding for climate action. The policy outlines the need for 'adequate ongoing funding for essential research, science and innovation to underpin climate change policy initiatives and program design.' This indicates a clear allocation of resources towards climate action. Furthermore, the policy calls for 'adequate assistance, including funding, for Local Governments and Commonwealth and State agencies engaged in adaptation action.' This further emphasizes the policy's commitment to mobilizing institutional resources for climate action. However, the policy does not provide specific details on the amount of funding to be allocated or the exact mechanisms for its distribution."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's plan allocates staff or other non-monetary institutional resources to climate action. The documents do outline a variety of strategies and actions related to climate change, including mitigation efforts, adaptation and resilience planning, and calls for funding and resources from the Western Australian and Commonwealth Governments. However, these documents do not specify the allocation of staff or other non-monetary institutional resources to these efforts. The documents emphasize the need for collaboration across sectors and levels of government, but they do not provide specific details about the mobilization of institutional resources within the local government."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is actively involved in educating and encouraging awareness and behaviour change among residents regarding climate change. It also mentions that the local government has been engaged in a range of climate change mitigation and adaptation activities. However, the document does not provide specific details on how the community is being empowered to rally, support, and work together to deliver climate action. It does mention that the local government supports the United Nations Sustainable Development Goals and climate change action, which could imply a commitment to social mobilisation, but the specifics of this commitment are not outlined.",
+          "quote": {
+            "content": "been actively engaged in a range of climate change mitigation and adaptation activity, together with education and encouraging awareness and behaviour change amongst residents.",
+            "page": 12,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 0.93
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government policy does indeed include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to reducing operational GHG emissions and supporting the reduction of GHG emissions in the community. It also acknowledges the need for cross-sectoral action by government, business, and the community. The policy calls for the implementation of mitigation programs, fostering innovation, and supporting sustainability at the community level. It also calls for the Commonwealth Government to partner with Local Government in efforts to further reduce GHG emissions through renewable energy projects and energy efficiency projects. The policy also calls for the Western Australian Government to introduce a State-level renewable energy and/or emissions reduction target, ensure that statutory planning policies are consistent with climate change mitigation priorities, and drive mass LED public lighting retrofits.",
+          "quote": {
+            "content": "Local Government calls on the Commonwealth Government to partner with Local Government in its efforts to further reduce GHG emissions, including through: renewable energy projects (small scale and large scale); energy efficiency projects (eg, mass LED public lighting retrofits); Local Government is committed to reducing operational GHG emissions and supporting the reduction of GHG emissions in the community.",
+            "page": 6,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government policy does include specific actions for climate adaptation and resilience. The policy outlines a strategic approach to progressing and funding action for climate change adaptation and building resilience. It also includes adequate assistance, including funding, for Local Governments and Commonwealth and State agencies engaged in adaptation action. The policy recognizes and plans for the impacts of climate change on biodiversity and agricultural productivity, particularly in relation to biosecurity. It also includes sustainable management of water resources and provides greater certainty for Local Governments managing their risk and liability flowing from adaptation planning decisions. However, the policy also notes that there is currently only minimal capacity and resourcing available to adapt to other effects of climate change, such as changes in temperature and rainfall, extreme weather events such as heatwaves and floods, and flow-on effects such as the health and social impacts of climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The document does not provide well-sourced evidence to justify its climate targets and actions. While it does outline a number of actions and strategies related to climate change, such as reducing operational GHG emissions, supporting community emissions reduction programs, and advocating for effective mitigation action, it does not provide specific, well-sourced evidence to justify these targets and actions. The document does not provide any specific data, research findings, or other forms of evidence to support its claims or to demonstrate that its proposed actions will effectively address the issue of climate change. Furthermore, the document does not provide any clear, measurable targets for its proposed actions, making it difficult to assess their potential effectiveness or impact."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": false,
+          "answer": "The local government's plan does not provide specific measurable criteria to evaluate the success of its proposed actions. While the plan outlines a strategic approach to climate change adaptation and resilience, including funding, planning for impacts on biodiversity and agricultural productivity, sustainable management of water resources, and more, it does not specify how the success of these actions will be measured. The plan also calls for long-term planning, adequate ongoing funding for research, and the removal of barriers to climate mitigation and adaptation actions by local government. However, it does not provide specific, measurable criteria or benchmarks that would allow for the evaluation of the success of these actions. Therefore, while the plan outlines a comprehensive approach to addressing climate change, it lacks the necessary detail to ensure that its effectiveness can be accurately assessed."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of plans to conduct research in the local community to inform climate actions. The local government policy does emphasize the importance of 'adequate ongoing funding for essential research, science and innovation to underpin climate change policy initiatives and program design'. However, this statement does not specify that the research will be conducted within the local community. The policy also mentions the need for 'partnering with and resourcing Local Government to deliver community emissions reduction programs', but this does not necessarily imply conducting research in the local community. Therefore, based on the provided documents, it cannot be definitively stated that there are plans to conduct research in the local community to inform climate actions."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": false,
+          "answer": "The documents do not provide clear evidence of policy experimentation in climate action as defined by the question. While the documents do mention various climate change mitigation and adaptation activities, such as renewable energy projects, energy efficiency projects, and community emissions reduction programs, they do not specifically describe these as experiments, pilots, initiatives, test beds, demonstration projects, or urban laboratories. The documents also do not provide specific details about these activities being implemented on a small scale and under real-world conditions. Therefore, based on the provided documents, it cannot be conclusively stated that the local government policy includes policy experimentation in climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 4,
+        "score": 0
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": true,
+          "answer": "The documents clearly show an explicit intent to advocate upward to state and national governments to support climate action. The local government is calling for strong climate change action, leadership, and coordination at all levels of government. They are urging the Western Australian and Commonwealth Governments to develop a formalized coordinated approach, such as a partnership agreement or Intergovernmental Agreement, to establish consistent and coordinated principles, objectives, and actions across Australia for long-term planning to address climate change. They are also calling on the Commonwealth Government to develop and implement a national plan for action to meet Australia\u2019s international obligations, ensure Australia is prepared to adapt to the impacts of climate change, and navigate the pathway to a low carbon economy. Furthermore, they are calling on the Western Australian Government for a major revision and update of the 2012 climate change strategy.",
+          "quote": {
+            "content": "Local Government calls on the Western Australian and Commonwealth Governments to develop a formalised coordinated approach, such as in the form of a Commonwealth/State/Local Government partnership agreement or Intergovernmental Agreement, establishing consistent and coordinated principles, objectives and actions across Australia that provides for long-term planning to address climate change.",
+            "page": 5,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do mention the need for a coordinated approach to climate change, including partnerships between different levels of government and the community, they do not specifically mention capacity building within local councils or between neighbouring councils. The documents focus more on the need for strategic, long-term planning, adequate funding, and the removal of barriers to climate mitigation and adaptation actions. They also call for the Commonwealth and Western Australian Governments to take direct responsibility for the delivery of mitigation actions, adaptation, and resilience planning."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents do not provide any specific references to regional associations, alliances, or other partnerships related to climate change. While the documents do emphasize the need for coordination and partnerships at all levels of government, including local, state, and commonwealth, they do not mention any specific entities or organizations that the local government is or plans to be partnered with in relation to climate change action. The documents also highlight the need for a formalized coordinated approach and long-term planning to address climate change, but again, no specific partnerships or alliances are mentioned."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": true,
+          "answer": "The document explicitly discusses the impact of climate change on vulnerable communities. It acknowledges that climate change disproportionately affects disadvantaged and marginalized groups, including the poor and rural and regional communities. The policy supports an equitable transition to a carbon-constrained world, both globally and domestically. It emphasizes the need to equitably share the cost of climate change adaptation and mitigation and ensure that disadvantaged and marginalized groups receive adequate support. This includes providing support and incentives for communities impacted by the transition, such as fostering innovation and supporting workforce adjustment packages and new employment opportunities. The policy also supports the United Nations Sustainable Development Goals and climate change action.",
+          "quote": {
+            "content": "Local Government supports an equitable transition to a carbon constrained world: globally, the right of developing countries to increase their share of global wealth in ways that remain within the ecological capacities of the planet; domestically, the need to equitably share the cost of climate change adaptation and mitigation and ensure disadvantaged and marginalised groups receive adequate support. Climate change disproportionately affects disadvantaged and marginalised groups including the poor and rural and regional communities.",
+            "page": 4,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": true,
+          "answer": "The document does discuss how to equitably share the benefits and opportunities of a safe climate. It emphasizes the need for an equitable transition to a carbon-constrained world, both globally and domestically. Globally, it supports the right of developing countries to increase their share of global wealth in ways that remain within the ecological capacities of the planet. Domestically, it advocates for the equitable sharing of the cost of climate change adaptation and mitigation. It also emphasizes the need to ensure that disadvantaged and marginalized groups receive adequate support. This includes providing support and incentives for communities impacted by the transition, such as fostering innovation, supporting workforce adjustment packages, and creating new employment opportunities. The document also supports the United Nations Sustainable Development Goals, which include equitable and sustainable development as key objectives.",
+          "quote": {
+            "content": "This includes provision of support and incentives for communities impacted by \nthe transition (eg, by fostering innovation, and supporting workforce adjustment \npackages and new employment opportunities). Local Government supports an equitable transition to a carbon constrained world: \n\uf0d8 globally, the right of developing countries to increase their share of global wealth in \nways that remain within the ecological capacities of the planet;  \n\uf0d8 domestically, the need to equitably share the cost of climate change adaptation and \nmitigation and ensure disadvantaged and marginalised groups receive adequate \nsupport.",
+            "page": 4,
+            "source": "Kalamunda-WA-234.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 10,
+    "num_questions": 20,
+    "attribute_score": 63.3
+  }
+}

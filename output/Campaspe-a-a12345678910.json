@@ -1,1 +1,298 @@
-{"settings": {"source_files": ["Campaspe-VIC-128.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T15:54:05.523649", "lga": "Campaspe"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": false, "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy is an 'Environment Strategy' and it covers a broad range of environmental issues, not just climate change. The policy is divided into four themes: Conservation, Climate Change Adaptation and Mitigation, Community Engagement and Partnerships, and Council\u2019s Responsibilities. While 'Climate Change Adaptation and Mitigation' is one of the themes, it is not the sole focus of the policy. The policy also includes actions related to conservation, community engagement, and the council's responsibilities. Therefore, it can be concluded that climate action is a part of the policy's goals, but it is not the core purpose or goal of the policy."}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the impacts of climate change and outlines the council's policy position on the matter. The document also provides definitions for key terms related to climate change, such as 'adaptation' and 'mitigation', which are actions taken to prepare for and reduce the adverse effects of climate change respectively. Furthermore, the document outlines the Victorian Government's targets for greenhouse gas emissions and renewable energy, indicating a clear need for action. The document also mentions the Climate Change Act 2017, which provides the council with the option of making pledges to reduce greenhouse gas emissions. This suggests that the council is not only aware of the need for action on climate change, but is also taking steps to address it.", "quote": {"content": "A council pledge includes a description of the actions to be undertaken by Council over the next five years to contribute to the reduction of greenhouse gas emissions and an estimate of the greenhouse gas emissions reductions.", "page": 18, "source": "Campaspe-VIC-128.pdf", "search_score": 0.99}}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They acknowledge the impacts of climate change on the community, business, industry, and the environment, and they outline the council's commitment to climate change adaptation and mitigation. The documents also mention the Victorian Government's targets for greenhouse gas emissions and renewable energy, as well as the Australian Government's commitment to the Paris Agreement. However, these references do not constitute an explicit call for rapid and urgent action. They are more indicative of a recognition of the issue and a commitment to ongoing efforts to address it. The documents also mention community concern about climate change and a desire for action, but again, this does not translate into an explicit call for urgent action on the part of the local government."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": false, "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents acknowledge the importance of climate change adaptation and mitigation, and the council's commitment to contribute to the reduction of greenhouse gas emissions, they do not provide a detailed timeline or deadlines for these actions. The documents mention the Victorian Government's targets of net zero greenhouse gas emissions by 2050 and 25% of electricity from renewables by 2020, and 40% by 2025, but these are not the council's own targets or actions. The documents also mention the council's option of pledges to reduce greenhouse gas emissions over the next five years, but no specific pledge or timeframe is given. Therefore, the documents do not provide clear evidence of specific timeframes for the council's intended actions on climate change."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents acknowledge the impacts of climate change on the community, business, industry, and the environment, and the council's recognition of the need for a healthier environment for current and future generations, they do not specifically prioritize climate emergency response over other policies. The documents also mention the council's commitment to reducing greenhouse gas emissions and the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure or decline in agriculture, and severe storms and floods. However, these acknowledgements and commitments do not equate to a clear prioritization of climate emergency response over other policies."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to environmental sustainability and climate change adaptation and mitigation, they do not specifically mandate that all council activities must align with these policies. The documents do mention the integration of environmental sustainability across all areas of council, in decision making and project management, but this does not necessarily equate to a requirement for all activities to align with climate policy. Furthermore, the documents highlight the council's discretionary power to support certain environmental initiatives, suggesting that not all activities are bound by climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly state that the local government's plan allocates funding for climate action. While the documents mention various strategies and actions related to climate change adaptation and mitigation, such as supporting community groups for environmental projects, collaborating with partners, and investigating the use of tools like Environmental Upgrade Finance, there is no clear mention of a specific budget or funding allocation for these actions. The documents also mention the Community Grants program, but it is not explicitly stated that this program is for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy does acknowledge the impacts of climate change and outlines measures for adaptation and mitigation, it does not specify the allocation of staff or other resources for these actions. The policy mentions the need for ongoing training for council staff on awareness and best management practice for native vegetation and weed management, but this is not directly linked to climate action. The policy also mentions collaboration with partners to implement actions and support for community groups with financial support from the Community Grants program, but again, these are not explicitly tied to climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a number of initiatives aimed at engaging the community in environmental projects, such as the National Tree Day program and the Community Grants program. The policy also mentions the development of a new waste and environment behaviour change program for 2019 and beyond, which suggests an effort to educate the community about sustainable practices. Furthermore, the policy includes a commitment to 'lead by example' in responding and adapting to climate change, and to support the community, business, and industry in doing the same. This suggests an effort to rally the community around the cause of climate action.", "quote": {"content": "\u2022 Support community, business and industry to \nrespond to the impacts of a changing climate.", "page": 19, "source": "Campaspe-VIC-128.pdf", "search_score": 0.92}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's Environment Strategy 2018-2022 does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to technological solutions and behaviour change. Technological solutions include the implementation of the Watts Working Better Street Lighting Project, the introduction of a garden organics service, increasing recycling to reduce waste to landfill, and the installation of solar power at the Echuca Library. The policy also mentions the development and implementation of a Corporate Emissions Reduction Plan, which focuses on energy efficiency within the organisation. Behaviour change is encouraged through the support of community-based energy efficiency and/or renewable energy projects. The council also plans to investigate a council-led solar bulk buy program to assist households to invest in solar affordably and with confidence.", "quote": {"content": "Investigate a council led solar bulk buy program to assist households to invest in solar with confidence (knowledge) and affordably. Develop and implement a Corporate Emissions Reduction Plan: Focus on delivery of energy efficiency within the organisation, reducing use, cost and negative impacts on the environment. Achieve a reduction of greenhouse gas emissions beyond the minimum set in the Council Plan. Support community based energy efficiency and/or renewable energy projects.", "page": 19, "source": "Campaspe-VIC-128.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The local government's Environment Strategy 2018-2022 does include specific actions for climate adaptation and resilience. The policy acknowledges the impacts of climate change on the community, business, industry, and the environment, and recognizes the need for action to reduce these impacts. The policy outlines long-term aims to support the community, business, and industry to respond to the impacts of a changing climate, work towards net-zero greenhouse gas emissions, and adapt to the effects of climate change. The policy also includes performance indicators such as a decrease in electricity consumption for all council owned and operated buildings and facilities, and a reduction in the tonnes of CO2 emissions for electricity and gas used in all council owned and operated buildings and facilities. These actions and indicators suggest a clear commitment to climate adaptation and resilience.", "quote": {"content": "\u2022 Reduction in the tonnes of CO2 emissions for \nelectricity and gas used in all council owned and \noperated buildings and facilities, to less than \n2015-16 actual of 2 Long-term aims\n\u2022 Support community, business and industry to \nrespond to the impacts of a changing climate. \u2022 Work towards net-zero greenhouse gas \nemissions. \u2022 Adapt to the effects of climate change. Performance indicators\n\u2022 Electricity consumption for all council owned and \noperated buildings and facilities is decreased by \n5% of the 2015-16 total electricity consumption \nof 2,304,664 kWh.", "page": 19, "source": "Campaspe-VIC-128.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": true, "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines the council's policy position on climate change, acknowledging the impacts of climate change and the need for mitigation measures. The policy rationale includes Victorian Government targets for net zero greenhouse gas emissions by 2050 and a significant increase in electricity from renewables by 2020 and 2025. The document also mentions the Climate Change Act 2017, which provides the council with the option of making pledges to reduce greenhouse gas emissions. Furthermore, the council has set performance indicators for its climate change adaptation and mitigation efforts, such as monitoring electricity consumption for all council-owned and operated buildings and facilities. The document also references several other state and federal documents relevant to environmental management, indicating that the council's climate targets and actions are informed by broader legislative and policy contexts.", "quote": {"content": "Victorian Government targets:\n \u2013 Net zero greenhouse gas emissions by 2050\n \u2013 25% of electricity from renewables by 2020 \nand 40% by 2025\n\u2022 The Climate Change Act 2017, provides council \nthe option of pledges, to make a statement in \nrespect of greenhouse gas emissions reductions.", "page": 18, "source": "Campaspe-VIC-128.pdf", "search_score": 0.98}}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a strategy that will be evaluated by the delivery of actions in the annual action plan and the measurement of performance indicators. These performance indicators are clearly defined and include criteria such as the council not committing any breaches of environmental legislation, the delivery of community engagement actions listed in various plans, and the electricity consumption for all council-owned and operated buildings and facilities. These indicators provide a clear and measurable way to assess the success of the plan's actions. Furthermore, the plan also includes a commitment to develop new plans and programs, such as a new Domestic Wastewater Management Plan and a new waste and environment behaviour change program, which will also have their own measurable outcomes.", "quote": {"content": "Measurement of performance indicators. Delivery of actions in the annual action plan. 2.", "page": 25, "source": "Campaspe-VIC-128.pdf", "search_score": 1.0}}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": false, "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. While the local government acknowledges the impacts of climate change on the community, business, industry, and the environment, and recognizes the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure or decline in agriculture, and severe storms and floods, there is no mention of conducting research in the local community to inform climate actions. The documents do mention plans for community engagement, collaboration with partners, and the implementation of various strategies and plans, but these do not specifically involve conducting research in the local community."}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": true, "answer": "The document does show evidence of innovation and policy experimentation in climate action. The local government's Environment Strategy 2018-2022 outlines a number of innovative actions that the council plans to undertake to address climate change. These include investigating the use of tools such as Environmental Upgrade Finance to encourage businesses and the community to undertake energy and/or water efficiency projects and/or renewable energy projects. The council also plans to investigate a council-led solar bulk buy program to assist households to invest in solar with confidence and affordability. Additionally, the council is considering signing on to the TAKE2 Pledge Program, a state government initiative to help Victoria reach net zero gas emissions by 2050. These actions indicate a willingness to experiment with different approaches to climate action, suggesting a level of innovation in their policy approach.", "quote": {"content": "TAKE2 is a state government initiative to help Victoria reach net zero gas emissions by 2050. \u2022 Investigate the use of tools such as Environmental Upgrade Finance, delivered by Economic Development to encourage businesses and the community to undertake energy and/or water efficiency projects and/or renewable energy projects. \u2022 Investigate a council led solar bulk buy program to assist households to invest in solar with confidence (knowledge) and affordably. \u2022 Assess the opportunity for council to sign on to the TAKE2 Pledge Program.", "page": 19, "source": "Campaspe-VIC-128.pdf", "search_score": 0.99}}], "score": {"num_positives": 3, "num_questions": 4, "score": 0.75}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the policy does acknowledge the impacts of climate change and outlines measures for adaptation and mitigation, it does not specifically mention any intent to advocate for climate action to higher levels of government. The policy does mention the need to partner with lead agencies to address emergencies related to climate change, such as floods, fires, and storms, but this is more of a reactive measure rather than a proactive advocacy for climate action. The policy also mentions the council's responsibilities and actions across four themes, including climate change adaptation and mitigation, but again, there is no explicit mention of advocacy to state and national governments."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": true, "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to engage with stakeholders and partner with organisations to achieve environmental benefits. It also highlights the council's role in supporting community groups to undertake environmental projects with financial support from the Community Grants program. Furthermore, the policy acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to environmental challenges. The council also chooses to manage waste and resource recovery services that deliver better waste and environmental outcomes to the community. These actions indicate a commitment to building local capacity for climate action.", "quote": {"content": "\u2022 Collaborate with partners to implement actions.", "page": 16, "source": "Campaspe-VIC-128.pdf", "search_score": 1.0}}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": false, "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of climate change adaptation and mitigation, and mention the council's engagement with stakeholders and identification of opportunities for partnerships to achieve environmental benefits, they do not provide specific details about who these stakeholders or partners might be. The documents also mention the development of a Climate Change Adaptation Strategy by the Department of Environment, Land, Water and Planning (DELWP) for the Loddon Mallee region, but again, no specific partnerships or alliances are mentioned in this context."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents acknowledge the impacts of climate change on the community, business, industry, and the environment, and mention the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure, and severe storms and floods, they do not specifically address the effects on vulnerable communities. The documents also outline the local government's policy position, adaptation and mitigation strategies, and planned actions in response to climate change, but these do not explicitly refer to equity and social justice issues related to vulnerable communities."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the local government's environmental strategies, including conservation, climate change adaptation and mitigation, community engagement and partnerships, and council responsibilities, there is no specific mention of how these strategies will ensure equitable distribution of benefits and opportunities. The documents focus more on the actions and measures to be taken to address environmental issues and climate change, such as increasing community participation in environmental programs, reducing electricity consumption in council-owned buildings, and partnering with organisations for environmental benefits. However, the aspect of equity and social justice in the context of a safe climate is not addressed."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 8, "num_questions": 20, "attribute_score": 45.8}}
+{
+  "settings": {
+    "source_files": [
+      "Campaspe-VIC-128.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T15:54:05.523649",
+    "lga": "Campaspe"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": false,
+          "answer": "The policy does not explicitly state that climate action is the core purpose or goal. The policy is an 'Environment Strategy' and it covers a broad range of environmental issues, not just climate change. The policy is divided into four themes: Conservation, Climate Change Adaptation and Mitigation, Community Engagement and Partnerships, and Council\u2019s Responsibilities. While 'Climate Change Adaptation and Mitigation' is one of the themes, it is not the sole focus of the policy. The policy also includes actions related to conservation, community engagement, and the council's responsibilities. Therefore, it can be concluded that climate action is a part of the policy's goals, but it is not the core purpose or goal of the policy."
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The document does explicitly explain the need for action on climate change. It acknowledges the impacts of climate change and outlines the council's policy position on the matter. The document also provides definitions for key terms related to climate change, such as 'adaptation' and 'mitigation', which are actions taken to prepare for and reduce the adverse effects of climate change respectively. Furthermore, the document outlines the Victorian Government's targets for greenhouse gas emissions and renewable energy, indicating a clear need for action. The document also mentions the Climate Change Act 2017, which provides the council with the option of making pledges to reduce greenhouse gas emissions. This suggests that the council is not only aware of the need for action on climate change, but is also taking steps to address it.",
+          "quote": {
+            "content": "A council pledge includes a description of the actions to be undertaken by Council over the next five years to contribute to the reduction of greenhouse gas emissions and an estimate of the greenhouse gas emissions reductions.",
+            "page": 18,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. They acknowledge the impacts of climate change on the community, business, industry, and the environment, and they outline the council's commitment to climate change adaptation and mitigation. The documents also mention the Victorian Government's targets for greenhouse gas emissions and renewable energy, as well as the Australian Government's commitment to the Paris Agreement. However, these references do not constitute an explicit call for rapid and urgent action. They are more indicative of a recognition of the issue and a commitment to ongoing efforts to address it. The documents also mention community concern about climate change and a desire for action, but again, this does not translate into an explicit call for urgent action on the part of the local government."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": false,
+          "answer": "The documents provided do not give specific timeframes for the local government's intended actions on climate change. While the documents acknowledge the importance of climate change adaptation and mitigation, and the council's commitment to contribute to the reduction of greenhouse gas emissions, they do not provide a detailed timeline or deadlines for these actions. The documents mention the Victorian Government's targets of net zero greenhouse gas emissions by 2050 and 25% of electricity from renewables by 2020, and 40% by 2025, but these are not the council's own targets or actions. The documents also mention the council's option of pledges to reduce greenhouse gas emissions over the next five years, but no specific pledge or timeframe is given. Therefore, the documents do not provide clear evidence of specific timeframes for the council's intended actions on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. While the documents acknowledge the impacts of climate change on the community, business, industry, and the environment, and the council's recognition of the need for a healthier environment for current and future generations, they do not specifically prioritize climate emergency response over other policies. The documents also mention the council's commitment to reducing greenhouse gas emissions and the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure or decline in agriculture, and severe storms and floods. However, these acknowledgements and commitments do not equate to a clear prioritization of climate emergency response over other policies."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with climate policy. While the documents do outline the council's commitment to environmental sustainability and climate change adaptation and mitigation, they do not specifically mandate that all council activities must align with these policies. The documents do mention the integration of environmental sustainability across all areas of council, in decision making and project management, but this does not necessarily equate to a requirement for all activities to align with climate policy. Furthermore, the documents highlight the council's discretionary power to support certain environmental initiatives, suggesting that not all activities are bound by climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that the local government's plan allocates funding for climate action. While the documents mention various strategies and actions related to climate change adaptation and mitigation, such as supporting community groups for environmental projects, collaborating with partners, and investigating the use of tools like Environmental Upgrade Finance, there is no clear mention of a specific budget or funding allocation for these actions. The documents also mention the Community Grants program, but it is not explicitly stated that this program is for climate action. Therefore, based on the provided documents, it cannot be confirmed that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly allocate staff or other non-monetary institutional resources to climate action. While the policy does acknowledge the impacts of climate change and outlines measures for adaptation and mitigation, it does not specify the allocation of staff or other resources for these actions. The policy mentions the need for ongoing training for council staff on awareness and best management practice for native vegetation and weed management, but this is not directly linked to climate action. The policy also mentions collaboration with partners to implement actions and support for community groups with financial support from the Community Grants program, but again, these are not explicitly tied to climate action. Therefore, based on the provided documents, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The document does indicate that the local government is taking steps to empower and educate the community to work together on climate action. The policy outlines a number of initiatives aimed at engaging the community in environmental projects, such as the National Tree Day program and the Community Grants program. The policy also mentions the development of a new waste and environment behaviour change program for 2019 and beyond, which suggests an effort to educate the community about sustainable practices. Furthermore, the policy includes a commitment to 'lead by example' in responding and adapting to climate change, and to support the community, business, and industry in doing the same. This suggests an effort to rally the community around the cause of climate action.",
+          "quote": {
+            "content": "\u2022 Support community, business and industry to \nrespond to the impacts of a changing climate.",
+            "page": 19,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 0.92
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's Environment Strategy 2018-2022 does include specific actions for the mitigation of greenhouse gas emissions. The policy outlines a commitment to technological solutions and behaviour change. Technological solutions include the implementation of the Watts Working Better Street Lighting Project, the introduction of a garden organics service, increasing recycling to reduce waste to landfill, and the installation of solar power at the Echuca Library. The policy also mentions the development and implementation of a Corporate Emissions Reduction Plan, which focuses on energy efficiency within the organisation. Behaviour change is encouraged through the support of community-based energy efficiency and/or renewable energy projects. The council also plans to investigate a council-led solar bulk buy program to assist households to invest in solar affordably and with confidence.",
+          "quote": {
+            "content": "Investigate a council led solar bulk buy program to assist households to invest in solar with confidence (knowledge) and affordably. Develop and implement a Corporate Emissions Reduction Plan: Focus on delivery of energy efficiency within the organisation, reducing use, cost and negative impacts on the environment. Achieve a reduction of greenhouse gas emissions beyond the minimum set in the Council Plan. Support community based energy efficiency and/or renewable energy projects.",
+            "page": 19,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The local government's Environment Strategy 2018-2022 does include specific actions for climate adaptation and resilience. The policy acknowledges the impacts of climate change on the community, business, industry, and the environment, and recognizes the need for action to reduce these impacts. The policy outlines long-term aims to support the community, business, and industry to respond to the impacts of a changing climate, work towards net-zero greenhouse gas emissions, and adapt to the effects of climate change. The policy also includes performance indicators such as a decrease in electricity consumption for all council owned and operated buildings and facilities, and a reduction in the tonnes of CO2 emissions for electricity and gas used in all council owned and operated buildings and facilities. These actions and indicators suggest a clear commitment to climate adaptation and resilience.",
+          "quote": {
+            "content": "\u2022 Reduction in the tonnes of CO2 emissions for \nelectricity and gas used in all council owned and \noperated buildings and facilities, to less than \n2015-16 actual of 2 Long-term aims\n\u2022 Support community, business and industry to \nrespond to the impacts of a changing climate. \u2022 Work towards net-zero greenhouse gas \nemissions. \u2022 Adapt to the effects of climate change. Performance indicators\n\u2022 Electricity consumption for all council owned and \noperated buildings and facilities is decreased by \n5% of the 2015-16 total electricity consumption \nof 2,304,664 kWh.",
+            "page": 19,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": true,
+          "answer": "The document does provide well-sourced evidence to justify its climate targets and actions. It outlines the council's policy position on climate change, acknowledging the impacts of climate change and the need for mitigation measures. The policy rationale includes Victorian Government targets for net zero greenhouse gas emissions by 2050 and a significant increase in electricity from renewables by 2020 and 2025. The document also mentions the Climate Change Act 2017, which provides the council with the option of making pledges to reduce greenhouse gas emissions. Furthermore, the council has set performance indicators for its climate change adaptation and mitigation efforts, such as monitoring electricity consumption for all council-owned and operated buildings and facilities. The document also references several other state and federal documents relevant to environmental management, indicating that the council's climate targets and actions are informed by broader legislative and policy contexts.",
+          "quote": {
+            "content": "Victorian Government targets:\n \u2013 Net zero greenhouse gas emissions by 2050\n \u2013 25% of electricity from renewables by 2020 \nand 40% by 2025\n\u2022 The Climate Change Act 2017, provides council \nthe option of pledges, to make a statement in \nrespect of greenhouse gas emissions reductions.",
+            "page": 18,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 0.98
+          }
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a strategy that will be evaluated by the delivery of actions in the annual action plan and the measurement of performance indicators. These performance indicators are clearly defined and include criteria such as the council not committing any breaches of environmental legislation, the delivery of community engagement actions listed in various plans, and the electricity consumption for all council-owned and operated buildings and facilities. These indicators provide a clear and measurable way to assess the success of the plan's actions. Furthermore, the plan also includes a commitment to develop new plans and programs, such as a new Domestic Wastewater Management Plan and a new waste and environment behaviour change program, which will also have their own measurable outcomes.",
+          "quote": {
+            "content": "Measurement of performance indicators. Delivery of actions in the annual action plan. 2.",
+            "page": 25,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly describe plans to conduct research in the local community to inform climate actions. While the local government acknowledges the impacts of climate change on the community, business, industry, and the environment, and recognizes the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure or decline in agriculture, and severe storms and floods, there is no mention of conducting research in the local community to inform climate actions. The documents do mention plans for community engagement, collaboration with partners, and the implementation of various strategies and plans, but these do not specifically involve conducting research in the local community."
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The document does provide evidence of policy experimentation in climate action. It outlines several initiatives that can be considered as experiments to test technologies, policies, and governance approaches on a small scale and under real-world conditions. For instance, the document mentions the investigation of tools such as Environmental Upgrade Finance to encourage businesses and the community to undertake energy and/or water efficiency projects and/or renewable energy projects. It also mentions the review of climate change risks to local government through planning, project management, and asset management. Furthermore, the document discusses the potential for a council-led solar bulk buy program to assist households in investing in solar energy affordably and with confidence. These initiatives can be seen as experiments or pilots aimed at testing different approaches to climate action.",
+          "quote": {
+            "content": "\u2022 Investigate a council led solar bulk buy program \nto assist households to invest in solar with \nconfidence (knowledge) and affordably. \u2022 Investigate the use of tools such as \nEnvironmental Upgrade Finance, delivered by \nEconomic Development to encourage businesses \nand the community to undertake energy and/\nor water efficiency projects and/or renewable \nenergy projects. \u2022 Review that climate change risks to local \ngovernment are being addressed through \nplanning, project management and asset \nmanagement.",
+            "page": 19,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 3,
+        "num_questions": 4,
+        "score": 0.75
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly show an intent to advocate upward to state and national governments to support climate action. While the policy does acknowledge the impacts of climate change and outlines measures for adaptation and mitigation, it does not specifically mention any intent to advocate for climate action to higher levels of government. The policy does mention the need to partner with lead agencies to address emergencies related to climate change, such as floods, fires, and storms, but this is more of a reactive measure rather than a proactive advocacy for climate action. The policy also mentions the council's responsibilities and actions across four themes, including climate change adaptation and mitigation, but again, there is no explicit mention of advocacy to state and national governments."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": true,
+          "answer": "The document does encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. The policy outlines the council's commitment to engage with stakeholders and partner with organisations to achieve environmental benefits. It also highlights the council's role in supporting community groups to undertake environmental projects with financial support from the Community Grants program. Furthermore, the policy acknowledges the importance of partnering with other agencies, government departments, businesses, industry bodies, and the community to deliver projects and solutions to environmental challenges. The council also chooses to manage waste and resource recovery services that deliver better waste and environmental outcomes to the community. These actions indicate a commitment to building local capacity for climate action.",
+          "quote": {
+            "content": "\u2022 Collaborate with partners to implement actions.",
+            "page": 16,
+            "source": "Campaspe-VIC-128.pdf",
+            "search_score": 1.0
+          }
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly mention any specific regional associations, alliances, or other partnerships related to climate change. While the documents do discuss the importance of climate change adaptation and mitigation, and mention the council's engagement with stakeholders and identification of opportunities for partnerships to achieve environmental benefits, they do not provide specific details about who these stakeholders or partners might be. The documents also mention the development of a Climate Change Adaptation Strategy by the Department of Environment, Land, Water and Planning (DELWP) for the Loddon Mallee region, but again, no specific partnerships or alliances are mentioned in this context."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. While the documents acknowledge the impacts of climate change on the community, business, industry, and the environment, and mention the community's concern about future impacts of emergencies such as severe bushfires, water shortage and drought, crop failure, and severe storms and floods, they do not specifically address the effects on vulnerable communities. The documents also outline the local government's policy position, adaptation and mitigation strategies, and planned actions in response to climate change, but these do not explicitly refer to equity and social justice issues related to vulnerable communities."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. While the documents do outline the local government's environmental strategies, including conservation, climate change adaptation and mitigation, community engagement and partnerships, and council responsibilities, there is no specific mention of how these strategies will ensure equitable distribution of benefits and opportunities. The documents focus more on the actions and measures to be taken to address environmental issues and climate change, such as increasing community participation in environmental programs, reducing electricity consumption in council-owned buildings, and partnering with organisations for environmental benefits. However, the aspect of equity and social justice in the context of a safe climate is not addressed."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 8,
+    "num_questions": 20,
+    "attribute_score": 45.8
+  }
+}

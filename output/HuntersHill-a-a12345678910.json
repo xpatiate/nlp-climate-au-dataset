@@ -1,1 +1,280 @@
-{"settings": {"source_files": ["HuntersHill-NSW-48.pdf"], "llm_model": "gpt-4-0613", "temperature": 0.0, "top_p": null, "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e", "rundate": "2024-06-29T18:45:06.578379", "lga": "HuntersHill"}, "attributes": [{"name": "Purpose of action", "number": 1, "questions": [{"qnum": 1, "text": "Is climate action the core purpose or goal of the policy?", "positive": true, "answer": "The policy under review, Hunter's Hill Council's Sustainability Action Plan 2020, clearly identifies climate action as its core purpose. The policy acknowledges the role of every community in reducing the impact of climate change and commits to adapting existing policies and practices for more efficient use of resources. The policy outlines a range of actions and associated timeframes to lower Greenhouse Gas Emissions. It also sets a core target of achieving 100% renewable energy by 2030. The policy is designed to be a living document, reviewed and adjusted annually to take into account new ideas, technologies, and opportunities for development and delivery to the community. The policy also includes a commitment to review progress against the Action Plan and towards the Renewable Energy Target annually.", "quote": {"content": "Hunter\u2019s Hill Council\u2019s Sustainability Action Plan, 2020 has been prepared as a twelve month framework for council operations and the community, to lower the Greenhouse Gas Emissions. Hunter\u2019s Hill Council acknowledges that every community has a role to play in reducing the impact of climate change on our and we commit to working towards adapting our existing policies and practices to address more efficient use of resources.", "page": 3, "source": "HuntersHill-NSW-48.pdf", "search_score": 0.99}}, {"qnum": 2, "text": "Does the document explicitly explain the need for action on climate change?", "positive": true, "answer": "The documents clearly articulate the need for action on climate change. The Hunter's Hill Council acknowledges the role of every community in reducing the impact of climate change and commits to adapting its existing policies and practices for more efficient use of resources. The Council has prepared a Sustainability Action Plan 2020 as a framework for council operations and the community to lower Greenhouse Gas Emissions. The plan includes actions such as updating the Hunter's Hill Climate Change Risk Assessment, developing policies for community and verge gardens, and working with the community to maintain and enhance green infrastructure. The Council has also committed to a Renewable Energy Target (RET) of 100% by 30 June 2030 across the organisation. The documents also mention the need for regular review and adjustment of the plan to take into account new ideas, technologies, and opportunities for development and delivery to the community.", "quote": {"content": "Hunter\u2019s Hill Council acknowledges that every community has a role to play in reducing the impact of climate change on our and we commit to working towards adapting our existing policies and practices to address more efficient use of resources.", "page": 3, "source": "HuntersHill-NSW-48.pdf", "search_score": 0.99}}], "score": {"num_positives": 2, "num_questions": 2, "score": 1.0}}, {"name": "Urgency of action", "number": 2, "questions": [{"qnum": 3, "text": "Does the document explicitly call for rapid and urgent action on climate change?", "positive": false, "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the local government's Sustainability Action Plan 2020 outlines a commitment to reducing greenhouse gas emissions and adapting existing policies for more efficient use of resources, it does not express a sense of urgency or immediacy in its approach. The plan includes actions such as updating the Climate Change Risk Assessment, developing policies for community gardens, and working with the community to enhance green infrastructure. However, these actions are not framed as urgent or immediate responses to climate change. The documents also mention the council's declaration of a climate emergency in February 2020 and its commitment to the Paris Climate Agreement, but these references do not convey a sense of urgency in the council's own policy actions."}, {"qnum": 4, "text": "Does the document give specific timeframes for its intended actions on climate?", "positive": true, "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Hunter's Hill Council's Sustainability Action Plan 2020 outlines a number of proposed actions, each with a corresponding delivery timeframe. For instance, the document mentions the hosting of the 2021 Youth Summit, which was completed in March 2021. Another action, promoting the Sustainability Action Plan, was scheduled for completion in June 2021. The document also mentions that the Action Plan will be reviewed annually in September to ensure it continues to reflect progress towards the Council's Core Emissions Reductions Targets and Goals. This indicates a clear commitment to ongoing, time-bound action on climate change."}], "score": {"num_positives": 1, "num_questions": 2, "score": 0.5}}, {"name": "Prioritisation of action", "number": 3, "questions": [{"qnum": 5, "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?", "positive": false, "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government has indeed acknowledged the importance of addressing climate change, as evidenced by their Sustainability Action Plan 2020 and their declaration of a climate emergency in February 2020. They have also outlined various actions and strategies to reduce greenhouse gas emissions and promote sustainability. However, these actions are presented as part of their overall policy framework, and there is no explicit statement indicating that these climate-related actions should take precedence over other policies. It is also worth noting that the documents highlight the importance of community engagement and feedback, suggesting that the local government is taking a balanced approach to policy prioritization, considering a range of factors and community needs."}, {"qnum": 6, "text": "Does the document explicitly state that all council activities must be aligned with climate policy?", "positive": false, "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a Sustainability Action Plan, which includes a commitment to a Renewable Energy Target (RET) of 100% by 30 June 2030, and a range of actions and associated time frames to deliver on the objectives identified in this strategy, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do mention that the plan will be reviewed annually and that progress will be reported to the General Manager on a quarterly basis, but this does not equate to a requirement for all council activities to align with the climate policy."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Institutional resource mobilisation", "number": 4, "questions": [{"qnum": 7, "text": "Does the plan explicitly allocate funding for climate action?", "positive": false, "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the documents do mention a 'Sustainability Action Plan' and various proposed actions related to climate change, there is no clear mention of specific budget allocations for these actions. The documents do mention 'budget allocations and available grants for this financial year and beyond' as a consideration in their review of sustainability, but they do not provide specific details about these allocations or how they relate to climate action. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."}, {"qnum": 8, "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?", "positive": false, "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. While the documents outline various actions and goals related to climate change, such as emissions reduction, renewable energy targets, and community engagement, they do not specify the allocation of institutional resources such as staff time or expertise to these actions. The documents mention budget allocations and the consideration of financial impacts, but these references are not specific to non-monetary resources. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}, {"name": "Social mobilisation", "number": 5, "questions": [{"qnum": 9, "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?", "positive": true, "answer": "The documents indicate that the local government is taking steps to engage and educate the community in climate action. The Sustainability Action Plan 2020 outlines several actions aimed at community engagement and education. For instance, the plan includes actions such as promoting the Sustainability Action Plan to the community and hosting a Youth Summit for secondary students to pitch sustainability projects. These actions suggest an effort to empower and educate the community, encouraging them to rally, support, and work together to deliver climate action. Furthermore, the plan is reviewed annually, and progress is reported to the community, indicating an ongoing commitment to transparency and community involvement in climate action.", "quote": {"content": "6.", "page": 8, "source": "HuntersHill-NSW-48.pdf", "search_score": 1.0}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Restoring a safe climate", "number": 6, "questions": [{"qnum": 10, "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?", "positive": true, "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to a Renewable Energy Target (RET) of 100% by 30 June 2030 across the organisation, which is a clear technological solution to reduce emissions. The plan also includes actions such as improving energy efficiency, switching to renewable energy, supporting low emissions transport, and driving the circular economy and waste minimisation. These actions indicate a comprehensive approach to mitigation, involving both technological solutions and behaviour change. The plan also includes community engagement, which suggests an intention to promote behaviour change within the community. The plan is designed to be a living document, reviewed and adjusted annually, which suggests a commitment to ongoing improvement and adaptation in response to changing circumstances and opportunities.", "quote": {"content": "A pathway towards the first year of adoption of this target this is outlined in the Action Plan for 2020 and focusses on 6 core goals", "page": 8, "source": "HuntersHill-NSW-48.pdf", "search_score": 0.98}}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Adapting to a changing climate", "number": 7, "questions": [{"qnum": 11, "text": "Does the plan include specific actions for climate adaptation and resilience?", "positive": true, "answer": "The Hunter's Hill Council's Sustainability Action Plan 2020 does include specific actions for climate adaptation and resilience. The plan outlines a commitment to adapting existing policies and practices for more efficient use of resources, which is a key aspect of climate adaptation. The plan also includes specific actions such as updating the Hunter's Hill Climate Change Risk Assessment, developing policies for community and verge gardens, and working with the community to maintain and enhance green infrastructure to cool the local environment and reduce the urban heat island effect. These actions are aimed at enhancing the community's resilience to climate change. The plan also includes a commitment to review the action plan annually, which allows for adjustments based on new ideas, technologies, and opportunities for development, further supporting climate adaptation and resilience."}], "score": {"num_positives": 1, "num_questions": 1, "score": 1.0}}, {"name": "Planning for informed action", "number": 8, "questions": [{"qnum": 12, "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?", "positive": false, "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention a range of actions and associated time frames to deliver on the objectives identified in the strategy, they do not provide specific evidence or sources to justify these actions or targets. The documents mention the emissions profile of the organisation and the community, the financial impacts of business as usual operations, and budget allocations and available grants for this financial year and beyond. However, these are general considerations and do not provide specific evidence to justify the climate targets and actions. The documents also mention the state, federal and global responses to climate change, but again, these are general considerations and do not provide specific evidence to justify the climate targets and actions. Therefore, the documents do not meet the high standard of evidence and specific detail required to give a positive answer to the question."}, {"qnum": 13, "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?", "positive": true, "answer": "The Hunter's Hill Council's Sustainability Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to monitoring and evaluation, with progress against the Action Plan, Emissions Reduction measures, and progress towards the Renewable Energy Target being key indicators. The plan is designed to be a living document, reviewed and adjusted annually to take into account new ideas, technologies, and opportunities. Furthermore, items listed in the plans will be monitored and reported on to the General Manager on a quarterly basis. This approach ensures that the plan's effectiveness can be measured and adjusted as necessary, providing a clear framework for evaluating the success of its proposed actions."}, {"qnum": 14, "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?", "positive": true, "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Hunter's Hill Council's Sustainability Action Plan 2020 outlines a range of actions and associated time frames to deliver on the objectives identified in the strategy. The plan is designed to be a living document that is reviewed and adjusted annually to take into account new ideas, technologies, and opportunities for development and delivery to the community. The actions listed in the plan will be monitored and reported on a quarterly basis to the General Manager. This indicates a commitment to ongoing research and evaluation to inform their climate actions. Furthermore, the plan includes specific actions such as evaluating opportunities for EV vehicles and charging stations, conducting a trial into Food Organics with commercial businesses, and exploring opportunities for a Community Swap and Share Space. These actions suggest that the council is planning to conduct research in the local community to inform their climate actions.", "quote": {"content": "The plan is designed to be a living document that is reviewed and adjusted annually to take into account new ideas, technologies and opportunities for development and delivery to our community.", "page": 14, "source": "HuntersHill-NSW-48.pdf", "search_score": 0.99}}, {"qnum": 15, "text": "Does the document show evidence of innovation and policy experimentation in climate action?", "positive": false, "answer": "The documents provided do not provide clear evidence of innovation and policy experimentation in climate action. The local government's Sustainability Action Plan outlines a series of actions and measures to reduce greenhouse gas emissions and promote sustainability. These include improving energy efficiency, switching to renewable energy, supporting low emissions transport, driving the circular economy and waste minimisation, growing adaptation and resilience, and engaging the community. However, these actions are largely standard responses to climate change and do not demonstrate a high degree of innovation or experimentation. The documents also mention the use of measurement and evaluation processes to track progress, but again, this is a common feature of such policies and does not indicate a novel approach. Therefore, based on the provided documents, it cannot be affirmed that the local government is engaging in innovative or experimental policy approaches to climate action."}], "score": {"num_positives": 2, "num_questions": 4, "score": 0.5}}, {"name": "Coordination, partnerships and advocacy for action", "number": 9, "questions": [{"qnum": 16, "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?", "positive": false, "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own sustainability action plan, including their emissions profile, community expectations, financial impacts, budget allocations, and responses to the climate emergency. They outline various proposed actions, such as improving energy efficiency, switching to renewable energy, supporting low emissions transport, and engaging the community. However, there is no explicit mention of advocating to higher levels of government for climate action. The documents do acknowledge state, federal, and global responses to climate change, but this is more in the context of situating their own actions within a broader context, rather than a commitment to advocate for further action at these levels."}, {"qnum": 17, "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?", "positive": false, "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline a number of actions and initiatives related to climate change, such as joining Cities Power Partnerships, evaluating a transition to GreenPower for utilities, and Solar for Council-owned buildings, these actions do not specifically address the building of local capacity across various stakeholders. The documents also mention community engagement and feedback, but this is not the same as building capacity. Building capacity would involve actions aimed at improving the abilities, skills, and knowledge of these groups to enable them to effectively address climate change. Without explicit mention of such actions, it cannot be concluded that the policy encourages building local capacity for climate action."}, {"qnum": 18, "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?", "positive": true, "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Hunter's Hill Council is a member and supporter of the Resilient Sydney initiative, which is a strategy for city resilience developed in 2018. This indicates that the council is actively participating in regional alliances to address climate change. Furthermore, the council is a pilot partner of the UNSW and NSW Circular program, which suggests a partnership with academic institutions for sustainable solutions. The council is also part of the Northern Sydney Regional Waste Strategy 2017 - 2021, indicating a regional collaboration to manage waste, a significant aspect of climate change mitigation. These partnerships and alliances demonstrate the council's commitment to collaborative climate action."}], "score": {"num_positives": 1, "num_questions": 3, "score": 0.33}}, {"name": "Equity and social justice", "number": 10, "questions": [{"qnum": 19, "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?", "positive": false, "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's sustainability action plan, including emissions reduction, renewable energy commitments, and community engagement. They outline various proposed actions, such as updating the climate change risk assessment, promoting water conservation, and transitioning to low emissions transport. However, there is no specific mention or discussion of how climate change impacts vulnerable communities or any measures to address these impacts in terms of equity and social justice."}, {"qnum": 20, "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?", "positive": false, "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on the actions and strategies that the Hunter's Hill Council is taking to address climate change, such as reducing greenhouse gas emissions, transitioning to renewable energy, and promoting sustainability. These actions are aimed at the community as a whole and there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. Therefore, without explicit evidence in the documents, it cannot be affirmed that the policy discusses equity and social justice in the context of climate change benefits and opportunities."}], "score": {"num_positives": 0, "num_questions": 2, "score": 0}}], "results": {"num_positives": 9, "num_questions": 20, "attribute_score": 53.3}}
+{
+  "settings": {
+    "source_files": [
+      "HuntersHill-NSW-48.pdf"
+    ],
+    "llm_model": "gpt-4-0613",
+    "temperature": 0.0,
+    "top_p": null,
+    "pallm_version": "2e7a8dd6d7725a56bc9681e9291ef2d0dc7b0a7e",
+    "rundate": "2024-06-29T18:45:06.578379",
+    "lga": "HuntersHill"
+  },
+  "attributes": [
+    {
+      "name": "Purpose of action",
+      "number": 1,
+      "questions": [
+        {
+          "qnum": 1,
+          "text": "Is climate action the core purpose or goal of the policy?",
+          "positive": true,
+          "answer": "The policy under review, Hunter's Hill Council's Sustainability Action Plan 2020, clearly identifies climate action as its core purpose. The policy acknowledges the role of every community in reducing the impact of climate change and commits to adapting existing policies and practices for more efficient use of resources. The policy outlines a range of actions and associated timeframes to lower Greenhouse Gas Emissions. It also sets a core target of achieving 100% renewable energy by 2030. The policy is designed to be a living document, reviewed and adjusted annually to take into account new ideas, technologies, and opportunities for development and delivery to the community. The policy also includes a commitment to review progress against the Action Plan and towards the Renewable Energy Target annually.",
+          "quote": {
+            "content": "Hunter\u2019s Hill Council\u2019s Sustainability Action Plan, 2020 has been prepared as a twelve month framework for council operations and the community, to lower the Greenhouse Gas Emissions. Hunter\u2019s Hill Council acknowledges that every community has a role to play in reducing the impact of climate change on our and we commit to working towards adapting our existing policies and practices to address more efficient use of resources.",
+            "page": 3,
+            "source": "HuntersHill-NSW-48.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 2,
+          "text": "Does the document explicitly explain the need for action on climate change?",
+          "positive": true,
+          "answer": "The documents clearly articulate the need for action on climate change. The Hunter's Hill Council acknowledges the role of every community in reducing the impact of climate change and commits to adapting its existing policies and practices for more efficient use of resources. The Council has prepared a Sustainability Action Plan 2020 as a framework for council operations and the community to lower Greenhouse Gas Emissions. The plan includes actions such as updating the Hunter's Hill Climate Change Risk Assessment, developing policies for community and verge gardens, and working with the community to maintain and enhance green infrastructure. The Council has also committed to a Renewable Energy Target (RET) of 100% by 30 June 2030 across the organisation. The documents also mention the need for regular review and adjustment of the plan to take into account new ideas, technologies, and opportunities for development and delivery to the community.",
+          "quote": {
+            "content": "Hunter\u2019s Hill Council acknowledges that every community has a role to play in reducing the impact of climate change on our and we commit to working towards adapting our existing policies and practices to address more efficient use of resources.",
+            "page": 3,
+            "source": "HuntersHill-NSW-48.pdf",
+            "search_score": 0.99
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 2,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Urgency of action",
+      "number": 2,
+      "questions": [
+        {
+          "qnum": 3,
+          "text": "Does the document explicitly call for rapid and urgent action on climate change?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly call for rapid and urgent action on climate change. While the local government's Sustainability Action Plan 2020 outlines a commitment to reducing greenhouse gas emissions and adapting existing policies for more efficient use of resources, it does not express a sense of urgency or immediacy in its approach. The plan includes actions such as updating the Climate Change Risk Assessment, developing policies for community gardens, and working with the community to enhance green infrastructure. However, these actions are not framed as urgent or immediate responses to climate change. The documents also mention the council's declaration of a climate emergency in February 2020 and its commitment to the Paris Climate Agreement, but these references do not convey a sense of urgency in the council's own policy actions."
+        },
+        {
+          "qnum": 4,
+          "text": "Does the document give specific timeframes for its intended actions on climate?",
+          "positive": true,
+          "answer": "The document does indeed provide specific timeframes for its intended actions on climate. The Hunter's Hill Council's Sustainability Action Plan 2020 outlines a number of proposed actions, each with a corresponding delivery timeframe. For instance, the document mentions the hosting of the 2021 Youth Summit, which was completed in March 2021. Another action, promoting the Sustainability Action Plan, was scheduled for completion in June 2021. The document also mentions that the Action Plan will be reviewed annually in September to ensure it continues to reflect progress towards the Council's Core Emissions Reductions Targets and Goals. This indicates a clear commitment to ongoing, time-bound action on climate change."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 2,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Prioritisation of action",
+      "number": 3,
+      "questions": [
+        {
+          "qnum": 5,
+          "text": "Does the document explicitly state that a climate emergency response must have higher priority than other policies?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly state that a climate emergency response must have higher priority than other policies. The local government has indeed acknowledged the importance of addressing climate change, as evidenced by their Sustainability Action Plan 2020 and their declaration of a climate emergency in February 2020. They have also outlined various actions and strategies to reduce greenhouse gas emissions and promote sustainability. However, these actions are presented as part of their overall policy framework, and there is no explicit statement indicating that these climate-related actions should take precedence over other policies. It is also worth noting that the documents highlight the importance of community engagement and feedback, suggesting that the local government is taking a balanced approach to policy prioritization, considering a range of factors and community needs."
+        },
+        {
+          "qnum": 6,
+          "text": "Does the document explicitly state that all council activities must be aligned with climate policy?",
+          "positive": false,
+          "answer": "The documents do not explicitly state that all council activities must be aligned with the climate policy. While the documents do outline a Sustainability Action Plan, which includes a commitment to a Renewable Energy Target (RET) of 100% by 30 June 2030, and a range of actions and associated time frames to deliver on the objectives identified in this strategy, there is no explicit requirement stated that all council activities must align with this climate policy. The documents do mention that the plan will be reviewed annually and that progress will be reported to the General Manager on a quarterly basis, but this does not equate to a requirement for all council activities to align with the climate policy."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Institutional resource mobilisation",
+      "number": 4,
+      "questions": [
+        {
+          "qnum": 7,
+          "text": "Does the plan explicitly allocate funding for climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly state that funding has been allocated for climate action. While the documents do mention a 'Sustainability Action Plan' and various proposed actions related to climate change, there is no clear mention of specific budget allocations for these actions. The documents do mention 'budget allocations and available grants for this financial year and beyond' as a consideration in their review of sustainability, but they do not provide specific details about these allocations or how they relate to climate action. Therefore, based on the provided documents, it cannot be definitively stated that the plan explicitly allocates funding for climate action."
+        },
+        {
+          "qnum": 8,
+          "text": "Does the plan explicitly allocate staff or other non-monetary institutional resources to climate action?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly mention the allocation of staff or other non-monetary institutional resources to climate action. While the documents outline various actions and goals related to climate change, such as emissions reduction, renewable energy targets, and community engagement, they do not specify the allocation of institutional resources such as staff time or expertise to these actions. The documents mention budget allocations and the consideration of financial impacts, but these references are not specific to non-monetary resources. Therefore, based on the provided context, it cannot be affirmed that the plan explicitly allocates staff or other non-monetary institutional resources to climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    },
+    {
+      "name": "Social mobilisation",
+      "number": 5,
+      "questions": [
+        {
+          "qnum": 9,
+          "text": "Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?",
+          "positive": true,
+          "answer": "The documents indicate that the local government is taking steps to engage and educate the community in climate action. The Sustainability Action Plan 2020 outlines several actions aimed at community engagement and education. For instance, the plan includes actions such as promoting the Sustainability Action Plan to the community and hosting a Youth Summit for secondary students to pitch sustainability projects. These actions suggest an effort to empower and educate the community, encouraging them to rally, support, and work together to deliver climate action. Furthermore, the plan is reviewed annually, and progress is reported to the community, indicating an ongoing commitment to transparency and community involvement in climate action.",
+          "quote": {
+            "content": "6.",
+            "page": 8,
+            "source": "HuntersHill-NSW-48.pdf",
+            "search_score": 1.0
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Restoring a safe climate",
+      "number": 6,
+      "questions": [
+        {
+          "qnum": 10,
+          "text": "Does the plan include specific actions for mitigation of greenhouse gas emissions, including technological solutions and behaviour change?",
+          "positive": true,
+          "answer": "The local government's plan does indeed include specific actions for the mitigation of greenhouse gas emissions. The plan outlines a commitment to a Renewable Energy Target (RET) of 100% by 30 June 2030 across the organisation, which is a clear technological solution to reduce emissions. The plan also includes actions such as improving energy efficiency, switching to renewable energy, supporting low emissions transport, and driving the circular economy and waste minimisation. These actions indicate a comprehensive approach to mitigation, involving both technological solutions and behaviour change. The plan also includes community engagement, which suggests an intention to promote behaviour change within the community. The plan is designed to be a living document, reviewed and adjusted annually, which suggests a commitment to ongoing improvement and adaptation in response to changing circumstances and opportunities.",
+          "quote": {
+            "content": "A pathway towards the first year of adoption of this target this is outlined in the Action Plan for 2020 and focusses on 6 core goals",
+            "page": 8,
+            "source": "HuntersHill-NSW-48.pdf",
+            "search_score": 0.98
+          }
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Adapting to a changing climate",
+      "number": 7,
+      "questions": [
+        {
+          "qnum": 11,
+          "text": "Does the plan include specific actions for climate adaptation and resilience?",
+          "positive": true,
+          "answer": "The Hunter's Hill Council's Sustainability Action Plan 2020 does include specific actions for climate adaptation and resilience. The plan outlines a commitment to adapting existing policies and practices for more efficient use of resources, which is a key aspect of climate adaptation. The plan also includes specific actions such as updating the Hunter's Hill Climate Change Risk Assessment, developing policies for community and verge gardens, and working with the community to maintain and enhance green infrastructure to cool the local environment and reduce the urban heat island effect. These actions are aimed at enhancing the community's resilience to climate change. The plan also includes a commitment to review the action plan annually, which allows for adjustments based on new ideas, technologies, and opportunities for development, further supporting climate adaptation and resilience."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 1,
+        "score": 1.0
+      }
+    },
+    {
+      "name": "Planning for informed action",
+      "number": 8,
+      "questions": [
+        {
+          "qnum": 12,
+          "text": "Does the document provide well-sourced evidence to justify its climate targets and actions?",
+          "positive": false,
+          "answer": "The documents do not provide well-sourced evidence to justify its climate targets and actions. While the documents mention a range of actions and associated time frames to deliver on the objectives identified in the strategy, they do not provide specific evidence or sources to justify these actions or targets. The documents mention the emissions profile of the organisation and the community, the financial impacts of business as usual operations, and budget allocations and available grants for this financial year and beyond. However, these are general considerations and do not provide specific evidence to justify the climate targets and actions. The documents also mention the state, federal and global responses to climate change, but again, these are general considerations and do not provide specific evidence to justify the climate targets and actions. Therefore, the documents do not meet the high standard of evidence and specific detail required to give a positive answer to the question."
+        },
+        {
+          "qnum": 13,
+          "text": "Does the plan include specific measurable criteria to evaluate the success of its proposed actions?",
+          "positive": true,
+          "answer": "The Hunter's Hill Council's Sustainability Action Plan does indeed include specific measurable criteria to evaluate the success of its proposed actions. The plan outlines a systematic approach to monitoring and evaluation, with progress against the Action Plan, Emissions Reduction measures, and progress towards the Renewable Energy Target being key indicators. The plan is designed to be a living document, reviewed and adjusted annually to take into account new ideas, technologies, and opportunities. Furthermore, items listed in the plans will be monitored and reported on to the General Manager on a quarterly basis. This approach ensures that the plan's effectiveness can be measured and adjusted as necessary, providing a clear framework for evaluating the success of its proposed actions."
+        },
+        {
+          "qnum": 14,
+          "text": "Does the document describe plans to conduct research in the local community, to inform climate actions?",
+          "positive": true,
+          "answer": "The documents indeed describe plans to conduct research in the local community to inform climate actions. The Hunter's Hill Council's Sustainability Action Plan 2020 outlines a range of actions and associated time frames to deliver on the objectives identified in the strategy. The plan is designed to be a living document that is reviewed and adjusted annually to take into account new ideas, technologies, and opportunities for development and delivery to the community. The actions listed in the plan will be monitored and reported on a quarterly basis to the General Manager. This indicates a commitment to ongoing research and evaluation to inform their climate actions. Furthermore, the plan includes specific actions such as evaluating opportunities for EV vehicles and charging stations, conducting a trial into Food Organics with commercial businesses, and exploring opportunities for a Community Swap and Share Space. These actions suggest that the council is planning to conduct research in the local community to inform their climate actions.",
+          "quote": {
+            "content": "The plan is designed to be a living document that is reviewed and adjusted annually to take into account new ideas, technologies and opportunities for development and delivery to our community.",
+            "page": 14,
+            "source": "HuntersHill-NSW-48.pdf",
+            "search_score": 0.99
+          }
+        },
+        {
+          "qnum": 15,
+          "text": "Does the document show evidence of policy experimentation in climate action? Here we define experiments as initiatives to test technologies, policies and governance approaches on a small scale and under real world conditions. They are often referred to as pilots, initiatives, test beds, demonstration projects, and urban laboratories.",
+          "positive": true,
+          "answer": "The documents provide evidence of policy experimentation in climate action. The local government's policy outlines several initiatives that can be considered as experiments. These include the evaluation of opportunities for electric vehicles, the trial of Food Organics with commercial businesses, and the exploration of opportunities for a Community Swap and Share Space. These initiatives are designed to test technologies, policies, and governance approaches on a small scale and under real-world conditions. The policy also includes a review and adjustment process, which suggests that the results of these experiments will be used to inform future policy decisions. This approach aligns with the definition of policy experimentation, as it involves testing new ideas and adjusting policies based on the results."
+        }
+      ],
+      "score": {
+        "num_positives": 2,
+        "num_questions": 4,
+        "score": 0.5
+      }
+    },
+    {
+      "name": "Coordination, partnerships and advocacy for action",
+      "number": 9,
+      "questions": [
+        {
+          "qnum": 16,
+          "text": "Does the document show an explicit intent to advocate upward to state and national governments to support climate action?",
+          "positive": false,
+          "answer": "The documents provided do not show an explicit intent by the local government to advocate upward to state and national governments to support climate action. The documents primarily focus on the local government's own sustainability action plan, including their emissions profile, community expectations, financial impacts, budget allocations, and responses to the climate emergency. They outline various proposed actions, such as improving energy efficiency, switching to renewable energy, supporting low emissions transport, and engaging the community. However, there is no explicit mention of advocating to higher levels of government for climate action. The documents do acknowledge state, federal, and global responses to climate change, but this is more in the context of situating their own actions within a broader context, rather than a commitment to advocate for further action at these levels."
+        },
+        {
+          "qnum": 17,
+          "text": "Does the document explicitly encourage building local capacity across council, their local communities and neighbouring local councils for climate action?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly encourage building local capacity across council, their local communities, and neighbouring local councils for climate action. While the documents do outline a number of actions and initiatives related to climate change, such as joining Cities Power Partnerships, evaluating a transition to GreenPower for utilities, and Solar for Council-owned buildings, these actions do not specifically address the building of local capacity across various stakeholders. The documents also mention community engagement and feedback, but this is not the same as building capacity. Building capacity would involve actions aimed at improving the abilities, skills, and knowledge of these groups to enable them to effectively address climate change. Without explicit mention of such actions, it cannot be concluded that the policy encourages building local capacity for climate action."
+        },
+        {
+          "qnum": 18,
+          "text": "Does the document refer to specific regional associations, alliances or other partnerships related to climate?",
+          "positive": true,
+          "answer": "The document does indeed refer to specific regional associations, alliances, or other partnerships related to climate. The Hunter's Hill Council is a member and supporter of the Resilient Sydney initiative, which is a strategy for city resilience developed in 2018. This indicates that the council is actively participating in regional alliances to address climate change. Furthermore, the council is a pilot partner of the UNSW and NSW Circular program, which suggests a partnership with academic institutions for sustainable solutions. The council is also part of the Northern Sydney Regional Waste Strategy 2017 - 2021, indicating a regional collaboration to manage waste, a significant aspect of climate change mitigation. These partnerships and alliances demonstrate the council's commitment to collaborative climate action."
+        }
+      ],
+      "score": {
+        "num_positives": 1,
+        "num_questions": 3,
+        "score": 0.33
+      }
+    },
+    {
+      "name": "Equity and social justice",
+      "number": 10,
+      "questions": [
+        {
+          "qnum": 19,
+          "text": "Does the document explicitly discuss the impact of climate change on vulnerable communities?",
+          "positive": false,
+          "answer": "The provided documents do not explicitly discuss the impact of climate change on vulnerable communities in the context of 'equity and social justice'. The documents primarily focus on the local government's sustainability action plan, including emissions reduction, renewable energy commitments, and community engagement. They outline various proposed actions, such as updating the climate change risk assessment, promoting water conservation, and transitioning to low emissions transport. However, there is no specific mention or discussion of how climate change impacts vulnerable communities or any measures to address these impacts in terms of equity and social justice."
+        },
+        {
+          "qnum": 20,
+          "text": "Does the document explicitly discuss how to equitably share the benefits and opportunities of a safe climate?",
+          "positive": false,
+          "answer": "The documents provided do not explicitly discuss how to equitably share the benefits and opportunities of a safe climate in terms of 'equity and social justice'. The focus of the documents is primarily on the actions and strategies that the Hunter's Hill Council is taking to address climate change, such as reducing greenhouse gas emissions, transitioning to renewable energy, and promoting sustainability. These actions are aimed at the community as a whole and there is no specific mention of how these benefits and opportunities will be distributed equitably among different social groups. Therefore, without explicit evidence in the documents, it cannot be affirmed that the policy discusses equity and social justice in the context of climate change benefits and opportunities."
+        }
+      ],
+      "score": {
+        "num_positives": 0,
+        "num_questions": 2,
+        "score": 0
+      }
+    }
+  ],
+  "results": {
+    "num_positives": 9,
+    "num_questions": 20,
+    "attribute_score": 53.3
+  }
+}
